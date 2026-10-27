@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "resources": {
+    "cn": {
+      "resourceVersion": "2.4.101",
+      "languages": [
+        "zh-hans"
+      ]
+    },
+    "global": {
+      "resourceVersion": "1.9.54",
+      "languages": [
+        "zh-hant",
+        "en",
+        "ja",
+        "ko"
+      ]
+    }
+  }
+}
