@@ -1,0 +1,32 @@
+name: Language Downloads
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-downloads
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Package language resources
+        run: python3 .github/scripts/package_release.py . "$RUNNER_TEMP/downloads"
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          short_sha="${GITHUB_SHA:0:12}"
+          title="$(python3 -c 'import json; v=json.load(open("version.json"))["resources"]; print("CN " + v["cn"]["resourceVersion"] + " / Global " + v["global"]["resourceVersion"])')"
+          git log -1 --format=%B > "$RUNNER_TEMP/release-notes.md"
+          printf '\nEach ZIP contains its language directory, appendix, readme.md and version.json.\n' >> "$RUNNER_TEMP/release-notes.md"
+          gh release create "resources-$short_sha" "$RUNNER_TEMP/downloads/"*.zip \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "$title ($short_sha)" --notes-file "$RUNNER_TEMP/release-notes.md" --latest

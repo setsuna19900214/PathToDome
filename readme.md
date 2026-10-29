@@ -20,6 +20,11 @@
 | [en](en/)           | 英语   | Global |
 | [ko](ko/)           | 韩语   | Global |
 
+## 下载
+
+在 [Releases](https://github.com/setsuna19900214/PathToDome/releases/latest) 下载对应语言的 ZIP：`zh-hans.zip`、`zh-hant.zip`、`en.zip`、`ja.zip`、`ko.zip`。
+每个压缩包包含对应语言目录，以及公共 `附录.md`、`readme.md`、`version.json`。版本文件保留 CN 和 Global 的完整版本信息。
+
 ## 阅读说明
 
 [附录](附录.md)介绍选项标记、分支层级、主角文本差异，并提供禁闭者五语言名称对照表。
