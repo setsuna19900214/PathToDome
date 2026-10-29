@@ -2,11 +2,19 @@
 
 ### 「Eastian Fashion」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Shortly after arriving at the Bureau, Du Ruo conducts an overhaul of the interior of her room. She replaces all the furniture inside with Eastia-style pieces, complete with a valuable hardwood table for holding incense burners.
 
 - Be careful not to damage her table
 
 ### 「Aromatherapy」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 An aromatherapy program is being planned to be conducted in the hypnosis room. Upon hearing this, Du Ruo shares several incense recipes that purport to have a calming effect.
 
@@ -15,6 +23,10 @@ An aromatherapy program is being planned to be conducted in the hypnosis room. U
   The hypnotist makes samples by following Du Ruo's recipes, and the samples are surprisingly well-received.
 
 ### 「The Impression of DisCity」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You find that Du Ruo has set up a small table in the Outdoor Activity Area, on which are a few small canisters. She seems busy.
 
@@ -58,6 +70,10 @@ You find that Du Ruo has set up a small table in the Outdoor Activity Area, on w
 
 ### 「The Appeal of Calligraphy」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
+
 A large amount of smoke is detected in the hypnosis room. A fire might have broken out... Go and check it out?
 
 - Go immediately
@@ -93,6 +109,10 @@ A large amount of smoke is detected in the hypnosis room. A fire might have brok
   - Arson is prohibited at the Bureau!
 
 ### 「My Path, Alone But Not Lonely」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Since her arrival at the Bureau, you've often seen Du Ruo scribbling away in a notebook.
 
@@ -147,6 +167,10 @@ Chief: Du Ruo, what have you written in your notebook, if you don't mind me aski
   *My path, alone but not lonely.*
 
 ### 「The Lost Pouch」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 One day, shortly after you finish work, EMP comes rushing into your office, eyes brimming with tears.
 

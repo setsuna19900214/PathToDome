@@ -2,6 +2,10 @@
 
 ### 「Unstable Emotions Around」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 When McQueen was first taken in the MBCC, it caused a lot of unrest in the bureau. From staff to Sinners, she flirts with everyone she sees. Everywhere she goes, she causes a commotion, and the impact is really bad. Not until after you sternly warned her did she restrain this behavior for a bit.
 
 - But...
@@ -10,17 +14,29 @@ When McQueen was first taken in the MBCC, it caused a lot of unrest in the burea
 
 ### 「Rare Moments of Solitude」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 McQueen quietly sat by the window reading a book, the afternoon sun shining on the side of her face and the pages of the book. The scene was as beautiful as a painting.
 
 - Not disturb
 
 ### 「Special Appraiser」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Eastside Artists Alliance's art auction is about to begin, and the organizers have invited McQueen to attend as a special appraiser.
 
 - Approve
 
 ### 「Fake At First Sight」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
 
 You hear a staff member calling your name.
 
@@ -54,6 +70,10 @@ Staff: Chief, you're just in time! Come and take a look at this painting.
 
 ### 「Letter Opener」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 A lost item was detected in Training Room. Go and take a look?
@@ -81,6 +101,10 @@ A lost item was detected in Training Room. Go and take a look?
   She winks at you, collects the letter opener on the table and leaves.
 
 ### 「Klein Blue」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 You recently happen to have seen an introduction to Klein Blue, and then remembered that McQueen seems to have quite a few clothes and room decorations in that color.
 

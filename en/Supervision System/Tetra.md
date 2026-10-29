@@ -2,6 +2,10 @@
 
 ### 「Hack Attack」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 [System Notice] Warning, warning. The Bureau's network has been attacked by a hacker. Entering defense mode. Please handle it quickly.
 
 Chief: Tetra, what's the situation? Nino insisted on joining the countermeasure team. I couldn't persuade her otherwise, so I had to bring her along. I hope it won't affect you.
@@ -32,11 +36,19 @@ Chief: Tetra, what's the situation? Nino insisted on joining the countermeasure 
 
 ### 「Button Thief」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The latest rumor among Sinners is about a ghost that only steals the middle button from shirts. As expected, you find a box full of buttons in the loot pile where Tetra often hangs out.
 
 - Punish with cleaning duty, and return the items to their rightful owners
 
 ### 「Hacked」
+
+Location: Management Center
+
+Urgency: ⚠
 
 The internal database has been hacked. Tetra defends it in just fifteen minutes and locates the hacker.
 
@@ -44,11 +56,19 @@ The internal database has been hacked. Tetra defends it in just fifteen minutes 
 
 ### 「Whispering」
 
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠
+
 Tetra and Pricilla often whisper and point at you right in front of you. In reality, they are just discussing which brand of soda you prefer.
 
 - Actually, I prefer black tea.
 
 ### 「Unveiling the Mystery」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Tetra occasionally practices her hacking skills in a corner of the Training Room, but today she seems to have not moved for a long time.
 
@@ -73,6 +93,10 @@ Chief: Something special happened?
     Tetra: No matter how beautiful the skin is, once it's peeled off, all that's left is a rotten core.
 
 ### 「Lost Property」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 After a day's work, you prepare to return to your room to rest. But as you approach the door, you hear a rustling sound.
 
@@ -109,6 +133,10 @@ Chief: Who's there?!
     Tetra: Yes, yes, yes. Just don't think you've got the fox by the scruff now. After all, you're also a creature that can be snatched, Chief.
 
 ### 「Missing Prize」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Some of the gifts purchased by the logistics department for the celebration incident have been stolen. Please investigate promptly.
 
@@ -163,6 +191,10 @@ Chief: Do you have any leads on this?
     Tetra: Sure, you can do that. You're the Chief of the MBCC, after all. But, if the logistics department doesn't learn their lesson, I can't guarantee that the items won't "disappear" again.
 
 ### 「Plan Hacker」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Now, monthly update on Sinner Matilda's whereabouts: Recreation Area visits, zero; Outdoor Activity Area visits, zero...
 

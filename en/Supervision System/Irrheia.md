@@ -2,17 +2,29 @@
 
 ### 「Novelty Thrill」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Irrheia has taken up a series of extreme sports, only to lose interest in each one quickly.
 
 - Support Sinners' exploration of various hobbies
 
 ### 「Source of Inspiration」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Lurking in the shadows along well-trodden paths, Irrheia makes everyone uneasy by watching them. She insists, however, that she is only searching for story inspiration.
 
 - Ask her to be mindful of her facial expressions.
 
 ### 「Building Blocks Resurrected」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 EMP drags you to a spot where Irrheia sits, calmly reading a book.
 
@@ -39,6 +51,10 @@ EMP: Chief, it's a catastrophe! You gotta see this! Irrheia totally wrecked my l
     EMP: Waaahhhh! Chief—!!
 
 ### 「Face Blindness」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You receive an email from Irrheia.
 
@@ -69,6 +85,10 @@ Irrheia: Chief, our stock of Hallowing candies has been exhausted again. I reque
     Irrheia: A guided tour of the cast? Now that promises to be a refreshing new chapter.
 
 ### 「Doom Game」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 A weathered notebook has materialized on your desk. Its pages are a mosaic of doodles and text, offering no clue to its owner or how long it has been circulating through the Bureau.
 
@@ -115,6 +135,10 @@ A weathered notebook has materialized on your desk. Its pages are a mosaic of do
   Irrheia: Oh, you are a clever one... Just when I think I've predicted your moves, you change the rules of the board.
 
 ### 「Evil Cuisine Contest」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Approval System Notification:
 
@@ -169,6 +193,10 @@ Please refer to the attached files for detailed event schedule and participation
   Irrheia: I am certain this little contest will provide the necessary perspective for you to finally appreciate the exquisite worth of evil cuisine.
 
 ### 「Unreasonable Request」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Ever since Norma joined the Bureau, you frequently run into her around the office area.
 

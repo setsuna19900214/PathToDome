@@ -2,7 +2,15 @@
 
 ## Stargazer - Interrogation I
 
+> Intelligence before completion:
+> The MBCC summoned you to the interrogation room in a hurry and asked you to immediately start interrogating Stargazer, the Sinner that followed you back from the WhiteSands.
+> Having escaped in the end of the WhiteSands operation, why is she coming back now?
+> When you stepped into the interrogation room, you sensed that something was amiss.
+
+> Intelligence after completion:
 > Stargazer sees your fate and believes that you will die from a series of events taking place in the future. There is only one way to prevent such fate: stay by her side.
+
+### Interrogation Transcript
 
 O dazzling morning star,
 
@@ -330,10 +338,19 @@ Stargazer: Why do you fall from the sky, nine days and nights...
 
 Stargazer: The journey of confusion and uncertainty is about to begin... my little monster...
 
+> Stargazer sees your fate and believes that you will die from a series of events taking place in the future. There is only one way to prevent such fate: stay by her side.
+
 ## Stargazer - Interrogation II
 
+> Intelligence before completion:
+> You received an S.O.S. message from DisSea frontline and decided to take some police officers with you.
+> As Stargazer watched, you embarked on the so-called "journey of confusion" that she mentioned.
+
+> Intelligence after completion:
 > Stargazer's prophecies have come true one by one. You have indeed been deceived.
-> Disguised as DisSea soldiers, the Hypercube robbers knock you down and attack the Broken Frontline's shield. Stargazer saves you, but refuses to let you stop the bandits.
+> Disguised as DisSea soldiers, the Hypercube robbers knock you down and attack the Broken Frontline's shield. Stargazer saved you, but refused to let you stop the robbers.
+
+### Interrogation Transcript
 
 Below a base station outside BR-000, you put on your breathing mask. Blue dust floating by your cheeks goes in and out of the filter as you breathe. The monsters' roars coming in from a distance add to the already tense atmosphere.
 
@@ -595,10 +612,19 @@ Stargazer: The outcomes are inevitable, Chief. There's nothing you can do to cha
 
 Stargazer: Of course... you can choose to bind me with your shackles and take the helm of your own destiny.
 
+> Stargazer's prophecies have come true one by one. You have indeed been deceived.
+> Disguised as DisSea soldiers, the Hypercube robbers knock you down and attack the Broken Frontline's shield. Stargazer saves you, but refuses to let you stop the bandits.
+
 ## Stargazer - Interrogation III
 
+> Intelligence before completion:
+> You confront Stargazer once again. She keeps asserting that various dangers lurk about you and that you're going to die because of them. But you've always known your duties come with risks.
+
+> Intelligence after completion:
 > Even in the face of death, you reject Stargazer's final invitation. She seems to have finally lost interest in you, and throws you off the statue to the Corruptors.
 > Of course, you know what you want to do next.
+
+### Interrogation Transcript
 
 It's a strange sight. If it isn't for the tension between you and Stargazer, some eccentric artist must be willing to paint this scene for you.
 
@@ -844,10 +870,19 @@ As you slammed into the rotting bodies, you caught a glimpse of Stargazer's eyes
 
 They are madly purple, just like the door at the end of the path to the Realm of Truth.
 
+> Even in the face of death, you reject Stargazer's final invitation. She seems to have finally lost interest in you, and throws you off the statue to the Corruptors.
+> Of course, you know what you want to do next.
+
 ## Stargazer - Interrogation IV
 
+> Intelligence before completion:
+> With an aloof expression resembling death on her face, Stargazer watches you fall and get devoured by Corruptors, and turns to leave.
+
+> Intelligence after completion:
 > You use your pistol to break through the mass of Corruptors with all your strength. You shackle Stargazer and command her to protect you, thus breaking her prophecy.
 > Your ability to break her prophecy, as well as your body and soul, all intrigue Stargazer. Thus, she decides to stay by your side.
+
+### Interrogation Transcript
 
 The monsters instantly overwhelmed the fallen one.
 
@@ -1088,3 +1123,6 @@ Anarkia: Dragging along your false shell of a body, you seek your true soul...
 Anarkia: I must thank the Dreamflower for helping me find you... Hahahaha!
 
 Anarkia: Let me tag along by your side. I want to witness... the moment when you find the truth of this world.
+
+> You use your pistol to break through the mass of Corruptors with all your strength. You shackle Stargazer and command her to protect you, thus breaking her prophecy.
+> Your ability to break her prophecy, as well as your body and soul, all intrigue Stargazer. Thus, she decides to stay by your side.

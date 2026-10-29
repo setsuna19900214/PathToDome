@@ -2,6 +2,10 @@
 
 ### 「Summer Stringy Special」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Summer gave you a bag of speciality coffee from her latest research, and you were awake for an entire night after drinking it.
 
 - Nice coffee.
@@ -10,6 +14,10 @@ Summer gave you a bag of speciality coffee from her latest research, and you wer
 
 ### 「Mysterious Hacker」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Supervision Center was hacked but no information was leaked. On the contrary, the hacker optimized the internal code structure. The technical department discovered a string of mysterious codes in the database. After decoding the string, it was revealed as a picture of chocolate.
 
 - Buy some chocolate
@@ -17,6 +25,10 @@ The Supervision Center was hacked but no information was leaked. On the contrary
   Shortly after that, you discovered a smiley face on the Supervision Center's display screen.
 
 ### 「Machine Intrusion」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Warning. Warning. An unknown machine has broken in. Security program has been launched to destroy it. View incident report?
 
@@ -72,6 +84,10 @@ The Supervision Center was hacked but no information was leaked. On the contrary
 
 ### 「A Dangerous Invention」
 
+Location: Energy Furnace
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 The Energy Furnace's production capacity has grown significantly. Go and check?
@@ -105,6 +121,10 @@ The Energy Furnace's production capacity has grown significantly. Go and check?
           Chief: I prefer to choose to stay alive with my actions...
 
 ### 「Time Machine」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Rumors about Summer researching a time machine are circulating in the Bureau.
 
@@ -143,6 +163,10 @@ Rumors about Summer researching a time machine are circulating in the Bureau.
   A few months later, rumors begin spreading in the Bureau that Summer has successfully built a time machine but you've hidden it away.
 
 ### 「Scriptwriting Contest」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Summer is concentrating on writing something with a pen and paper.
 
@@ -215,6 +239,10 @@ Summer is concentrating on writing something with a pen and paper.
       A few months later, Summer receives a response from the organizer. As expected, her script didn't win any awards...
 
 ### 「Special Photo」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Several Sinners gather to exchange photos from their school days.
 

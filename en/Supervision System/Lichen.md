@@ -2,17 +2,29 @@
 
 ### 「Snack Supply」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Every time you run into Lichen, you end up with a few snacks. You usually get apples and oranges, but sometimes it'll be nuts and preserved fruits carefully wrapped in little red pouches.
 
 - These aren't... ritual offerings, are they...?
 
 ### 「Divine Will」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 You notice that whenever Lichen appears in the elevator lobby, the other Sinners automatically line up behind her. The elevator she chooses is always the first to arrive.
 
 - This is divine will.
 
 ### 「Astrology Platform」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Lichen seeks you out and formally requests permission to use the Bureau's Astrology Platform.
 
@@ -42,6 +54,10 @@ Lichen: Young friend... from a recent divination, I saw that your fate is obscur
 
 ### 「Eastian Mysticism Research」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Once again, you head to the research department to assist Bureau researchers with the project "The Scientific Basis of Eastian Mysticism."
 
 Upon entering, you find the researchers gathering around a replica of the Imperial Bell, visibly vexed.
@@ -65,6 +81,10 @@ Upon entering, you find the researchers gathering around a replica of the Imperi
     Lichen: Perhaps science and mysticism... share the same origin after all... For which of the two is true and an illusion, only the heavens may know.
 
 ### 「Five-in-a-row with Skills」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 A bizarre trend has swept through the Bureau lately.
 
@@ -117,6 +137,10 @@ Sinner B: What?! Then I'll use Mountain Mover to reset the game! I'm black, so I
   Lichen: The art of exchanging turns can only be used at the opening. Young friend, you shall find that this next game is not so easy...
 
 ### 「Daily Divination」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You notice that lately, Sinners have developed the habit of seeking out Lichen for a divination first thing after waking up.
 

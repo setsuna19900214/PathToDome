@@ -2,11 +2,19 @@
 
 ### 「Destroyer」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 Wendy destroyed the surveillance equipment in the Confinement Cell, again. The video footage's last frame showed a chainsaw.
 
 - ...Settle the compensation.
 
 ### 「A Weapon's Special Use」
+
+Location: Greenhouse
+
+Urgency: ⚠
 
 The gardeners working at the Bureau borrowed Wendy's chainsaw to chop down trees. They said it was more effective than an ax.
 
@@ -20,6 +28,10 @@ The gardeners working at the Bureau borrowed Wendy's chainsaw to chop down trees
 
 ### 「Ringtone」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Some other Sinners recorded Wendy's laughter and set it as their phone ringtone.
 
 - ...
@@ -27,6 +39,10 @@ Some other Sinners recorded Wendy's laughter and set it as their phone ringtone.
   Chief: I think it fits better as an alarm.
 
 ### 「Too Much and Outrageous」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Guided by the chef, you found Wendy.
 
@@ -56,6 +72,10 @@ Chief: Every time you went into the kitchen, we end up replacing all the equipme
 
 ### 「Movie Rights」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
+
 Someone wants to shoot a horror movie based on the *Chainsaw Maniac of the Rust* and hopes to get permission from Wendy.
 
 - Ask for Wendy's opinion
@@ -79,6 +99,10 @@ Someone wants to shoot a horror movie based on the *Chainsaw Maniac of the Rust*
     You finally calm down Wendy who's gone hysterical, but no one ever has the idea of making a movie based on Wendy since.
 
 ### 「No Tolerance」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Wendy the Sinner sent you a request.
 

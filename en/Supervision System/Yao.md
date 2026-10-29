@@ -2,6 +2,10 @@
 
 ### 「Unsalable Fuel」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You notice that Faye has been doing sales promotions offering discounts on portable stoves and solid fuels. This is a departure from her usual business practices. Upon inquiry, it becomes clear that this change has been prompted by Yao's arrival. The lovers of hot pots and barbecues among the Sinners have developed a habit of asking Yao for fire, and Faye's merchandise has lost favor with them.
 
 - It's not that they can't afford them.
@@ -10,11 +14,19 @@ You notice that Faye has been doing sales promotions offering discounts on porta
 
 ### 「A Dilemma」
 
+Location: Secret Chamber
+
+Urgency: ⚠
+
 Upon learning of the club where Sinners gather at night to share ghost stories, Yao asks to join. Her first appearance, however, leaves the organizer in a dilemma. The consensus is that Yao's stories are engaging, but her mere presence renders the surroundings as bright as day and ruins the spooky atmosphere.
 
 - How about I have a light-blocking cloak made for you?
 
 ### 「Mysterious Fires」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 The comprehensive report on this month's fire alerts and their handling has been sent. Please check it promptly.
 
@@ -50,6 +62,10 @@ Chief: Hmm, why were there so many fire alerts this month? All were small fires.
 
 ### 「An Unlikely Savior」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 While perusing the Sinners' behavior analysis report today as a matter of routine, you find that the places Yao has frequented this month differ from those in the previous months.
 
 Chief: Why has she suddenly taken a liking to the greenhouse? She used to avoid it, worried about her effect on the growth of plants.
@@ -81,6 +97,10 @@ Chief: Why has she suddenly taken a liking to the greenhouse? She used to avoid 
     Chief: I see... Yao, I guess you don't have to give the greenhouse a wide berth anymore, right? You can come here more often to relax.
 
 ### 「Gift Exchange」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 The Bureau's annual party is just around the corner, but Yao seems clueless about the party and its gift exchange segment.
 
@@ -138,6 +158,10 @@ Chief: The word *exchange* may be misleading. It's more like a prize draw, due t
 
 ### 「Special Training」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Due to a sudden surge in strength upon reaching adulthood, Yao, despite the fact that she already trained in fire manipulation in her youth, has to remain at the Bureau for another private training session.
 
 Chief: That silhouette... Yao? You've hardly seen her lately. Has she finished her special training?
@@ -193,6 +217,10 @@ Chief: Good evening, Yao! Are you here in the cafeteria for some late-night snac
   Chief: It *is* awe-inspiring and soul-stirring to witness the birth of a new life. I still remember the exhilaration I felt when I witnessed your rebirth...
 
 ### 「Tea by the Hearth」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You're burning the midnight oil when Jichuan and Yao show up at your office.
 

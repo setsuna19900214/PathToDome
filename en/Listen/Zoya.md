@@ -240,35 +240,19 @@ Zoya: The lone wolf may die, but the pack lives on...
 
 #### Interaction 1
 
-Zoya: It's no sign of danger. It only means acceptance, for both me and you.
+It's no sign of danger. It only means acceptance, for both me and you.
 
-Zoya: Accepted... us?
+Accepted... us?
 
-Zoya: Only packs acknowledged by the blood moon can safely stand beneath its light.
+Only packs acknowledged by the blood moon can safely stand beneath its light.
 
-Zoya: I've earned its recognition. It lets me rule these snow plains. And I... have chosen you... So... you'll be safe.
-
-Zoya: It's no sign of danger. It only means acceptance, for both me and you.
-
-Zoya: Accepted... us?
-
-Zoya: Only packs acknowledged by the blood moon can safely stand beneath its light.
-
-Zoya: I've earned its recognition. It lets me rule these snow plains. And I... have chosen you... So... you'll be safe.
+I've earned its recognition. It lets me rule these snow plains. And I... have chosen you... So... you'll be safe.
 
 #### Interaction 2
 
 Zoya: Seems like you've taken a liking to this one.
 
-Zoya: Who exactly are you talking to?
-
-Zoya: I know *this person* is wonderful, but right now this time is just for the two of us.
-
-Zoya: So, be good for me.
-
-Zoya: Seems like you've taken a liking to this one.
-
-Zoya: Who exactly are you talking to?
+Chief: Who exactly are you talking to?
 
 Zoya: I know *this person* is wonderful, but right now this time is just for the two of us.
 
@@ -282,35 +266,17 @@ Zoya: Heh, grown nimble, haven't you? It seems... you're getting stronger by the
 
 Zoya: Don't worry, at the end of the ritual, I'll put the other half of the necklace on you. Be patient, for now.
 
-Zoya: Where're you looking at? Over here!
-
-Zoya: Heh, grown nimble, haven't you? It seems... you're getting stronger by the day.
-
-Zoya: Don't worry, at the end of the ritual, I'll put the other half of the necklace on you. Be patient, for now.
-
 #### Interaction 4
 
 Zoya: Where are you going?
 
-Zoya: Just a bit further back.
-
-Zoya: You bring hope to these snow plains too. You're formidable enough.
-
-Zoya: So, you fully deserve to stand here by my side.
-
-Zoya: Where are you going?
-
-Zoya: Just a bit further back.
+Chief: Just a bit further back.
 
 Zoya: You bring hope to these snow plains too. You're formidable enough.
 
 Zoya: So, you fully deserve to stand here by my side.
 
 #### Interaction 5
-
-Zoya: I, and the one I've chosen, take this oath together.
-
-Zoya: I shall always maintain peace in these snow plains, treat equally every life that comes here, and should death eventually find me, I shall pass on the spirit of these lands to those who follow.
 
 Zoya: I, and the one I've chosen, take this oath together.
 

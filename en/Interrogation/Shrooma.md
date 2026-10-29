@@ -2,8 +2,15 @@
 
 ## Shrooma - Interrogation I
 
+> Intelligence before completion:
+> The Elysiland incident wasn't resolved perfectly, but you haven't forgotten to go and get that little Sinner who hasn't *finished her summer assignments*—under the guise of a summer camp instructor. The good news is, the bright kid is very cooperative.
+> But there's no lack of bad news. Her family claims that she needs to attend a family dinner and keeps harassing you over that. Meanwhile, Shrooma in the Bureau refuses to be bailed out.
+
+> Intelligence after completion:
 > Pressured by both sides, you have a discussion with Shrooma and realize her oppressive family environment has caused her immense stress, explaining why she's chosen to vent her feelings online.
 > To uncover the true reason and solve the issue, you decide to pose as her teacher and accompany her to the banquet to evaluate whether she should stay in the Bureau.
+
+### Interrogation Transcript
 
 The late-night office is silent with only the gentle hum of the air conditioner, a sharp contrast to the piercing male voice on the other end of the call.
 
@@ -245,9 +252,18 @@ Shrooma: ...I see.
 
 You take a mental note of this sophistication beyond her age, adding it to the list of mysteries about Shrooma you need to solve.
 
+> Pressured by both sides, you have a discussion with Shrooma and realize her oppressive family environment has caused her immense stress, explaining why she's chosen to vent her feelings online.
+> To uncover the true reason and solve the issue, you decide to pose as her teacher and accompany her to the banquet to evaluate whether she should stay in the Bureau.
+
 ## Shrooma - Interrogation II
 
+> Intelligence before completion:
+> You pose as Shrooma's teacher and take her to the dinner, joining her in this hypocritical banquet disguised as a social occasion of the elites, getting a taste of being surrounded by her family firsthand.
+
+> Intelligence after completion:
 > At the banquet, you experience firsthand the oppressive nature of Shrooma's family and understand the source of her fear and distrust. Coincidentally, you sense from Shrooma's cousin there is a bigger secret hidden behind this family and Shrooma.
+
+### Interrogation Transcript
 
 Shrooma: Oh, Mrs. Ritz, long time no see. I've tried the cookie recipe you taught me last time. It's really amazing...
 
@@ -503,9 +519,17 @@ She turns around and runs toward the banquet hall. You consider running after he
 
 You turn your head and see the hem of a delicate and luxurious dress peeking out from the shadows.
 
+> At the banquet, you experience firsthand the oppressive nature of Shrooma's family and understand the source of her fear and distrust. Coincidentally, you sense from Shrooma's cousin there is a bigger secret hidden behind this family and Shrooma.
+
 ## Shrooma - Interrogation III
 
+> Intelligence before completion:
+> Back at the Bureau, Shrooma completely drops her disguise in front of you. That secret carefully guarded by Shrooma and her family finally comes to light.
+
+> Intelligence after completion:
 > Shrooma wasn't born to be a perpetrator as she thinks. The love and testimony found in unexpected places rescue Shrooma from the oppression, sketching a bright future for her.
+
+### Interrogation Transcript
 
 From behind the slightly open door comes the sound of dragging footsteps. Shrooma pushes the door open and shuffles in with her rubber clogs, standing nonchalantly in front of you.
 
@@ -782,3 +806,5 @@ Nightingale: But her wording sounds much milder and she doesn't post as often as
 Chief: ...Hmm, I guess she needs an outlet after all.
 
 Chief: Just let her be. She always comes up with some fancy thoughts. It's cute, isn't it?
+
+> Shrooma wasn't born to be a perpetrator as she thinks. The love and testimony found in unexpected places rescue Shrooma from the oppression, sketching a bright future for her.

@@ -2,8 +2,15 @@
 
 ## Dolly - Interrogation I
 
+> Intelligence before completion:
+> While carrying out a task with you in Eastside, Sinner Dolly suddenly broke free from the shackles' control and started attacking you.
+> Fortunately, she didn't completely lose control. Soon, under the influence of the shackles, she regained her mind.
+
+> Intelligence after completion:
 > You are certain that Dolly's case isn't just an accident. She could never break free of your Shackles if she simply lost control of her emotions.
 > All of the truth will be revealed at the Rust in three days.
+
+### Interrogation Transcript
 
 Chief: Explain yourself. Why did you do that?
 
@@ -389,10 +396,19 @@ Dolly: You're just an MBCC Chief... Just a Chief!
 
 You leave the interrogation room with Dolly gritting her teeth in her seat.
 
+> You are certain that Dolly's case isn't just an accident. She could never break free of your Shackles if she simply lost control of her emotions.
+> All of the truth will be revealed at the Rust in three days.
+
 ## Dolly - Interrogation II
 
+> Intelligence before completion:
+> Tasked with a special task from the MBCC, you arrived at the door to Dolly's confinement cell.
+
+> Intelligence after completion:
 > Your theory is completely correct. Her emotions weren't the only reason that unleashed her power. That baseball bat played a more important role.
 > After learning the truth, Dolly seems downed and spiritless because she can never play another baseball game ever again.
+
+### Interrogation Transcript
 
 Nightingale: Dolly the Sinner, are you awake?
 
@@ -766,11 +782,20 @@ After hanging up, you shoot a glance at Dolly in the back seat, and at the baseb
 
 Perhaps, there's still a chance.
 
+> Your theory is completely correct. Her emotions weren't the only reason that unleashed her power. That baseball bat played a more important role.
+> After learning the truth, Dolly seems downed and spiritless because she can never play another baseball game ever again.
+
 ## Dolly - Interrogation III
 
+> Intelligence before completion:
+> Having finished the task, you board a vehicle and are ready to take Dolly back to the MBCC. It was then that Nightingale patched herself through the emergency communication channel of your car.
+
+> Intelligence after completion:
 > After several years, Dolly is back in Eastside's baseball field. There's no one to cheer for her.
 > But she looks happy all the same.
 > That is because this isn't just a baseball field. It is also the arena where she belongs.
+
+### Interrogation Transcript
 
 You drive all the way to Eastside while Dolly sleep-talks on the way.
 
@@ -1061,3 +1086,7 @@ After all, I'll have proved myself. And I'll have done my best in this stadium.
 Alright, I guess that's it for now.
 
 I gotta leave early for Eastside. It's so big there, you don't wanna get lost.
+
+> After several years, Dolly is back in Eastside's baseball field. There's no one to cheer for her.
+> But she looks happy all the same.
+> That is because this isn't just a baseball field. It is also the arena where she belongs.

@@ -2,6 +2,10 @@
 
 ### 「Professional Discussion」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Enfer and Macchiato seem to be discussing something super seriously. When you pass by, you seem to hear something about "rope skills".
 
 - I don't really understand what they're talking about.
@@ -10,6 +14,10 @@ Enfer and Macchiato seem to be discussing something super seriously. When you pa
 
 ### 「Heart-shaped Charm」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 You're wearing your new heart-shaped charm, and a lot of people have come to ask you where they can buy ones with the same style.
 
 - Answer
@@ -17,6 +25,10 @@ You're wearing your new heart-shaped charm, and a lot of people have come to ask
   Chief: It's not bought, it's made by Enfer herself.
 
 ### 「Beauty of Imperfection」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -56,6 +68,10 @@ Serious damages to Training Room walls detected. Go and check?
 
 ### 「Commentary of Oil Painting」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 With nothing much to do, you are sitting on the sofa in the entertainment area, flipping through a book of famous oil paintings, and Enfer, who happens to be passing by holding a box of painting materials, says hello to you.
 
 Enfer: Chief, What are you looking at?
@@ -85,6 +101,10 @@ Enfer's explanation is much more lively and interesting than the book's introduc
   Enfer: If you like it, I will tell you more next time.
 
 ### 「Losing Control」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Supervision Center:
 
@@ -139,6 +159,10 @@ An expedited message from the hypnotist. Please check.
     Chief: Enfer, things are not the same as it used to be. You don't have to keep everything inside yourself and carry everything on your own anymore. I'm always there for you.
 
 ### 「New Try」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Enfer: Chief!
 

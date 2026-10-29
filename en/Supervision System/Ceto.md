@@ -2,6 +2,10 @@
 
 ### 「Self-Requested Confinement」
 
+Location: Management Center
+
+Urgency: ⚠
+
 [System Notice] Supervision System:
 
 Sinner Ceto requests to enter the Confinement Cell. Approve? Reason for request: Her neighbor is too noisy, and she doesn't want to go to other crowded areas. Upon verification, EMP, who lives next door, has invited several Sinners over to play cards.
@@ -10,11 +14,19 @@ Sinner Ceto requests to enter the Confinement Cell. Approve? Reason for request:
 
 ### 「Novelty」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Today, the new VR pre-Nightfall beach was unveiled in the Outdoor Activity Area, and the usually reclusive Ceto makes a rare appearance! The crowd is more interested in Ceto's presence than the novel environment, gathering around her and speculating. Furious, Ceto curses out the onlookers before storming off.
 
 - Grant Ceto night access privileges
 
 ### 「Survival Seminar」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 The Bureau arranges for Ceto to conduct a survival seminar, promising not to bother her for a month after its completion. The seminar turns out to be quite unconventional.
 
@@ -48,6 +60,10 @@ Chief: The department in charge has set a minimum duration for the seminar. I'm 
 
 ### 「White Lie」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Ceto finds herself surrounded by little Sinners. Surprisingly, the reclusive lighthouse keeper is quite popular among kids.
 
 You observe Ceto's reactions with great interest.
@@ -79,6 +95,10 @@ Chief: Sand, a lighthouse, seabirds... Sounds nice.
   Ceto: So what? Don't want more trouble in my life. It's annoying enough to deal with you alone.
 
 ### 「The Old Man and the Sea」
+
+Location: Darkroom
+
+Urgency: ⚠⚠⚠
 
 Ceto seems entranced by a film. On screen, towering waves merge with the night, the pitch black pressing against a grayish fishing boat that seems on the verge of destruction. An emaciated old man stands ramrod straight on the deck.
 
@@ -119,6 +139,10 @@ Ceto seems entranced by a film. On screen, towering waves merge with the night, 
   Ceto: He shouldn't have a successor. Loneliness isn't something that needs to be passed down.
 
 ### 「Seabirds」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Ceto is curled up in a corner, holding a pocket-sized comic book in her hands. She motions for you to come over.
 

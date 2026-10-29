@@ -2,8 +2,14 @@
 
 ## Xiaofeng - Interrogation I
 
+> Intelligence before completion:
+> After the Northsnow Manor incident, you return to DisCity and begin enjoying a rare period of peace. That is, until the West District Reconstruction Committee sends a request for help—they want you to head to Syndicate and apprehend an elusive fugitive.
+
+> Intelligence after completion:
 > As expected, Xiaofeng is the dangerous individual who illegally crossed over from Eastia. You attempt to capture her with a trap as she roams Syndicate, but all you manage to catch is her white tiger.
 > Xiaofeng suddenly descends from above and abducts you. She traveled all this way to DisCity with a single objective in mind: to have you show her around and for both of you to have a fun time together.
+
+### Interrogation Transcript
 
 Somewhere in the mountains of Eastia, a small group of villagers was climbing upward along a narrow path.
 
@@ -261,10 +267,19 @@ Another sudden leap into the air. Xiaofeng spins you around into a different pos
 
 Xiaofeng: Hah! Change of plans. I'm here, you're here, so show me around!
 
+> As expected, Xiaofeng is the dangerous individual who illegally crossed over from Eastia. You attempt to capture her with a trap as she roams Syndicate, but all you manage to catch is her white tiger.
+> Xiaofeng suddenly descends from above and abducts you. She traveled all this way to DisCity with a single objective in mind: to have you show her around and for both of you to have a fun time together.
+
 ## Xiaofeng - Interrogation II
 
+> Intelligence before completion:
+> Now held hostage, you can only pretend to go along with Xiaofeng for the time being while searching for an opportunity to escape. However, Xiaofeng's idea of "fun" seems to far exceed anything you anticipated...
+
+> Intelligence after completion:
 > Xiaofeng drags you around Syndicate, rampaging through the district and stirring up trouble everywhere. While concealing your identity, you observe this Eastian Sinner. She acts recklessly, yet displays a feral keenness and cunning. To Xiaofeng, all this chaos is merely trivial entertainment.
 > And so, using "fun" as a pretext, you invite Xiaofeng to visit the next attraction, the interrogation room at the MBCC.
+
+### Interrogation Transcript
 
 All she sees is darkness. In her ears, a constant buzzing drones on, thin and persistent as a cloud of mosquitoes. She tries to swat it away, but the weight holds her down. Her body is impossibly heavy, her arms leaden and useless.
 
@@ -662,10 +677,19 @@ Xiaofeng: ...Huh. And here I was wondering what you had in mind...
 
 Xiaofeng: So this is what you call more thrilling?
 
+> Xiaofeng drags you around Syndicate, rampaging through the district and stirring up trouble everywhere. While concealing your identity, you observe this Eastian Sinner. She acts recklessly, yet displays a feral keenness and cunning. To Xiaofeng, all this chaos is merely trivial entertainment.
+> And so, using "fun" as a pretext, you invite Xiaofeng to visit the next attraction, the interrogation room at the MBCC.
+
 ## Xiaofeng - Interrogation III
 
+> Intelligence before completion:
+> Using the excuse of sightseeing, you finally bring Xiaofeng back to the MBCC. But clearly, Xiaofeng is far from pleased with this particular stop on your tour...
+
+> Intelligence after completion:
 > Xiaofeng previously considered you as a kindred spirit, but now she's disappointed by your "weakness." Human rules cannot bind Xiaofeng, nor can the shackles restrain her actions.
 > The White Tiger Mountain Lord is said to protect the mortal realm, but... what if the one dwelling on White Tiger Mountain was never a deity to begin with, but rather a monster raised by a wild tiger? How should you approach her now?
+
+### Interrogation Transcript
 
 The interrogation room's lights hang dim and cold, cutting through the space like a dull blade and carving it into stark halves of shadow and glare. You and Xiaofeng sit across from each other, separated by mere inches of table, though it might as well be worlds.
 
@@ -913,11 +937,20 @@ Chief: You'll stay at the Bureau until then. If... whenever you feel like talkin
 
 Xiaofeng's ears twitch, but she says nothing and walks out of the interrogation room without looking back.
 
+> Xiaofeng previously considered you as a kindred spirit, but now she's disappointed by your "weakness." Human rules cannot bind Xiaofeng, nor can the shackles restrain her actions.
+> The White Tiger Mountain Lord is said to protect the mortal realm, but... what if the one dwelling on White Tiger Mountain was never a deity to begin with, but rather a monster raised by a wild tiger? How should you approach her now?
+
 ## Xiaofeng - Interrogation IV
 
+> Intelligence before completion:
+> Before the ship returning to Eastia sets sail, Xiaofeng will be staying at the MBCC for a while.
+
+> Intelligence after completion:
 > The child raised by the white tiger has ultimately become the mountain lord, who is said to protect the land.
 > Is she driven by duty or sentiment? Should she be judged by her deeds or her purpose? She does not care, and she still keeps company with the beasts. Yet the red strings of prayers flutter in the wind, ensuring the safe return of countless souls who venture up the mountain.
 > Her roar echoes across the peaks for those who pray. The mountain lord guards all who dwell below, where the winds reach.
+
+### Interrogation Transcript
 
 From that day onward, the young girl visited the injured child each time she ascended the mountain to forage for herbs.
 
@@ -1308,3 +1341,7 @@ She still would not say she liked humans, nor did she wish to play the benevolen
 The woman raised her hand and lifted back her cloak. Born and raised by white tigers, she had no name. But since she was entering the mortal world, she might as well do as mortals did—
 
 Xiaofeng: Just call me Xiaofeng.
+
+> The child raised by the white tiger has ultimately become the mountain lord, who is said to protect the land.
+> Is she driven by duty or sentiment? Should she be judged by her deeds or her purpose? She does not care, and she still keeps company with the beasts. Yet the red strings of prayers flutter in the wind, ensuring the safe return of countless souls who venture up the mountain.
+> Her roar echoes across the peaks for those who pray. The mountain lord guards all who dwell below, where the winds reach.

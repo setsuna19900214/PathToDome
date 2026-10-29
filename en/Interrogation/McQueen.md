@@ -2,8 +2,14 @@
 
 ## McQueen - Interrogation I
 
+> Intelligence before completion:
+> A mysterious Sinner who has appeared in the underground garage of Belphegor art museum and claims to be an art dealer, but has been cultivating an art forgery career for years... McQueen seems surprisingly upfront about these rumors concerning herself.
+
+> Intelligence after completion:
 > McQueen comes clean about her past and purposes, but denies that she still has a dream of art, as if she really enjoys her current state of lingering about the edge of chaos.
 > Is the reality as bad as she describes? Perhaps you'll find an answer in this invitation.
+
+### Interrogation Transcript
 
 The main lights in the interrogation room are off. Still, you sense that the person you're about to interrogate is at home.
 
@@ -289,10 +295,20 @@ Before stepping out of the interrogation room, she turns around abruptly and rai
 
 McQueen: Just so you know, you can never take off the dark gloves once you've put them on.
 
+> McQueen comes clean about her past and purposes, but denies that she still has a dream of art, as if she really enjoys her current state of lingering about the edge of chaos.
+> Is the reality as bad as she describes? Perhaps you'll find an answer in this invitation.
+
 ## McQueen - Interrogation II
 
+> Intelligence before completion:
+> You disguise as one of the guests at the auction.
+> As the host, McQueen is about to unveil this gripping drama revealing the truth of Eastside's art circle for you.
+
+> Intelligence after completion:
 > The painters who break their own wings for fame and wealth. The buyers who lose their sanity for elusive lies... McQueen has successfully proved the absurdity of Eastside's art circle, but she doesn't seem to want to stop there.
 > The maniacal farce is still going on.
+
+### Interrogation Transcript
 
 Exuberant colors, bright light, clinking glasses... You have had no idea what an upmarket auction looks like until you're in one now.
 
@@ -556,11 +572,20 @@ McQueen: A one-of-a-kind painting in flames... Now, we'd like to start this bidd
 
 McQueen: 300 million DisCoins!
 
+> The painters who break their own wings for fame and wealth. The buyers who lose their sanity for elusive lies... McQueen has successfully proved the absurdity of Eastside's art circle, but she doesn't seem to want to stop there.
+> The maniacal farce is still going on.
+
 ## McQueen - Interrogation III
 
+> Intelligence before completion:
+> Incited by McQueen, the M-value in the entire venue keeps rising. You must think of a way to stop this chaos and not shy away from desperate measures if the situation calls for them.
+
+> Intelligence after completion:
 > McQueen has promptly agreed not to lure other painters into giving up their dreams again, but later investigations show that her firm in Eastside has not completely ceased its operations.
 > The last sentence she said when she left the interrogation room seems to have already explained her later decisions.
 > Vain, chaotic, and fickle... That is the real McQueen. That is how Eastside's high society functions.
+
+### Interrogation Transcript
 
 Participant A: 330 million!
 
@@ -851,3 +876,7 @@ Chief: *Her paintings will appear in the main exhibition hall of the art museum.
 McQueen: How I wish...
 
 McQueen: That Jennie hadn't met McQueen back then, but someone else.
+
+> McQueen has promptly agreed not to lure other painters into giving up their dreams again, but later investigations show that her firm in Eastside has not completely ceased its operations.
+> The last sentence she said when she left the interrogation room seems to have already explained her later decisions.
+> Vain, chaotic, and fickle... That is the real McQueen. That is how Eastside's high society functions.

@@ -2,8 +2,15 @@
 
 ## Moore - Interrogation I
 
+> Intelligence before completion:
+> Since early N.F. 114, the turmoil in West District has subsided, and the dark web became the primary threat to DisCity. It wasn't until the MBCC and the Nirvana Cybersecurity Center intervened that the attacks from the dark web began to subside.
+> However, even though the dark web has been quiet in the past two months, you still have a strong sense of foreboding and request a comprehensive investigation. In recognition of your consistent contributions, the higher-ups approve the operation and dispatch a senior cybersecurity expert to assist you.
+
+> Intelligence after completion:
 > Moore's arrival marks an uncertain beginning. The comprehensive investigation into the dark web has finally launched.
 > However, the 9th Agency's "interest" in Moore remains a matter to be cautious about.
+
+### Interrogation Transcript
 
 Nine months have passed since the end of the series of conflicts in West District.
 
@@ -419,10 +426,20 @@ Before you finish, you recall the 9th Agency's suspicion and how Moore seemed to
 
 Chief: ...Let's keep our eyes peeled and find out whose side she's really on with this operation. That way we'll have something for the 9th Agency.
 
+> Moore's arrival marks an uncertain beginning. The comprehensive investigation into the dark web has finally launched.
+> However, the 9th Agency's "interest" in Moore remains a matter to be cautious about.
+
 ## Moore - Interrogation II
 
+> Intelligence before completion:
+> It has been a week since Moore was dispatched to the Bureau to help you investigate the dark web. You two unearth a lot of new intel and formulate an action plan.
+> Today, the MBCC will hold a conference. With the support of the 9th Agency and Paradeisos, you convene various DisCity departments to deliver your briefing. The purpose is to share intelligence about the dark web, and to call out a joint action under the MBCC's guidance.
+
+> Intelligence after completion:
 > A week of interaction has let you know about Moore. Yet there are still some discrepancies that hold your trust in her.
 > Moore leads you to a sanatorium in Eastside. You hope the "truth" here can resolve your doubts.
+
+### Interrogation Transcript
 
 █/█
 
@@ -736,10 +753,19 @@ Eastside Sunshine Nursing Home
 
 Through the glass window of the ward, you see an elderly person with white hair muttering incessantly with a vacant look.
 
+> A week of interaction has let you know about Moore. Yet there are still some discrepancies that hold your trust in her.
+> Moore leads you to a sanatorium in Eastside. You hope the "truth" here can resolve your doubts.
+
 ## Moore - Interrogation III
 
+> Intelligence before completion:
+> At a sanatorium in Eastside, you meet an elderly stranger.
+
+> Intelligence after completion:
 > You have already learned why Moore's being fixated on the dark web with a compelling reason. Likewise, you continue to investigate the dark web to prevent such tragedies from recurring.
 > However, before giving Moore your complete trust, there is still one more thing you need to do.
+
+### Interrogation Transcript
 
 Old Woman: Don't be mad... He's just looking out for you...
 
@@ -1115,10 +1141,20 @@ Moore takes it and responds with a warm smile.
 
 Moore: Thank you, Chief.
 
+> You have already learned why Moore's being fixated on the dark web with a compelling reason. Likewise, you continue to investigate the dark web to prevent such tragedies from recurring.
+> However, before giving Moore your complete trust, there is still one more thing you need to do.
+
 ## Moore - Interrogation IV
 
+> Intelligence before completion:
+> Granny Henie's surgery is about to begin.
+> But can the darkness and nightmares truly end?
+
+> Intelligence after completion:
 > The dust has settled.
 > If the right family had appeared earlier, would the ending have been different?
+
+### Interrogation Transcript
 
 In the evening, at the cafe on the street corner, the woman puts down her coffee cup and starts scrolling on the device.
 
@@ -1463,3 +1499,6 @@ And that *murder command* you intercepted back then... was somewhat different fr
 It couldn't even be called a command, for it was just a simple, plain message:
 
 Have a sweet dream, Granny Henie
+
+> The dust has settled.
+> If the right family had appeared earlier, would the ending have been different?

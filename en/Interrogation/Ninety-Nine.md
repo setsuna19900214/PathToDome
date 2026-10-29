@@ -2,8 +2,15 @@
 
 ## Ninety-Nine - Interrogation I
 
+> Intelligence before completion:
+> Ninety-Nine the Sinner turns herself in to the MBCC.
+> Though she is considered a high-risk Sinner, you interrogate her all the same.
+
+> Intelligence after completion:
 > It turns out Ninety-Nine surrendered for a reason, after all.
 > During the interrogation, Ninety-Nine went manic unexpectedly, forcing the FAC to lock her in the most heavily guarded confinement room.
+
+### Interrogation Transcript
 
 Warning lights flash intermittently along the corridor leading to the interrogation room.
 
@@ -401,10 +408,20 @@ Ninety-Nine: Your shackles have imprisoned her.
 
 Ninety-Nine: I've no choice but to kill you.
 
+> It turns out Ninety-Nine surrendered for a reason, after all.
+> During the interrogation, Ninety-Nine went manic unexpectedly, forcing the FAC to lock her in the most heavily guarded confinement room.
+
 ## Ninety-Nine - Interrogation II
 
+> Intelligence before completion:
+> The contamination has gone too far for Ninety-Nine. You wish to prevent Ninety-Nine from mutating any further.
+> Facing the restraining order, you have no choice but to ask Hella to awaken Ninety-Nine in your stead.
+
+> Intelligence after completion:
 > Your Shackles cannot prevent Ninety-Nine's corruption from mutating and it will affect your mind if you force it.
 > Also, Hella and Ninety-Nine had a quarrel and parted ways. You couldn't do anything but watch as the FAC took Ninety-Nine into custody.
+
+### Interrogation Transcript
 
 The impound deadline is fast approaching. You try to halt Ninety-Nine's mutation with the shackles every day, but to little effect.
 
@@ -730,10 +747,20 @@ Chief: None of this matters now. She's aiming to free Ninety-Nine. If Ninety-Nin
 
 Chief: Nightingale, we must depart immediately!
 
+> Your Shackles cannot prevent Ninety-Nine's corruption from mutating and it will affect your mind if you force it.
+> Also, Hella and Ninety-Nine had a quarrel and parted ways. You couldn't do anything but watch as the FAC took Ninety-Nine into custody.
+
 ## Ninety-Nine - Interrogation III
 
+> Intelligence before completion:
+> Having found out that Hella escaped prison and the transport escorting Ninety-Nine has been hijacked, you and the other FAC personnel arrive at the scene.
+> Hella is exhausted. You are the only one left who can stop the frenzied Ninety-Nine.
+
+> Intelligence after completion:
 > Your Shackles hold down Ninety-Nine. Her mind is a collapsing mess, which takes its toll on you and makes you extremely uncomfortable.
 > But Ninety-Nine's will to survive and your determination to care for Sinners evolve the Shackles' ability and enable it to control Ninety-Nine's manic status.
+
+### Interrogation Transcript
 
 Dark clouds shrouded the entire city, and with a clap of thunder, it began to pour. A meandering stream of water scoured the wreckage, mixing blood with the liquid crystals before flowing into the low-lying sewers.
 
@@ -1072,3 +1099,6 @@ Ninety-Nine: Hella helped me escape from Parma... and you wrenched me back from 
 Ninety-Nine: Thank you for controlling the beast inside me.
 
 Ninety-Nine: Now... I can attain true freedom.
+
+> Your Shackles hold down Ninety-Nine. Her mind is a collapsing mess, which takes its toll on you and makes you extremely uncomfortable.
+> But Ninety-Nine's will to survive and your determination to care for Sinners evolve the Shackles' ability and enable it to control Ninety-Nine's manic status.

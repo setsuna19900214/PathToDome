@@ -2,7 +2,13 @@
 
 ## Lady Pearl - Interrogation I
 
+> Intelligence before completion:
+> You return to Fortuna, ready to detain Lady Pearl. Though the performance has long ended, a new show seems to have begun in the supposedly empty theater. You decide to delve deeper into the theater to find out what's going on.
+
+> Intelligence after completion:
 > You trade Lady Pearl a spectacular performance for Fortuna. The deal is made, and the real show is about to begin.
+
+### Interrogation Transcript
 
 00:30, December, N.F. 113
 
@@ -256,9 +262,17 @@ Lady Pearl: This will be Fortuna's swan song.
 
 Lady Pearl: Please, please don't let me down.
 
+> You trade Lady Pearl a spectacular performance for Fortuna. The deal is made, and the real show is about to begin.
+
 ## Lady Pearl - Interrogation II
 
+> Intelligence before completion:
+> The lyrics echo in the background as the past stories play out before your eyes. Everyone pleads their innocence while Fortuna's future appears uncertain.
+
+> Intelligence after completion:
 > Having heard every defendant's plea in the theater, Lady Pearl invites you to uncover the final truth.
+
+### Interrogation Transcript
 
 You follow Lady Pearl through a maze of corridors. Along the way, familiar-looking stage sets flash past before your eyes.
 
@@ -490,9 +504,17 @@ Lady Pearl: Do you have the answer yet, my clever friend?
 
 Chief: Everyone in the troupe is guilty.
 
+> Having heard every defendant's plea in the theater, Lady Pearl invites you to uncover the final truth.
+
 ## Lady Pearl - Interrogation III
 
+> Intelligence before completion:
+> The truths are unfolding scene by scene in the theater. Entangled in it, you stare at the transfer agreement of Fortuna and eventually cannot resist the urge to sign on it your name.
+
+> Intelligence after completion:
 > After telling you that unfinished story from Fortuna, Lady Pearl once again offers you a *fateful choice*.
+
+### Interrogation Transcript
 
 With your unveiling of the truth, Fortuna's final layer of disguise is lifted. A wave of Mania energy is unleashed, pinning you to your seat.
 
@@ -756,9 +778,17 @@ Lady Pearl: Let's continue, shall we? This will be the last act...
 
 Lady Pearl: It's time to make the final choice.
 
+> After telling you that unfinished story from Fortuna, Lady Pearl once again offers you a *fateful choice*.
+
 ## Lady Pearl - Interrogation IV
 
+> Intelligence before completion:
+> You once again conclude Lady Pearl's script, successfully detaining her in the Bureau. Apparently unbothered by yet another transfer of ownership of Fortuna, she attends shows frequently as she once did in the past.
+
+> Intelligence after completion:
 > Lady Pearl's obsession with the stage and actors has long since transcended this place. With the shackles binding her to you, she yearns to witness a broader, crazier, purer stage of desire.
+
+### Interrogation Transcript
 
 — Act Three: Future —
 
@@ -1069,3 +1099,5 @@ Lady Pearl: The new chapter I've been looking forward to is about to start. This
 Lady Pearl: I've invested everything I value in you, ${PlayerName}.
 
 Lady Pearl: Please, please don't let me down.
+
+> Lady Pearl's obsession with the stage and actors has long since transcended this place. With the shackles binding her to you, she yearns to witness a broader, crazier, purer stage of desire.

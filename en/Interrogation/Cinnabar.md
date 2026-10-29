@@ -2,8 +2,15 @@
 
 ## Cinnabar - Interrogation I
 
+> Intelligence before completion:
+> Cinnabar has been behaving herself and adhering to our moral standards impeccably since she was detained. If there was a "Safest Sinner" award, she would definitely make it as a finalist.
+> But today, the MBCC received a strange call. It seems there is now a need for you to interrogate Cinnabar.
+
+> Intelligence after completion:
 > The interrogation went surprisingly well. Finally, you have a rough idea of Cinnabar's past.
 > The security operation is taking place next week. Both you and Cinnabar must get ready.
+
+### Interrogation Transcript
 
 Nightingale: Got a call for you, Chief.
 
@@ -279,10 +286,20 @@ Cinnabar: Rest assured, I will obey the rules.
 
 Cinnabar: Rest assured, I will remain in your sight.
 
+> The interrogation went surprisingly well. Finally, you have a rough idea of Cinnabar's past.
+> The security operation is taking place next week. Both you and Cinnabar must get ready.
+
 ## Cinnabar - Interrogation II
 
+> Intelligence before completion:
+> You can see why Cinnabar was the most treasured security unit of the Eastside higher-ups. Over these past few days, she has managed to avert crisis for our crew whenever they are giving a speech.
+> Today is the last day of our campaign. Up until now, we haven't spotted any ill-intentioned hostile. But it is not the time to let our guard down just yet.
+
+> Intelligence after completion:
 > No one expected that this would end up like this. Though only a few were injured on site and the attacker was captured, it is still a troubling issue how Cinnabar and Serpent Eye went on their separate ways.
 > Perhaps you should do something about it.
+
+### Interrogation Transcript
 
 Female Stranger: Hello! If you don't mind, may I have your contact please?
 
@@ -686,10 +703,20 @@ Chief: Whatever happens, I'm on your side.
 
 Cinnabar: ...Thank you.
 
+> No one expected that this would end up like this. Though only a few were injured on site and the attacker was captured, it is still a troubling issue how Cinnabar and Serpent Eye went on their separate ways.
+> Perhaps you should do something about it.
+
 ## Cinnabar - Interrogation III
 
+> Intelligence before completion:
+> Since the event with Reagan ended, you have always kept an eye out for the Serpent Eye's movement. They cannot be reached via phones or other communication devices. This makes Cinnabar anxious.
+> They care about each other. You have to find a chance to resolve this misunderstanding.
+
+> Intelligence after completion:
 > Right before you part ways, you and the people of Serpent Eye exchanged your business cards. They promised to keep in touch with you and Cinnabar.
 > You saw a happy smile on Cinnabar's face. And that is all that matters.
+
+### Interrogation Transcript
 
 Two months have passed since the attack at the speech.
 
@@ -1028,3 +1055,6 @@ You understand the meaning behind this act—he's accepted you.
 Serpent Member: Woohoo!
 
 Seeing that, the Serpent Eye members immediately begin to cheer and whistle. Alyosha's meaning is clear—he's accepted you.
+
+> Right before you part ways, you and the people of Serpent Eye exchanged your business cards. They promised to keep in touch with you and Cinnabar.
+> You saw a happy smile on Cinnabar's face. And that is all that matters.

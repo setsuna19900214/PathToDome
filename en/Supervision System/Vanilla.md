@@ -2,17 +2,29 @@
 
 ### 「Repair Reservation」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Other departments wish to regularly send over severely battle-damaged machinery for Vanilla to repair. The schedule for repair appointments is already fully booked for this year.
 
 - Agree anyway
 
 ### 「Special Music」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 The therapist finds that ordinary music has no effect on Vanilla. The sound that can regulate Vanilla's mood is the steady, uniform ticking of a clock.
 
 - Note it down
 
 ### 「Honor the Agreement」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -48,6 +60,10 @@ Abnormal behavior of Sinner Vanilla detected. The Sinner has been occupying the 
 
 ### 「Potential Collaboration」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The Bureau's research department submitted a task objective: to study the feasibility of Vanilla cooperating with others on missions.
 
 - Confirm
@@ -77,6 +93,10 @@ The Bureau's research department submitted a task objective: to study the feasib
         Chief: Further observation is needed.
 
 ### 「New Friends」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Vanilla always immerses herself in machines and appears rather solitary and aloof. Initially, people in the Bureau were hesitant to approach her. But they've quickly discovered that she keeps her promises and is a trustworthy partner. Many have since befriended her.
 
@@ -123,6 +143,10 @@ Warning, unauthorized consumption of the kitchen's reserves is a violation.
   But there's no response.
 
 ### 「Biocontrol」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Vanilla is creating an automatic irrigation and fertilization system for the greenhouse. You want to check on her progress.
 

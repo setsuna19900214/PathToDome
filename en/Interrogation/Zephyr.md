@@ -2,8 +2,15 @@
 
 ## Zephyr - Interrogation I
 
+> Intelligence before completion:
+> On your day off after a busy week, you decide to chill at a bar recommended by a colleague.
+> Amid soft music and mellow drinks, an orange-haired girl surrounded by the crowd effortlessly commands everyone's attention with a paper plane. Yet you sense something unusual in the seemingly harmless and bustling atmosphere.
+
+> Intelligence after completion:
 > The Sinner you encountered at the Eastside bar is Zephyr, a former pilot who was forced to retire after causing signal interference during a test flight.
-> On that rainy night, you and the FAC thwart her hijacking attempt, leading to her forced detention by the MBCC. As you part ways, Zephyr's reaction makes it clear she hasn't accepted this outcome.
+> On that rainy night, you and the FAC thwart her hijacking attempt, leading to her forced detention by the MBCC. As you part ways, Zephyr's reaction makes it clear she hasn't accepted this result.
+
+### Interrogation Transcript
 
 Eastside Central Avenue
 
@@ -241,10 +248,20 @@ She shows no surprise at your unexpected intervention, nor does she oppose the a
 
 The rain that has lasted all night finally ceases. On your way back to MBCC, you ponder Zephyr's last words, while the image of her face—etched with both regret and yearning as she was led away—remains vivid in your mind.
 
+> The Sinner you encountered at the Eastside bar is Zephyr, a former pilot who was forced to retire after causing signal interference during a test flight.
+> On that rainy night, you and the FAC thwart her hijacking attempt, leading to her forced detention by the MBCC. As you part ways, Zephyr's reaction makes it clear she hasn't accepted this outcome.
+
 ## Zephyr - Interrogation II
 
+> Intelligence before completion:
+> Since her arrival at the MBCC, Zephyr has been stubbornly resisting the detention protocols, violating the rules repeatedly.
+> The severe implications of the hijacking incident in Eastside and your personal interest in her motives make you decide to interrogate her.
+
+> Intelligence after completion:
 > You've confirmed that Zephyr's hijacking attempt wasn't premeditated. Her actions were primarily driven by her past experiences and thrill-seeking nature. Nevertheless, the subsequent flood of escape attempt reports makes you reconsider your judgment about her.
 > A genuine understanding is yet to be established between you and Zephyr.
+
+### Interrogation Transcript
 
 █ █, N.F. ██
 
@@ -528,9 +545,18 @@ Only now do you truly realize that the understanding and connection you believed
 
 On a rainy day, Zephyr disappeared.
 
+> You've confirmed that Zephyr's hijacking attempt wasn't premeditated. Her actions were primarily driven by her past experiences and thrill-seeking nature. Nevertheless, the subsequent flood of escape attempt reports makes you reconsider your judgment about her.
+> A genuine understanding is yet to be established between you and Zephyr.
+
 ## Zephyr - Interrogation III
 
+> Intelligence before completion:
+> On a rainy day, MBCC's communication system falls victim to interference from unknown signals. Meanwhile, your currently useless device receives a "farewell message" from Zephyr.
+
+> Intelligence after completion:
 > Through Zephyr's sheer determination, the nearly decommissioned aircraft miraculously completes one final flight. On the rooftop, as the sun rises into view, you present Zephyr with a "gift" to celebrate that she's finally found the answer about freedom.
+
+### Interrogation Transcript
 
 I want to fly one more time.
 
@@ -889,3 +915,5 @@ When you return to your desk, you find a paper plane resting there. Unfolding it
 *Prepping a fly later.*
 
 *Care to join?*
+
+> Through Zephyr's sheer determination, the nearly decommissioned aircraft miraculously completes one final flight. On the rooftop, as the sun rises into view, you present Zephyr with a "gift" to celebrate that she's finally found the answer about freedom.

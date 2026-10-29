@@ -2,11 +2,19 @@
 
 ### 「Graduation Photo」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Today, Macchiato showed you her younger brother's graduation photo. On the photo was a boy in academic dress, with a big smile on his face.
 
 - Wish him all the best
 
 ### 「Improving Durability」
+
+Location: Training Room
+
+Urgency: ⚠
 
 Macchiato's lash broke in the training.
 
@@ -14,17 +22,29 @@ Macchiato's lash broke in the training.
 
 ### 「Popular Player」
 
+Location: Training Room
+
+Urgency: ⚠
+
 Whenever the Sinners have to pick their training partner, Macchiato is always everyone's go-to choice.
 
 - Understandable
 
 ### 「Childhood Game」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 There has been a trend of nostalgic sports going on in the Bureau. The other Sinners made Macchiato play spinning tops with them. Quite unexpectedly, she was completely unable to master this game.
 
 - I don't understand it.
 
 ### 「Ill Behavior」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 [System Notice] Warning. Macchiato the Sinner is making illegal trades. Would you like to summon this Sinner?
 
@@ -51,6 +71,10 @@ There has been a trend of nostalgic sports going on in the Bureau. The other Sin
   Chief: If I catch you again, you will face punishment.
 
 ### 「The Struggles of a Parent」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠
 
 [System Notice] Warning. Macchiato the Sinner is experiencing unstable emotions. Go check on her.
 
@@ -81,6 +105,10 @@ Chief: ...
 Chief: I don't know what that must feel like, but it is suffocating enough just to hear you describe it.
 
 ### 「About the Full Auto Lash」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Chief, you have a new request.
 
@@ -115,6 +143,10 @@ Chief: ...
 Chief: We'll double the physiques training, starting tomorrow.
 
 ### 「Breadwinner」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 New request from Sinner Macchiato. Please confirm.
 

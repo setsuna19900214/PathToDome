@@ -2,17 +2,29 @@
 
 ### 「Noise Complaint」
 
+Location: Training Room
+
+Urgency: ⚠
+
 Several Sinners have anonymously complained that Peggy's music is too loud during training, turning the Training Room into a disco.
 
 - Give her a better pair of headphones
 
 ### 「Special Guidebook」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Peggy empties her wallet to buy a supposed rap guidebook from a strange hooded man, only to find out it is just a book filled with album names.
 
 - You can use it to prop up a table.
 
 ### 「Exploring New Fields」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Peggy, who usually gets into trouble due to her honest personality, surprisingly didn't cause any issues in the arcade today.
 
@@ -39,6 +51,10 @@ It turns out she is playing a popular music game, but chose a difficulty level t
     Chief: I knew it. I think, for you, participation is more important.
 
 ### 「Home Sweet Home」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -69,6 +85,10 @@ A Sinner is blocking the movie screening in the recreation area. Go and check?
       Peggy: Ha, isn't that obvious? Syndicate is where I was born, it's my hometown. If someone can turn their back against their hometown, are they even human?
 
 ### 「Rap Effect」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Recently, there has been a rap trend among Sinners. Many people will start humming regardless of the occasion or location, causing a large number of complaints from the quiet-loving Sinners.
 

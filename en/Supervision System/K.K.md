@@ -2,6 +2,10 @@
 
 ### 「Career Crisis」
 
+Location: Management Center
+
+Urgency: ⚠⚠⚠
+
 When the day's work is done, you sit on the couch and open a novel.
 
 Raven suddenly barges into your room and dashes straight into the closet.
@@ -80,11 +84,19 @@ Raven: Sigh...
 
 ### 「Great Feat」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The subject we are tracking in this mission speaks an Outland dialect to communicate with their allies. Hadn't it been K.K. helping us translate and get intel, the final operation to capture our target would never have gone so smoothly.
 
 - Give K.K. the highest commendation
 
 ### 「K.K. and the Cat」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 K.K. never shares her food, but she gave some of her food to an orange kitten while she was on a picnic. The kitten was cuddling her.
 
@@ -94,11 +106,19 @@ K.K. never shares her food, but she gave some of her food to an orange kitten wh
 
 ### 「Soft Spot」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 K.K. lost control during the hypnotherapy session because, in her dream, she couldn't save Che and Bai Yi.
 
 - Comfort
 
 ### 「Unnoticed Talent」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 People say K.K. is surprisingly good at the dancing machine. She doesn't play very often though, because she doesn't like drawing attention.
 
@@ -107,6 +127,10 @@ People say K.K. is surprisingly good at the dancing machine. She doesn't play ve
   K.K. says she will show you the dance moves next time.
 
 ### 「Role Model Sinner」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 K.K. ranks number one in terms of the attendance record again, as expected.
 
@@ -137,6 +161,10 @@ Chief: If only every Sinner here behaves as nicely as you do.
     Chief: ...
 
 ### 「Card Game Skills」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 K.K. knocked on your door and asked if she could come in.
 
@@ -171,6 +199,10 @@ K.K. knocked on your door and asked if she could come in.
   K.K.: ...
 
 ### 「The Ability's Side Effect」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 K.K. the Sinner is wounded and bleeding out. You should send her to the medical room immediately.
 
@@ -209,6 +241,10 @@ K.K. the Sinner is wounded and bleeding out. You should send her to the medical 
   K.K.: I see. I'll be more careful next time.
 
 ### 「Conversation Terminator」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief, some of our employees reported that they were threatened by K.K. the Sinner.
 
@@ -249,6 +285,10 @@ Chief, some of our employees reported that they were threatened by K.K. the Sinn
   Chief: You know, you don't have to tell jokes if you don't have a good one to tell.
 
 ### 「*Weapon*」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 You and K.K. just finished a simulated practice battle, but K.K. is looking pensive after that.
 

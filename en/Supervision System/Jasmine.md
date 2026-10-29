@@ -2,6 +2,10 @@
 
 ### 「Hunger Games」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Bureau organized a poll asking people to vote for the Sinner they believed would survive to the end in a survival game.
 
 - Check voting results
@@ -10,6 +14,10 @@ The Bureau organized a poll asking people to vote for the Sinner they believed w
 
 ### 「Lingering Kindness」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After completing an operation with Jasmine, you sit alone in your office, yet you keep catching faint traces of her delicate fragrance.
 
 - Look for the source of the fragrance
@@ -17,6 +25,10 @@ After completing an operation with Jasmine, you sit alone in your office, yet yo
   You discover a jasmine flower in your coat pocket.
 
 ### 「Taste of Home」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 You're reading the monthly report submitted by the cafeteria.
 
@@ -68,6 +80,10 @@ Staff Member: "We sent staff to personally invite her, but she showed strong res
 
 ### 「Forbidden Summit」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got into a fight in the Recreation Area after a disagreement.
 
 - Go immediately to the Recreation Area
@@ -99,6 +115,10 @@ A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got i
     Chief: There are people coming and going here constantly. If you two want to dance, you should go to the dance studio instead.
 
 ### 「Afternoon Hours」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -165,6 +185,10 @@ Sinner Jasmine has been out of supervision for five hours. Go and inspect?
     Under the warm glow of artificial sunlight, you gradually grow drowsy, with Jasmine's steady breathing beside you.
 
 ### 「The Cat's Gratitude」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 After one mission, you find a broken necklace at your office door.
 

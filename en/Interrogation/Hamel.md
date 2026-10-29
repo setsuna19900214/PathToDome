@@ -2,9 +2,16 @@
 
 ## Hamel - Interrogation I
 
+> Intelligence before completion:
+> FAC has completed the cleanup of BR-001 remains, and has brought Hamel, who has just woken from the illusory realm, back to MBCC.
+> According to FAC staff in charge of this cleanup mission, Hamel is mentally unstable after leaving the Carnival. All the flowing time and the DisCity after 23 years make her feel unfamiliar.
+
+> Intelligence after completion:
 > Norman was not the main reason why Hamel insisted in staying in the Carnival. Then what was haunting her?
 > Hamel doesn't seem to remember the answer, either.
 > Due to her unstable condition and mood swings, you have to stop interrogation for now.
+
+### Interrogation Transcript
 
 The crimson curtains are drawn open, revealing the seats filled with audience.
 
@@ -402,9 +409,19 @@ Chief: I'm sure you can.
 
 Unconscious thoughts usually reveal your true desires in your subconsciousness. I'll help you find the answer.
 
+> Norman was not the main reason why Hamel insisted in staying in the Carnival. Then what was haunting her?
+> Hamel doesn't seem to remember the answer, either.
+> Due to her unstable condition and mood swings, you have to stop interrogation for now.
+
 ## Hamel - Interrogation II
 
+> Intelligence before completion:
+> The grand stage is open, and the solitary dancer is sharing her heart with you. The past that has been growing obscure with time is getting clearer in dreams connected through the shackles...
+
+> Intelligence after completion:
 > She was a diverting plaything for her audience, a tool for her mother to make profit, a Dancer that has brought comfort to Corruptors, and now... She is a Sinner that has escaped and must be brought back.
+
+### Interrogation Transcript
 
 The crimson curtains are drawn open, revealing the seats filled with audience.
 
@@ -602,9 +619,17 @@ Just like she was determined to stay inside the Black Ring, now she wants to esc
 
 Chief: Are you really going to stop her?
 
+> She was a diverting plaything for her audience, a tool for her mother to make profit, a Dancer that has brought comfort to Corruptors, and now... She is a Sinner that has escaped and must be brought back.
+
 ## Hamel - Interrogation III
 
+> Intelligence before completion:
+> It seems that Corruptors have sensed summoning signals from a strong Sinner, and they are gathering to the Carnival's relic site. As Chief, you need to prevent disasters from happening. But because of your empathy and understanding to Hamel, you can't suppress and restrain her. You have to make a decision with both sides in mind.
+
+> Intelligence after completion:
 > To fulfill the wish in Hamel's innermost heart, to let her dance freely what she wants to dance, to accept her for what she truly is... All this time, you have been standing firm to your ground, whether it's facing controversy from the past, or her elusive emotions that have taken a physical shape.
+
+### Interrogation Transcript
 
 "Keep your distance, and do not harm her." This was the only order you gave the guards before you leave.
 
@@ -808,10 +833,18 @@ Chief: Don't forget you've promised to trust my decisions on our way here.
 
 Chief: I'm only going to see a dance. Once the show ends, I'll bring back the dancer and make sure she's well and conscious.
 
+> To fulfill the wish in Hamel's innermost heart, to let her dance freely what she wants to dance, to accept her for what she truly is... All this time, you have been standing firm to your ground, whether it's facing controversy from the past, or her elusive emotions that have taken a physical shape.
+
 ## Hamel - Interrogation IV
 
+> Intelligence before completion:
+> You're back to the familiar place once again, to fulfill Hamel's desire of dancing. At the same time, those memories exclusive to the two of you, memories hiding beneath the oblivion and the agony, are finally emerging...
+
+> Intelligence after completion:
 > With your guidance, she has recalled you, and seen the stars.
 > You dance in the together in the radiant spring, to your hearts' content.
+
+### Interrogation Transcript
 
 With guidance from the shackles and the pendant left by Norman, it's not hard to locate Hamel. She hasn't gone far and is still around where the main gate used to be.
 
@@ -1038,3 +1071,6 @@ Hamel: That's the sound of blessing...
 Hamel: Thump... Thump... They're blessing this dance...
 
 Hamel: That the curtains of its stage shall never fall.
+
+> With your guidance, she has recalled you, and seen the stars.
+> You dance in the together in the radiant spring, to your hearts' content.

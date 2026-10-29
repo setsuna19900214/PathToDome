@@ -2,8 +2,14 @@
 
 ## Thistle - Interrogation I
 
+> Intelligence before completion:
+> The aftermath of the Garden's detention lingers. As the Bureau tumbles into chaos following  the assassination attempt on you, an uninvited guest creeps in to take your life.
+
+> Intelligence after completion:
 > Thistle's assassination plan narrowly failed. But just like with Coquelic, you have not a single idea why she is so determined to kill you.
 > No, maybe you do know. Considering the reason for her failure, you keenly sense that she brought not only a crisis but also an opportunity.
+
+### Interrogation Transcript
 
 Several days after Coquelic's arrest
 
@@ -275,10 +281,20 @@ Chief: No, don't put her in solitary. Get the interrogation room ready. I want t
 
 Chief: No doubt she'll be useful in helping me solve the puzzle that's been nagging at me lately.
 
+> Thistle's assassination plan narrowly failed. But just like with Coquelic, you have not a single idea why she is so determined to kill you.
+> No, maybe you do know. Considering the reason for her failure, you keenly sense that she brought not only a crisis but also an opportunity.
+
 ## Thistle - Interrogation II
 
+> Intelligence before completion:
+> You decides to try a gentler approach to extract information from Thistle about her past and the Garden. However, her defensive and indifferent attitude proves it futile.
+> Fortunately, you still have other bargaining chips and methods.
+
+> Intelligence after completion:
 > Such harsh interrogation methods were never your intention, but you're racing against time. Fortunately, Thistle indeed provides useful information, confirming your suspicions and revealing the motives behind her extreme actions.
 > The harm ends here. Now, it's time to heal the wounds and clear up some misunderstandings.
+
+### Interrogation Transcript
 
 The lights come on, so harsh that your eyes, though long used to bright light, narrow slightly. The Sinner in front of you, however, stares unblinkingly at you, as if her hostility toward you is strong enough to override her physiological instincts.
 
@@ -526,10 +542,20 @@ Christina: What, are you not pleased to see me? I heard an old acquaintance of m
 
 Christina: You seem to have quite a few misunderstandings about the MBCC. I'll set you straight. But let's have those wounds looked at first. Come, follow me...
 
+> Such harsh interrogation methods were never your intention, but you're racing against time. Fortunately, Thistle indeed provides useful information, confirming your suspicions and revealing the motives behind her extreme actions.
+> The harm ends here. Now, it's time to heal the wounds and clear up some misunderstandings.
+
 ## Thistle - Interrogation III
 
+> Intelligence before completion:
+> Thistle has requested to see you. She's still trying to act cool, but from her words and actions, you can tell she's no longer a threat.
+> Now, it's finally time to talk it out.
+
+> Intelligence after completion:
 > Protection means offering shelter, guidance, and full attention. But it also entails refusal, letting go, and stepping away.
 > It's time to open your eyes and take in the beautiful sight the flowers you've nurtured in the garden have grown into.
+
+### Interrogation Transcript
 
 Chief: ...Oh, there's also Sumire... Including Thistle, over 70% of the members have been found, if I'm not mistaken...
 
@@ -764,3 +790,6 @@ No sooner have you finished speaking than Thistle turns on her heel and runs awa
 Chief: Everyone is doing what they can to wake you up from your long sleep. I can't be lazy either. Of course, neither can you.
 
 The Mentor of the Garden. I'm looking forward to the day you wake up. Hope it won't be far away. A lot of people are waiting for you to wake up.
+
+> Protection means offering shelter, guidance, and full attention. But it also entails refusal, letting go, and stepping away.
+> It's time to open your eyes and take in the beautiful sight the flowers you've nurtured in the garden have grown into.

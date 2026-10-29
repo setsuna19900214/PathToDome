@@ -4,6 +4,18 @@
 
 The Sleeping Queen of Hearts
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor IV
+
 Following the light formed by the wisps, you venture into the heart of the dream. Your hand touches a smooth barrier that feels like a mirror's surface, yet somehow different.
 
 This mirror is covered with cracks. Instead of reflecting your image, it shows the faint silhouette of a smaller, thinner figure.

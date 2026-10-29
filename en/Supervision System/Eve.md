@@ -2,17 +2,29 @@
 
 ### 「Dream Toy Hunt」
 
+Location: Black Market
+
+Urgency: ⚠
+
 You made a deal with EMP: engage in the Bureau's learning missions, and she gets a wish granted. What you didn't expect was her desire for a rare, out-of-production comic book doll. Fortunately, Eve saved the day, snagging the last pieces at a fair price.
 
 - You are now the Lead Consultant for Toy Procurement.
 
 ### 「Unending Racket」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Lately, we've seen a spike in gripes about noise pollution, all thanks to a freak outbreak of Cuckoo Clocks that started when Eve joined the Bureau. People are even making tunes out of their squawks. Ironically, Eve's getting a taste of her own medicine and has lodged a complaint.
 
 - I guess the bell ringer can't unring the bell.
 
 ### 「Escape Love Spell」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠
 
 At last, a break in the non-stop hustle, giving you a chance to randomly check up on the Sinners.
 
@@ -47,6 +59,10 @@ Chief: Wait, why are Eve and Nino doing together in the secret room? Did Eve acc
     Chief: You probably just wanted a buzz moment for the stream with Eve critiquing hopeless romantics... Remember, social rehab takes time. Eve's got to ease into it. Let's not mess things up with good intentions, okay?
 
 ### 「Eternal Night」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 The hit movie "Keylan Code" is the latest craze in the Bureau, especially with the prophesized date looming. Some netizens, always up for a spectacle, have been fervently promoting it, and now everyone's chatting about this "Eternal Night" thing.
 
@@ -83,6 +99,10 @@ Chief: I should chat with the hypnotist to keep a closer eye on them. We can't h
     Chief: Well... let's see, trying to squash the rumors on this side feels like a bigger challenge than it was on the other side...
 
 ### 「The Lion's Roar」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 OwO: Whatever happens, OwO won't hold it against you! Trust in OwO's big, generous heart! Let's do this! Come on, come on!
 
@@ -137,6 +157,10 @@ Chief: Hold on, what on earth could OwO want from Eve...? This gives me a bad fe
   You watch OwO nervously clutch the lion's head, who's floated back to her at last. Turning to Eve beside you, you catch a hint of a smile on her face, seemingly amused by OwO's evident fondness for the lion's head.
 
 ### 「Accessible Pathways」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Just another day at the office, and for once, you've managed to clear your desk. Leaning in the doorway, you take a big, satisfying stretch.
 

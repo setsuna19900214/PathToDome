@@ -2,9 +2,15 @@
 
 ## Anne - Interrogation I
 
+> Intelligence before completion:
+> SALVA has been destroyed. While they were hunting down Anne, the MBCC also discovered the Corruptor remains hidden underneath SALVA. The FAC decided to indiscriminately dispose of these Corruptors, but you haven't found out about the connections between these remains and SALVA. They seem to have a very special meaning to Anne.
+
+> Intelligence after completion:
 > You couldn't persuade Anne to open the immersion tank. The remains of Corruptors stored beneath SALVA are still a threat.
 > Fortunately, this interrogation wasn't a waste of time because you now understand why Anne is being so stubborn and how she became a Sinner.
 > Having learned Anne's story, you decide to give her time to make up her mind, believing that there will come a day when she opens up her heart to you.
+
+### Interrogation Transcript
 
 The door of the interrogation room slams shut loudly behind you, but the woman before you gazes at the ground with her head lowered and doesn't seem to notice.
 
@@ -340,10 +346,20 @@ What could be this critical opportunity? A name came out...
 
 Chief: Paige?
 
+> You couldn't persuade Anne to open the immersion tank. The remains of Corruptors stored beneath SALVA are still a threat.
+> Fortunately, this interrogation wasn't a waste of time because you now understand why Anne is being so stubborn and how she became a Sinner.
+> Having learned Anne's story, you decide to give her time to make up her mind, believing that there will come a day when she opens up her heart to you.
+
 ## Anne - Interrogation II
 
+> Intelligence before completion:
+> You tasked Nightingale to look for information about the Maniacs that are about Paige's age, but in all of Syndicate, there is only one such boy. We didn't find anything else. In the name of a field operation, you took Anne to see the boy in the hope that he will somewhat convince Anne to stop being so stubborn.
+
+> Intelligence after completion:
 > You found the surviving Maniac boy. Though he's still young, he has his own understanding of life and death. His optimism and carefree nature had a somewhat positive impact on Anne's stubbornness.
 > Although Gary will eventually die inevitably, there were two strangers in his life, helping extend his lifespan by a month, and showing him more of this world.
+
+### Interrogation Transcript
 
 Anne: Up ahead is the junction between Syndicate and the Rust. Why do you bring me here?
 
@@ -699,9 +715,18 @@ The boy waves the leftover lollipop in his hand. You and Anne watch him turn aro
 
 Boy: My name is Gary! If you get the chance, go visiting Eastside for me!
 
+> You found the surviving Maniac boy. Though he's still young, he has his own understanding of life and death. His optimism and carefree nature had a somewhat positive impact on Anne's stubbornness.
+> Although Gary will eventually die inevitably, there were two strangers in his life, helping extend his lifespan by a month, and showing him more of this world.
+
 ## Anne - Interrogation III
 
+> Intelligence before completion:
+> Since you returned from the field operation, Anne hasn't left her room for days. No one knows why. The next time you hear anything about Anne, it's that she has agreed for the FAC to open the tank.
+
+> Intelligence after completion:
 > Anne finally decided to confront the truth of the Maniacs' death and cooperate with the FAC to clean up the mess. She sent you a letter to tell you all about the thoughts in her mind. Carrying the wishes of the dead, the two of you evermore continue to fight the Mania.
+
+### Interrogation Transcript
 
 Hecate: Chief, everything is ready. Anne has agreed to commence the contamination cleanup at any time.
 
@@ -910,3 +935,5 @@ Anne: No, that's...
 Anne's voice chokes with joy.
 
 Anne: That's Paige.
+
+> Anne finally decided to confront the truth of the Maniacs' death and cooperate with the FAC to clean up the mess. She sent you a letter to tell you all about the thoughts in her mind. Carrying the wishes of the dead, the two of you evermore continue to fight the Mania.

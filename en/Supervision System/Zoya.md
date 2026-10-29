@@ -2,11 +2,19 @@
 
 ### 「Complaint Tickets」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Several employees complained that Zoya often bosses around a group of younger Sinners and makes them use transport carts to race each other. This greatly disturbs public order.
 
 - Set up a special racing area
 
 ### 「Maintenance Bill」
+
+Location: Training Room
+
+Urgency: ⚠
 
 One day, two loud noises came from the Bureau. Shortly after that, two bills showed up on Chief's desk. The bills were for repairing the ceiling, one for Zoya's room and one for Ninety-Nine's.
 
@@ -14,11 +22,19 @@ One day, two loud noises came from the Bureau. Shortly after that, two bills sho
 
 ### 「Ink Meter」
 
+Location: Black Market
+
+Urgency: ⚠
+
 An employee responsible for the stationery department said that the Sinners have been requesting black ink more frequently than usual. Later, you discovered that it was Zoya's little sidekick who wanted to use the black ink to dye the prison uniform for Zoya to wear.
 
 - Let Zoya bring her to do the laundry together.
 
 ### 「Signature」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You hear noises from the cafeteria. Younger Sinners surround Zoya as Horo tries to maintain order next to them.
 
@@ -42,6 +58,10 @@ Horo: Stand in line! You only get three signatures today!
 
 ### 「Banner」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 [System Notice] Warning. A Sinner is trying to leave the MBCC's area.
 
 - Check surveillance
@@ -63,6 +83,10 @@ Horo: Stand in line! You only get three signatures today!
       Zoya: What I am saying is that I will be coming up here to replace it with some "interesting" banners in the future.
 
 ### 「Fierce Modification」
+
+Location: Black Market
+
+Urgency: ⚠⚠
 
 You went into your office and found several complaint tickets on your desk. They are basically from the Sinners and employees living near the Depot complaining about the loud noises.
 
@@ -91,6 +115,10 @@ Chief: What are you doing?!
       Zoya: That's no fun. Any vehicle should have the power to crush everything that stands in its way!
 
 ### 「Public Space」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -145,6 +173,10 @@ You received a request from a detention area employee.
         Zoya: Heh...
 
 ### 「Arm Wrestling」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Someone is holding an arm wrestling contest in the Recreation Area, and Zoya is leading by a wide margin.
 

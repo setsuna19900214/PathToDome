@@ -2,17 +2,29 @@
 
 ### 「Cooperative Research」
 
+Location: Darkroom
+
+Urgency: ⚠
+
 The researchers from other departments participated in NOX's research, took some of the data, and paid the applicable fees.
 
 - Approve
 
 ### 「Cleaning Operation」
 
+Location: Management Center
+
+Urgency: ⚠
+
 NOX did well in the previous operation where she eliminated the Corruptors found in a city district. The FAC has sent more rewards.
 
 - Take
 
 ### 「Physical Examination」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 The physical examination on NOX the Sinner will now commence.
 
@@ -42,6 +54,10 @@ Chief: There is still hope.
 
 ### 「Early Morning」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The weather is nice today.
 
 Chief: Morning, NOX.
@@ -67,6 +83,10 @@ Chief: Morning, NOX.
     NOX: You don't have to ask me. You are in charge here.
 
 ### 「Thriving Nature」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠⚠
 
 The Bureau's internal research department filed a confidential report to Chief.
 
@@ -111,6 +131,10 @@ Researcher: NOX isn't aware of it, but she absorbs the life force from nearby cr
       Maybe NOX can't understand your thoughts.
 
 ### 「Meet-And-Greet」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 NOX is in the Outdoor Activity Area. People around her start to avoid her and whisper with each other. A 10-meter-radius depopulated zone forms around NOX.
 

@@ -2,8 +2,14 @@
 
 ## Murphy - Interrogation I
 
+> Intelligence before completion:
+> The unlucky April finally came to an end, and the Bureau can enjoy a long-awaited moment of peace at last. However, during the leisurely teatime one afternoon, an uninvited guest barges in once more...
+
+> Intelligence after completion:
 > After learning about Murphy's recent struggles, you decide to step into her daily life to get a good look at it up close. As for her theory about good luck, you remain skeptical.
 > If you had to define her new life in a word, it would be this—mundane normalcy.
+
+### Interrogation Transcript
 
 MBCC
 
@@ -249,10 +255,19 @@ Chief: Alright, for the smooth operations of the Bureau, and for my own safety a
 
 Have to find a way to help this Goddess of Bad Luck as soon as possible.
 
+> After learning about Murphy's recent struggles, you decide to step into her daily life to get a good look at it up close. As for her theory about good luck, you remain skeptical.
+> If you had to define her new life in a word, it would be this—mundane normalcy.
+
 ## Murphy - Interrogation II
 
+> Intelligence before completion:
+> Witnessing Murphy's work situation firsthand, you realize things are far more complicated than you anticipated. You try to reason with her, to guide her thinking, but it's not going as smoothly as you hoped.
+
+> Intelligence after completion:
 > Having observed for a while, you've identified the core issue. It's not bad luck itself, but that Murphy's definition of good luck has changed. She now sees good luck as a compensation for bad luck, and keeps raising her expectations. In doing so, she's lost her ability to approach every trivial matter with equanimity.
 > Cognitive adjustments are never achieved through words alone. Sometimes they come as sudden epiphanies. Other times, they require gradual correction through repeated experiences.
+
+### Interrogation Transcript
 
 Two Days Later
 
@@ -496,10 +511,19 @@ After everything that's been said, she's still waiting for good luck?
 
 You're still a little skeptical about her renewed understanding of luck. But at least you've seen a glimmer of hope that her understanding might still be corrected.
 
+> Having observed for a while, you've identified the core issue. It's not bad luck itself, but that Murphy's definition of good luck has changed. She now sees good luck as a compensation for bad luck, and keeps raising her expectations. In doing so, she's lost her ability to approach every trivial matter with equanimity.
+> Cognitive adjustments are never achieved through words alone. Sometimes they come as sudden epiphanies. Other times, they require gradual correction through repeated experiences.
+
 ## Murphy - Interrogation III
 
+> Intelligence before completion:
+> The caller known as the "Cranky Old Lady" has suddenly gone silent, and it bothers Murphy. She insists on apologizing in person and drags you along on a somewhat hasty search mission. You wonder if this journey with her will really go smoothly?
+
+> Intelligence after completion:
 > After running around all day, you finally confirm the elderly woman's situation. Though the process is riddled with mishaps, the outcome can be considered fortunate. Through her conversation with the woman and the absurd melodrama that unfolds, Murphy seems to have genuinely gained some insight. Hopefully, she truly understands this time.
 > Focus on the process rather than the outcome alone—that's the real lesson she needs to learn.
+
+### Interrogation Transcript
 
 The next time you hear from Murphy, two weeks have passed.
 
@@ -783,10 +807,19 @@ Chief: But it's getting late. Let me take you home. And just to be safe... we'll
 
 Her smile suddenly freezes, and her legs tremble slightly at the prospect of the physical ordeal ahead. Meanwhile, you stride forward leisurely as she wails in protest behind you.
 
+> After running around all day, you finally confirm the elderly woman's situation. Though the process is riddled with mishaps, the outcome can be considered fortunate. Through her conversation with the woman and the absurd melodrama that unfolds, Murphy seems to have genuinely gained some insight. Hopefully, she truly understands this time.
+> Focus on the process rather than the outcome alone—that's the real lesson she needs to learn.
+
 ## Murphy - Interrogation IV
 
+> Intelligence before completion:
+> Murphy's life seems to be getting back on track. She invites you out, hoping you'll witness a brand-new version of herself in the amusement park. Still... based on past experience, you simply can't let yourself fully relax. This time, what will happen?
+
+> Intelligence after completion:
 > Murphy still experiences all sorts of unlucky incidents, just like before. But she's different now. She's learning to find ways to cope with inevitable misfortune, to recognize real luck amid life's randomness, and to treasure those trivial but concrete moments.
 > For her, change isn't about escaping misfortune. It's about learning to coexist with it. And once she's understood and accepted those so-called unlucky events, they can become the very source of strength that helps her face life with optimism.
+
+### Interrogation Transcript
 
 After what happened at the hospital, you keep close tabs on Murphy. You learn that the old lady, whose bad luck turned out to be a blessing, later sent Murphy a commendation banner. With such recognition from a citizen, Murphy begins progressing steadily at her job.
 
@@ -1061,3 +1094,6 @@ Despite everything, this could have turned out so much worse.
 You hope Murphy's Mania can treat her with more kindness from now on.
 
 And perhaps more mercy from "fate"—which has been so exceptionally hard on her—too.
+
+> Murphy still experiences all sorts of unlucky incidents, just like before. But she's different now. She's learning to find ways to cope with inevitable misfortune, to recognize real luck amid life's randomness, and to treasure those trivial but concrete moments.
+> For her, change isn't about escaping misfortune. It's about learning to coexist with it. And once she's understood and accepted those so-called unlucky events, they can become the very source of strength that helps her face life with optimism.

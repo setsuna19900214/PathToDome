@@ -2,17 +2,29 @@
 
 ### 「New Energy」
 
+Location: Energy Furnace
+
+Urgency: ⚠
+
 Recently, the energy furnace has been shutting down at random. Your inquiries reveal that Summer and Eureka are experimenting with Donald's powers to generate electricity, aiming to innovate the Bureau's energy strategies. They're currently testing this groundbreaking idea.
 
 - Maybe it's wiser and steadier to have Donald on a bike, pedaling away to produce energy.
 
 ### 「Brag Brigade」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Since Donald's arrival at the Bureau, he's got a flair for sliding self-compliments into small talks. If any Sinners look uncomfortable, he confidently insists that patting yourself on the back is the way to go and urges them to hop on board. This habit catches on, eventually giving rise to what's now the Bureau's famous "Brag Brigade."
 
 - How about we stick to exchanging compliments? It's a more natural icebreaker.
 
 ### 「Smoke and Mirrors」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠
 
 After finishing a work task and sipping your coffee, you remember it's time for your daily peek at Nino's live stream.
 
@@ -48,6 +60,10 @@ Chief: Hmm, she's rolled out a new segment—"Aiding fans in dealing with online
 
 ### 「Heroic Tales」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 On fine afternoons, strolling by the greenhouse, it's common to spot quite a few Sinners basking in the sun and chatting.
 
 Chief: Hope this calm sticks around all day... Oh, are those Donald and EMP? They look like they're having a blast...
@@ -79,6 +95,10 @@ Chief: Hope this calm sticks around all day... Oh, are those Donald and EMP? The
     Chief: Hold off on the theatrics until I've given Mantis back her cat. Really want a cuddle? You should check with the owner first if she's okay with you giving it a little rub.
 
 ### 「Abnormality in the Infirmary」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 Ping! There's a monthly medical report on your desk waiting for approval.
 
@@ -139,6 +159,10 @@ Chief: Let's take a look... What? Why did Donald need so many treatments in the 
   Donald: No need for that worried face, I asked for this. Anyway, having lived my life, now getting to pass on some wisdom, slack off a bit, and bask in your attention? It's pretty great, totally worth it!
 
 ### 「Experience Over Theory」
+
+Location: Black Market
+
+Urgency: ⚠⚠⚠
 
 In the flu season, you're on a mission from Anne, delving into the black market to get a specific herb known for warding off sickness.
 

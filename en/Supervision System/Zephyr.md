@@ -2,17 +2,29 @@
 
 ### 「Nightcap」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The light in Zephyr's room is always among the last to go out in the detention area. Well into the night, you can often still hear Sinners' laughter and clinking glasses from her room.
 
 - I'm glad you're making friends, but don't forget to get some rest.
 
 ### 「Oath」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Zephyr has been reading a popular adventure novel. The protagonist likes to swear on his parents' names whenever he makes a bet. After finishing the book, Zephyr decides she'd make a better protagonist since she has two sets of parents, meaning she could swear twice.
 
 - That's one way to think of it.
 
 ### 「Night Song」
+
+Location: Management Center
+
+Urgency: ⚠
 
 After dinner, a tipsy Zephyr accidentally patches her broadcast signals into the public channel. That night, her off-key singing echoes through the Bureau until the small hours.
 
@@ -21,6 +33,10 @@ After dinner, a tipsy Zephyr accidentally patches her broadcast signals into the
   Zephyr accepts the lecture with all due humility, though she makes no promises about behaving next time.
 
 ### 「Sleepless Chief」
+
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Knock, knock, knock. A series of urgent raps on your office door breaks the late-night silence.
 
@@ -58,6 +74,10 @@ Knock, knock, knock. A series of urgent raps on your office door breaks the late
 
 ### 「Paper Plane」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 When you return to your office, the door is ajar and paper planes are scattered everywhere outside and inside.
 
 - Remove the paper plane on the doorknob
@@ -83,6 +103,10 @@ When you return to your office, the door is ajar and paper planes are scattered 
         It's Zephyr's missing mission report.
 
 ### 「Run Away」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Coming out of a meeting, you hurry through the Bureau's corridor to the next one, another last-minute addition to your schedule.
 

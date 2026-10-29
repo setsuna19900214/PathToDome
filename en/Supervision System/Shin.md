@@ -2,6 +2,10 @@
 
 ### 「Ocean Think Tank」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Shin proposes the establishment of a think tank that would provide DisSea intelligence to the Bureau's researchers.
 
 - Reject
@@ -10,6 +14,10 @@ Shin proposes the establishment of a think tank that would provide DisSea intell
 
 ### 「Educational Illustrations」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You discover some hand-drawn pictures on Shin's desk.
 
 - Pick up
@@ -17,6 +25,10 @@ You discover some hand-drawn pictures on Shin's desk.
   They are all sketches of Mania creatures.
 
 ### 「Times Have Changed」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 After completing a mission, you visit Shin's room to check on her condition.
 
@@ -50,6 +62,10 @@ Shin: It's been a while since we last met. Come, sit down and talk with me.
 
 ### 「Mental Contamination」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 Incident detected during the hypnosis treatment of the Sinner Shin. Go investigate?
@@ -81,6 +97,10 @@ Incident detected during the hypnosis treatment of the Sinner Shin. Go investiga
     After the incident concluded, you canceled the rest of Shin's hypnotherapy sessions.
 
 ### 「Your Choice」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 While you and Shin were conducting simulated training, you suddenly felt waves of pain in your wrist.
 
@@ -135,6 +155,10 @@ While you and Shin were conducting simulated training, you suddenly felt waves o
     Shin: Very well. I'll accept whatever you choose.
 
 ### 「Call of Darkness」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

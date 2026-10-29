@@ -2,6 +2,10 @@
 
 ### 「The Job of a Bodyguard」
 
+Location: Management Center
+
+Urgency: ⚠
+
 A merchant in Eastside is being hunted these days. She begs you to hire a reliable bodyguard for her. A bodyguard such as Cinnabar.
 
 She promises to pay you first.
@@ -22,6 +26,10 @@ Later on, you heard that the merchant had completely vanished.
 
 ### 「That can be sold too?」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Cinnabar has been receiving a lot of harassment letters from her extreme fans. It is now causing her too much trouble.
 
 She asked you to get rid of those letters.
@@ -34,6 +42,10 @@ She asked you to get rid of those letters.
 - Sell it as scrap paper
 
 ### 「Push-Up」
+
+Location: Training Room
+
+Urgency: ⚠
 
 In a push-up contest with staff members, Cinnabar wins by a narrow margin of five push-ups.
 
@@ -48,6 +60,10 @@ In a push-up contest with staff members, Cinnabar wins by a narrow margin of fiv
   Chief: I see.
 
 ### 「Warmup Exercise」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Cinnabar is practicing in the Training Room.
 
@@ -79,6 +95,10 @@ Cinnabar is practicing in the Training Room.
 
 ### 「Flavor Preference」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Cinnabar has already eaten a lot of stuff, but it seems she can keep going...
 
 Chief: Cinnabar, I didn't expect you had such a great appetite.
@@ -100,6 +120,10 @@ Chief: Cinnabar, I didn't expect you had such a great appetite.
     Cinnabar: I don't like any particular food. So long as it's a well-prepared dish, I'll happily eat it.
 
 ### 「Sweet Burden」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Cinnabar keeps pacing near you, looking like she has something to say.
 

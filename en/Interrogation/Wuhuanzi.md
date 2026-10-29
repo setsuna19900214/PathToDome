@@ -2,8 +2,14 @@
 
 ## Wuhuanzi - Interrogation I
 
+> Intelligence before completion:
+> During the handling of the Wisteria Mania incident's aftermath, Wuhuanzi is detained by the MBCC. This young traveling herbalist from Eastia is all about *earning good karma*, but her true purpose for coming to DisCity remains unclear. Unable to discern her genuine thoughts, you decide to begin the interrogation as soon as possible.
+
+> Intelligence after completion:
 > This interrogation has yielded no substantial progress. When confronted about the concept of *good karma* that leaves you completely baffled, Wuhuanzi is ever so evasive. You have your own guesses, but they only make her behavior seem more contradictory.
 > Perhaps you need a catalyst to understand why she's so fixated on this notion of *good karma*.
+
+### Interrogation Transcript
 
 In your stuffy office where the air hangs heavy and still, you silently leaf through a medical report about Wuhuanzi's patients.
 
@@ -289,10 +295,19 @@ Chief: It looks like it all comes back to *good karma* in the end.
 
 Chief: Sigh... One step at a time.
 
+> This interrogation has yielded no substantial progress. When confronted about the concept of *good karma* that leaves you completely baffled, Wuhuanzi is ever so evasive. You have your own guesses, but they only make her behavior seem more contradictory.
+> Perhaps you need a catalyst to understand why she's so fixated on this notion of *good karma*.
+
 ## Wuhuanzi - Interrogation II
 
+> Intelligence before completion:
+> An unexpected obituary disrupts Wuhuanzi's life, prompting the usually listless young woman to suddenly request emergency leave. As her supervisor and driver, you accompany her back to the Drifter Camp to attend a funeral.
+
+> Intelligence after completion:
 > The old woman's death has torn open wounds that Wuhuanzi has been neglecting. She's as confused as she is in pain. She admits to having kept secrets from you and is now ready to reveal her true feelings.
 > You wait for her to speak, patient as one awaiting the blooming of a flower.
+
+### Interrogation Transcript
 
 In your office, Nightingale is briefing you on the aftermath of the Wisteria Mania incident.
 
@@ -608,10 +623,19 @@ Wuhuanzi: Back in the interrogation room, when I said I was accumulating good ka
 
 Wuhuanzi: My misfortune wasn't something I was born with. It came from the disaster that destroyed my hometown.
 
+> The old woman's death has torn open wounds that Wuhuanzi has been neglecting. She's as confused as she is in pain. She admits to having kept secrets from you and is now ready to reveal her true feelings.
+> You wait for her to speak, patient as one awaiting the blooming of a flower.
+
 ## Wuhuanzi - Interrogation III
 
+> Intelligence before completion:
+> Wuhuanzi reveals her past and why she numbs herself with talk of *good karma*. You guide her through the Drifter Camp, knowing that if your words aren't convincing enough, then you must let her hear, see, and experience the truth firsthand.
+
+> Intelligence after completion:
 > With you by her side, Wuhuanzi bids her final farewell to the old woman. No one can solve death's mystery, nor predict the course of another's life. Those who heals cannot heal themselves, but fortunately, you've proven to be a patient and worthy confidant.
 > This time, it's your turn to help her locate the crux of her ailment.
+
+### Interrogation Transcript
 
 Gentle Female Voice: Youyou, have you memorized the new passage from yesterday?
 
@@ -1028,3 +1052,6 @@ Wuhuanzi's gaze remains resolute, completely unmoved by your desperate pleas.
 Chief: Sigh...
 
 You squeeze your eyes shut and try to convince yourself: Just pretend it's a budget version of the Bureau's signature coffee!
+
+> With you by her side, Wuhuanzi bids her final farewell to the old woman. No one can solve death's mystery, nor predict the course of another's life. Those who heals cannot heal themselves, but fortunately, you've proven to be a patient and worthy confidant.
+> This time, it's your turn to help her locate the crux of her ailment.

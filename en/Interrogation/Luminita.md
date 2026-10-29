@@ -2,8 +2,15 @@
 
 ## Luminita - Interrogation I
 
+> Intelligence before completion:
+> Recently, an old neighborhood in Eastside is rumored to be haunted, seriously impeding the area's redevelopment project. The real estate developer in charge has repeatedly pressured the Bureau to send Luminita to assess the allegedly haunted units and quell the rumors.
+> Meanwhile, an investigation report has caught your attention. Every single property that Luminita has handled turned out to have something to do with Mania.
+
+> Intelligence after completion:
 > When confronted with accusations of harboring Corruptors and using them to make haunted houses, Luminita readily admits to both charges, but insists it was all just a profit-making scheme with no other objectives.
 > You sense she's still hiding something, but lack the leads to press further. You request a day's outing for Luminita, wanting to uncover her true motive using the supernatural incidents in the old neighborhood as a pretext.
+
+### Interrogation Transcript
 
 NOT for the Faint-Hearted! Chilling Truth Unveiled: Ghost Sightings in Demolition-Bound Complex
 
@@ -327,10 +334,20 @@ You reach into your pocket and a thick stack of business cards comes tumbling ou
 
 Chief: ...
 
+> When confronted with accusations of harboring Corruptors and using them to make haunted houses, Luminita readily admits to both charges, but insists it was all just a profit-making scheme with no other objectives.
+> You sense she's still hiding something, but lack the leads to press further. You request a day's outing for Luminita, wanting to uncover her true motive using the supernatural incidents in the old neighborhood as a pretext.
+
 ## Luminita - Interrogation II
 
+> Intelligence before completion:
+> On the day of the outing, before your meeting with the real estate developer, you accompany Luminita to a café in Eastside where she entertains several potential homebuyers.
+> As it turns out, the haunted property business is indeed quite different from what you imagined.
+
+> Intelligence after completion:
 > The greedy real estate developer in charge of the old neighborhood's project is trying to force the residents out of their homes to speed up the redevelopment. To prevent this, Luminita, who has experienced a similar situation herself, collaborates with the residents to fabricate supernatural phenomena and spread rumors about the haunted houses.
 > After returning to the Bureau, you compile and submit a report on the outing. In it, you simply gloss over the truth behind the supernatural incidents, calling it just *an accidental encounter with Corruptors*.
+
+### Interrogation Transcript
 
 Cafe in Eastside 7:00 AM
 
@@ -802,10 +819,20 @@ You end the call, and silence reclaims the room.
 
 Luminita's face is hidden in the shadow of her beret, only her exceptionally bright eyes visible, staring at you in disbelief.
 
+> The greedy real estate developer in charge of the old neighborhood's project is trying to force the residents out of their homes to speed up the redevelopment. To prevent this, Luminita, who has experienced a similar situation herself, collaborates with the residents to fabricate supernatural phenomena and spread rumors about the haunted houses.
+> After returning to the Bureau, you compile and submit a report on the outing. In it, you simply gloss over the truth behind the supernatural incidents, calling it just *an accidental encounter with Corruptors*.
+
 ## Luminita - Interrogation III
 
+> Intelligence before completion:
+> Some time later, the redevelopment project in the old neighborhood has been transferred to a new contractor, with residents already moved to temporary housing arranged by the authorities.
+> After witnessing their living conditions firsthand, Luminita appears unusually troubled. Following a moment of contemplation, she takes you to a certain place.
+
+> Intelligence after completion:
 > Here where her old dwelling is no more, something that Luminita considers *home*—something that belongs only to her—still exists.
 > She knows she won't get over her obsession with houses so quickly, but like you, she hopes that someday when she comes back to the Bureau, she'll finally find the urge to say *I'm home*.
+
+### Interrogation Transcript
 
 Young Boy: Luminita!
 
@@ -1104,3 +1131,6 @@ On the desk, pinned beneath a book, rests a scrap of paper torn to business-card
 "Personal business card with my private contact info."
 
 "I'll be back to stay for a few days once I wrap up this job. Don't throw my stuff away!"
+
+> Here where her old dwelling is no more, something that Luminita considers *home*—something that belongs only to her—still exists.
+> She knows she won't get over her obsession with houses so quickly, but like you, she hopes that someday when she comes back to the Bureau, she'll finally find the urge to say *I'm home*.

@@ -2,8 +2,14 @@
 
 ## Uni - Interrogation I
 
+> Intelligence before completion:
+> According to new leaks, the MBCC's arrest squad has successfully captured the suspect of multiple missing celebrity cases happened in recent years: Sinner Uni. The case has met a bottleneck and the suspect refuses to cooperate with the investigation. You decide to interrogate her yourself.
+
+> Intelligence after completion:
 > Uni mocks those missing persons that they got what they deserved. As the interrogation progresses, you gradually realize Uni has her own agenda.
 > You were told that Uni is an irreplaceable part of the star-making industry, thus you decide to accept the councilor's invitation and infiltrate the cocktail party to uncover the truth.
+
+### Interrogation Transcript
 
 You come into the interrogation room. The young woman who is about to be interrogated is drumming her fingers on the armrest of her chair, impatience writ large on her face.
 
@@ -321,9 +327,18 @@ The moment when the shackles broke the mirror, you saw mirror fragments in the a
 
 Yet in those broken pieces, her reflection was nowhere to be seen.
 
+> Uni mocks those missing persons that they got what they deserved. As the interrogation progresses, you gradually realize Uni has her own agenda.
+> You were told that Uni is an irreplaceable part of the star-making industry, thus you decide to accept the councilor's invitation and infiltrate the cocktail party to uncover the truth.
+
 ## Uni - Interrogation II
 
+> Intelligence before completion:
+> Under the councilor's cordial invitation, you and Uni come to this cocktail party. The aim of this field operation is clear: monitor this Sinner and find the whereabouts of the missing persons.
+
+> Intelligence after completion:
 > In this greed-filled cocktail party, Uni shows you the immoral and hypocritical side of the guests. You lure the girl who wants plastic surgery away with her desire, but you fall into Uni's trap yourself: This has all been a plan to approach you. Her real target is none other than you.
+
+### Interrogation Transcript
 
 You and Uni are at the function organized by the councilor. Violin music in the background, whiffs of perfume in the air, drinks in pretentious hands... *Decadence* is the word that pops into your head as you take in the surroundings.
 
@@ -659,10 +674,18 @@ Uni: Our moment has finally come, Luna.
 
 You sense a menacing energy coming from the other end of the shackles, so you activate the shackles, right at the same time when Uni activates her power. The mirror shatters. Everything goes black, and you slip into unconsciousness.
 
+> In this greed-filled cocktail party, Uni shows you the immoral and hypocritical side of the guests. You lure the girl who wants plastic surgery away with her desire, but you fall into Uni's trap yourself: This has all been a plan to approach you. Her real target is none other than you.
+
 ## Uni - Interrogation III
 
+> Intelligence before completion:
+> Uni has been planning her attack for long. As the shackles crack the mirror, you walk into the illusion in the depths of her heart.
+
+> Intelligence after completion:
 > Looks are deceiving. Souls are ugly. Only her twin sister who's linked to her by blood can be trusted. Uni tries in vain to put together her sister's face again and bring her back, but you cannot complete this fake consolation.
 > The shackles grow and link you and Uni together. This is a relationship that exists solely between the two of you, beyond all falsehood and connected by the souls.
+
+### Interrogation Transcript
 
 You're falling, falling, falling... You stop falling and wake up with a start, only to find yourself in a strange room.
 
@@ -1017,3 +1040,6 @@ You put the photograph in the basket. The photograph shifts inside the frame.
 A corner of the mirror underneath peeks out.
 
 Inside the mirror is a sleeping woman with a face composed of features taken from different persons, waiting to be awakened.
+
+> Looks are deceiving. Souls are ugly. Only her twin sister who's linked to her by blood can be trusted. Uni tries in vain to put together her sister's face again and bring her back, but you cannot complete this fake consolation.
+> The shackles grow and link you and Uni together. This is a relationship that exists solely between the two of you, beyond all falsehood and connected by the souls.

@@ -2,7 +2,13 @@
 
 ## Coquelic - Interrogation I
 
+> Intelligence before completion:
+> Message from Syndicate arrest team: A dozen Sinners have been detected, suspected to be remnants of the Garden. Requesting MBCC support in detaining them.
+
+> Intelligence after completion:
 > Coquelic was severely injured, but still cast her powerful Mania power to resist the arrest team's attack. In the end, the exhausted Coquelic got detained, but the other Garden members remain unaccounted for.
+
+### Interrogation Transcript
 
 Garden Member A: Was everything smooth today? You weren't discovered, were you?
 
@@ -270,9 +276,18 @@ Coquelic: Cough... Chief, should I say, "It's nice to meet you," or...
 
 Coquelic: "It's been a while"?
 
+> Coquelic was severely injured, but still cast her powerful Mania power to resist the arrest team's attack. In the end, the exhausted Coquelic got detained, but the other Garden members remain unaccounted for.
+
 ## Coquelic - Interrogation II
 
+> Intelligence before completion:
+> Assassins typically prioritize their own safety. What is the Garden's motive for actively meddling in major incidents?
+> Can Coquelic, the Mentor who let other assassins escape and willingly got caught herself, bring you more valuable information about Paradeisos and the Underground?
+
+> Intelligence after completion:
 > A physical examination revealed that Coquelic is nearing the end of her life. Even in her weakest moments, she risked death to fight against the MBCC. Perhaps she can't even explain the motive behind her radical actions herself...
+
+### Interrogation Transcript
 
 <ins>*He's not what I expected, I thought he'd be more assertive. Why does he look even weaker than when he was unconscious?*</ins><br><ins>*She's not what I expected, I thought she'd be more assertive. Why does she look even weaker than when she was unconscious?*</ins>
 
@@ -572,9 +587,17 @@ When Nightingale arrives with the guards and the medical team, all they find are
 
 That is the mark left by a Garden assassin after achieving their goal.
 
+> A physical examination revealed that Coquelic is nearing the end of her life. Even in her weakest moments, she risked death to fight against the MBCC. Perhaps she can't even explain the motive behind her radical actions herself...
+
 ## Coquelic - Interrogation III
 
+> Intelligence before completion:
+> A carousel of memories plays over and over again. The Mania corruption continues. Coquelic is heading towards the end of her life.
+
+> Intelligence after completion:
 > There are still those who are waiting for her to wake up, and those who are using their frail bodies to shield her from danger. Coquelic sees her past self and finds the purpose of carrying on.
+
+### Interrogation Transcript
 
 ??: What a shame. They were so young... And their poor daughter.
 
@@ -820,10 +843,18 @@ Coquelic: *No, it's for...*
 
 Coquelic: *...my Garden.*
 
+> There are still those who are waiting for her to wake up, and those who are using their frail bodies to shield her from danger. Coquelic sees her past self and finds the purpose of carrying on.
+
 ## Coquelic - Interrogation IV
 
+> Intelligence before completion:
+> You temporarily take on some of Coquelic's Mania, nearly going into a coma from the severe pain. However, even this won't completely save her from dying. After finding out about this, a hesitant Coquelic hovers outside your door, unable to make up her mind.
+
+> Intelligence after completion:
 > Someone's got to shield these little flowers from the storm. Even if that means decomposing into the mud... This is her newfound purpose for carrying on.
 > "The Garden is now in your hands, Chief."
+
+### Interrogation Transcript
 
 <ins>Coquelic: What should I say to him...</ins><br><ins>Coquelic: What should I say to her...</ins>
 
@@ -1108,3 +1139,6 @@ Chief: Yeah, I can see it. It says...
 Chief: The Garden...
 
 Coquelic: ...is now in your hands, Chief.
+
+> Someone's got to shield these little flowers from the storm. Even if that means decomposing into the mud... This is her newfound purpose for carrying on.
+> "The Garden is now in your hands, Chief."

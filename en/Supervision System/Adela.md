@@ -2,17 +2,29 @@
 
 ### 「Nostalgia」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Soon after joining the MBCC, Adela has transformed her room into her new hair salon. She's even recreated the decorations of her original hair salon the best she could.
 
 - Perhaps she's feeling nostalgic.
 
 ### 「Hair Savior」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Adela has recommended a suitable shampoo for each hair type, and the overall scalp health has significantly improved in the Bureau.
 
 - Thanks, Adela!
 
 ### 「Hand Cream」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Nurse: Your wound is a little inflamed. I've cleaned it and redone the dressing. Don't forget to drop by every day to change the dressing.
 
@@ -47,6 +59,10 @@ The conversation from the infirmary grabs your attention. When you get closer, A
   Adela: Got it. Thanks, Chief. That's too nice of you.
 
 ### 「Handywoman」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You've recently heard a rumor about Adela. She can seemingly produce anything from her counter.
 
@@ -93,6 +109,10 @@ Out of pure curiosity, you decide to go and verify the legends about this myster
         Chief: Ahem, no. I'm only here to check out your counter. It's indeed as fascinating as the rumor suggests.
 
 ### 「Mother's Pendant」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Adela, who's usually easygoing and chatty, is pacing in the Outdoor Activity Area sullenly. Something seems off.
 
@@ -161,6 +181,10 @@ Adela, who's usually easygoing and chatty, is pacing in the Outdoor Activity Are
   Adela's steps seem particularly heavy. You watch her back and sigh softly.
 
 ### 「Trimming」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Your hair seems to be getting a bit too long these days, but you're not in the mood to either visit a hair salon outside or trim it yourself.
 

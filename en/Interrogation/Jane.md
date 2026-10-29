@@ -2,8 +2,14 @@
 
 ## Jane - Interrogation I
 
+> Intelligence before completion:
+> Corruptor activity is suddenly observed on the outskirts of Eastside near the Rust. Upon receiving an SOS from the Public Security Bureau squad, you quickly lead the Sinners to the site, where you witness a sheriff fighting against the Corruptors...
+
+> Intelligence after completion:
 > Her name is Jane, a sheriff-in-training from Eastside.
 > For some reason, she seems particularly interested in your shackles.
+
+### Interrogation Transcript
 
 Masked Man: Ah, the old sheriff was living a comfortable life before everything went downhill, it seems.
 
@@ -393,11 +399,21 @@ It's more than 37 million DisCoins this time. As usual, see you at the Bank of E
 
 —Coleman
 
+> Her name is Jane, a sheriff-in-training from Eastside.
+> For some reason, she seems particularly interested in your shackles.
+
 ## Jane - Interrogation II
 
+> Intelligence before completion:
+> The notorious bank robber gang Ghost resurfaces in Eastside after lying low for a period.
+> To counter Ghost, the Public Security Bureau has some new plans.
+
+> Intelligence after completion:
 > After killing Coleman, Jane also collapses on the ground.
 > The Public Security Bureau quickly takes over the scene, followed by medical staff and reporters...
-> Who do people see now when they look at Jane...? A sheriff who fought valiantly to kill the robber, a mole colluding with the criminals, or the notorious thief who once ravaged Eastside banks?
+> Who do people see now when they look at Jane? A sheriff who fought valiantly to kill the robber, a mole colluding with the criminals, or the notorious thief who once ravaged Eastside banks?
+
+### Interrogation Transcript
 
 Jane: Ah, what a coincidence!
 
@@ -847,11 +863,21 @@ There's a small line of text written on it.
 
 *Dear daughter, forge ahead without fear and overcome any force of evil that stands in your way.*
 
+> After killing Coleman, Jane also collapses on the ground.
+> The Public Security Bureau quickly takes over the scene, followed by medical staff and reporters...
+> Who do people see now when they look at Jane...? A sheriff who fought valiantly to kill the robber, a mole colluding with the criminals, or the notorious thief who once ravaged Eastside banks?
+
 ## Jane - Interrogation III
 
+> Intelligence before completion:
+> Sinner Jane sits before you, awaiting judgment from DisCity, from Eastside, and from the MBCC.
+
+> Intelligence after completion:
 > Jane hasn't received any *punishment* from the authorities.
 > However, all crimes come with a price, no matter what purpose or compelling motive lies behind.
 > Jane hasn't shirked her responsibility with death. She chooses to live on, to spend the rest of her life making amends for all her mistakes.
+
+### Interrogation Transcript
 
 Jane is sitting silently in the interrogation room, as if waiting for a judgment to be delivered on her.
 
@@ -1130,3 +1156,7 @@ Ever since Jane, a Sinner who doubles as a logistics worker, joined the bureau, 
 Despite looking cold and distant on the outside, she is actually very approachable.
 
 You stretch. You're heading to your office to start work when your communication device beeps. It's a message from Jane.
+
+> Jane hasn't received any *punishment* from the authorities.
+> However, all crimes come with a price, no matter what purpose or compelling motive lies behind.
+> Jane hasn't shirked her responsibility with death. She chooses to live on, to spend the rest of her life making amends for all her mistakes.

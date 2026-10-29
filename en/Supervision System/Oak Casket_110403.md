@@ -2,6 +2,10 @@
 
 ### 「Cool Off」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 During the dog days of summer, everyone likes to go and have a chat with Oak Casket. They leave covered in hot sweat and return covered in cold sweat. Nothing helps cool things off better.
 
 - Really?
@@ -10,11 +14,19 @@ During the dog days of summer, everyone likes to go and have a chat with Oak Cas
 
 ### 「Reap Without Sowing」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Dudu drags Oak Casket to run a booth with her in the Bureau, providing one-stop funeral services. But only Dudu works busily hustling for customers. Oak Casket sits on the side reading a literary anthology placidly the whole time.
 
 - This kind of activity is forbidden in the MBCC!
 
 ### 「Butterfly Specimen」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Oak Casket concentrates on making a new butterfly specimen. Those rare, beautiful blue wings easily grab your attention.
 
@@ -37,6 +49,10 @@ Oak Casket: It attains its ultimate form when it's turned into a specimen.
   Oak Casket: In this world, all beauty eventually perishes with time, but I've preserved the peak of its beauty eternally. It's a holy thing, don't you think?
 
 ### 「Outland Literary Anthology」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Oak Casket flips through a book with a cover written in Outland language in the library. You seldom see her here, so you go up to her out of curiosity.
 
@@ -67,6 +83,10 @@ Oak Casket: A literary anthology.
     Chief: I hope that day never comes.
 
 ### 「The Story of a Necklace」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Oak Casket carries a locket with her everywhere. You've seen the photo inside. It's one of an unknown woman and a boy.
 
@@ -111,6 +131,10 @@ You wonder how these two people are related to Oak Casket.
   Oak Casket: You think so? How surprising.
 
 ### 「Perfume」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Whenever you pass by Oak Casket or her room, you can always smell a very special fragrance.
 

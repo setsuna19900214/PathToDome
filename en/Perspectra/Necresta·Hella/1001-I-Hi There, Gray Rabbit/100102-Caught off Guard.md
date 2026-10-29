@@ -4,6 +4,18 @@
 
 Hi There, Gray Rabbit
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor I
+
 ## Find the missing Hella
 
 1. Chief arrives at a whimsical fairy tale forest.

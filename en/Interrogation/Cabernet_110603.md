@@ -2,7 +2,15 @@
 
 ## Cabernet - Interrogation I
 
+> Intelligence before completion:
+> The farce of the banquet seems to have temporarily come to an end, but there are still many problems to be solved...
+> The "mermaid meat" has been successfully separated and returned to normal. FAC took them back for protection as important persons related to the incident and collected their information for you...
+> You finally find out their names before they were turned into a mermaid—Carley and Greg. These two people may be an important breakthrough to help you understand Cabernet.
+
+> Intelligence after completion:
 > Carley and Greg's fear of Cabernet far exceeds your estimates, you can't get much useful information out of them. You're only hoping that the upcoming one-on-one interrogation can lead you to the truth.
+
+### Interrogation Transcript
 
 The familiar feeling of suffocating dread hits you.
 
@@ -306,9 +314,18 @@ Cabernet: It'll give me a chance to...
 
 Cabernet: Savor each of your reactions.
 
+> Carley and Greg's fear of Cabernet far exceeds your estimates, you can't get much useful information out of them. You're only hoping that the upcoming one-on-one interrogation can lead you to the truth.
+
 ## Cabernet - Interrogation II
 
+> Intelligence before completion:
+> This is your first private meeting with Cabernet after the end of that banquet.
+> From being partners in retrieving the "treasures," to the current relationship as Chief and Sinner, will she still honestly tell you about her past?
+
+> Intelligence after completion:
 > Although the communication was interrupted, Cabernet had also explained her past, including her torment of Carley and Greg. But did she really hold nothing back during the Interrogation? The rising Mania behind the shackles makes you uneasy.
+
+### Interrogation Transcript
 
 Cabernet: Where should I begin?
 
@@ -550,9 +567,18 @@ Cabernet: Hehe. All right, Chief, are you ready for the "main course"?
 
 Cabernet: For what is worth, if you do sense harm coming their way, you can always stop me by drawing strength from your *sense of justice* and *anger*.
 
+> Although the communication was interrupted, Cabernet had also explained her past, including her torment of Carley and Greg. But did she really hold nothing back during the Interrogation? The rising Mania behind the shackles makes you uneasy.
+
 ## Cabernet - Interrogation III
 
+> Intelligence before completion:
+> To prevent conflict, you rush to where Carley and Greg are with Cabernet. But on the way, Cabernet suddenly smiles as if everything has been settled.
+> "It's too late, little Chief... You can't save everyone."
+
+> Intelligence after completion:
 > With Greg's unconsciousness and Carley's loss of control, the situation is developing in an unpredictable direction. This is the "main course" that Cabernet has carefully prepared for you.
+
+### Interrogation Transcript
 
 Greg: Who bound my arms and legs? Oh yes, it's those armored soldiers who restrained me.
 
@@ -764,10 +790,18 @@ Carley: Where can I find more? I haven't had enough! Not enough at all!
 
 Carley: I want more! Give me more!
 
+> With Greg's unconsciousness and Carley's loss of control, the situation is developing in an unpredictable direction. This is the "main course" that Cabernet has carefully prepared for you.
+
 ## Cabernet - Interrogation IV
 
+> Intelligence before completion:
+> You couldn't stop the tragedy between Carley and Greg from escalating, but at least there's still room for recovery. It's time to end this passive situation where you're the pawn.
+
+> Intelligence after completion:
 > At that banquet, what Cabernet encountered was perhaps not only the most honorable soul and the shackles that imprison desires, but also the only one who understood the emptiness of her desires, both a confidant and an opponent...
 > The feast prepared for you has not yet ended.
+
+### Interrogation Transcript
 
 Carley: Stop! Where are you taking him?
 
@@ -1008,3 +1042,6 @@ Nor has she orchestrated any shenanigan that puts innocent people in harm's way.
 But she's never given up the idea of nurturing her "ingredient."
 
 ${PlayerName}: I will. I promise you that.
+
+> At that banquet, what Cabernet encountered was perhaps not only the most honorable soul and the shackles that imprison desires, but also the only one who understood the emptiness of her desires, both a confidant and an opponent...
+> The feast prepared for you has not yet ended.

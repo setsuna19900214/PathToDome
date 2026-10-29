@@ -2,17 +2,29 @@
 
 ### 「Friendly Match」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Passing by the Recreation Area, you catch the sound of harsh, snapping impacts. Jade crashes against the board, each strike so violent it seems to throw off sparks.
 
 - The uncle and niece are at it again.
 
 ### 「Morning Routine」
 
+Location: Management Center
+
+Urgency: ⚠
+
 A complaint comes in from one of the Sinners. Every morning, without fail, Chengxiao's five o'clock alarm drags them out of sleep.
 
 - Move Chengxiao to a different room.
 
 ### 「A Timely Reminder」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Lately, it seems every time you look up from your work, Chengxiao is there at the door.
 
@@ -41,6 +53,10 @@ Chengxiao: At the appropriate time, one should stand... and walk a few paces...
     But Chengxiao no longer seems to linger at your office door the way he once did.
 
 ### 「The Way to Unwind」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 According to the researchers, Chengxiao's M-value spikes at specific, predictable times throughout the day.
 
@@ -71,6 +87,10 @@ Chengxiao: ...Qi all tangled... the spirit unsettled... something to occupy the 
     Chief: Wouldn't count on it. His hobbies are pretty niche.
 
 ### 「The Art of Placement」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Outside Luminita's room, you catch her sorting through a box of strange little ornaments, ready to toss them all away.
 
@@ -117,6 +137,10 @@ Chengxiao: ...Misplaced. The energy's scattered... This one doesn't need to go.
   Rather than adjusting the ornaments again, Chengxiao helps Luminita dispose of them altogether. Only then does the wave of misfortune that had been following her finally break.
 
 ### 「Mahjong Stand-In」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Chengxiao has never once lost at mahjong in the Bureau. His reputation is so complete that no Sinner will share a table with him anymore, leaving him to watch from the sidelines in silence.
 

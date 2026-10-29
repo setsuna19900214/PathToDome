@@ -2,7 +2,13 @@
 
 ## Matilda - Interrogation I
 
+> Intelligence before completion:
+> Although a Sinner, Matilda joined the Bureau almost as if she were being transferred to a new position. It seems there is much more to Matilda than meets the eye.
+
+> Intelligence after completion:
 > You found out about Matilda's identity. However, with the hearing on the West District incident approaching, she is forced to make a choice. You decide to offer her some assistance.
+
+### Interrogation Transcript
 
 You push open the door and walk into the reception room.
 
@@ -300,9 +306,17 @@ Matilda: If it's not too much to ask...
 
 Matilda: Could I use your office for a while?
 
+> You found out about Matilda's identity. However, with the hearing on the West District incident approaching, she is forced to make a choice. You decide to offer her some assistance.
+
 ## Matilda - Interrogation II
 
+> Intelligence before completion:
+> Matilda has been preparing relentlessly for her testimony at the hearing, and you've grown somewhat concerned for her health.
+
+> Intelligence after completion:
 > You had a long talk with Matilda. The influence of her aunt on Matilda is deeper than you had expected.
+
+### Interrogation Transcript
 
 36 hours before the hearing, 4:29 A.M.
 
@@ -538,9 +552,17 @@ Matilda smiles and nods.
 
 Matilda: Mm, you should get some rest too.
 
+> You had a long talk with Matilda. The influence of her aunt on Matilda is deeper than you had expected.
+
 ## Matilda - Interrogation III
 
+> Intelligence before completion:
+> The hearing on the West District incident is upon us, and you accompany Matilda to it.
+
+> Intelligence after completion:
 > After the hearing, the situation in Eastside changed, and Matilda embarked on her own path.
+
+### Interrogation Transcript
 
 Black Screen: █/█, 7:00 P.M., some venue in Eastside
 
@@ -1085,3 +1107,5 @@ Bernadette: Really? That's great.
 Bernadette: Well, I'm looking forward to the day when our paths cross again.
 
 Matilda: I feel the same way, Aunt Bernadette.
+
+> After the hearing, the situation in Eastside changed, and Matilda embarked on her own path.

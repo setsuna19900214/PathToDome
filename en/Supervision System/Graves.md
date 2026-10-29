@@ -2,17 +2,29 @@
 
 ### 「The Vanishing Cafeteria」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Graves spent the entire night transforming the dining tables into a wedding setup. Several Sinners thought they had taken a wrong turn, and while searching for the cafeteria, they ended up missing mealtime altogether.
 
 - If you want to change the decorations, just let us know.
 
 ### 「Spooky Sweets」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Graves has started learning how to make desserts. Her creations are deliciously sweet, but terrifying in appearance. The finger cookies and eyeball jellies have become particularly popular.
 
 - Praise and suggest serving these desserts at the end of October
 
 ### 「One-of-a-Kind」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Since moving into the Bureau, Graves has learned about wedding customs from various places. Now, she's decided to design a unique wedding ceremony for people to use in weddings that she officiates.
 
@@ -41,6 +53,10 @@ Graves: Chief, look at my latest design!
     Graves: Hmm, that's a tough decision. Looks like my wedding plan still needs some refinement!
 
 ### 「Shrill Screams」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Graves: Chief, it's so late! Are you working overtime?
 
@@ -73,6 +89,10 @@ Graves: I watched one by myself once, and the content was... too scary...
     Chief: There's no ghost, none at all! You're all just scaring each other. Everyone calm down, please...
 
 ### 「Midnight Melody」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Graves often plays the pipe organ in the Recreation Area. She can effortlessly perform wedding marches that sound beautifully melodious.
 
@@ -121,6 +141,10 @@ But recently, you realize you haven't heard her play for quite some time.
   Graves: Thank you, Chief. You're always so kind!
 
 ### 「Midnight Mystery」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

@@ -2,6 +2,10 @@
 
 ### 「An Automatic Blade Sharpener」
 
+Location: Training Room
+
+Urgency: ⚠⚠⚠
+
 Holding a small device in her arms, Eureka explains something excitedly to Angell, who nods or shakes her head from time to time, making occasional replies.
 
 It is rare to see Angell interacting with another Sinner. Your curiosity is piqued.
@@ -53,6 +57,10 @@ It is rare to see Angell interacting with another Sinner. Your curiosity is piqu
   Angell: Either works for me. They both get the job done.
 
 ### 「Interviews」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Bianca: Hello everyone, today we are interviewing Sinners about their living conditions inside the MBCC.
 
@@ -140,6 +148,10 @@ Bianca: Relax, I'll remove any sensitive information before publishing. I believ
 
 ### 「Deceiving Appearance」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 Chief: For once I've finished work early. Time to savor this rare, peaceful afternoon...
 
 Thud! Crackle! Whoosh! Zoom!
@@ -174,11 +186,19 @@ Chief: And that's that... Well, not sure what's going on, but those noises don't
 
 ### 「Beware of the Black Market」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Right after Eureka stepped into MBCC, she got roped in by the other Sinners and hauled off to the black market. She almost blew all her cash on what was rumored to be a piece of mythical meteoric iron—but, as luck would have it, it was just Summer's lab junk masquerading as treasure.
 
 - We should keep her away from the black market; she might get taken for a ride.
 
 ### 「Greenhouse Exclusive」
+
+Location: Greenhouse
+
+Urgency: ⚠
 
 One of the Sinners requested Eureka to devise a tool to boost watering efficiency. What she came up with was a 360-degree watering can that doused everything around it, user's switch-pressing arm included.
 
@@ -186,11 +206,19 @@ One of the Sinners requested Eureka to devise a tool to boost watering efficienc
 
 ### 「The Chef's Darling」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Eureka regularly skips meals, lost in her world of inventions, but she's no food critic. She's unfazed by leftovers rejected by other Sinners for their less-than-stellar cooking. Thanks to this, she's the cafeteria lady's favorite, often rewarded with bonus sweet treats.
 
 - Eureka, a more balanced diet is better for your health.
 
 ### 「Practical Ingenuity」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Lately, we've picked up that certain Sinners are overstaying their welcome in the Training Room, way beyond what's permitted. Plus, there's a high overlap in their hangout spots. We need to check this out.
 
@@ -226,6 +254,10 @@ Chief: Looks like the spot's right here in this corner... Wait, is this gizmo ne
 
 ### 「The Makeshift Fixer」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Attention, attention! We've got a bunch of sketchy repair tickets cropping up in the Recreation Area. Please investigate soon.
 
 Chief: Why am I getting these maintenance requests, and with an alarm, no less? Isn't this Faye's turf to handle?
@@ -257,6 +289,10 @@ Chief: Why am I getting these maintenance requests, and with an alarm, no less? 
     Chief: Well, not quite... I've figured out the reason behind all these repeat maintenance calls...
 
 ### 「Dark Machinations」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Eureka: Blueprints... Where are those blueprints...
 

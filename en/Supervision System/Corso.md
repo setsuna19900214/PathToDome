@@ -2,6 +2,10 @@
 
 ### 「No Cheating」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Dart-throwing competitions are sometimes held in the Recreation Area. Corso often wins them by discreetly modifying the darts, and this has enraged many Sinners.
 
 - Tell her off
@@ -10,17 +14,29 @@ Dart-throwing competitions are sometimes held in the Recreation Area. Corso ofte
 
 ### 「Be Civilized」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Supervision System keeps detecting vandalism. You find out Corso has taken the parts back to her room to make weapons.
 
 - Fortify the facilities
 
 ### 「Too Broke」
 
+Location: Training Room
+
+Urgency: ⚠
+
 Ninety-Nine is Corso's favorite opponent to take on during training because she wants to find out how long she can hold out in the face of sheer power. But she hasn't trained with Ninety-Nine in days. When questioned, she says it's because Hella asks for a fee every time she practices with Ninety-Nine and it's breaking the bank for her.
 
 - I see...
 
 ### 「Don't Call Me A Stray」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -68,6 +84,10 @@ You've received an SOS from the hypnotist. Please confirm.
 
 ### 「Dog Lover」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 A Sinner has brought back a stray puppy from a mission, but you're still debating how to deal with it.
 
 Chief: What should I do with it...
@@ -95,6 +115,10 @@ Corso: You'll find no one better than me in the entire Bureau.
   Chief: It looks like she's indeed taking good care of the puppy.
 
 ### 「Ability Assessment」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 It's been a long time since Corso's last ability assessment. You decide to run a quantitative test on her ability.
 

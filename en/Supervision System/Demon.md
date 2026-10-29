@@ -2,17 +2,29 @@
 
 ### 「Capture」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Demon the Sinner turned in the loots he confiscated during the operation.
 
 - Take
 
 ### 「Application」
 
+Location: Management Center / Training Room
+
+Urgency: ⚠
+
 Demon the Sinner requested to replace his broken armor and equipment.
 
 - Approve
 
 ### 「Vending Machine」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 The vending machine is making beeping sounds, drawing attention from people around it.
 
@@ -43,6 +55,10 @@ Chief: What's the matter? Is it broken?
     Demon: ...You're welcome.
 
 ### 「Training」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Gunshots come from the shooting range. Someone is practicing their marksmanship there.
 
@@ -77,6 +93,10 @@ Chief: I didn't expect you had such a good aim. Why don't you use a gun in comba
     Auto Rating System: Your final score is 98.
 
 ### 「Mission Request」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 Demon seems a bit irritated during the regular hypnotherapy session.
 
@@ -123,6 +143,10 @@ Chief: Something wrong?
     Demon: Unfortunately, good people don't last very long in this place.
 
 ### 「Shield Stolen」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 Demon the Sinner lost his shield to a thief. Investigate immediately.
 

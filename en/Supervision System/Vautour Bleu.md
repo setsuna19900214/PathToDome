@@ -2,17 +2,29 @@
 
 ### 「Taste」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Vautour Bleu often orders all sorts of Eastside desserts through the Supply Office. You've had the chance to taste some, but you really can't handle how sickeningly sweet they are.
 
 - To each their own.
 
 ### 「Stand-in Accountant」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You're just worrying about who will handle the accounts during the Bureau's accountant's two-day sick leave when Vautour Bleu volunteers to take over the work. After agreeing on her compensation, she gets everything done with remarkable efficiency and accuracy.
 
 - She's worth every penny.
 
 ### 「Social Butterfly」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Vautour Bleu: Oh, Kelvin! Thank you for the ice cream you made me yesterday. It was absolutely delightful.
 
@@ -53,6 +65,10 @@ Despite having been in the Bureau for only a few days, she seems to have already
   Vautour Bleu: After all, investing in people's hearts is always the best bet for one's capital.
 
 ### 「Massage」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Today, you're personally attending Vautour Bleu's regular psychological consultation. Used to her warm and friendly public demeanor, you're surprised to notice traces of fatigue in her expression now that you're alone together.
 
@@ -103,6 +119,10 @@ Today, you're personally attending Vautour Bleu's regular psychological consulta
     Vautour Bleu: I'd be more than happy to be of service, dear Chief.
 
 ### 「What Dessert Are You?」
+
+Location: Greenhouse / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 After spending some time with Vautour Bleu, you notice she has quite an unusual habit when it comes to addressing people.
 
@@ -165,6 +185,10 @@ Chief: Hmm... but then again, who says you have to be a dessert?
 Chief: After all, the bitterness of strong tea has its own distinct charm.
 
 ### 「One-Day Observer」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 In the ever-bustling Recreation Area filled with chatter and laughter, Vautour Bleu sits alone in a corner booth, swirling her glass and looking out of place amid the lively atmosphere.
 

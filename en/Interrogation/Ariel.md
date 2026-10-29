@@ -2,8 +2,14 @@
 
 ## Ariel - Interrogation I
 
+> Intelligence before completion:
+> Actively revealing her Sinner's ability and interfering the FAC's law enforcement in the Eastside. Such a foolish act is no different than turning herself in. There is probably more to it than meets the eye. Given that Ariel is no ordinary person, you decided to interrogate her to get down to the bottom of this case.
+
+> Intelligence after completion:
 > Do "Sins" really equal "Sinners"? This question had a new answer when Ariel showed up.
 > Perhaps this seemingly spoiled girl hailing from a rich family has a heart clearer and more resolute than anyone else.
+
+### Interrogation Transcript
 
 Ariel: W-what is this place?
 
@@ -263,9 +269,18 @@ Chief: Of course.
 
 Ariel: I... want to go back to see my father. Perhaps this will be the last time...
 
+> Do "Sins" really equal "Sinners"? This question had a new answer when Ariel showed up.
+> Perhaps this seemingly spoiled girl hailing from a rich family has a heart clearer and more resolute than anyone else.
+
 ## Ariel - Interrogation II
 
+> Intelligence before completion:
+> Ariel has been behaving herself both during the interrogation and while carrying out her daily tasks for the Bureau. You helped her earn a chance to visit her father back home. However, the Spencer Family is famous for their anti-Mania standpoint in Eastside. Will they truly accept Ariel for who she is now? Her visit home won't be anything short of trouble.
+
+> Intelligence after completion:
 > Ariel's father is more cold-hearted and extreme than you expected. Apparently, Ariel was anticipating her father to react that way. She is here this time not to visit her family but to bid them farewell.
+
+### Interrogation Transcript
 
 Ariel: Chief... Is it really okay for a Sinner to visit family?
 
@@ -523,9 +538,17 @@ Chief: Ariel! Wake up! The medical team is here!
 
 Chief: Ariel!!!
 
+> Ariel's father is more cold-hearted and extreme than you expected. Apparently, Ariel was anticipating her father to react that way. She is here this time not to visit her family but to bid them farewell.
+
 ## Ariel - Interrogation III
 
+> Intelligence before completion:
+> Flowers, tears, and the farewell bids of family... Ariel witnessed her own funeral from the best spot.
+
+> Intelligence after completion:
 > The FAC didn't make it explicit, but they agreed with your decision. The Spencers and the rescued Maniacs stay out of this. Behind this seemingly happy ending, the only victim is Ariel who has to leave behind her family name and everything in the past, trying to start a new life in a hurry.
+
+### Interrogation Transcript
 
 Ariel: Thank you, Chief.
 
@@ -706,3 +729,5 @@ Ariel: Did you hear that, Chief?
 Chief: Seems like a sound of a test tube cracking?
 
 Ariel: Oh no! This one can't be stored at low temperatures, either!
+
+> The FAC didn't make it explicit, but they agreed with your decision. The Spencers and the rescued Maniacs stay out of this. Behind this seemingly happy ending, the only victim is Ariel who has to leave behind her family name and everything in the past, trying to start a new life in a hurry.

@@ -2,6 +2,10 @@
 
 ### 「One-Day Chief」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! Rest assured, I've got the Bureau now!
 
 - ...Nothing can make me less reassured, you know?
@@ -46,6 +50,10 @@ Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! 
 
 ### 「A Better Workplace」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 After the passing of the bail regulations, the Bureau begins to further promote the socialization of Sinners. One of the measures is helping Sinners sell their own products, that is, those uncontaminated by Mania.
 
 Chief: Cassia's perfume sells very well. People buy it even without knowing who made it. The sales figures are impressive... Hmm? Am I hearing some heavy footsteps?
@@ -82,6 +90,10 @@ Chief: Though I don't know what your complaint is about, yes. But Rise, maybe yo
 
 ### 「Undercover Glamour」
 
+Location: Management Center / Darkroom
+
+Urgency: ⚠⚠
+
 Matilda: Hey, cut it out. I'm lost here... I'm playing along because this is part of a Public Security Bureau case, but if you don't drop this act, I'm going straight to Chief!
 
 Cassia: Even if you're not sure about your looks, at least believe in my nose... I'm spot on when it comes to recognizing beauty. The scent you carry... Ah, it's absolutely captivating...
@@ -114,11 +126,19 @@ Chief: It sounds like... Cassia and Matilda? Is there trouble brewing? Just hang
 
 ### 「Ulterior Motive」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Suddenly, there's a rush of Sinners clamoring for rooms near Cassia's place. A bit of digging reveals why: the fragrance Cassia gives off while training has the power to make people more beautiful. They're all flocking to her, eager for a whiff of beauty.
 
 - Firmly reject
 
 ### 「Side Effects」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 A few hit-and-miss hypnosis treatments later, it turns out that while hypnosis can kind of perk up Cassia's spirits, it dulls her sense of smell in the process. And that's a no-go for her.
 
@@ -126,11 +146,19 @@ A few hit-and-miss hypnosis treatments later, it turns out that while hypnosis c
 
 ### 「Terror Strike」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Horror flicks at the Recreation Area just got way scarier. Turns out, Enfer's been on a quest to study fear in all its forms and got Cassia to whip up a special perfume that cranks up the fear factor, sneaking a few spritzes in during showtime.
 
 - Hey, no scaring folks for fun, and definitely no aiding and abetting the tormentors.
 
 ### 「Vanished Cake」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 The intense work stint is over, and you drop your files, eager for a snack break. The cafeteria lady promised a little cake tucked away in the fridge, a bit of sugary healing for your soul.
 
@@ -166,6 +194,10 @@ Chief: Looking for my cake. It was supposed to be right here. You're always here
 
 ### 「Perfume Formulas」
 
+Location: Management Center / Confinement Cell
+
+Urgency: ⚠⚠
+
 Recently, the Sinner Cassia started moving in patterns that set off alarm bells. She's suspected of bribing someone on the inside. We need to look into this, pronto.
 
 Chief: On XX/XX, Cassia was caught whispering to several workers for hours on end, handing them mysterious parcels with nothing but sticky notes attached...
@@ -195,6 +227,10 @@ Chief: On XX/XX, Cassia was caught whispering to several workers for hours on en
     Chief: A collection of perfume formulas? I see, it's not a diary, but a notebook for jotting down fragrance inspirations.
 
 ### 「Every Gain Has Its Way」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Cassia, a perfumer who's all in when it comes to her craft, usually couldn't care less about anything that doesn't involve fragrances or spices, and she's not one for social butterflies either. But recently, there's been a noticeable change in her.
 

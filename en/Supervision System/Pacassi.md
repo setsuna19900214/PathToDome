@@ -2,11 +2,19 @@
 
 ### 「Library Regular」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Pacassi is a regular at the library, most of the books she reads are somewhat obscure poetry collections.
 
 - That's impressive.
 
 ### 「Mechanical Arm Maintenance」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 Today is the day for Pacassi's regularly scheduled arm maintenance. Iron calls her to the infirmary early in the morning.
 
@@ -14,11 +22,19 @@ Today is the day for Pacassi's regularly scheduled arm maintenance. Iron calls h
 
 ### 「Nosebleed」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Pacassi often gets nosebleeds due to previous radiation exposure, you wonder if this condition can be treated.
 
 - Consult the doctor
 
 ### 「Emergency Incident」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -49,6 +65,10 @@ Warning. The Energy Furnace has malfunctioned and is leaking. It requires immedi
     Pacassi: It's really nothing. I used to do repair work at the Mayek nuclear power station, so compared to that, this isn't a big deal.
 
 ### 「Tin Soldier」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -83,6 +103,10 @@ Sinner Pacassi requests access to the office. Grant permission?
       Chief: So, I'm actually very happy that you have your own hobby.
 
 ### 「Local Literature」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 You notice that a new trend has swept through the MBCC recently, with both Sinners and staff members eagerly passing around a mysterious blue booklet.
 

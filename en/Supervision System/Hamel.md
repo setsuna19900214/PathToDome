@@ -2,6 +2,10 @@
 
 ### 「Forbidden Summit」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got into a fight in the Recreation Area after a disagreement.
 
 - Go immediately to the Recreation Area
@@ -34,6 +38,10 @@ A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got i
 
 ### 「Ice Cream」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Hamel tries a spoonful of the ice cream made by Kelvin and her eyes light up.
 
 - If you like it...
@@ -42,11 +50,19 @@ Hamel tries a spoonful of the ice cream made by Kelvin and her eyes light up.
 
 ### 「Dance Awakening」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 A lot of Sinners and staff members have expressed interest in learning dance from Hamel, including middle-aged men in their forties.
 
 - It's never too late to start.
 
 ### 「SOS」
+
+Location: Management Center / Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -84,6 +100,10 @@ You've received an SOS from the hypnotist. Please confirm.
 
 ### 「Bad Guy Radar」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 On the Bureau's movie night, everyone gathers around in the Recreation Area to watch a thriller.
 
 You suddenly recall hearing someone mention Hamel's *bad guy radar*. You want to test it out tonight.
@@ -112,6 +132,10 @@ You suddenly recall hearing someone mention Hamel's *bad guy radar*. You want to
   - Hamel is indeed amazing.
 
 ### 「Early-Morning Practice」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 You wake up very early today. While taking a walk, you run into Hamel who's stretching in the Recreation Area.
 
@@ -164,6 +188,10 @@ With long and slim limbs, her lithe body makes an indescribably beautiful pictur
     Hamel: Alright... If you feel like it one day, you're always welcome.
 
 ### 「Distracted」
+
+Location: Management Center / Greenhouse
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

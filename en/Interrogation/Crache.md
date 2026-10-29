@@ -2,8 +2,14 @@
 
 ## Crache - Interrogation I
 
+> Intelligence before completion:
+> A few days ago, the special task force tracked down the last batch of Mania Crystals known to Syndicate, but failed to seize them. However, there were clues suggest that *the Homeless* are connected to this matter, and you therefore decided to conduct an interrogation of the Homeless' leader, Crache.
+
+> Intelligence after completion:
 > You confirmed through the interrogation that Crache was unaware of the stolen Mania Crystals, and therefore thought of another possibility: someone else within *the Homeless* had organized the event.
 > Out of concern for her partners, Crache agreed to your invitation to cooperate in the investigation.
+
+### Interrogation Transcript
 
 On (month redacted) 4, the intelligence agency located the last known batch of Mania Crystals in Syndicate. On the same day, the MBCC set up a special task force targeting this specific batch of the dangerous substance.
 
@@ -347,10 +353,19 @@ Chief: That won't happen.
 
 Crache: Haha, try not to have too much faith in your shackles... Chief.
 
+> You confirmed through the interrogation that Crache was unaware of the stolen Mania Crystals, and therefore thought of another possibility: someone else within *the Homeless* had organized the event.
+> Out of concern for her partners, Crache agreed to your invitation to cooperate in the investigation.
+
 ## Crache - Interrogation II
 
+> Intelligence before completion:
+> You left the Bureau with Crache to the stronghold of *the Homeless* to investigate the whereabouts of the stolen Mania Crystals.
+
+> Intelligence after completion:
 > After talking to the kids, you have found out that some of them know a lot about Mania Crystals, and that a member of the *the Homeless* named Sandy has been missing for days and may be the real organizer of the theft.
 > However, when you find Sandy, she insists that she is not the person who stole Mania Crystals and is willing to help you find them in exchange for asylum.
+
+### Interrogation Transcript
 
 Gang member: Stop!
 
@@ -800,10 +815,19 @@ Sandy: No problem!
 
 Sandy agrees fervently.
 
+> After talking to the kids, you have found out that some of them know a lot about Mania Crystals, and that a member of the *the Homeless* named Sandy has been missing for days and may be the real organizer of the theft.
+> However, when you find Sandy, she insists that she is not the person who stole Mania Crystals and is willing to help you find them in exchange for asylum.
+
 ## Crache - Interrogation III
 
+> Intelligence before completion:
+> You put Sandy in the Bureau and Crache together for one night at her request. However, something unexpected happened the next day...
+
+> Intelligence after completion:
 > You guys arrived at the plant where Sandy hid Mania Crystals, but all that was left there was a mess and blood everywhere.
 > Only after retrieving the surveillance of the Executive Committee did you learn that it was Thou Voodoos that had robbed the kids and Mania Crystals before you.
+
+### Interrogation Transcript
 
 In the pitch-dark room, starlight filters through the window onto the floor.
 
@@ -1045,10 +1069,19 @@ You try and try but still can't think of more comforting words to say to her. Al
 
 Chief: ...I promise you, nothing will happen to them.
 
+> You guys arrived at the plant where Sandy hid Mania Crystals, but all that was left there was a mess and blood everywhere.
+> Only after retrieving the surveillance of the Executive Committee did you learn that it was Thou Voodoos that had robbed the kids and Mania Crystals before you.
+
 ## Crache - Interrogation IV
 
+> Intelligence before completion:
+> You immediately arrived at the foothold of Thou Voodoos, but were unable to break in that old building due to the large number of Mania Crystals and Mania weapons in their hands.
+
+> Intelligence after completion:
 > Even though the reality is cruel and desperate, you still believe in miracles and hope, just like you always believe that she can find a way to change the future.
 > All the darkness and hardships that lie ahead, you will face them with her.
+
+### Interrogation Transcript
 
 Mission Operative: Chief, the stealth team has failed. Four members have been injured and require emergency Mania treatment...
 
@@ -1425,3 +1458,6 @@ Crache: Yeah? Then I'm really...
 Crache: Too lucky...
 
 She doesn't meet your gaze again.
+
+> Even though the reality is cruel and desperate, you still believe in miracles and hope, just like you always believe that she can find a way to change the future.
+> All the darkness and hardships that lie ahead, you will face them with her.

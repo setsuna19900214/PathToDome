@@ -2,17 +2,29 @@
 
 ### 「Education Expert」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 There are a few little troublemakers in the Bureau, but surprisingly, their mischievous behavior has improved considerably under Jelena's guidance.
 
 - She really knows what she's doing.
 
 ### 「Old Photo Album」
 
+Location: Management Center / Darkroom
+
+Urgency: ⚠
+
 Jelena still keeps an old photo album, cherishing the precious moments of her life within its pages.
 
 - Those must be the memories that she holds dear.
 
 ### 「Afternoon Poetry」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Since Jelena joined MBCC, the Bureau's library has gained another regular visitor. Today, you run into her again while returning some materials.
 
@@ -53,6 +65,10 @@ To your surprise, it's a poetry collection written in an Outland language, its p
   You find yourself lost in the gentle melody of Jelena's voice as she reads. Without you even noticing, the entire afternoon slips away in the library's peaceful embrace.
 
 ### 「Simple Joys」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 In the greenhouse, surrounded by luxuriant foliage, you catch sight of Jelena with a watering can, caring for the spider plants she recently potted.
 
@@ -97,6 +113,10 @@ In the greenhouse, surrounded by luxuriant foliage, you catch sight of Jelena wi
     Chief: Being able to cherish each moment as it comes... that truly is a blessing.
 
 ### 「Rain Listening」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Heavy rain in the Outdoor Activity Area has left many Sinners disheartened, their outdoor plans washed away for the day.
 
@@ -161,6 +181,10 @@ You drift off to sleep without realizing when, and upon opening your eyes, you f
 Someone has draped a blanket over you, and on the nearby table sits a cup of strong tea, with steam still rising in delicate wisps.
 
 ### 「Moonlit Night」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 After finally finishing your work for the day, you decide to get some fresh air in the Outdoor Activity Area.
 

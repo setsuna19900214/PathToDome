@@ -2,8 +2,14 @@
 
 ## Victoria - Interrogation I
 
+> Intelligence before completion:
+> Victoria often injures the Bureau's workers and the other Sinners for no apparent reason. Chief's mailbox is filled with complaints about Victoria's behaviors. To investigate the reason behind Victoria's aberrant behavior, you decided to interrogate her.
+
+> Intelligence after completion:
 > According to the interrogation and subsequent investigation results, Victoria was born with poor immunity and her blood could not coagulate. To cure and protect her, Victoria's father resorted to extreme measures, locking Victoria to prevent her from getting in contact with anything or anyone in the outside world.
 > Eventually, Victoria's father used the mechanic of awakening a Sinner to cure her illness, but he himself consumed the same unknown medicine and turned into a Corruptor. Having grown up in a secluded environment, Victoria mistook the meaning of love and slew her father after he became a Corruptor. But even after that, she continued to live under her psychopathic, paranoid father's shadow, causing her severe mental issues.
+
+### Interrogation Transcript
 
 "La... la la... la..."
 
@@ -379,11 +385,20 @@ Chief: But Victoria, your father...
 
 Chief: He's not coming back.
 
+> According to the interrogation and subsequent investigation results, Victoria was born with poor immunity and her blood could not coagulate. To cure and protect her, Victoria's father resorted to extreme measures, locking Victoria to prevent her from getting in contact with anything or anyone in the outside world.
+> Eventually, Victoria's father used the mechanic of awakening a Sinner to cure her illness, but he himself consumed the same unknown medicine and turned into a Corruptor. Having grown up in a secluded environment, Victoria mistook the meaning of love and slew her father after he became a Corruptor. But even after that, she continued to live under her psychopathic, paranoid father's shadow, causing her severe mental issues.
+
 ## Victoria - Interrogation II
 
+> Intelligence before completion:
+> In the next few days after the interrogation, Victoria has been behaving herself. We haven't seen her hurting anyone out of "good intentions." Unbeknownst to us, however, she has been planning something far more dangerous.
+
+> Intelligence after completion:
 > Victoria kidnapped you without anyone else knowing. It was a close call when Nightingale found you just in time. Victoria's attempt to hurt you bears no fruits.
 > Chameleon the psychologist has her mental status under control for now, locking her in the dream of her subconscious.
 > You must make a choice before the FAC intervenes.
+
+### Interrogation Transcript
 
 ???: Chief... Chief?
 
@@ -643,10 +658,20 @@ Victoria: Daddy... Daddy...
 
 Victoria: Chief... Chief...
 
+> Victoria kidnapped you without anyone else knowing. It was a close call when Nightingale found you just in time. Victoria's attempt to hurt you bears no fruits.
+> Chameleon the psychologist has her mental status under control for now, locking her in the dream of her subconscious.
+> You must make a choice before the FAC intervenes.
+
 ## Victoria - Interrogation III
 
+> Intelligence before completion:
+> Victoria is not in her right mind. The FAC will never tolerate her even if you step in. You have no choice but to enter Victoria's dream and see if you can still talk some sense into her.
+
+> Intelligence after completion:
 > Victoria awoke from her subconscious dream world. Her mental status is now stabilizing. You made a friendly gesture and promised Victoria that you would teach and guide her. And the FAC decided to let this go.
 > The two of you now share the same fate. And you will have to figure out how to make her understand the meaning of "love" and the fact that her father has left her.
+
+### Interrogation Transcript
 
 Nightingale and the rest of the guards retreat outside, leaving only you, the patient, and the psychiatrist in the cell.
 
@@ -989,3 +1014,6 @@ Blood crystals form in her palm, showing the shape of a rose.
 Chief: ...
 
 No!
+
+> Victoria awoke from her subconscious dream world. Her mental status is now stabilizing. You made a friendly gesture and promised Victoria that you would teach and guide her. And the FAC decided to let this go.
+> The two of you now share the same fate. And you will have to figure out how to make her understand the meaning of "love" and the fact that her father has left her.

@@ -2,11 +2,19 @@
 
 ### 「Pictures of the Past」
 
+Location: Darkroom
+
+Urgency: ⚠
+
 There seems to be a new sketched painting in the Darkroom every day. You checked the surveillance footage and realized it was Hecate's work. She uses the equipment there to sketch every day.
 
 - Prepare new sketchbooks for Hecate
 
 ### 「Model Employee」
+
+Location: Management Center
+
+Urgency: ⚠
 
 In last month's performance assessment, Hecate's overall rating drops to second place.
 
@@ -17,6 +25,10 @@ In last month's performance assessment, Hecate's overall rating drops to second 
   - ...
 
 ### 「Art Lover」
+
+Location: Management Center
+
+Urgency: ⚠
 
 You notice Hecate has been making fewer drawings these days.
 
@@ -34,6 +46,10 @@ You notice Hecate has been making fewer drawings these days.
 
 ### 「Nightmare」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Hecate recounts her nightmare to the hypnotist. After the therapy, the hypnotist applies for a day's leave.
 
 - Approve
@@ -41,6 +57,10 @@ Hecate recounts her nightmare to the hypnotist. After the therapy, the hypnotist
   The next day, the hypnotist goes to see a psychologist.
 
 ### 「Hecate's Picture Book」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 Hecate left her sketchbook in the Darkroom and you happen to find it. You flip through it.
 
@@ -59,6 +79,10 @@ Your image appears more and more often in Hecate's sketches.
     Hecate: I see, I'll keep drawing then.
 
 ### 「Hecate Observation Journal」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Time: 7:30
 
@@ -94,6 +118,10 @@ Target Behavior: Staring blankly at the ceiling
 
 ### 「Tragedy」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Hecate and the other Sinners watch a sad movie together. Some Sinners quietly wipe tears off their faces from time to time.
 
 Hecate: Chief, in a situation like this, am I supposed to cry?
@@ -111,6 +139,10 @@ Hecate: Chief, in a situation like this, am I supposed to cry?
     Chief: I can't help you understand that either...
 
 ### 「A Very Special Homebody」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Attention, Sinner Hecate has been staying in her room for over 24 hours. Go and check?
 
@@ -143,6 +175,10 @@ Attention, Sinner Hecate has been staying in her room for over 24 hours. Go and 
     Hecate: Friend... Is that what Chief is? If it means being with you, I'm glad to comply, Chief.
 
 ### 「Portrait」
+
+Location: Darkroom
+
+Urgency: ⚠⚠⚠
 
 You find what Hecate is drawing a bit familiar.
 
@@ -179,6 +215,10 @@ Chief: I plan to enlarge it and hang it on the main entrance of the Bureau as an
 Hecate: Of course. However, I don't think Miss Nightingale will ever agree to that.
 
 ### 「Savory Coffee」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 You meet Hecate in the Recreation Area. She's getting coffee.
 

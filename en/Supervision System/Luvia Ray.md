@@ -2,6 +2,10 @@
 
 ### 「Mysterious Fires」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The comprehensive report on this month's fire alerts and their handling has been sent. Please check it promptly.
 
 Chief: Hmm, why were there so many fire alerts this month? All were small fires... And why did the locations overlap with Yao's movements?
@@ -35,6 +39,10 @@ Chief: Hmm, why were there so many fire alerts this month? All were small fires.
     Yao: Why not? It brings me joy using my power to make others feel good about themselves. Much better than using it to burn everything to the ground. If you're interested, I'm more than happy to offer you my services.
 
 ### 「Phantom of the Opera」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Today, there are three Sinners who claim to have seen the "Phantom of the Opera," the figure described in scary stories. Relevant surveillance has been retrieved according to the reported locations and times, please check.
 
@@ -70,6 +78,10 @@ Chief: This new scary story character is said to be dressed in Broadway-style lo
 
 ### 「Biggest Fan」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Every time Joan holds a rock music concert, Ray is always there, sitting on her exclusive seat in the first row without fail.
 
 - Make a trophy
@@ -77,6 +89,10 @@ Every time Joan holds a rock music concert, Ray is always there, sitting on her 
   Considering that Ray has never won any awards, you created a special prize for her: the Biggest Fan Award.
 
 ### 「Successful Fan」
+
+Location: Black Market
+
+Urgency: ⚠
 
 The new boy in the Bureau is Luvia Ray's fan. He was ecstatic when he got to take a picture with her and ask her for a signature.
 
@@ -94,11 +110,19 @@ Chief: I didn't expect Luvia to actually have fans out there.
 
 ### 「Healthy Diet」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Luvia Ray has been sending slim meals to Chief's office for a week now. You grimaced at the plain vegetable salad on the desk and set it aside after she left.
 
 - I really can't eat anymore...
 
 ### 「Guess Who I Am?」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Luvia Ray the Sinner is showing strange behaviors. Would you like to check on her?
 
@@ -134,6 +158,10 @@ Luvia Ray the Sinner is showing strange behaviors. Would you like to check on he
 
 ### 「Sunscreen」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Luvia Ray is looking in the mirror with a broad smile on her face.
 
 - What are you doing?
@@ -159,6 +187,10 @@ Luvia Ray is looking in the mirror with a broad smile on her face.
   Luvia Ray: Don't forget to use it, or you are going to get sunburnt.
 
 ### 「Midnight Chat」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You received a request from a detention area employee.
 

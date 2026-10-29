@@ -2,17 +2,29 @@
 
 ### 「Ink Vendor」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Raven has gotten hold of some feathers and turned them all into quills. She sells them whenever she's free. According to her, the quill can make you more scholarly as if you've drunk the ink from the books. Let's hope she doesn't mean that literally.
 
 - It's most likely false advertising.
 
 ### 「Unethical Reporter」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Lately, Raven has been publishing a series of self-edited tabloids among the Sinners. It's gaining popularity because it often reports (made-up) relationship rumors of Chief.
 
 - That's not me! I didn't do it!
 
 ### 「Duet」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
 
 One day, Raven grabs onto you secretively with her crow.
 
@@ -47,6 +59,10 @@ Chief: ...
   Chief: Try going on more missions. You may be inspired to write better poems!
 
 ### 「Teaching Materials」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 When you pass by the library, you see Raven scribbling something quickly at the desk.
 
@@ -87,6 +103,10 @@ When you pass by the library, you see Raven scribbling something quickly at the 
       Chief: As for your poems... Um... Let's save them for when they've developed a certain level of reading and appreciation skills.
 
 ### 「Sweet Talker」
+
+Location: Training Room / Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -157,6 +177,10 @@ Sinner Raven is detected to be absent from training. Go and inspect?
     Looks like someone will have to work overtime again tonight.
 
 ### 「Career Crisis」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 When the day's work is done, you sit on the couch and open a novel.
 

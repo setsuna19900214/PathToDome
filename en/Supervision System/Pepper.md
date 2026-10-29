@@ -2,6 +2,10 @@
 
 ### 「Poisonous Blood」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Surveillance System: Received a message from Pepper. Please process.
 
 - Confirm
@@ -49,6 +53,10 @@ Surveillance System: Received a message from Pepper. Please process.
     Chief: Be careful next time. Don't touch them with bare hands.
 
 ### 「Listener」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Although Dreya is quite introverted, many people in the Bureau like to chat with her.
 
@@ -104,6 +112,10 @@ Chief: I'll go after them one by one and catch them red-handed tomorrow!
 
 ### 「Wood Terminator」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Bureau recently ordered a bunch of furniture but ended up receiving a large amount of raw wood instead. With the circular saw, Pepper cuts all the wood with surprising efficiency. Now, people can make furniture within the Bureau.
 
 - That's impressive...
@@ -112,11 +124,19 @@ The Bureau recently ordered a bunch of furniture but ended up receiving a large 
 
 ### 「Calendar Parterre」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Pepper has planted a little "Calendar Parterre" in the greenhouse. At different times of the year, flowers in different areas will bloom. Everyone in the Bureau likes to sit there during their time off.
 
 - The irises should be blooming soon.
 
 ### 「Naughty Girl」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -154,6 +174,10 @@ Intruder detected at the Energy Furnace. Please investigate promptly.
 
 ### 「Blossom Season」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 You're cleaning the office when suddenly, someone knocks at your door.
 
 - Open the door
@@ -187,6 +211,10 @@ You're cleaning the office when suddenly, someone knocks at your door.
     Pepper: ...
 
 ### 「Back to Basics」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 After continuous construction, the Outdoor Activity Area is almost indistinguishable from a real outdoor environment. But still, you feel that it lacks some natural scenery.
 

@@ -2,6 +2,10 @@
 
 ### 「A Delicate Sapling」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Bureau staff, yourself included, have been meticulously monitoring everything—soil composition, water levels, hours of sunlight—to ensure the wisteria grows strong and healthy. Yet Yingying still finds reasons to droop dramatically all day, whether it's "someone gave me one drop too much water" or "Chief spent five minutes less time with me today."
 
 - You're a big sapling now, you know.
@@ -10,6 +14,10 @@ The Bureau staff, yourself included, have been meticulously monitoring everythin
 
 ### 「The Charging Station」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Bureau employees have started calling one tree in the greenhouse their "charging station." They say anyone who naps beneath it falls into a peaceful slumber, experiencing pleasant dreams and waking up completely refreshed. Upon investigation, you find Yingying—unseen by others—perched in its branches, singing softly.
 
 - Well, it is break time after all.
@@ -17,6 +25,10 @@ Bureau employees have started calling one tree in the greenhouse their "charging
   Chief: I think I'll join in.
 
 ### 「Spiritual Sleep Aid」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief's health analysis report received. Source: Medical Department. Summary: Chief's average sleep duration and sleep continuity have shown significant improvement this month, with positive health outcomes.
 
@@ -54,6 +66,10 @@ Chief: Hmm... Now that I think about it, I have been sleeping much better this m
 
 ### 「The Mysterious Spirit」
 
+Location: Greenhouse / Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 As Yingying's condition continues to improve, not only has her range of movement expanded, but she can now interact with more objects and leave more traces of her presence.
 
 Chief: While this should have been a positive development, as more staff members and Sinners begin to notice traces of Yingying's presence, strange rumors have become increasingly difficult to suppress.
@@ -85,6 +101,10 @@ Chief: While this should have been a positive development, as more staff members
     Yingying: Well, these rumors just keep getting more and more interesting! Besides... it's not every day we get to be part of the same story together. I wouldn't mind if their tales grew even bolder!
 
 ### 「Blossoms and Blush」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 To appease the Sinners who couldn't join in the fun, you decide to answer public demand by hosting a time-limited Eastian-themed fete within the Bureau—a safe version, of course, where Sinner abilities are strictly prohibited.
 
@@ -137,6 +157,10 @@ Chief: ...So that's the situation. This event is meant to let DisCity Sinners ex
   Feeling the heat rising in your cheeks, you make a hasty retreat.
 
 ### 「The Gossip Grapevine」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 As the only one who can communicate with Yingying in her human form, you've taken over some counseling duties from the hypnotherapy team, setting aside time for one-on-one sessions with her.
 

@@ -2,11 +2,19 @@
 
 ### 「Encouragement」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Ariel has been helping people but also causing people trouble. This bothers the employees. They don't know if they should let her stay and help.
 
 - Let her stay.
 
 ### 「Even Weeds Deserves Love!」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Some harmful weeds that was going to wither came back to life and thrived because Ariel cared for all the plants indiscriminately.
 
@@ -14,11 +22,19 @@ Some harmful weeds that was going to wither came back to life and thrived becaus
 
 ### 「Relic」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Ariel asks to wear a simpler gown that won't draw as much attention.
 
 - Approve
 
 ### 「Piano Music」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 You noticed that Ariel kept staring at the piano.
 
@@ -45,6 +61,10 @@ Ariel: Huh? I... I do... I come here to practice playing the piano at night when
   Ariel: Okay... But please don't laugh at me if I don't play very well.
 
 ### 「Why Are You Crying Again?」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Ariel has been using the Training Room quite often lately.
 
@@ -79,6 +99,10 @@ Ariel: Hearing you say this, Chief, has made me so... happy!
 Ariel: Waaah... *Crying
 
 ### 「Charity Performance」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 The news is showing some recent footage of Syndicate. Some children have lost their homes due to gang fights.
 

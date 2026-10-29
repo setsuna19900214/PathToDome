@@ -2,17 +2,29 @@
 
 ### 「Lawless Zone」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 Rise refuses to participate in any events scheduled after 6 p.m., saying it's against the labor law. She's also going to report the Bureau to the authorities so they'll deal with this lawless zone.
 
 - If you do this, I will be very grateful to you.
 
 ### 「Internal Competition」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Rise, who occasionally helps out with work and always gets off on time, has become a headache for the Bureau's admin staff. She always completes all her tasks with incredible efficiency within the allotted time, putting a huge pressure on the ordinary employees.
 
 - Is she causing some kind of internal competition?
 
 ### 「Squash Substitute」
+
+Location: Training Room
+
+Urgency: ⚠
 
 The targets in the Bureau's Training Room are wearing out more quickly than usual these days, and the Supply Office wants to check if this is normal. It turns out that it's because Rise has been substituting squash with lightsaber training as a way to decompress.
 
@@ -21,6 +33,10 @@ The targets in the Bureau's Training Room are wearing out more quickly than usua
   Chief: Maybe we should go back to using VR?
 
 ### 「Food Delivery Judge」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 During routine check-ups, many Sinners have been found with declining vision. Currently, the Bureau is strictly monitoring the overuse of communication devices and the internet.
 
@@ -53,6 +69,10 @@ Chief: Hmm, the ban combined with the promotion of offline entertainment has bee
     Chief: Okay... So you haven't become obsessed with food delivery but being the food delivery judge...
 
 ### 「A Better Workplace」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 After the passing of the bail regulations, the Bureau begins to further promote the socialization of Sinners. One of the measures is helping Sinners sell their own products, that is, those uncontaminated by Mania.
 
@@ -89,6 +109,10 @@ Chief: Though I don't know what your complaint is about, yes. But Rise, maybe yo
     Chief: I appreciate it too. After all, if you hadn't reported it, I wouldn't have known Cassia had learned to dodge the supervision system... I guess she won't be happy though.
 
 ### 「Production Delay」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 As a major cultural and entertainment event of the Bureau, the stage play written, directed, and performed by Sinners and staff has always been a much anticipated activity.
 

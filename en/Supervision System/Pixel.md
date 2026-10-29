@@ -2,6 +2,10 @@
 
 ### 「Digital Hello」
 
+Location: Secret Chamber
+
+Urgency: ⚠
+
 You run into Pixel in the Bureau hallway. Her head-monitor flickers—a tiny cartoon hand waves.
 
 - Is that a hello?
@@ -10,6 +14,10 @@ You run into Pixel in the Bureau hallway. Her head-monitor flickers—a tiny car
 
 ### 「Soap Opera Intoxication」
 
+Location: Darkroom
+
+Urgency: ⚠
+
 Pixel's monitor plays dramatic confessions, wealthy family feuds, amnesia, rebirths... Could this be a new virus?
 
 - Ask about the reason
@@ -17,6 +25,10 @@ Pixel's monitor plays dramatic confessions, wealthy family feuds, amnesia, rebir
   Turns out Pixel just finished a 36‑hour soap opera marathon and hasn't fully recovered.
 
 ### 「A Suspicious Helping Hand」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Mid‑call, the Bureau loses power. Pixel immediately offers her head‑monitor as your screen.
 
@@ -27,6 +39,10 @@ You spot a Preview window not fully closed—your serious face now sporting fluf
   You switch to backup power without missing a beat. Exposed, Pixel flashes a sulking ellipsis and starts plotting her next scheme.
 
 ### 「Impromptu Reviewer」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 Passing by Pixel's room, you find her with glasses displayed on her monitor, flipping through papers with unusual seriousness.
 
@@ -61,6 +77,10 @@ You glance at the title page—a logistics staff member is pursuing further stud
       Pixel: This part's good. Keep it. Don't hold back—good scholarship takes nerve...
 
 ### 「Open Mic Night: Bad Jokes」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 The Recreation Area is hosting Bad Joke Night, and Pixel signs up with boundless enthusiasm—even printing notecards.
 
@@ -97,6 +117,10 @@ EMP: Those are like cold jokes... Wait. Why is it actually cold? I've got gooseb
     From that day on, the Bureau's stand‑up comedy application form included one new rule: "No physical methods may be used to aid the effect of a bad joke."
 
 ### 「Sticker Artist」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Rumor has it that a new sticker pack is everywhere. The art is simple, the captions are sharp, and they spread like wildfire. People love them. Some even sneak them into their work reports.
 

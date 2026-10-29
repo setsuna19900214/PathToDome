@@ -2,8 +2,15 @@
 
 ## Deren - Interrogation I
 
+> Intelligence before completion:
+> Some unusual happenings have caused the DisCars to be postponed. You receive an order from your superior that you're to clean up the venue sabotaged by the Apostle of Ashes so the DisCars can be held as scheduled.
+> But as you're doing your job, you meet an unexpected guest on the site.
+
+> Intelligence after completion:
 > During the interrogation, you learn that Deren's awarded film from five years ago is called *The Invitation to Dance*, but she refuses to talk about its content.
 > You want to learn more about Deren, so you decide to continue investigating on your own.
+
+### Interrogation Transcript
 
 At long last, the tumultuous DisCars crisis is coming to an end, all thanks to you, Deren, and OwO. You take a team of soldiers to search every nook and cranny of Dillywood, in case that formidable force is lying in wait in some dark corner.
 
@@ -321,10 +328,19 @@ You muse, as you look at Deren, who has closed her eyes.
 
 Deren seems to have lost interest in continuing this discussion about her movie. You decide to call it a day and end the questioning.
 
+> During the interrogation, you learn that Deren's awarded film from five years ago is called *The Invitation to Dance*, but she refuses to talk about its content.
+> You want to learn more about Deren, so you decide to continue investigating on your own.
+
 ## Deren - Interrogation II
 
+> Intelligence before completion:
+> When you pass by the rest area, you run into Luvia Ray who's rehearsing. You decide to ask her if she knows anything about Deren and the movie Deren made five years ago.
+
+> Intelligence after completion:
 > After watching the non-director's cut version of the film, Deren shows up. She asks you what impression of her the movie left you.
 > She seems indifferent to your answer. By the time you decide to continue investigating, she's already walked off, but a notebook about *The Invitation to Dance* is left there.
+
+### Interrogation Transcript
 
 Luvia Ray: Hmm, how should I go about this?
 
@@ -664,10 +680,19 @@ She chuckles, pats you on the shoulder, and with a wave of her hand, turns to le
 
 You rush out. Outside, you find a notebook on the ground. The movie's name, *The Invitation to Dance*, is written on the cover.
 
+> After watching the non-director's cut version of the film, Deren shows up. She asks you what impression of her the movie left you.
+> She seems indifferent to your answer. By the time you decide to continue investigating, she's already walked off, but a notebook about *The Invitation to Dance* is left there.
+
 ## Deren - Interrogation III
 
+> Intelligence before completion:
+> Early in the morning, Nightingale informs you that an Eastside councilor has taken Deren out of the MBCC. She couldn't stop it because of the councilor's high rank.
+
+> Intelligence after completion:
 > You help Deren flee the reporters' cameras and questions, and the veil of mystery about that movie is finally lifted.
 > Deren feels bored about "having no choice but to accept reality". That was the main reason she stopped making movies.
+
+### Interrogation Transcript
 
 Chief: What? Someone took Deren away?
 
@@ -971,10 +996,19 @@ You step forward to stand beside her. When you speak again, your tone of voice i
 
 Chief: Accepting reality... Doesn't it mean you can't change it? Doesn't it mean you can only sit by and do nothing?
 
+> You help Deren flee the reporters' cameras and questions, and the veil of mystery about that movie is finally lifted.
+> Deren feels bored about "having no choice but to accept reality". That was the main reason she stopped making movies.
+
 ## Deren - Interrogation IV
 
+> Intelligence before completion:
+> You take Deren to a factory and studied the notebook she's left behind. The owner of this factory is closely related to that movie.
+
+> Intelligence after completion:
 > Accepting reality doesn't mean giving in to fate. In life, most people dream until they can't anymore. But there are always those who'd rather dance barefoot on ruins and catch the last glimmer of their dreams.
 > These people are inevitably deemed as *lunatics* by others, but... that's not a big deal, is it?
+
+### Interrogation Transcript
 
 Deren seems surprised by your words. Then she chuckles, and narrows her eyes into slits, looking at you intensely.
 
@@ -1267,3 +1301,6 @@ Deren: You played much more than a small part.
 Deren takes your hand. And with the big crowd watching, the two of you walk the red carpet and head toward the exit.
 
 Deren: You're the star of my eyes.
+
+> Accepting reality doesn't mean giving in to fate. In life, most people dream until they can't anymore. But there are always those who'd rather dance barefoot on ruins and catch the last glimmer of their dreams.
+> These people are inevitably deemed as *lunatics* by others, but... that's not a big deal, is it?

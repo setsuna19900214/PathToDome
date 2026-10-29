@@ -2,9 +2,17 @@
 
 ## Wendy - Interrogation I
 
-> From the interrogation, you are almost certain that Wendy has something to do with the smuggling case of Mania weapon materials at the Rust.
-> But at the same time, you dug up more confusing information.
-> Further investigation is needed to learn more about Wendy, the Rust, and the Undertaker.
+> Intelligence before completion:
+> Not long ago, the MBCC detained the "Reaper of the Rust" that has been wandering nearby the Rust.
+> Various investigation results show that it's very likely that she has something to do with the recent Mania weapon smuggling cases that have been taking place frequently.
+> However, her mental situation can be a concern.
+
+> Intelligence after completion:
+> Wendy very likely has something to do with the smuggling case's supply transport. But at the same time, you become aware of an even more surprising fact: Wendy once served under the FAC's forces.
+> But the problem is, documents show that all personnel of such forces were dead long ago.
+> You decided to take Wendy to the Rust on a secret mission.
+
+### Interrogation Transcript
 
 Wendy: Hee hee... Hahahaha...
 
@@ -410,10 +418,21 @@ Wendy: Ah, poor undertakers!
 
 Wendy: Abandoned in the abyss...
 
+> From the interrogation, you are almost certain that Wendy has something to do with the smuggling case of Mania weapon materials at the Rust.
+> But at the same time, you dug up more confusing information.
+> Further investigation is needed to learn more about Wendy, the Rust, and the Undertaker.
+
 ## Wendy - Interrogation II
 
-> According to the two corpse vendors' confessions, Wendy has nothing to do with the recent smuggling case of Mania weapons.
-> The Undertaker, an organization that should be disbanded and dead, remains mysterious as before.
+> Intelligence before completion:
+> You brought Wendy to the Rust, but she easily shook you loose despite your reinforcements and your distant communication with Nightingale.
+> It's quite a coincidence that you met Wendy's "old friend." There is a deep connection between them and the Mania weapon smuggling cases.
+
+> Intelligence after completion:
+> You didn't expect the Undertaker to be such a miserable organization. And it surprises you how Wendy and her companions shared such a dark past...
+> Believing that Wendy is innocent in this event, you risk getting yourself hurt to stop Wendy from taking it out on those two corpse vendors and slaughtering them.
+
+### Interrogation Transcript
 
 As night falls, the banks of the Rust are instantly plunged into darkness.
 
@@ -815,10 +834,21 @@ The FAC confirmed that Wendy and the Undertakers were collaborating with Black W
 
 Wendy will face serious punishment in the future, and the Undertakers... a settlement order was passed down—Not even their bodies would be allowed to go free.
 
+> According to the two corpse vendors' confessions, Wendy has nothing to do with the recent smuggling case of Mania weapons.
+> The Undertaker, an organization that should be disbanded and dead, remains mysterious as before.
+
 ## Wendy - Interrogation III
 
-> Wendy's infection has affected her mind and brain, so much so that she falsely believes that her companions are still alive.
-> You can't bring yourself to see Wendy carry all that pain and sorrow as an Undertaker, so you decided to become that very special companion for her and help share her burden.
+> Intelligence before completion:
+> Though the interrogation last time made Wendy mad, it also helped you know her better than anyone else. But it came at a cost. Wendy is now indifferent to you.
+> However, to find the hidden Mania weapons, you have to find a way to cheer her up.
+> Though the plan is a bit risky, it doesn't hurt to take another leap of faith.
+
+> Intelligence after completion:
+> Wendy brings you to see her friends and family, but you realize that they are in an eternal slumber next to the Rust, never to wake up again.
+> You decided to become Wendy's companion and share her fate and sorrow as an Undertaker so that she can rely on you always.
+
+### Interrogation Transcript
 
 "Please... believe me!"
 
@@ -1247,3 +1277,6 @@ Did you save her?
 You don't know.
 
 But at the very least, tonight she won't have to sleep on a pillow of death in that small, cold pit.
+
+> Wendy's infection has affected her mind and brain, so much so that she falsely believes that her companions are still alive.
+> You can't bring yourself to see Wendy carry all that pain and sorrow as an Undertaker, so you decided to become that very special companion for her and help share her burden.

@@ -2,17 +2,29 @@
 
 ### 「Smuggled Goods」
 
+Location: Black Market
+
+Urgency: ⚠
+
 In the surprise spot check, you intercepted some goods Bai Yi was smuggling.
 
 - Submit the goods to higher-ups
 
 ### 「Profit Share」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Bai Yi promised to give you a "share" of the Whitestone Industries earnings that month. In exchange, you will help them develop their business.
 
 - Approve
 
 ### 「Drinking Causes Trouble」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠
 
 Bai Yi has been waiting in the Confinement Cell for some time now.
 
@@ -56,6 +68,10 @@ Chief: Bai Yi!
 
 ### 「Secret Exchange」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Bai Yi greets you in the Outdoor Activity Area.
 
 Bai Yi: Hi, Chief!
@@ -91,6 +107,10 @@ Bai Yi: Come here.
       Bai Yi: I'll see you around! (gives a flying kiss)
 
 ### 「Ads」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -142,6 +162,10 @@ Bai Yi has been waiting outside your office for a long time. Permit entry?
 
 ### 「Hotpot for Three」
 
+Location: Energy Furnace
+
+Urgency: ⚠⚠⚠
+
 [System Notice] Warning, risk of fire detected in the Energy Furnace. Go and check?
 
 - Yes
@@ -185,6 +209,10 @@ Bai Yi has been waiting outside your office for a long time. Permit entry?
       Chief: I didn't know your ability could be used for this as well.
 
 ### 「Career Flop」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Etti organizes her first TRPG game in the Bureau today. Everyone gathers around the long table.
 
@@ -263,6 +291,10 @@ It's the first time many of the participants have played this kind of game. Afte
     Etti: You're right. I'll come up with the perfect rules so even these extraordinary players can enjoy it!
 
 ### 「Food Safety」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 The communal kitchen fridge has become completely full recently. The staff members cleared out a pile of unclaimed fresh ingredients, which the Whitestone crew has been eyeing for a while now. They're trying to get your permission to use them for a hot pot.
 

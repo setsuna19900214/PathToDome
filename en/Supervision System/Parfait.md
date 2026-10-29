@@ -2,6 +2,10 @@
 
 ### 「Fickle Heart」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Parfait has been hosting dinner parties late at night in her room, prompting other Sinners to file noise complaints.
 
 - Talk to Parfait
@@ -10,6 +14,10 @@ Parfait has been hosting dinner parties late at night in her room, prompting oth
 
 ### 「Market Risks」
 
+Location: Management Center
+
+Urgency: ⚠
+
 There's always a long line of people outside Parfait's room.
 
 - Investigate
@@ -17,6 +25,10 @@ There's always a long line of people outside Parfait's room.
   They're all Sinners struggling with the stock market, coming to ask Parfait for advice.
 
 ### 「Parfait's Lunch」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 You walk past the cafeteria and see Parfait having a meal.
 
@@ -50,6 +62,10 @@ You walk past the cafeteria and see Parfait having a meal.
 
 ### 「Misvalued Goods」
 
+Location: Training Room / Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
+
 You pass by Parfait and notice she's carrying a rather stylish canvas bag.
 
 - Compliment
@@ -75,6 +91,10 @@ You pass by Parfait and notice she's carrying a rather stylish canvas bag.
   Parfait: Please just take it. It would be perfect to brighten up your office.
 
 ### 「Parfait's Gift」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Today is the day the shop gets its monthly new arrivals. You decide to go take a look and happen to run into Parfait, who looks somewhat troubled.
 
@@ -143,6 +163,10 @@ Today is the day the shop gets its monthly new arrivals. You decide to go take a
   Parfait: Here's to our eternal friendship!
 
 ### 「Planning Expert」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 The Bureau is preparing a team-building party, and Parfait volunteered to help with the planning. She comes to your office to discuss the details.
 

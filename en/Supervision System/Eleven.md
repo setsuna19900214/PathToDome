@@ -2,17 +2,29 @@
 
 ### 「Low-End Recording Studio」
 
+Location: Secret Chamber
+
+Urgency: ⚠
+
 The Supervision System has detected that Eleven often enters the secret room alone and stays there for several hours. When you go to check, you find that she is just recording ASMR there.
 
 - It seems like you need a dedicated recording studio.
 
 ### 「Alone Time」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 Eleven is one of the few people who voluntarily asks to stay in the Confinement Cell for hours. She always appears exceptionally refreshed after coming out.
 
 - Let her be, she just wants some alone time.
 
 ### 「Role Change」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Eleven takes too long for hypnotherapy, about 160.7% more than average. Please investigate and appropriately intervene.
 
@@ -41,6 +53,10 @@ Chief: It so happens that she seems to be receiving treatment right now. Better 
     Eleven: Thank you. I feel better already just hearing that.
 
 ### 「Inspiration Hunt」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠
 
 The Supervision System detected that Sinner Eleven frequently enters and stays in the secret room for a long time with unspecified sinners. Please investigate to confirm whether there are any violations.
 
@@ -73,6 +89,10 @@ Chief: Let me see... Enfer, Bai Yi, Etti, EMP... Is Eleven really that fond of s
       Chief: It feels like I'll definitely need some ASMR to fall asleep after listening to it...
 
 ### 「Nightlife」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 Chief: This should be the last document I need to process today... Huh? It's past midnight already?
 
@@ -127,6 +147,10 @@ Chief: Who could be in the secret room so late? Is it Eleven recording for her p
   Chief: It's better not to be too eventful.
 
 ### 「Bureau Rumors」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 The monthly time for file review is here again. This time, the change in the average number in the "Training Hours" column catches your attention.
 
@@ -187,6 +211,10 @@ Chief: The average has dropped by more than 30%... What's going on?
   Chief: Yes, you certainly have, congratulations... So you can use your normal voice now, right? OwO has already run away in fear, I hope she doesn't get lost in the dark.
 
 ### 「Special Program」
+
+Location: Management Center / Darkroom
+
+Urgency: ⚠⚠
 
 Chief: This noise, like a ruckus is on full blast right beside your ear... Could it be Echo again? Didn't you tell her to make sure the door is closed when practicing the saxophone in the room...
 

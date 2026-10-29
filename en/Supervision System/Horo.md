@@ -2,6 +2,10 @@
 
 ### 「Signature」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 You hear noises from the cafeteria. Younger Sinners surround Zoya as Horo tries to maintain order next to them.
 
 Horo: Stand in line! You only get three signatures today!
@@ -24,6 +28,10 @@ Horo: Stand in line! You only get three signatures today!
 
 ### 「Food Sharing」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Horo was generous and shared her milk with you. But it gave you diarrhea for the rest of the day.
 
 - Ask for compensation
@@ -32,11 +40,19 @@ Horo was generous and shared her milk with you. But it gave you diarrhea for the
 
 ### 「Visiting Old Friends」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Horo went to visit the Legion in her free time and received lots of gifts. After returning to the Bureau, she gave some of those gifts to you.
 
 - Take
 
 ### 「New Clothes」
+
+Location: Training Room
+
+Urgency: ⚠
 
 You bought some new clothes for Horo, including outfits that suit her style and some others that are much cuter.
 
@@ -45,6 +61,10 @@ She accepted them without saying anything, then sent you a few hand grips that n
 - Take
 
 ### 「Height Discrimination」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 In the regular physical examination, you discovered that Horo is now one centimeter shorter than her profile says.
 
@@ -80,6 +100,10 @@ Horo: Really?
 
 ### 「Old Clothes」
 
+Location: Confinement Cell
+
+Urgency: ⚠⚠
+
 The Legion sent a package to Horo. The package's been examined for security.
 
 Chief: Horo, do you have a moment?
@@ -113,6 +137,10 @@ Chief: Horo, do you have a moment?
     Horo: You will get out when I say get out! Enough with your nonsense and get lost now!!
 
 ### 「Fan Club」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 In the corridor, you find Horo surrounded by a bunch of people.
 

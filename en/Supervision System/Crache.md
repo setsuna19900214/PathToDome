@@ -2,11 +2,19 @@
 
 ### 「Hide-and-Seek Expert」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 When it comes to hide-and-seek, Crache has never lost.
 
 - Let me try it myself next time.
 
 ### 「Hoodie」
+
+Location: Black Market
+
+Urgency: ⚠
 
 Crache has ordered a bunch of hoodies in different styles.
 
@@ -15,6 +23,10 @@ Crache has ordered a bunch of hoodies in different styles.
   You search your memories and can't recall a time she's worn any other kind of clothing.
 
 ### 「An Unusual Action Figure」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
 
 You've always known that Crache likes making action figures with her shadow. But today, you spot a slightly different figure in her collection.
 
@@ -43,6 +55,10 @@ You've always known that Crache likes making action figures with her shadow. But
     Crache: Hmph... I'll see when I'm in the mood.
 
 ### 「What Sound?」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -99,6 +115,10 @@ Suspicious gatherings have recently been detected among certain Sinners. Go and 
     Crache: ...
 
 ### 「Lollipop」
+
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

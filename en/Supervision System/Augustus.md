@@ -2,6 +2,10 @@
 
 ### 「Abduction」
 
+Location: Management Center
+
+Urgency: ⚠
+
 [System Notice] Supervision System:
 
 Sinner Augustus has multiple records of abducting Chief to high-risk areas for so-called *sightseeing* activities.
@@ -14,11 +18,19 @@ Risk Level: Extremely High.
 
 ### 「Uniform War」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Dissatisfied with your full closet of identical gray coats, Augustus has had someone tailor them into the standard uniforms worn by those under her command.
 
 - Stop her
 
 ### 「Junior Troops」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -70,6 +82,10 @@ Given Augustus's notorious history of inciting internal conflicts within the Bur
 
 ### 「Bounty Ranking」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 The dark web has recently revealed a bounty ranking list with detailed targets and their prices. Many of them are notorious felons connected to Mania incidents, names that have long been on your wanted list. Yet for various reasons, you haven't found the opportunity to apprehend them.
 
 Upon hearing about the bounty list, Augustus curiously asks you about her own ranking on it.
@@ -109,6 +125,10 @@ Augustus: Count them. That should be everyone.
   Augustus: Now all the top ten criminals have been rounded up by the MBCC in one fell swoop. Chief, you can report mission accomplished.
 
 ### 「Unsolicited Gift」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -177,6 +197,10 @@ The Bureau's security department has recently confiscated a batch of antique bla
   Augustus: It's only an object... On the contrary, it should fear you.
 
 ### 「The General's Ball」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Following the success of a major operation, the Bureau has organized a grand ball to celebrate its victory. You navigate through the crowd with a drink in hand, but your gaze keeps getting drawn to Augustus, who is no doubt the center of attention tonight.
 

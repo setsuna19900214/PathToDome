@@ -4,6 +4,18 @@
 
 Topsy-Turvy Tea Party
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor II
+
 Little Wisp: ?!
 
 The trap drops, and the wisp trembles violently inside. It struggles frantically in all directions, but cannot escape from the cage that confines it.

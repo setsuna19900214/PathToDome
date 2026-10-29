@@ -2,7 +2,13 @@
 
 ## Golan - Interrogation I
 
+> Intelligence before completion:
+> The MBCC receives a tip-off that the street gangs of Syndicate are plotting a heist for Mania weapons. Sinner Golan's recent erratic behavior only serves to deepen her connection with this matter.
+
+> Intelligence after completion:
 > Golan is confirmed to be a member of the Iron Gang. Though she still seems to be holding many secrets, the MBCC has preliminarily identified the target of this heist and is able to come up with a foolproof response.
+
+### Interrogation Transcript
 
 Two weeks after a raid
 
@@ -256,9 +262,17 @@ You believe Golan wouldn't lie to you, but whether it's for Mania weapons or tha
 
 But at least, you now know where to find Golan and uncover the truth.
 
+> Golan is confirmed to be a member of the Iron Gang. Though she still seems to be holding many secrets, the MBCC has preliminarily identified the target of this heist and is able to come up with a foolproof response.
+
 ## Golan - Interrogation II
 
+> Intelligence before completion:
+> Golan has gone AWOL during a field assignment. You speculate that she's left to secure victory for the Iron Gang in this conflict.
+
+> Intelligence after completion:
 > Golan refuses the MBCC's help, insisting she should settle this of her own accord. She must face the consequences of her own action.
+
+### Interrogation Transcript
 
 XX/XX
 
@@ -586,10 +600,18 @@ No response.
 
 You turn around to see no one, only a slender figure advancing through the flames, eventually disappearing in the direction where the fight sounds the most chaotic.
 
+> Golan refuses the MBCC's help, insisting she should settle this of her own accord. She must face the consequences of her own action.
+
 ## Golan - Interrogation III
 
+> Intelligence before completion:
+> As a conflict targeting the Iron Gang is imminent, Golan disappears amid the smoke and flames of the battle.
+
+> Intelligence after completion:
 > Taking up the labels of a coward and a deserter to protect someone important.
 > Despite the mockery, this is in no way true cowardice.
+
+### Interrogation Transcript
 
 Syndicate
 
@@ -960,3 +982,6 @@ Golan: I thought that was the end of it... but then I got into the Bureau... and
 Chief: ...Tell Nightingale to arrange for more staff to monitor the Iron Gang's territory more closely.
 
 Chief: Just to make sure their family business doesn't go too *strong*.
+
+> Taking up the labels of a coward and a deserter to protect someone important.
+> Despite the mockery, this is in no way true cowardice.

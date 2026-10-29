@@ -2,17 +2,29 @@
 
 ### 「Gardening」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Due to a severe shortage of quality grapes within the Bureau, Cabernet has simply asked Pepper to set up a small vineyard in a corner of the greenhouse.
 
 - Could you give me a couple too?
 
 ### 「Different Flavors」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The first thing Cabernet did when she arrived at the Bureau was to "explore" the tastes of all the Sinners. However, perhaps because everyone's tastes were too strange, Cabernet couldn't eat a single grape for three days after her exploration.
 
 - Better take it easy.
 
 ### 「Kinda Nervous」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 You've grown accustomed to the messy and noisy environment of the Bureau's cafeteria, but things have started to change since Cabernet's arrival...
 
@@ -65,6 +77,10 @@ Cabernet: Come, Chief, this seat is reserved for someone as important as you.
     Chief: Why do I feel even more nervous...
 
 ### 「Some Progress」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Ever since Cabernet joined the MBCC, Ignis's passion for cooking has reached a new level.
 
@@ -121,6 +137,10 @@ Cabernet: What do you think about the dish then, Chief?
       Chief: ...
 
 ### 「Don't Eat Me」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 For some reason, you haven't received any dining invitations from Cabernet in the past few days.
 
@@ -199,6 +219,10 @@ Cabernet: Not only do you not allow your Sinners to "try new flavors," but you a
 Cabernet: I'm very disappointed in you, Chief.
 
 ### 「Scent of the Soul」
+
+Location: Management Center / Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Due to a large number of Sinners being out on assignments, the cafeteria is unusually quiet tonight.
 

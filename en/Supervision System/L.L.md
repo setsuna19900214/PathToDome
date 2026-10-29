@@ -2,17 +2,29 @@
 
 ### 「Shopping Spree」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Bureau has received a large number of packages recently, mostly equipment for bathroom renovations and water purification. You immediately realize that these are custom orders by L.L. for health purposes. However, a quick estimate of the bills sends a pang through your wallet.
 
 - Fine, but just this once.
 
 ### 「Breath-Holding Contest」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 The Sinners have organized an underwater breath-holding contest. L.L., who spends most of her time soaking in a bathtub, has undoubtedly secured the championship.
 
 - That's impressive.
 
 ### 「Manta Ray's Private Collection」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -45,6 +57,10 @@ Warning! Anomaly detected in the room. Proceed with scanning?
   The manta ray lifts its tail fin and giggles, saving the video and shimmying its body before vanishing.
 
 ### 「"Sweet Burden"」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Ever since L.L. was taken into custody, you have noticed that, somehow, the workload in the cybersecurity department has notably lightened.
 
@@ -83,6 +99,10 @@ Cybersecurity Employee B: Chief, if you detain a few more Sinners related to cyb
     Chief: That was much more than a sweet burden...
 
 ### 「Online Obsession」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 A doctor from the Bureau knocks on your office door, bringing a physical examination report along.
 
@@ -139,6 +159,10 @@ Doctor: Chief, we really need to control L.L.'s internet addiction.
   L.L.: Alright, alright.
 
 ### 「Party Star」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 L.L. announces plans to host a carnival party within the Bureau, inviting everyone in the Bureau to join.
 

@@ -2,6 +2,10 @@
 
 ### 「Perfect Inaccuracy」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Korryn hangs up a dartboard in the Recreation Area, charging 20 DisCoins per game. The children who pride themselves on their aim have become addicted to it, only to lose all their pocket money.
 
 - Check the dartboard
@@ -10,6 +14,10 @@ Korryn hangs up a dartboard in the Recreation Area, charging 20 DisCoins per gam
 
 ### 「Proper Care」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Korryn marvels at the small terrarium in her room. After settling Sheriff inside, she paves one corner with sand.
 
 - Ask about the sand
@@ -17,6 +25,10 @@ Korryn marvels at the small terrarium in her room. After settling Sheriff inside
   "It grew up in the desert. It can't live without sand!" says Korryn.
 
 ### 「Split-Second Precision」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -69,6 +81,10 @@ Korryn is waiting outside your office. Permit entry?
       You dial Security's terminal number, ready to share some good news.
 
 ### 「Sheriff's Quotes」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 "Sheriff": "Hello there, esteemed and generous MBCC Chief!"
 
@@ -126,6 +142,10 @@ In front of a dining tray, a bright-eyed reptile flicks out its tongue to lick i
 
 ### 「WhiteSands Survival Code」
 
+Location: Training Room
+
+Urgency: ⚠⚠⚠
+
 Right on the bullseye, a perfect shot!
 
 Korryn beams with excitement, patting her rifle's stock as if praising a puppy.
@@ -181,6 +201,10 @@ Korryn: That's my girl! Packing a punch, aren't you?
   Korryn: You gotta see it so vividly that it's seared into your eyes. And when the time's right, squeeze that trigger... Bang!
 
 ### 「Sandstorm Horror」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Korryn: Wow, that was intense! Horror movies are definitely meant for late-night viewing!
 

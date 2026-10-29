@@ -2,11 +2,19 @@
 
 ### 「Superpower」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Despite the chaos in Pine's room, she can miraculously pinpoint the exact location of every single item among the clutter.
 
 - Could this be another one of her superpowers?
 
 ### 「New Gear」
+
+Location: Management Center
+
+Urgency: ⚠
 
 You've noticed Pine making frequent trips to Eureka's workshop lately—it turns out she's been having some new gear crafted there.
 
@@ -16,6 +24,10 @@ You've noticed Pine making frequent trips to Eureka's workshop lately—it turns
 
 ### 「Security Inspection」
 
+Location: Management Center
+
+Urgency: ⚠
+
 During the recent security inspection, the technical staff discovered dozens of listening devices hidden inside your office.
 
 - It's not hard to guess who planted these.
@@ -23,6 +35,10 @@ During the recent security inspection, the technical staff discovered dozens of 
   Chief: This calls for a serious warning!
 
 ### 「Dimensional Pockets」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 As you wrap up a post-training analysis session with Pine, your eyes are drawn to her outfit—covered in an unusual array of pockets.
 
@@ -67,6 +83,10 @@ Pine flashes a defiant smile as she returns each item to its designated pocket.
 Pine: My investigations rely on wit, not gadgets—though it never hurts to be prepared, you know.
 
 ### 「A Secret on the Tree」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 On this clear day, a group of little Sinners fill the Outdoor Activity Area with vigor as they fly their kites in the breeze.
 
@@ -113,6 +133,10 @@ Chief: ...Is there anything wrong?
   Chief: Looks like I'll need to grab a ladder and check up there myself...
 
 ### 「"Fuel"」
+
+Location: Management Center / Black Market
+
+Urgency: ⚠⚠⚠
 
 Today, you have received the quarterly expense report from the Supply Office, detailing everything from equipment purchases to personal items requisitioned by Sinners.
 

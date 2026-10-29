@@ -2,11 +2,19 @@
 
 ### 「Letter Collection」
 
+Location: Management Center
+
+Urgency: ⚠
+
 In Dove's storage cabinet lies a stack of yellowed old letters that she's kept for a long time. Every now and then, she takes them out and rereads them carefully.
 
 - These must mean a great deal to her.
 
 ### 「The Old Way」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Under Dove's encouragement, more and more people in the Bureau have taken up letter writing, making her mail delivery service increasingly prosperous.
 
@@ -16,6 +24,10 @@ Under Dove's encouragement, more and more people in the Bureau have taken up let
 
 ### 「Book Club」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Several book-loving Sinners hold regular book club gatherings in the Bureau. Dove is presenting a worn-out life hack guide, reciting its contents from memory.
 
 Dove: You'll be exposed to radiation if you put your phone next to your pillow. Also, reboiled water contains toxins...
@@ -23,6 +35,10 @@ Dove: You'll be exposed to radiation if you put your phone next to your pillow. 
 - Why does all of this sound rather... questionable?
 
 ### 「Strategic Retreat」
+
+Location: Management Center / Darkroom
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -80,6 +96,10 @@ Sinner Dove appears to have had a confrontation with someone in the photo room. 
 
 ### 「Plant Terminator」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 You find Dove crouching in a corner of the greenhouse, staring at several flower pots with visible distress.
 
 - Go and ask her what happened
@@ -117,6 +137,10 @@ You find Dove crouching in a corner of the greenhouse, staring at several flower
     Chief: Next time you take care of plants, you should invite her to join you. She can observe your methods and see if there's anything to adjust. I'm sure she'd be happy to help.
 
 ### 「Treasured Belonging」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 It's a pleasant afternoon. In the sunlit Outdoor Activity Area, Dove is washing her bicycle.
 

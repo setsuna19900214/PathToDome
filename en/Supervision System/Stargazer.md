@@ -2,11 +2,19 @@
 
 ### 「Divination Consultation」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Sinners and staff members crowd around Stargazer, eager to have their fortunes told.
 
 - Could you tell my fortune too?
 
 ### 「A Mysterious Fragrance」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
 
 Recently, you can often smell a mysterious fragrance in the MBCC.
 
@@ -15,6 +23,10 @@ Recently, you can often smell a mysterious fragrance in the MBCC.
   Turns out that it comes from the incense Stargazer uses daily.
 
 ### 「An Arcane Prediction」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You come across Stargazer in a corridor somewhere in the MBCC.
 
@@ -44,6 +56,10 @@ Stargazer: The destination shall be revealed only when the boundary between real
 
 ### 「Great Dancer, Low Score」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 You see Stargazer dancing away on an arcade machine, surrounded by a small group of Sinners and staff members.
 
 Her movements are graceful and unearthly, capable of stopping any passersby at their tracks.
@@ -57,6 +73,10 @@ Her movements are graceful and unearthly, capable of stopping any passersby at t
   But she is met with a prolonged round of applause nevertheless.
 
 ### 「Color of the Soul」
+
+Location: Darkroom
+
+Urgency: ⚠⚠⚠
 
 Stargazer: Ah, Chief, my little monster, you're finally here!
 
@@ -99,6 +119,10 @@ Stargazer is sitting quietly in a corner of the Darkroom, as if she has been wai
   Stargazer: I'll wait for you in a certain place at a certain time.
 
 ### 「WhiteSands White Fox」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Stargazer goes up to you in the greenhouse, where you've been tending the flowers.
 

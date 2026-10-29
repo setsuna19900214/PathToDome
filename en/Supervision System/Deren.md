@@ -2,6 +2,10 @@
 
 ### 「Professional Film Selector」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Since Deren joined the MBCC, both the staffers' taste and the Sinners' taste have been improving. It's attributable to the fact that the movies she chooses for Movie Night are both entertaining and informative.
 
 - Good review
@@ -10,11 +14,19 @@ Since Deren joined the MBCC, both the staffers' taste and the Sinners' taste hav
 
 ### 「Good Tutor」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Deren takes a keen interest in instructing Lynn in photography. She has even made a list of textbooks on photography for Lynn.
 
 - Can you teach me too?
 
 ### 「Use of Hypnosis」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -45,6 +57,10 @@ Deren: To be honest, there's another reason for my request, a very important rea
   Chief: ...
 
 ### 「Material Accumulation」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -79,6 +95,10 @@ It's past time for Sinner Deren to return to the detention area. But she remains
     Deren: I have to admit that reality can be more magical than the cinematic wonderland.
 
 ### 「Imaginative Training」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 One lazy afternoon, Deren lies on the lawn in the outdoor activity area looking at clouds.
 
@@ -135,6 +155,10 @@ One lazy afternoon, Deren lies on the lawn in the outdoor activity area looking 
     Deren: What can I say? I am a boring person...
 
 ### 「Additional Skills」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Pepper's patch of wheat in the greenhouse has ripened. A group of helpers are harvesting it, Deren among them. She seems a skilled harvester, you think to yourself as you get closer.
 

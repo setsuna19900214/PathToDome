@@ -2,8 +2,15 @@
 
 ## Luvia - Interrogation I
 
+> Intelligence before completion:
+> After you caught the culprit who disrupted the arresting operation, you immediately proceeded with an interrogation.
+> However, it seems that she doesn't match the description of the profile you received from the MBCC at all.
+
+> Intelligence after completion:
 > Luvia Ray's dual personality has been confirmed. You decided to use this as your leverage to infiltrate the illegal shooting location once again.
 > There is an information asymmetry between Luvia Ray's two personalities. Strangely enough, the one with more information isn't the dominating personality. You believe there is a way to get to the bottom of this.
+
+### Interrogation Transcript
 
 Before you even enter the interrogation room, you can already hear the clanging noise and electricity buzz inside.
 
@@ -371,10 +378,19 @@ In any case, you need to know more information from Ray about this organization.
 
 You gave Ray the chance to respond, yet it was met with silence. You don't know if Ray believes you, or if... she believes in herself too much.
 
+> Luvia Ray's dual personality has been confirmed. You decided to use this as your leverage to infiltrate the illegal shooting location once again.
+> There is an information asymmetry between Luvia Ray's two personalities. Strangely enough, the one with more information isn't the dominating personality. You believe there is a way to get to the bottom of this.
+
 ## Luvia - Interrogation II
 
+> Intelligence before completion:
+> As her agent, you accompanied Luvia Ray to an audition in the hope that you might find more clues to this organization and even that "director" who managed to get away.
+
+> Intelligence after completion:
 > As you expected, the "director" blew the cover and locked you and Luvia Ray in a small chamber.
 > After seeing the "director's" true colors and the tragedy befalling the girl, Ray is acting strange.
+
+### Interrogation Transcript
 
 Luvia: Wow! So this is where they audition for the leading actress?
 
@@ -700,10 +716,20 @@ Ray: Ah... Sorry... Luvia...
 
 Ray: Luvia, help me... Get me... out of here...
 
+> As you expected, the "director" blew the cover and locked you and Luvia Ray in a small chamber.
+> After seeing the "director's" true colors and the tragedy befalling the girl, Ray is acting strange.
+
 ## Luvia - Interrogation III
 
+> Intelligence before completion:
+> With Luvia Ray's help, you escaped the small room and decided to rescue the girl who was taken away.
+> It seems this "director" is the reason behind Luvia and Ray.
+
+> Intelligence after completion:
 > The conflict between Luvia and Ray is getting worse by the day, but this is actually because both of them want to protect each other.
 > They are each other's heroes.
+
+### Interrogation Transcript
 
 Ray: Get lost! You wanna try being electrocuted again?!
 
@@ -1016,3 +1042,6 @@ Luvia: And please, please make sure you don't hurt the face! Or it'll look awful
 Ray: Stop nagging.
 
 Ray: ...Got it.
+
+> The conflict between Luvia and Ray is getting worse by the day, but this is actually because both of them want to protect each other.
+> They are each other's heroes.

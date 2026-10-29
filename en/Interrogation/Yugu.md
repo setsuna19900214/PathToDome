@@ -2,7 +2,14 @@
 
 ## Yugu - Interrogation I
 
+> Intelligence before completion:
+> After the conclusion of the fete, as one of its primary organizers and a Sinner, Yugu has voluntarily submitted to detention and shackle control in exchange for limited freedom within designated areas of DisCity.
+> However, given her dangerous nature, your superiors have ordered you to maintain strict surveillance and control over her.
+
+> Intelligence after completion:
 > After receiving an abnormal Mania detection report from the fete site's cleanup team, you decide to carry out an on-site investigation with Yugu. As suspected, you discover residual Mania contaminant that somehow slipped through the initial purge.
+
+### Interrogation Transcript
 
 *As wild geese herald spring's return, peace blossoms across the realm.*
 
@@ -282,9 +289,17 @@ And it's precisely because of this contrast that you notice something peculiarâ€
 
 Noticing that you've spotted the anomaly, Yugu hands you another photoâ€”a candid shot someone took of her approaching you. In this photo too, the same white shadow appears beside her feet.
 
+> After receiving an abnormal Mania detection report from the fete site's cleanup team, you decide to carry out an on-site investigation with Yugu. As suspected, you discover residual Mania contaminant that somehow slipped through the initial purge.
+
 ## Yugu - Interrogation II
 
+> Intelligence before completion:
+> Since the residual Mania mental contaminant could potentially trigger major consequences, you've decided against immediate removal, but instead plan to trace the source of the contamination before making a final decision.
+
+> Intelligence after completion:
 > To investigate the source of the Mania residue, you and Yugu create another *story*. But having been subjected to an overwhelming Mania impact, the residue's memories are chaotic and incomplete. Yugu suggests using her storytelling techniques to help the residue recover its memories and the reason why it is here.
+
+### Interrogation Transcript
 
 Chief: Turn your face slightly to the right.
 
@@ -508,9 +523,17 @@ Yugu: Come now, tell me... what do you remember of your lingering attachments?
 
 Yugu: What made them... become your lingering attachments?
 
+> To investigate the source of the Mania residue, you and Yugu create another *story*. But having been subjected to an overwhelming Mania impact, the residue's memories are chaotic and incomplete. Yugu suggests using her storytelling techniques to help the residue recover its memories and the reason why it is here.
+
 ## Yugu - Interrogation III
 
+> Intelligence before completion:
+> Having witnessed countless disasters in her travels, Yugu uses her experiences to craft stories that might resonate with Little Wisp. She attempts to awaken its dormant memories with these tales and find out the thing that's troubling it, hoping this will resolve the problems caused by the Mania residue.
+
+> Intelligence after completion:
 > Having recovered its memories and obsessive ideas, Little Wisp restrains Yugu and extracts more Mania power from her to fulfill its world-destroying ambitions. It holds Yugu hostage, trying to manipulate you into using your powers for rescue, but you see through the deception. This entire story is about no one else but Yugu herself.
+
+### Interrogation Transcript
 
 Yugu: In all the stories I have told, people's wishes and regrets always fall into the same motifs.
 
@@ -798,9 +821,17 @@ Chief: I suggest you stop "telling" this story about yourself, rather than tryin
 
 Chief: Miss Yugu.
 
+> Having recovered its memories and obsessive ideas, Little Wisp restrains Yugu and extracts more Mania power from her to fulfill its world-destroying ambitions. It holds Yugu hostage, trying to manipulate you into using your powers for rescue, but you see through the deception. This entire story is about no one else but Yugu herself.
+
 ## Yugu - Interrogation IV
 
+> Intelligence before completion:
+> From the moment she steps into the interrogation room, Yugu has already activated her ability, weaving what she calls *her own story*. She attempts once again to pull Chief into her narrative, manipulating events toward a predetermined *tragic ending* to satisfy her obsession with witnessing the world's destruction.
+
+> Intelligence after completion:
 > Fate alone writes the final conclusion. You use your shackles to connect with the tragedy lover, and together you'll weather the rises and falls of destiny until the story's final chapter unfolds.
+
+### Interrogation Transcript
 
 Your eyes gradually adjust to the light, as blurry patches of color slowly come into focus.
 
@@ -1045,3 +1076,5 @@ Yugu dons her veil once more and offers you a graceful bow, every bit the pictur
 Yugu: Naturally... Chief.
 
 Yugu: From this day forward, I shall remain by your side, unwavering until death.
+
+> Fate alone writes the final conclusion. You use your shackles to connect with the tragedy lover, and together you'll weather the rises and falls of destiny until the story's final chapter unfolds.

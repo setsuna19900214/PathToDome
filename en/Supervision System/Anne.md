@@ -2,11 +2,19 @@
 
 ### 「First Aid」
 
+Location: Training Room
+
+Urgency: ⚠
+
 The Sinners often hurt themselves while training. Anne suggests putting some medkits in the Training Room so that people can get help whenever help is needed.
 
 - Approve
 
 ### 「No Headhunting」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 Employees of the medical department submitted a joint application letter for Anne to stay in their department.
 
@@ -14,11 +22,19 @@ Employees of the medical department submitted a joint application letter for Ann
 
 ### 「Hard to Achieve」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Anne suggests that you wake up at 7 a.m. and go to bed at 11 p.m. every day. A healthy lifestyle is the key to your well-being.
 
 - Got it. But...
 
 ### 「Academic Books」
+
+Location: Management Center
+
+Urgency: ⚠
 
 A series of theses have been published in Eastside: Surrounding Temperature's Impact on Mania Patients' Neurotransmitters, Current Situation And Development of Mania's Mass Spread, A Study on the Correlation Between Dopamine Receptors And Mania Patients' Cognitive Functions...
 
@@ -30,11 +46,19 @@ Anne requests to order all of the above theses.
 
 ### 「Hair Volume」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Someone is asking Anne for her tips on maintaining her hair volume.
 
 - I'm asking too, on behalf of a friend.
 
 ### 「Nourishing Congee」
+
+Location: Management Center
+
+Urgency: ⚠
 
 You don't feel well and have a poor appetite these days due to the busy work at the Bureau. Anne has specifically prepared some health-promoting nourishing congee for you.
 
@@ -47,6 +71,10 @@ Chief: It's indeed very healthy, but also kind of tasteless...
   Anne: No way, Chief. Diet is part of the treatment too. Please take my advice seriously.
 
 ### 「Last Midnight Snack」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Anne is browsing through your diet history.
 
@@ -79,6 +107,10 @@ Anne: That won't do.
 Anne: You have been hard at work. You simply must ingest the nutrients.
 
 ### 「Good Medicine Tastes Bitter」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Anne's Ability Profile:
 
@@ -118,6 +150,10 @@ Anne: If you'll excuse me, Chief. And don't forget to drink it all.
 
 ### 「Hard-Earned Holiday」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 The Recreation Area is available for free today. Happy and joyful, the Sinners gather around except Anne who stands alone away from them.
 
 Chief: Are you not going to join them in the entertainment activity?
@@ -154,6 +190,10 @@ Announcement: There is a patient that requires your attention.
 
 ### 「Medical Magazine」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Through the surveillance camera, you see Anne reading a book in the library, and a magazine is dropped on the floor.
 
 Anne looks at the magazine's cover. She doesn't pick it up, and even kicks it under the couch when no one's watching.
@@ -186,6 +226,10 @@ Anne looks at the magazine's cover. She doesn't pick it up, and even kicks it un
 
 ### 「Stray Cat」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 A stray cat has snuck into the Bureau through a vent and climbed onto the top of the greenhouse.
 
 The staff members are trying to catch the cat, but it seems to be scared and is facing the crowd with an arched back.
@@ -215,6 +259,10 @@ Anne: So cute. What should we name you? Perhaps we should let Chief give you a n
 Stroking the lovely cat, Anne gives a reassuring smile.
 
 ### 「Sleep-Deprived」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 The last round of battle training has just ended in the Training Room. Now it's Anne's turn.
 
@@ -251,6 +299,10 @@ You put a blanket over Anne and let her sleep.
 Somehow, everyone in the Training Room quiets down too.
 
 ### 「A Kindergarten」
+
+Location: Management Center / Training Room
+
+Urgency: ⚠⚠⚠
 
 With the daily tasks in the Bureau, you already have your plate full, but these Sinners under you give you an even bigger headache.
 
@@ -303,6 +355,10 @@ Anne: But sometimes when children talk to you, they're not asking for something 
       Anne: After all, we were all children once, weren't we?
 
 ### 「Battle of Disciplines」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Forensica rarely eats with others. The last time she did, you received a complaint that very evening. Someone reported that she had shown her colleagues photos of stomach contents from a corpse during the meal.
 

@@ -2,7 +2,13 @@
 
 ## Jasmine - Interrogation I
 
+> Intelligence before completion:
+> After the closing ceremony of the Great Expo, the Outland Sinner Jasmine was transferred to EDGE for containment as a DisCorps weapon bearer. Separated from the weapon at long last, she finally regained her sanity. But that may not be the good news it seems...
+
+> Intelligence after completion:
 > Jasmine is still smiling, the same smile she wore on the eve of the Great Expo. You know she cannot let go of the hatred and pain buried deep inside her, and you know her desire to reach out to Shattered Blade is about far more than just "making friends." But... for now, all you can offer are words you don't truly mean. What else can you do for her?
+
+### Interrogation Transcript
 
 Six months had passed since the Ash Campaign. The Fraser Unity Gala came to an end, and the strife between DisCity and the Farland Alliance settled into a tentative pause. The perilous Rancor weapons have slowly been brought back under control.
 
@@ -452,10 +458,18 @@ Doctor: Jasmine's past is too heavy; taking her on will be far harder than you i
 
 *You're doing something foolish, that much is certain. But... you just can't let go.*
 
+> Jasmine is still smiling, the same smile she wore on the eve of the Great Expo. You know she cannot let go of the hatred and pain buried deep inside her, and you know her desire to reach out to Shattered Blade is about far more than just "making friends." But... for now, all you can offer are words you don't truly mean. What else can you do for her?
+
 ## Jasmine - Interrogation II
 
+> Intelligence before completion:
+> Jasmine is back at the MBCC. At last, you can share a stretch of quiet days.
+
+> Intelligence after completion:
 > Jasmine disappears into the WhiteSands, together with the armored transport bearing the Rancor. Throughout her escape, she shows remarkable intelligence and acuity. No one would imagine a "pitiful patient" could pull off something like this.
 > Jasmine knows your promise isn't entirely a lie. But she also knows you would never let her reach the Shattered Blade. So she makes her choice, to take the blades and leave her blessings behind.
+
+### Interrogation Transcript
 
 After the promise was made, the suffocating tension dissolved completely. Jasmine has clung to you at almost every waking moment since. It's been a gentle, peaceful stretch of time, much like now.
 
@@ -1057,10 +1071,19 @@ At that time, you don't yet understand. The deeper a Rancor is pulled into the b
 
 Only through taking can their hearts be awakened.
 
+> Jasmine disappears into the WhiteSands, together with the armored transport bearing the Rancor. Throughout her escape, she shows remarkable intelligence and acuity. No one would imagine a "pitiful patient" could pull off something like this.
+> Jasmine knows your promise isn't entirely a lie. But she also knows you would never let her reach the Shattered Blade. So she makes her choice, to take the blades and leave her blessings behind.
+
 ## Jasmine - Interrogation III
 
+> Intelligence before completion:
+> The Outlands dancer returns to the battlefield. The "celebration" is about to begin.
+
+> Intelligence after completion:
 > At Nirvana Port, Sinner Jasmine confronts the stationed Shattered Blade head-on, her vengeance long overdue. Then General Augustus enters the fray.
 > The conflict ends in an unexpected way. At its cost, you are gravely wounded and fall into a coma.
+
+### Interrogation Transcript
 
 23 Hours After Jasmine's Escape
 
@@ -1858,10 +1881,20 @@ Right. What's the hurry? She's pointed out the road ahead. The price still owed 
 
 She is a general. She will carry it all.
 
+> At Nirvana Port, Sinner Jasmine confronts the stationed Shattered Blade head-on, her vengeance long overdue. Then General Augustus enters the fray.
+> The conflict ends in an unexpected way. At its cost, you are gravely wounded and fall into a coma.
+
 ## Jasmine - Interrogation IV
 
+> Intelligence before completion:
+> After leaving Nirvana Port, you are rushed to the MBCC for emergency treatment. But too much time is lost in transit. Your condition is far from stable...
+
+> Intelligence after completion:
 > The "celebration" is over at last. The flame that burned so long in the dreams of the displaced can finally die. Jasmine dances again, this time not to swing the blades.
-> "Friend from afar... may we reunite in the coming year. At the next celebration, let me find you there."
+> "Dear friends from afar... may we gather again.
+> At the next celebration, may I find you there."
+
+### Interrogation Transcript
 
 After a night spent riding out the storm, by the time you finally arrive at the Bureau, your wound has already become severely infected.
 
@@ -2306,3 +2339,6 @@ Jasmine: *Brush the dust from your sleeves, raise your cup high. Let us toast th
 Jasmine: *Another year... and another after that. Dear friends from afar... may we gather again.*
 
 Jasmine: *At the next celebration, may I find you there.*
+
+> The "celebration" is over at last. The flame that burned so long in the dreams of the displaced can finally die. Jasmine dances again, this time not to swing the blades.
+> "Friend from afar... may we reunite in the coming year. At the next celebration, let me find you there."

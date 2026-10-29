@@ -2,8 +2,13 @@
 
 ## Pacassi - Interrogation I
 
-> From start to finish, Pacassi has never lost control of her power. Even when someone rubbed salt into her wound or even when she felt emotional, the detector on the wall never reached a critical level.
-> Perhaps you should try a different approach the next time you interact with her.
+> Intelligence before completion:
+> After a hundred years, the term that no one dares mention has been brought up again—"nuclear." It was once an indispensable source of energy, but it too was the apocalypse that devastated our cities. And now, it sits silently in front of you.
+
+> Intelligence after completion:
+> After a hundred years, the term that no one dares mention has been brought up again—"nuclear." It was once an indispensable source of energy, but it too was the apocalypse that devastated our cities. And now, it sits silently in front of you.
+
+### Interrogation Transcript
 
 Through the glass flap on the door, you see the young girl in the interrogation room.
 
@@ -295,11 +300,20 @@ Looking at the grieving young girl before you, you realize any words of comfort 
 
 Perhaps you should leave her alone for now.
 
+> From start to finish, Pacassi has never lost control of her power. Even when someone rubbed salt into her wound or even when she felt emotional, the detector on the wall never reached a critical level.
+> Perhaps you should try a different approach the next time you interact with her.
+
 ## Pacassi - Interrogation II
 
-> Somewhere thousands of kilometers away from the DisCity, there was once a tragedy with irreversible consequences.
-> That tragedy left a scar in the girl's mind that would never heal. She would sink deeper and deeper, drowning in a vortex of remorse and sorrow.
-> Perhaps you should do something about it.
+> Intelligence before completion:
+> It has been some time since Pacassi arrived at the MBCC, but she still acts as a lone wolf that doesn't talk to people.
+> You decided that it is your chance to start a conversation with her and find out about her past.
+
+> Intelligence after completion:
+> Pacassi left the sports ground. She is like a chunk of ice, never melting and encasing Mayek's numerous memories.
+> All of Mayek's memories belong to her and only her.
+
+### Interrogation Transcript
 
 You walk in the sports field in the Bureau. The Sinners are free to move about in the designated area during this time of day, and today is no exception.
 
@@ -589,10 +603,20 @@ Pacassi heads toward the nearby building hurriedly. The afternoon sun shines on 
 
 Yet you can't feel the slightest warmth.
 
+> Somewhere thousands of kilometers away from the DisCity, there was once a tragedy with irreversible consequences.
+> That tragedy left a scar in the girl's mind that would never heal. She would sink deeper and deeper, drowning in a vortex of remorse and sorrow.
+> Perhaps you should do something about it.
+
 ## Pacassi - Interrogation III
 
-> Mayek's story is over, but Pacassi's story has only just begun.
-> Perhaps she can finally break free from her "past" and move on with her life.
+> Intelligence before completion:
+> After several tests, you finally confirmed that Pacassi's ability is stable enough to not cause collateral damage. As a result, it is now time to take her out for a walk. This seems to be the first time she spends some time outside since she arrived at the DisCity.
+
+> Intelligence after completion:
+> You tour for a long time in Eastside and visit many places that Pacassi has never been to.
+> Mayek's memories don't belong to Pacassi alone anymore. They shall not be forgotten. Instead, more and more people will remember them.
+
+### Interrogation Transcript
 
 Pacassi looks at herself in the floor-to-ceiling mirror in the mall and speaks to you somewhat embarrassedly.
 
@@ -863,3 +887,6 @@ Pacassi: Thank you.
 Tears glisten in her eyes, yet her lips can't stop curling into a smile.
 
 Pacassi: I love it...
+
+> Mayek's story is over, but Pacassi's story has only just begun.
+> Perhaps she can finally break free from her "past" and move on with her life.

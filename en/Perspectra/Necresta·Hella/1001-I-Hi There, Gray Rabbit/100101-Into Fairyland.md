@@ -4,6 +4,18 @@
 
 Hi There, Gray Rabbit
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor I
+
 After the BR-005 incident
 
 The command room of the Minos Bureau of Crisis Control

@@ -2,7 +2,13 @@
 
 ## Korryn - Interrogation I
 
+> Intelligence before completion:
+> The MBCC receives an uninvited guest. Sinner Korryn claims to have kidnapped "your precious little mouse" and demands a private meeting with you.
+
+> Intelligence after completion:
 > You venture into WhiteSands and successfully use Tuco as bait to draw out Korryn who has escaped from the Bureau.
+
+### Interrogation Transcript
 
 DisCity Outskirts, Near WhiteSands
 
@@ -328,10 +334,18 @@ Chief: It's been a while. Shall we continue our interrupted conversation?
 
 Chief: —My dear defeated opponent.
 
+> You venture into WhiteSands and successfully use Tuco as bait to draw out Korryn who has escaped from the Bureau.
+
 ## Korryn - Interrogation II
 
+> Intelligence before completion:
+> Korryn has been apprehended. Under interrogation, she reveals Hella's whereabouts. But when the MBCC's sand ship arrives at the location, they find the situation isn't quite what they expected...
+
+> Intelligence after completion:
 > A sandstorm draws near as you jump off the sand ship chasing Korryn, leaving both of you trapped in the sudden tempest.
 > In this dire situation, you have no choice but to work together to survive.
+
+### Interrogation Transcript
 
 Four hours after Korryn's capture
 
@@ -627,10 +641,19 @@ The wind grows stronger by the second. Korryn's gunfire becomes more frequent, a
 
 You shove the door open and dive inside, pulling Korryn along with you.
 
+> A sandstorm draws near as you jump off the sand ship chasing Korryn, leaving both of you trapped in the sudden tempest.
+> In this dire situation, you have no choice but to work together to survive.
+
 ## Korryn - Interrogation III
 
+> Intelligence before completion:
+> In an abandoned transport hub, you witness a different side of Korryn.
+
+> Intelligence after completion:
 > Korryn finally reveals her ulterior motive. As the future grows ever murkier, she's been acting behind Tuco and using Hella as a pretext to get close to you, all to gather intelligence necessary for Tuco's survival.
 > All of a sudden, intruders interrupt your conversation.
+
+### Interrogation Transcript
 
 The raging storm outside pelts the shelter walls with sand and stones, making the whole building groan ominously.
 
@@ -896,9 +919,18 @@ The next second, the metal lock shatters with a spray of shrapnel. The door burs
 
 ???: Korryn you *******! I'm gonna rip your head off!!!
 
+> Korryn finally reveals her ulterior motive. As the future grows ever murkier, she's been acting behind Tuco and using Hella as a pretext to get close to you, all to gather intelligence necessary for Tuco's survival.
+> All of a sudden, intruders interrupt your conversation.
+
 ## Korryn - Interrogation IV
 
+> Intelligence before completion:
+> Strangers burst in and surround Korryn. Amid their shouts, you realize these aren't vengeful attackers coming to settle a score.
+
+> Intelligence after completion:
 > An alliance is formed. You accept the Tuco folks' demanding terms, and in exchange, Korryn and Tuco will be your allies, serving as your eyes in WhiteSands, ready to face whatever the future holds.
+
+### Interrogation Transcript
 
 A group wielding peculiar weapons bursts through the broken door. You instinctively back away, only to realize they're not after you at all—they're going straight for Korryn.
 
@@ -1213,3 +1245,5 @@ Korryn: Don't worry, I'll handle what you can't. I'll be your eyes in WhiteSands
 This is a unique arrangement, neither purely transactional nor based in friendship. Each has become an extension of the other's sight, illuminating paths the other cannot see.
 
 Korryn: Let's see what you can really do.
+
+> An alliance is formed. You accept the Tuco folks' demanding terms, and in exchange, Korryn and Tuco will be your allies, serving as your eyes in WhiteSands, ready to face whatever the future holds.

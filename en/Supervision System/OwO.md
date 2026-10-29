@@ -2,17 +2,29 @@
 
 ### 「Champion Medal」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 OwO wins first prize in the Marbles & Chopsticks Challenge at an MBCC party. She's so pleased with herself that she wears the medal wherever she goes, flaunting it whenever an opportunity presents itself.
 
 - You are awesome!
 
 ### 「Lion Dance Practice」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Every late afternoon without fail, OwO practices lion dancing zealously, even more so when she has an audience.
 
 - Give her a round of applause
 
 ### 「Pasting Spring Couplets」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 OwO: AAAAAlmost...
 
@@ -50,6 +62,10 @@ OwO is standing on a stool in front of her bedroom door. Standing on tiptoes, sh
 
 ### 「Horror Movies」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 A Sinner is arguing with a staff member in the recreation area. Go or stay?
@@ -85,6 +101,10 @@ A Sinner is arguing with a staff member in the recreation area. Go or stay?
       OwO: Because I don't want my awesomeness to scare off those monsters on the screen. Without the monsters, you wouldn't have anything interesting to watch.
 
 ### 「Lion Head Maintenance」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 OwO: Big lion, big lion, roar and roar. The king of the jungle on the go. Little rabbit, little goat, run as fast as a wind can blow.
 
@@ -131,6 +151,10 @@ You hear a tune flowing out of OwO's room. She seems in a good mood.
   OwO: Not bad. Not bad at all. You've passed my test. You seem a quick study. I'll teach you the lion dance tomorrow.
 
 ### 「Lion and Chinese Zodiac」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -181,6 +205,10 @@ Sinner OwO is acting strangely. She's hiding in the greenhouse. Go or stay?
     OwO: You're right... The lion is the best, just like I've always said. I'm gonna go and tell them right now.
 
 ### 「Listener」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Although Dreya is quite introverted, many people in the Bureau like to chat with her.
 
@@ -235,6 +263,10 @@ Chief: Maybe you should follow her discreetly to note down all these *secret mes
 Chief: I'll go after them one by one and catch them red-handed tomorrow!
 
 ### 「Dream Stage」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 After Lady Pearl came to the Bureau, the stages of the Bureau's performances, which were mostly assembled from finished parts purchased by Faye, are finally getting an upgrade.
 
@@ -291,6 +323,10 @@ Chief: OwO, Lady Pearl, what are you doing? Are you having a meeting to design t
   Chief: True to the person who took over a rundown theater troupe and brought it back to life...
 
 ### 「Bureau Rumors」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 The monthly time for file review is here again. This time, the change in the average number in the "Training Hours" column catches your attention.
 
@@ -351,6 +387,10 @@ Chief: The average has dropped by more than 30%... What's going on?
   Chief: Yes, you certainly have, congratulations... So you can use your normal voice now, right? OwO has already run away in fear, I hope she doesn't get lost in the dark.
 
 ### 「Inescapable Romance」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 OwO is filming a new movie at the Bureau. You've been recruited as a production assistant, tasked with serving refreshments to the crew during script reading.
 
@@ -423,6 +463,10 @@ But you notice that no matter how many times you reshoot, Milly always finds a w
 In the end, the exhausted director gives up. When the movie is screened at the Bureau, it's officially classified as a romance.
 
 ### 「The Lion's Roar」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 OwO: Whatever happens, OwO won't hold it against you! Trust in OwO's big, generous heart! Let's do this! Come on, come on!
 

@@ -2,11 +2,19 @@
 
 ### 「Projector Request」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Milly: Dissatisfied that the viewing room can't play romance movies 24 hours a day, Milly has requested a personal projector.
 
 - Approve
 
 ### 「Honey Water」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 By the time you rush into the hypnotherapy room, Milly has just been pulled out of her trance. She looks distraught.
 
@@ -15,6 +23,10 @@ By the time you rush into the hypnotherapy room, Milly has just been pulled out 
   She takes small, careful sips. Her hand relaxes, and she slowly regains her composure.
 
 ### 「Flight of the Bumblebee」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 The program for the Recreation Area's evening gala has been submitted to the judges for review. As the organizer, you're asked to arrange the order of performances to ensure the best possible show.
 
@@ -45,6 +57,10 @@ Chief: Milly plays the piano? That piece is notoriously difficult. It must be ch
   Chief: ...
 
 ### 「Operation Dating」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Milly sits alone in a corner, her eyes gleaming with excitement as she fiddles with the terminal in her hands, muttering to herself under her breath.
 
@@ -89,6 +105,10 @@ Milly: Huh?
   Milly: The... the Ferris wheel... or w-would you prefer the hot springs?
 
 ### 「Love Hunter」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You notice that for some reason, Bureau staff are giving Milly a wide berth. Even when they run into her, they pretend not to see her.
 
@@ -143,6 +163,10 @@ You notice that for some reason, Bureau staff are giving Milly a wide berth. Eve
     Chief: ...
 
 ### 「Inescapable Romance」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 OwO is filming a new movie at the Bureau. You've been recruited as a production assistant, tasked with serving refreshments to the crew during script reading.
 

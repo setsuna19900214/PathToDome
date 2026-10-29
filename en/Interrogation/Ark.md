@@ -2,8 +2,15 @@
 
 ## Ark - Interrogation I
 
+> Intelligence before completion:
+> You arrive at WhiteSands with the FAC fleet to help track down a so-called "ghost ship." As the FAC warned, this weather-beaten sand ship is deceptively dangerous and aggressive. During their attack, you're knocked overboard.
+> When you regain consciousness, you find yourself surrounded by a group of WhiteSands sailors.
+
+> Intelligence after completion:
 > Having narrowly escaped death, you're rescued by Ark and her crew. You recall a special memory about them in the Black Tide. Before reuniting with the FAC, Ark might be the only person you can trust.
 > Unfortunately, they're piloting the very "ghost ship" you were sent to investigate.
+
+### Interrogation Transcript
 
 You stand on the deck of the sand ship, the dry winds of WhiteSands howling past your ears. In the distance, sand waves surge and roll, revealing faint black shadows within them.
 
@@ -299,10 +306,20 @@ Chief: *So... I ended up in the right place after all.*
 
 This is your final thought before you black out again.
 
+> Having narrowly escaped death, you're rescued by Ark and her crew. You recall a special memory about them in the Black Tide. Before reuniting with the FAC, Ark might be the only person you can trust.
+> Unfortunately, they're piloting the very "ghost ship" you were sent to investigate.
+
 ## Ark - Interrogation II
 
+> Intelligence before completion:
+> You're thrown into a cell aboard the Ark. In the darkness, you immediately begin planning your next move.
+> As the cell door slowly creaks open, the welcome light reveals a crew member you've met briefly before. After a short exchange, you realize this person is Disian, which could be an opportunity for your escape.
+
+> Intelligence after completion:
 > Just as the Ark and the FAC fleet are on the verge of opening fire, you emerge on deck with Samuel held at your mercy, demanding that Ark stand down and return with you to DisCity. After her initial shock, Ark consents to your demands, perhaps because she sees no other way.
 > What Ark does not realize is that this hostage crisis was a ruse, secretly orchestrated by you and Samuel from the start.
+
+### Interrogation Transcript
 
 You wake up to a throbbing pain at the back of your head. You try to focus, but there's only darkness before your eyes. The air is tinged with the smell of rotting wood.
 
@@ -602,10 +619,20 @@ Chief: I contacted the FAC as soon as I boarded the ship. The rescue team will a
 
 Chief: When that time comes, the choice will be in your hands.
 
+> Just as the Ark and the FAC fleet are on the verge of opening fire, you emerge on deck with Samuel held at your mercy, demanding that Ark stand down and return with you to DisCity. After her initial shock, Ark consents to your demands, perhaps because she sees no other way.
+> What Ark does not realize is that this hostage crisis was a ruse, secretly orchestrated by you and Samuel from the start.
+
 ## Ark - Interrogation III
 
+> Intelligence before completion:
+> You enter the interrogation room with every scrap of information you could find about the Ark, ready to formally begin Ark's interrogation.
+> Ark watches you with predatory intensity. You've just threatened the lives of her crew members, and you suspect it's a line she will make you regret crossing.
+
+> Intelligence after completion:
 > Flipping through the yellowed photographs, faded documents, and the original blueprints of the Ark, you finally grasp its complete history and the profound commitment she inherited from her parents.
 > Under the warm sunlight, she reaches out her hand, revealing to you the vessel's true essence: a gentle, reliable leviathan born for the sole purpose of carrying humanity toward the shores of hope and peace. Behind you, the expanse of WhiteSands stretches endlessly into the horizon.
+
+### Interrogation Transcript
 
 You enter the interrogation room carrying a thick folder filled with every scrap of information you could find about the Ark.
 
@@ -1004,3 +1031,6 @@ Chief: I was just freed from the cage...
 Glimpsing your face, Ark laughs brightly.
 
 Ark: Just close your eyes, and it'll taste no different than chicken soup! Zulu Zulu!
+
+> Flipping through the yellowed photographs, faded documents, and the original blueprints of the Ark, you finally grasp its complete history and the profound commitment she inherited from her parents.
+> Under the warm sunlight, she reaches out her hand, revealing to you the vessel's true essence: a gentle, reliable leviathan born for the sole purpose of carrying humanity toward the shores of hope and peace. Behind you, the expanse of WhiteSands stretches endlessly into the horizon.

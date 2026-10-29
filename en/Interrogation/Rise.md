@@ -2,8 +2,14 @@
 
 ## Rise - Interrogation I
 
+> Intelligence before completion:
+> Spurred by recent rumors on the dark web about Nirvana's scandals, you are tasked by the Public Security Bureau to investigate a past attack. There, you meet a survivor who has been summoned to testify as a witness.
+
+> Intelligence after completion:
 > Nirvana insists that all surveillance data from the day of the incident is lost, leaving the investigation into the attack unresolved.
 > Rise, unwilling to testify falsely, decisively resigns to seek a new job. Having witnessed her change, you wish her all the best.
+
+### Interrogation Transcript
 
 01:31:27 Dark Web Forum Homepage
 
@@ -339,10 +345,20 @@ A brief silence passes between you and her. After a moment, as if by some agreem
 
 Rise: ...Alright then, goodbye.
 
+> Nirvana insists that all surveillance data from the day of the incident is lost, leaving the investigation into the attack unresolved.
+> Rise, unwilling to testify falsely, decisively resigns to seek a new job. Having witnessed her change, you wish her all the best.
+
 ## Rise - Interrogation II
 
+> Intelligence before completion:
+> Returning to the job market, Rise receives numerous offers on DisHire due to her impressive resume, but each interviewer is eccentric in their own way.
+> After many grueling interviews, Rise finally joins a new company she likes.
+
+> Intelligence after completion:
 > Rise still hasn't fulfilled her wish. After recognizing the true nature of her new boss, she resigns without hesitation.
 > You meet again during the evening rush hour. After learning about Rise's recent job hunt, you offer her an interview on behalf of the MBCC.
+
+### Interrogation Transcript
 
 *"When others weigh the pros and cons, and exhaust themselves with schemes... When you see the depravity and cruelty of this world..."*
 
@@ -626,10 +642,19 @@ Chief: Rise, are you interested in working for the MBCC?
 
 *"I am not the lonely one."*
 
+> Rise still hasn't fulfilled her wish. After recognizing the true nature of her new boss, she resigns without hesitation.
+> You meet again during the evening rush hour. After learning about Rise's recent job hunt, you offer her an interview on behalf of the MBCC.
+
 ## Rise - Interrogation III
 
+> Intelligence before completion:
+> In the interrogation room, you conduct a special interview with Rise. As an excellent and professional candidate, she is extremely cooperative with all your questions.
+
+> Intelligence after completion:
 > The truth of the case is revealed, and Rise signs a special employment contract with you.
 > The gleam of the sword not only cuts through darkness, but also lights the way for companions. This time, she is no longer alone. Together, you will build an ideal world where there is respect and equality for all.
+
+### Interrogation Transcript
 
 Rise: The interview is being held here? How unconventional.
 
@@ -1098,3 +1123,6 @@ The red shackles pierce and connect your palms together. This is your "work cont
 *"The lightsaber will take me to my companions. I shall not walk alone down this path."*
 
 She is not the lonely one.
+
+> The truth of the case is revealed, and Rise signs a special employment contract with you.
+> The gleam of the sword not only cuts through darkness, but also lights the way for companions. This time, she is no longer alone. Together, you will build an ideal world where there is respect and equality for all.

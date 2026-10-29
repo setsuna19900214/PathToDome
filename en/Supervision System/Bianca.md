@@ -2,17 +2,29 @@
 
 ### 「Apple Juice Orders」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Ever since Bianca moved into the MBCC, the Supply Office has seen a surge in apple juice orders.
 
 - Drinking apple juice like water isn't good, right?
 
 ### 「Learn from Experts」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Lately, Bianca has been chatting with MBCC's bloggers to learn from them. Apparently, she wants to create a social media account dedicated to exposing scum in the society.
 
 - That's nice.
 
 ### 「Naturally Feisty」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Bianca: Lalala, lalala, I'm a professional journalist!
 
@@ -52,6 +64,10 @@ You finally conclude that Bianca is born with this boundless energy. Her experie
 
 ### 「Chat Buddy」
 
+Location: Darkroom
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 Unusual behaviors have been detected in Sinner Bianca. Go and inspect?
@@ -89,6 +105,10 @@ Unusual behaviors have been detected in Sinner Bianca. Go and inspect?
   Bianca: Chief, since you're here, why not chat for a while?
 
 ### 「Visiting Hours」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Bianca is one of the few Sinners who maintain good relationships with their families. Today, her parents are visiting her at the Bureau again.
 
@@ -155,6 +175,10 @@ Chief: Sigh, better get back to those documents...
 Chief: It's better not to disturb someone else's family gathering...
 
 ### 「Interviews」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Bianca: Hello everyone, today we are interviewing Sinners about their living conditions inside the MBCC.
 

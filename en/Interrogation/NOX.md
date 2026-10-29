@@ -2,7 +2,15 @@
 
 ## NOX - Interrogation I
 
+> Intelligence before completion:
+> Thanks to their meticulous plan and efficient execution, the MBCC finally detained NOX.
+> However, you know very little of her except that she is the protagonist of the most horrible urban legend in DisCity for the past decades. We know nothing else about her. When she was first detained, all attempts to communicate with her failed.
+> But lately, a secret letter from Langley once again brought your attention to NOX.
+
+> Intelligence after completion:
 > The situation with NOX is complicated. But you see much more significant potential from that girl.
+
+### Interrogation Transcript
 
 Rookie,
 
@@ -410,9 +418,17 @@ Chief: I'm fine.
 
 I think, I've already found out how to crack this problem.
 
+> The situation with NOX is complicated. But you see much more significant potential from that girl.
+
 ## NOX - Interrogation II
 
+> Intelligence before completion:
+> After the previous interrogation, you made several more attempts to communicate with NOX. It is becoming clearer that the girl is the original personality of this body. If we can find her and awaken her, it will significantly reduce the threat that NOX poses.
+
+> Intelligence after completion:
 > In the depth of a mind, there is only void and darkness.
+
+### Interrogation Transcript
 
 Nightingale: ...In other words, NOX's body houses tens of thousands of souls of the dead.
 
@@ -714,9 +730,17 @@ But as you keep falling, the dark gray mist on the letters in your hands is slow
 
 You need to save her, you need to help that girl take back her own life.
 
+> In the depth of a mind, there is only void and darkness.
+
 ## NOX - Interrogation III
 
+> Intelligence before completion:
+> Will there be light in the darkness?
+
+> Intelligence after completion:
 > NOX went manic and fled out of the blue.
+
+### Interrogation Transcript
 
 An indefinite length of time has passed since the initial collapse.
 
@@ -942,10 +966,19 @@ Nightingale: NOX destroyed the constraints, we...
 
 We couldn't stop her.
 
+> NOX went manic and fled out of the blue.
+
 ## NOX - Interrogation IV
 
+> Intelligence before completion:
+> NOX escaped and headed for DisSea, the greatest nightmare in all of the DisCity, a land of terror that no soul dares approach.
+> You mobilized many people to go on an interception mission. Eventually, you come to a stop at DisSea's Broken Frontline.
+
+> Intelligence after completion:
 > Amber disappeared.
 > The one left behind is NOX instead of Amber or the berserk shadow. It's just an empty shell that once protected you.
+
+### Interrogation Transcript
 
 Broken Frontline, DisSea
 
@@ -1162,3 +1195,6 @@ Chief: Amber?
 You look up. No reaction can be seen on the ashen face, as if everything before you, even the sunrise she's been longing to see, has nothing to do with her.
 
 It is an ice cold, empty vessel named *NOX*.
+
+> Amber disappeared.
+> The one left behind is NOX instead of Amber or the berserk shadow. It's just an empty shell that once protected you.

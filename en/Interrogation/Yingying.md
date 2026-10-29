@@ -2,7 +2,13 @@
 
 ## Yingying - Interrogation I
 
+> Intelligence before completion:
+> After the conclusion of the fete, you take over a series of cleanup work, carefully protecting and handling the energy source buried deep beneath the remnants of the Mania-infected wisteria.
+
+> Intelligence after completion:
 > The energy source beneath the Mania-infected wisteria's remains is actually Sinner Yingying's true form. You can no longer communicate with her directly, so your only option is to use the young wisteria sapling you brought back from the scene. You meet with her via the dreamscape with the help of the shackles, attempting to restore her Qi, but your efforts seem to be in vain.
+
+### Interrogation Transcript
 
 10:30 AM
 
@@ -296,9 +302,17 @@ Nightingale: Understood. Chief, there's also a meeting request from the Eastian 
 
 Nightingale: They'd like to meet you personally. They seem very serious about it. Apparently, it concerns Yingying... and her fete.
 
+> The energy source beneath the Mania-infected wisteria's remains is actually Sinner Yingying's true form. You can no longer communicate with her directly, so your only option is to use the young wisteria sapling you brought back from the scene. You meet with her via the dreamscape with the help of the shackles, attempting to restore her Qi, but your efforts seem to be in vain.
+
 ## Yingying - Interrogation II
 
+> Intelligence before completion:
+> A group from Hengyun Hall, an Eastian apothecary, requests a meeting. They claim they have strong connections to both Yingying and the fete, and have brought a method that can rapidly restore Yingying's depleted Qi.
+
+> Intelligence after completion:
 > You've confirmed with Wuhuanzi that *environmental capability* is indeed a legit medical concept in Eastia, but you remain skeptical. Given Yingying's status as a Sinner and the unique nature of her condition, you can't confidently entrust her to others. You believe it's necessary to consult with Yingying herself before making any decisions.
+
+### Interrogation Transcript
 
 Several days later, N.F. 115
 
@@ -550,9 +564,17 @@ Nightingale: Chief! Miss Wei just called. She wanted us to send someone to the E
 
 Nightingale: Both Yingying and Mr. Wei have gone missing!
 
+> You've confirmed with Wuhuanzi that *environmental capability* is indeed a legit medical concept in Eastia, but you remain skeptical. Given Yingying's status as a Sinner and the unique nature of her condition, you can't confidently entrust her to others. You believe it's necessary to consult with Yingying herself before making any decisions.
+
 ## Yingying - Interrogation III
 
+> Intelligence before completion:
+> The elderly owner of Hengyun Hall has mysteriously vanished. Observing the fete venue at a close distance, you begin to grasp an inkling of the truth. To avoid disturbing others and further complicating investigation efforts, you venture alone to the Mania-infected wisteria tree.
+
+> Intelligence after completion:
 > With her temporarily restored powers, Yingying works with you to host a fete for Mr. Wei, allowing him to return to his youth and fulfill that vow he had never been able to make. Having come all the way to DisCity, accomplished his lifelong wish, and met the Wisteria Fairy, Mr. Wei has no more regrets in life and peacefully departs this world.
+
+### Interrogation Transcript
 
 2:50 AM, unspecified date, N.F. 115
 
@@ -824,9 +846,17 @@ Yingying is gone, leaving only a single wisteria branch in your hand.
 
 The elderly man beside you has drawn his last breath, but his face is perfectly serene, as if he has returned to his youth once more.
 
+> With her temporarily restored powers, Yingying works with you to host a fete for Mr. Wei, allowing him to return to his youth and fulfill that vow he had never been able to make. Having come all the way to DisCity, accomplished his lifelong wish, and met the Wisteria Fairy, Mr. Wei has no more regrets in life and peacefully departs this world.
+
 ## Yingying - Interrogation IV
 
+> Intelligence before completion:
+> Fulfilling Mr. Wei's dying wish has depleted Yingying's recently recovered Qi, causing her to retreat once more into the young wisteria sapling. Meanwhile, you must provide your superiors with an explanation for the death of the Eastian envoy. This leaves you with no choice but to connect with Yingying through the dreamscape again to interrogate her.
+
+> Intelligence after completion:
 > What restores Yingying's Qi isn't the earth of her homeland, but rather people's yearning for beauty and the power of their prayers. To help Yingying recover more quickly, you make a heartfelt wish before the Wisteria Fairy: for Yingying to get better again and stay by your side forever.
+
+### Interrogation Transcript
 
 In the interrogation room, a flowerpot with a wisteria branch planted in it sits on the Sinner's seat.
 
@@ -1103,3 +1133,5 @@ Ethereal floral vines rise from the ground, gently enveloping ${PlayerName}'s bo
 *From this moment on, even if the rivers boil and the mountains crumble, even if the entire world turns to dust...*
 
 *I will be here with you...*
+
+> What restores Yingying's Qi isn't the earth of her homeland, but rather people's yearning for beauty and the power of their prayers. To help Yingying recover more quickly, you make a heartfelt wish before the Wisteria Fairy: for Yingying to get better again and stay by your side forever.

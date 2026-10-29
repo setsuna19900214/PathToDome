@@ -2,17 +2,29 @@
 
 ### 「Tribute」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Sinners and staff often give snacks to Hestia, referring to it as an offering of "tribute." At some point, a rumor begins circulating within the Bureau that the priestess would bestow protection upon those who make such offerings.
 
 - Let them be if it's voluntary.
 
 ### 「Failed Preaching」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 During hypnotherapy, Hestia staunchly holds onto her identity as the "priestess" and has even used her mental prowess to counter the therapist's efforts, though the therapist remains unconvinced.
 
 - Keep it up, therapist.
 
 ### 「"Lily"」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 While passing by the greenhouse, you notice Hestia squatting in front of a cluster of lilies.
 
@@ -40,6 +52,10 @@ While passing by the greenhouse, you notice Hestia squatting in front of a clust
 
 ### 「Hair Model」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 You notice that Hestia's thick, long hair has been intricately braided, adorned with many glittering, adorable accessories.
 
 - Your new hairstyle looks beautiful.
@@ -59,6 +75,10 @@ You notice that Hestia's thick, long hair has been intricately braided, adorned 
   - Next time, make sure to ask Faye for the modeling fee.
 
 ### 「Pathfinders in Darkness」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 The new training venue designed for navigating in darkness is intricate, filled with numerous obstacles, making it incredibly challenging to locate the exit in the dark. As soon as the lights go out, everyone flocks to Hestia's side.
 
@@ -115,6 +135,10 @@ Chief: Given your mastery of teamwork, the upcoming solo training should be a br
 EMP: Hahaha, of course... Wait, solo training? Chief, get back here and explain yourself!!
 
 ### 「Save the Light」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

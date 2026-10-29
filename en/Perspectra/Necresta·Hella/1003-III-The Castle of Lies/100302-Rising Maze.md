@@ -4,6 +4,18 @@
 
 The Castle of Lies
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor III
+
 ## Hella's secret infiltration into the garden fails. Surrounded by wisps.
 
 1. Chief sneaks into the garden following Hella.

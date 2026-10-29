@@ -2,11 +2,19 @@
 
 ### 「Curiosity」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 For some reason, Victoria is holding a stick of thorny roses. Her hand is bleeding out.
 
 - Root out all the thorny plants
 
 ### 「Addicted」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 Victoria claims that she saw her father in the dream. Slowly getting addicted to hypnosis, her Mania only grows.
 
@@ -14,11 +22,19 @@ Victoria claims that she saw her father in the dream. Slowly getting addicted to
 
 ### 「Overflowing Passion」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Victoria invited you to have dinner with her in the office. She clogged the door lock using crystals from her blood.
 
 - ...Accept the invitation.
 
 ### 「Why?」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 It seems Victoria has many questions to ask for answers.
 
@@ -55,6 +71,10 @@ Victoria: ...
 
 ### 「Great Gift」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 Victoria tells you about what's troubling her.
 
 Victoria: No one would accept my gift...
@@ -88,6 +108,10 @@ Chief: Their components and values are not the same... This is too complicated f
 Victoria: Hmm?
 
 ### 「A Negative Example」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 Chief, Sinner Victoria invites you to go to her room.
 

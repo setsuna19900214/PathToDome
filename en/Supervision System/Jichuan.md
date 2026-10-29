@@ -2,6 +2,10 @@
 
 ### 「Voice from Beyond」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Sinners report that they often hear a voice in the Outdoor Activity Area when no one else is around.
 
 - Investigate
@@ -10,6 +14,10 @@ Sinners report that they often hear a voice in the Outdoor Activity Area when no
 
 ### 「Tip for Taking Medicine」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Jichuan: While taking my medicine recently, I chanced upon a small realization: if one seals the lips and stills the breath, even the bitterest draft slips down without a trace.
 
 - Reply
@@ -17,6 +25,10 @@ Jichuan: While taking my medicine recently, I chanced upon a small realization: 
   Chief: But doesn't that mean you're not really drinking it at all...?
 
 ### 「Art of Tree Climbing」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You pass by the tallest tree in the Outdoor Activity Area and look up to see Jichuan resting among its branches.
 
@@ -53,6 +65,10 @@ You pass by the tallest tree in the Outdoor Activity Area and look up to see Jic
       Jichuan: And now... I suppose I have.
 
 ### 「Master of Disguise」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 You've finally wrapped up your work and are about to set off for the annual celebration when Jichuan calls you.
 
@@ -93,6 +109,10 @@ You've finally wrapped up your work and are about to set off for the annual cele
     Chief: I give up...
 
 ### 「Tea by the Hearth」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You're burning the midnight oil when Jichuan and Yao show up at your office.
 
@@ -151,6 +171,10 @@ Chief: Won't it be too cold outside?
 Jichuan: With the Seer beside me, I no longer have to stay indoors.
 
 ### 「Readers' Corner」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 You're just taking a breather in the library when Jichuan and Yugu's argument pulls you in.
 

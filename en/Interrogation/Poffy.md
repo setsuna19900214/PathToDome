@@ -2,8 +2,14 @@
 
 ## Poffy - Interrogation I
 
+> Intelligence before completion:
+> Since coming to the Bureau, Poffy has been emotionally stable and positive, getting along well with the other Sinners. As a result, you're not in a hurry to interrogate her. However, the cafeteria budget seems to be going crazy these days...
+
+> Intelligence after completion:
 > To secure her stay at the Bureau, Poffy deliberately emphasizes the dangerous nature of her abilities, her words hinting at some untold secret. However, none of the *crimes* she's mentioned are recorded. You decide to suspend the interrogation and conduct a more thorough investigation into her past.
 > Ridiculously, when the crisis is finally resolved, the first thing she asks about is extra meal options.
+
+### Interrogation Transcript
 
 Poffy: Whoa... So this is the famous *must-see spot* that every Sinner has to visit—the Interrogation Room?
 
@@ -287,10 +293,19 @@ Sitting at your office desk, you stare at the pristine letter with one line writ
 
 Perhaps this letter can answer your questions: Why does Poffy so desperately want to stay at the Bureau, even at the cost of losing her freedom? And why does she worry so much about the potential impact of her special power?
 
+> To secure her stay at the Bureau, Poffy deliberately emphasizes the dangerous nature of her abilities, her words hinting at some untold secret. However, none of the *crimes* she's mentioned are recorded. You decide to suspend the interrogation and conduct a more thorough investigation into her past.
+> Ridiculously, when the crisis is finally resolved, the first thing she asks about is extra meal options.
+
 ## Poffy - Interrogation II
 
+> Intelligence before completion:
+> Investigators found a letter from Poffy's management company in her apartment's mailbox. She had been manipulated into signing an exploitative contract that would require an exorbitant penalty to terminate. Just as you suspected, Poffy's voluntary entry into the Bureau was no coincidence. You just never thought she was fleeing from debt.
+
+> Intelligence after completion:
 > Following Mr. Fox's suggestion, you pose as her guardian and assistant, accompanying her to fulfill her contractual obligations. After witnessing her working conditions and learning about her past, you decide to help the girl escape her suffering and reclaim her freedom.
 > Handing a key to someone is easy. The challenge lies in realizing that you're not the one holding it, and finding a way to take it back.
+
+### Interrogation Transcript
 
 In the Chief's office, steam rises from two cups of hot tea.
 
@@ -834,9 +849,18 @@ Host: ...And now! Let the eating contest begin!
 
 She's made it through. On her own, this time.
 
+> Following Mr. Fox's suggestion, you pose as her guardian and assistant, accompanying her to fulfill her contractual obligations. After witnessing her working conditions and learning about her past, you decide to help the girl escape her suffering and reclaim her freedom.
+> Handing a key to someone is easy. The challenge lies in realizing that you're not the one holding it, and finding a way to take it back.
+
 ## Poffy - Interrogation III
 
+> Intelligence before completion:
+> Poffy has successfully broken free from the company that exploited her and started a new life. But you know well that making peace with oneself is never an overnight process. On the day her new account reaches a hundred followers, you decide to give her the gift you've long prepared.
+
+> Intelligence after completion:
 > Poffy never imagined she could empower others. The heartfelt responses from her fans help her gain confidence, while that *spell* you showed her ensures she no longer feels alone when facing her fears.
+
+### Interrogation Transcript
 
 After the shooting is done, instead of heading straight back to the Bureau, you go to Poffy's little rented home.
 
@@ -1115,3 +1139,5 @@ No plans, but plenty of ideas. No acting skills, but full of courage.
 Since she wants to believe that she can create her own new beginning and shape her own path...
 
 Then it's all good.
+
+> Poffy never imagined she could empower others. The heartfelt responses from her fans help her gain confidence, while that *spell* you showed her ensures she no longer feels alone when facing her fears.

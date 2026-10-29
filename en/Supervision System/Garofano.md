@@ -2,11 +2,19 @@
 
 ### 「Gossip Master」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The "consultation room" that Garofano set up in the Bureau is extremely popular. If you haven't been there yourself, you'd never guess it's the hottest gossip hub in the Bureau.
 
 - Turns out everyone has a hidden side...
 
 ### 「New Year Gift」
+
+Location: Management Center
+
+Urgency: ⚠
 
 As the New Year rolls in, Garofano, with her tailoring magic, whips up patterned knit gloves for everyone in the Bureau. But oddly enough, only yours are without a design.
 
@@ -14,11 +22,19 @@ As the New Year rolls in, Garofano, with her tailoring magic, whips up patterned
 
 ### 「Special Tutoring」
 
+Location: Training Room
+
+Urgency: ⚠
+
 You ask Garofano to coach some of our rookie Sinners on the ins and outs of "Going Undercover." Without a moment's hesitation, she is all in, keen on spilling all her secrets and tips to the young guns.
 
 - Thank you!
 
 ### 「My Wardrobe」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 You bump into Garofano at the cafeteria during lunchtime.
 
@@ -61,6 +77,10 @@ The instant she sees you, she's like, "Hey, come grab a bite with me!"
   After saying this, she picks up her empty tray and leaves, leaving behind a mysterious silhouette.
 
 ### 「Important Person」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief: Ugh... my uniform has a tear...
 
@@ -107,6 +127,10 @@ If that button hadn't hit the floor as you stood up, you probably wouldn't spot 
     Garofano: Heh, that's something I should be saying to you, Chief.
 
 ### 「Be Careful!」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 On a rare, free weekend afternoon, you head to the library hoping to find a good read. There, you unexpectedly bump into Garofano, who's also on the hunt for a book.
 

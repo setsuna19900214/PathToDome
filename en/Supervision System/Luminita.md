@@ -2,6 +2,10 @@
 
 ### 「The Art of Placement」
 
+Location: Management Center
+
+Urgency: ⚠⚠⚠
+
 Outside Luminita's room, you catch her sorting through a box of strange little ornaments, ready to toss them all away.
 
 She tells you they were sold to her cheap as "evil-warding" treasures, but after taking them home, misfortune followed her everywhere: shattered mugs, vanished keys, one thing after another. Clearly, they had been marked down for good reason.
@@ -48,6 +52,10 @@ Chengxiao: ...Misplaced. The energy's scattered... This one doesn't need to go.
 
 ### 「False Advertising」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Luminita sells various protective talismans at the Bureau. She claims that hanging them on doors and windows, or keeping them locked in a drawer with property deeds, will increase property values.
 
 The increase is supposedly proportionate to how many of Luminita's talismans you purchase.
@@ -56,11 +64,19 @@ The increase is supposedly proportionate to how many of Luminita's talismans you
 
 ### 「Mega Sale!」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 You've noticed that after each meeting between Luminita and Faye, the shop starts featuring more "special offers" with increasingly persuasive sales pitches.
 
 - Calmly shut down the shop's advertisements
 
 ### 「Distinguished Appearance」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Luminita's closet contains an astonishing number of berets.
 
@@ -69,6 +85,10 @@ Each day, she wears a different one. While these berets have subtle variations i
 - The berets all look lovely, they suit you perfectly.
 
 ### 「Item Development」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Luminita: Hey Chief! What can I do for you today?
 
@@ -96,6 +116,10 @@ Luminita: Hey Chief! What can I do for you today?
 
 ### 「Well-Read」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Luminita frequently visits the library to borrow books about various places' cultures and language learning materials.
 
 Chief: Are you interested in the languages and cultures of other places?
@@ -117,6 +141,10 @@ Luminita: It's just that the Bureau's library collection is rather limited. Why 
   Chief: Once you've properly mastered the basics, I'll consider approving your request to leave the Bureau.
 
 ### 「Home Away From Home」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You have a new email: Application for room change.
 

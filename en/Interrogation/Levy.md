@@ -2,7 +2,13 @@
 
 ## Levy - Interrogation I
 
+> Intelligence before completion:
+> You've unintentionally arrested Sinner Levy because of a brawling case in Eastside. It's indeed a very peculiar situation: As an Endura Sinner, Levy was beaten up by his relative. Moreover, there's a financial dispute concerning a huge sum behind this case. You decide to look into it.
+
+> Intelligence after completion:
 > Levy claims that the culprit of the incident is his cousin and insists on visiting his nephew Chad, his assailant, in the jail in Eastside.
+
+### Interrogation Transcript
 
 ???: Levy, you've gone too far!
 
@@ -320,9 +326,17 @@ Levy: I know, I know. You've got the almighty shackles. If I really end up selli
 
 Levy: Stop wasting time here. Let's go.
 
+> Levy claims that the culprit of the incident is his cousin and insists on visiting his nephew Chad, his assailant, in the jail in Eastside.
+
 ## Levy - Interrogation II
 
+> Intelligence before completion:
+> You find the jail where Chad's in and make an appointment with the staff there for a visit.
+
+> Intelligence after completion:
 > You've managed to get Chad out despite the mild obstacles. Levy behaves like a genuinely caring uncle with his nephew throughout. This surprises you.
+
+### Interrogation Transcript
 
 The car has been stuck in traffic on an Eastside street for almost half an hour.
 
@@ -626,10 +640,18 @@ Levy pats the boy on the head and flashes an uncharacteristically bright grin.
 
 Levy: Alrighty, I can't stand another minute in this crappy place. You haven't got many belongings here, have you? Actually, forget it, I'll get you whatever you need once we get out. Let's go.
 
+> You've managed to get Chad out despite the mild obstacles. Levy behaves like a genuinely caring uncle with his nephew throughout. This surprises you.
+
 ## Levy - Interrogation III
 
+> Intelligence before completion:
+> That night, you plan to drive Chad home.
+
+> Intelligence after completion:
 > Levy has deceived you. Everything was just his *fun plan*.
 > But you expose his disguise. Levy isn't really indifferent to anything like he pretends to be. A true nihilist won't meddle with things like this. Perhaps he just needs a little bit of care and love. These are the things he never received from his *family* in the past.
+
+### Interrogation Transcript
 
 It's already late at night when you leave the detention center. The car belts down the roads of Eastside.
 
@@ -922,3 +944,6 @@ Chief: Though no one was hurt, instigation of arson is a crime. I'll investigate
 Chief: Get ready to serve in the Bureau for the rest of your life, *my good nephew*.
 
 Levy: Hahaha, you've really made progress with your sense of humor.
+
+> Levy has deceived you. Everything was just his *fun plan*.
+> But you expose his disguise. Levy isn't really indifferent to anything like he pretends to be. A true nihilist won't meddle with things like this. Perhaps he just needs a little bit of care and love. These are the things he never received from his *family* in the past.

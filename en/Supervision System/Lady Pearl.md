@@ -2,17 +2,29 @@
 
 ### 「Power Player」
 
+Location: Energy Furnace
+
+Urgency: ⚠
+
 Lady Pearl noticed that Etti and her group would organize game sessions from time to time, and she eagerly joined in. With her knowledge and experience in business, Lady Pearl's quick thinking and practical approach often made her the winner of the games, leaving Etti at a bit of a loss.
 
 - Just be yourself, don't get caught up in the rat race.
 
 ### 「Diamond cut Diamond」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After visiting the black market a few times, Lady Pearl quickly established good relations with the merchants who were accustomed to sky-high prices. She easily negotiated several deals that hit their bottom line during wine and dine sessions, leaving the merchants who came to their senses lamenting.
 
 - Like Rock to a Scissor.
 
 ### 「Budget Control」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠
 
 Lady Pearl: Honey, mind tell me what this "Dragon Soothing Expenditure" is for? It costs five thousand DisCoins.
 
@@ -43,6 +55,10 @@ Chief: This... It's a new limited edition GM item I promised to buy for Etti and
     Chief: I hope it was really subconscious...
 
 ### 「Phantom of the Opera」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 Today, there are three Sinners who claim to have seen the "Phantom of the Opera," the figure described in scary stories. Relevant surveillance has been retrieved according to the reported locations and times, please check.
 
@@ -77,6 +93,10 @@ Chief: This new scary story character is said to be dressed in Broadway-style lo
     Chief: For daily occasions, you might be more suitable for lighter eyeshadow colors and lighter clothes...
 
 ### 「Stereotype」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Lady Pearl: Alright then, thank you for your trouble, my little adjutant friend.
 
@@ -140,6 +160,10 @@ Chief: It doesn't seem to be smoking, so she probably isn't... But smoking is pr
 
 ### 「Dream Stage」
 
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
+
 After Lady Pearl came to the Bureau, the stages of the Bureau's performances, which were mostly assembled from finished parts purchased by Faye, are finally getting an upgrade.
 
 OwO: Right! I want a lion this big and this high! Right here!
@@ -195,6 +219,10 @@ Chief: OwO, Lady Pearl, what are you doing? Are you having a meeting to design t
   Chief: True to the person who took over a rundown theater troupe and brought it back to life...
 
 ### 「Production Delay」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 As a major cultural and entertainment event of the Bureau, the stage play written, directed, and performed by Sinners and staff has always been a much anticipated activity.
 

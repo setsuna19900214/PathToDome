@@ -2,6 +2,10 @@
 
 ### 「An Unlikely Savior」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 While perusing the Sinners' behavior analysis report today as a matter of routine, you find that the places Yao has frequented this month differ from those in the previous months.
 
 Chief: Why has she suddenly taken a liking to the greenhouse? She used to avoid it, worried about her effect on the growth of plants.
@@ -34,17 +38,29 @@ Chief: Why has she suddenly taken a liking to the greenhouse? She used to avoid 
 
 ### 「Recluse」
 
+Location: Management Center
+
+Urgency: ⚠
+
 While there are many people in the Bureau who love flowers, Coquelic definitely goes out of the way for them. She plants a large number of flowers, especially poppies, at the door of her room. It's tough for anyone to pay a visit.
 
 - I can barely pass through there...
 
 ### 「Good Taste」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Coquelic is someone who has a high standard for everything. It's just that, you have to pay for most of her "good taste."
 
 - Spare my wallet.
 
 ### 「"Trump Card"」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief: Coquelic, I have a list of Sinners who might be related to the Garden, could you please—
 
@@ -89,6 +105,10 @@ You sigh, getting her help is never easy.
     You chuckle to yourself. It seems she won't be giving you a hard time for a while.
 
 ### 「Potential Assessment」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Sinner A: Um... Excuse me, are you Ms. Coquelic?
 
@@ -139,6 +159,10 @@ Coquelic: Escort me to my room. I'm tired of sitting.
   Chief: Yes, yes...
 
 ### 「Moonbathing」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Before going to bed tonight, you plan to relax at the Outdoor Activity Area, but unexpectedly find Coquelic sitting on the grass.
 
@@ -203,6 +227,10 @@ Before going to bed tonight, you plan to relax at the Outdoor Activity Area, but
   Chief: Let me think about it...
 
 ### 「Prepare the Bath」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Today, just as you've finished dealing with all the miscellaneous tasks at hand and are planning to catch up on your work, an uninvited guest appears at your office.
 

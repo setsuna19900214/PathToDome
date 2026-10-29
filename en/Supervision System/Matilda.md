@@ -2,11 +2,19 @@
 
 ### 「The Echoes of Intensity」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Matilda was on her toes about every little thing she did when she first got into the Bureau. She was so strung out that one day, when you spotted her snoozing under a tree and went to tell her she might catch a chill, she popped up with a "Sorry, Aunt Bernadette!" without missing a beat.
 
 - Uh, it's okay?
 
 ### 「Emulating Role Model」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Matilda really looks up to Nightingale and wants to grab the chance to learn from her role model after she got into the Bureau. Admirable, for sure, but Nightingale quickly catches on that Matilda is tracking everything down to the tiny detail, like whether Nightingale leads with her left or right foot when stepping out the door.
 
@@ -16,11 +24,19 @@ Matilda really looks up to Nightingale and wants to grab the chance to learn fro
 
 ### 「Neat Freak」
 
+Location: Training Room
+
+Urgency: ⚠
+
 You might've seen how spotless the training room's been lately. Well, turns out, it's all thanks to Matilda's need for neatness. She couldn't handle the messy ways of some Sinners and decided to just straighten things out herself.
 
 - That explains why no one's had to do cleanup duty for ages.
 
 ### 「Undercover Glamour」
+
+Location: Management Center / Darkroom
+
+Urgency: ⚠⚠
 
 Matilda: Hey, cut it out. I'm lost here... I'm playing along because this is part of a Public Security Bureau case, but if you don't drop this act, I'm going straight to Chief!
 
@@ -53,6 +69,10 @@ Chief: It sounds like... Cassia and Matilda? Is there trouble brewing? Just hang
     Chief: Right on, right on. Matilda, you ought to believe in yourself, you're looking stunning in that dress—but let's skip the hair part.
 
 ### 「Plan Hacker」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Now, monthly update on Sinner Matilda's whereabouts: Recreation Area visits, zero; Outdoor Activity Area visits, zero...
 
@@ -87,6 +107,10 @@ Chief: ...That's the situation. She's all about pre-planned routines and strict 
     Chief: It's, uh, good to be thorough. Matilda, why don't we start with a cup of tea... and after we finish the cake, we can chat about the importance of info security.
 
 ### 「Water Gun Fight」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Noise in the Outdoor Activity Area's hit the red zone. Please check for any unusual activity and deal with it ASAP.
 
@@ -145,6 +169,10 @@ Chief: Figured as much, it's the pool party crew... Sure, they earned their day 
     Chief: Who knew Matilda would get so intense over a game... It's probably just her way of being tough on herself...
 
 ### 「Shooting Spar」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 

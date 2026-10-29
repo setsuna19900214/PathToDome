@@ -284,13 +284,7 @@ Hamel: It has all... vanished into vapors...
 
 Hamel: No one has ever set foot in this clear spring, only you got an invitation from the elves. They really adore you.
 
-Hamel: Then... do you?
-
-Hamel: Yes, I'm really glad you came here, came to me.
-
-Hamel: No one has ever set foot in this clear spring, only you got an invitation from the elves. They really adore you.
-
-Hamel: Then... do you?
+Chief: Then... do you?
 
 Hamel: Yes, I'm really glad you came here, came to me.
 
@@ -302,13 +296,7 @@ Hamel: Hmm? I look a bit weird? Sorry, I guess I'm just too happy with you aroun
 
 Hamel: Is it not cozy enough for you?
 
-Hamel: Just a bit shy.
-
-Hamel: Relax, and drift into sweet dreams.
-
-Hamel: Is it not cozy enough for you?
-
-Hamel: Just a bit shy.
+Chief: Just a bit shy.
 
 Hamel: Relax, and drift into sweet dreams.
 

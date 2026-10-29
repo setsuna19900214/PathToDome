@@ -2,8 +2,15 @@
 
 ## Christina - Interrogation I
 
+> Intelligence before completion:
+> Ever since coming to MBCC, Christina has locked herself in her room to do her "secret investigation." You are somewhat worried about her condition, but never found the right moment to talk to her.
+> But today, she suddenly sends you an urgent message: she has something very important to discuss with you in person.
+
+> Intelligence after completion:
 > Your "stalling tactic" worked. Christina indeed got distracted by the "Eastside cat cafe theft case" and temporarily put Shalom to the back of her mind.
 > You will help her investigate the case as her "assistant," and search for the cat thief and the missing cat.
+
+### Interrogation Transcript
 
 Reporter: Hey there, dear viewers! Coming to you live from the heart of the Public Security Bureau, we've got the latest scoop on the jaw-dropping case that's rocked Eastside—How the High-Profile Heist Hits Business Tycoon's Antique Vault.
 
@@ -235,10 +242,19 @@ Observing her bend her fingers, earnestly establishing the ground rules with you
 
 Chief: Alright, I'll follow the grand detective's orders to a T.
 
+> Your "stalling tactic" worked. Christina indeed got distracted by the "Eastside cat cafe theft case" and temporarily put Shalom to the back of her mind.
+> You will help her investigate the case as her "assistant," and search for the cat thief and the missing cat.
+
 ## Christina - Interrogation II
 
+> Intelligence before completion:
+> Following the investigation plan set by Christina, you head to the first investigation site: the cat cafe where the cat theft case occurred.
+
+> Intelligence after completion:
 > After a series of investigations, you discover that the real Henry is quite different from what you initially thought. There is more to this seemingly simple case of cat theft.
-> You find the cat, but Henry is still missing. At the same time, you piece together the message he left you through the cat: 4 Inkborough Street.
+> You found the cats, but Henry is still missing. At the same time, you piece together the message he left you through the cat names: 4 Inkborough Street.
+
+### Interrogation Transcript
 
 As you step through the doorway, the gentle chime of the wind bell welcomes you, its tone crisp and melodious. Perhaps it's the lull before the typical rush hour, but you find yourselves as the sole patrons within the cafe's quaint ambiance.
 
@@ -640,10 +656,19 @@ You both blurt out at the same time.
 
 Christina: He left us an address!
 
+> After a series of investigations, you discover that the real Henry is quite different from what you initially thought. There is more to this seemingly simple case of cat theft.
+> You find the cat, but Henry is still missing. At the same time, you piece together the message he left you through the cat: 4 Inkborough Street.
+
 ## Christina - Interrogation III
 
+> Intelligence before completion:
+> You rush to the Public Security Bureau with the cats, planning to report the case to the sheriff and request police support to rescue Henry.
+
+> Intelligence after completion:
 > This complex, gray world needs idealists like Christina. She might seem a bit naive to others, but she resolutely believes in justice...
 > The great detective and her little assistant will keep marching down the path of justice without wavering.
+
+### Interrogation Transcript
 
 Exhausted from your travels, you and Christina make your way to the Public Security Bureau. She quickly entrusts three cats to a young officer before guiding you through the clamorous main hall. Without a moment's pause, she thrusts open the door to the sheriff's office.
 
@@ -1042,3 +1067,6 @@ Christina: From high-profile mysteries to the small-time gigs, we've got to jugg
 Christina: Voila! Up next, we've got some long-forgotten cold cases that have been sitting in the archives, just begging to be solved. With our dynamic duo powers, we're bound to crack them open.
 
 Christina: Hey, the world's still chock-full of bad guys waiting for a taste of justice! The adventures of Eastside's finest detective and her right-hand assistant are far from over!
+
+> This complex, gray world needs idealists like Christina. She might seem a bit naive to others, but she resolutely believes in justice...
+> The great detective and her little assistant will keep marching down the path of justice without wavering.

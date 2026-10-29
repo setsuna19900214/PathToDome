@@ -2,6 +2,10 @@
 
 ### 「Morning Greeting」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Xiaofeng: "Mornin, Gway Hair? Ea'en yet?"
 
 - Just send a voice message.
@@ -10,6 +14,10 @@ Xiaofeng: "Mornin, Gway Hair? Ea'en yet?"
 
 ### 「Song of the Soul」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Recently, someone has been putting in requests for martial arts Peking Opera performances on the big screen, but the screenings never finish. Word is, an audience member keeps interrupting them.
 
 - Watch together
@@ -17,6 +25,10 @@ Recently, someone has been putting in requests for martial arts Peking Opera per
   When the performance swells to its most emotional moment, a tipsy Xiaofeng springs to her feet and joins in. Her voice brims with raw feeling, though technical skill is nowhere to be found.
 
 ### 「Dressing Like a Human」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Xiaofeng's fashion sense has always leaned toward the careless side, but today she's outdone herself in dishevelment.
 
@@ -60,6 +72,10 @@ Her limbs emerge from entirely the wrong openings, while an assortment of access
 
 ### 「The Reader」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 Sinner with the most library hours this week: Xiaofeng.
@@ -101,6 +117,10 @@ Something's fishy here!
     Xiaofeng: That one's the best!
 
 ### 「Big Cat」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 You're hurrying to work when you spot Xiaofeng, leaning against her tiger, the two of them dozing side by side in perfect contentment under the sun.
 
@@ -167,6 +187,10 @@ Xiaofeng: Hey, Gray Hair! C'mere, let's soak up some sun together!
     ...It feels like being scrubbed with sandpaper. And it stings.
 
 ### 「Gourmands」
+
+Location: Hypnotherapy Room / Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You're on your way out for dinner when Nightingale comes bursting into your office.
 

@@ -2,6 +2,10 @@
 
 ### 「Height Measurement」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 After returning to the Bureau, Hella undergoes another physical examination. Her height has gone from 153cm in her previous checkup back to 152cm.
 
 - Don't worry. You've grown stronger.
@@ -10,6 +14,10 @@ After returning to the Bureau, Hella undergoes another physical examination. Her
 
 ### 「Missing Bills」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 During her first hypnotherapy session after returning to the Bureau, Hella unconsciously released spirits. The therapist had no choice but to ask Chief to be present to temporarily suppress her abilities.
 
 - Agree
@@ -17,6 +25,10 @@ During her first hypnotherapy session after returning to the Bureau, Hella uncon
   With your assistance, Hella successfully completed her first hypnotherapy session. However... two DisCoin bills mysteriously vanished from your pocket after that.
 
 ### 「Old Habits Die Hard」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -55,6 +67,10 @@ It's past the designated bedtime and Sinner Hella refuses to sleep despite multi
       Seems like there's still a long way to go with those manners.
 
 ### 「One-Day Chief」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! Rest assured, I've got the Bureau now!
 
@@ -99,6 +115,10 @@ Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! 
   It seems Hella's career as Acting Chief has come to a spectacular end within its first hour. After all, helplessly watching the *suspects* escape right under her nose hardly qualifies as competent leadership.
 
 ### 「Insomnia」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Necresta·Hella: Chief, Chief! Do you know any ways to get better sleep?
 
@@ -145,6 +165,10 @@ Necresta·Hella: Chief, Chief! Do you know any ways to get better sleep?
   Chief: You wonder if staying by her side all night will keep the nightmares away.
 
 ### 「Financial Loophole」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 The number of bills you've received lately has skyrocketed. To avoid unnecessary expenses, you carefully review everything again and, sure enough, you discover several unauthorized charges disguised among the regular pending documents.
 

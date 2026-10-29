@@ -2,6 +2,10 @@
 
 ### 「Yugu's Troubles」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 Yugu: Sigh...
 
 Across the dining table, Yugu picks up her chopsticks only to set them down again, letting out a long, weary sigh. You pause your meal and look up at her.
@@ -42,11 +46,19 @@ Across the dining table, Yugu picks up her chopsticks only to set them down agai
 
 ### 「Travel Not Advised」
 
+Location: Secret Chamber
+
+Urgency: ⚠
+
 Wuhuanzi originally planned to go out to purchase medicinal herbs today. However, after breaking a cup, getting a paper cut, and finding a hole in her pocket, she decides to withdraw her request and stay in her room all day.
 
 - Not a good day, isn't it?
 
 ### 「Unknown Substance」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Wuhuanzi has brewed a batch of herbal tea for the Bureau staff and Sinners, claiming it helps with fatigue and humidity. She made sure to deliver an especially large cupful right to your desk.
 
@@ -56,11 +68,19 @@ Wuhuanzi has brewed a batch of herbal tea for the Bureau staff and Sinners, clai
 
 ### 「Rumor」
 
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠
+
 Several staff members have spotted Wuhuanzi muttering to herself while repeatedly stabbing a piece of meat with needles, her expression grim. They're convinced it must be some mysterious Eastian ritual.
 
 - She's probably practicing acupuncture?
 
 ### 「Stellar Example」
+
+Location: Greenhouse / Recreation Area
+
+Urgency: ⚠⚠
 
 Lately, Wuhuanzi has been constantly seen around Hestia. You wonder when they became so close.
 
@@ -85,6 +105,10 @@ You notice that Wuhuanzi pulls out a notebook, her expression grave as she scrib
     Chief: There are probably other things worth learning from her.
 
 ### 「Medical Instructions」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Wuhuanzi: My friend, if I may speak frankly...
 
@@ -119,6 +143,10 @@ The Sinner before you furrows her brow in concentration as her fingers rest on y
   - Calm down!
 
 ### 「Ground of Good Fortune」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Mysterious talismans have been appearing throughout the Bureau lately, with your office being particularly affected.
 

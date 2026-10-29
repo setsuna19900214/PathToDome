@@ -2,7 +2,13 @@
 
 ## Graves - Interrogation I
 
+> Intelligence before completion:
+> After the Morveth Castle incident, you have to return to the Bureau for other pressing matters, while Graves is detained following an investigation. Without your company, she appears uneasy in the new environment. Late that night, after your busy day, you sense an eerie presence lingering in your office...
+
+> Intelligence after completion:
 > After experiencing paranormal incidents the entire night, you finally come face to face with the *culprit* behind it all. Resigned and somewhat amused by the situation, you once again forget getting off on time and ask her to explain everything in the interrogation room.
+
+### Interrogation Transcript
 
 A "ghost" draped in a white bedsheet wanders the corridor of the Bureau.
 
@@ -374,10 +380,18 @@ You bend down and gently remove the cobweb from her hair, then take hold of her 
 
 Chief: I'd like you to explain exactly what happened back there.
 
+> After experiencing paranormal incidents the entire night, you finally come face to face with the *culprit* behind it all. Resigned and somewhat amused by the situation, you once again forget getting off on time and ask her to explain everything in the interrogation room.
+
 ## Graves - Interrogation II
 
+> Intelligence before completion:
+> You attempt to communicate with Graves, but her words are jumbled and her excuses are too obvious. Softening your tone to avoid sounding accusatory, you patiently guide the conversation with careful questions. Eventually, she reveals her true purpose for tonight's visit and lays bare the deep anxieties troubling her heart...
+
+> Intelligence after completion:
 > People often fear and doubt things they have never had. Graves feels out of place at the Bureau, and you believe it's your responsibility to change that.
 > A pledge unfulfilled is nothing more than an empty promise, but every promise you make is always backed by action.
+
+### Interrogation Transcript
 
 Graves follows you into the interrogation room with visible trepidation, like a scolded little animal, anxiously scanning the unfamiliar surroundings.
 
@@ -715,10 +729,19 @@ Chief: Even in fairy tales, after the happy ending comes ordinary, everyday life
 
 Chief: Alright, the interrogation is over. As we agreed, I'll walk you back now.
 
+> People often fear and doubt things they have never had. Graves feels out of place at the Bureau, and you believe it's your responsibility to change that.
+> A pledge unfulfilled is nothing more than an empty promise, but every promise you make is always backed by action.
+
 ## Graves - Interrogation III
 
+> Intelligence before completion:
+> You take Graves to the battlefield at the Rust, but despite being a powerful Sinner, she struggles to adapt to this style of combat. What should have been a smooth cleanup operation is suddenly thrown into chaos by an unexpected crisis... Just as the Corruptors are closing in, a familiar figure appears before you.
+
+> Intelligence after completion:
 > Graves has revealed her true self to everyone, and the scenario in her worst nightmare does not play out again. During the battle, she finds friends who fight by her side and regains her long-lost confidence.
 > The girl who grew up in solitude once believed her confined existence was all the world had to offer. Now, stepping beyond her cage, she discovers the chains that bound her have already vanished.
+
+### Interrogation Transcript
 
 Corruptor: Roarrr!
 
@@ -1080,10 +1103,19 @@ Chief: Going full burnout on your first mission? You really went all out.
 
 Her clothes are stained with blood and mud, yet her face radiates a contented smile as if she's fallen into the most pleasant of dreams.
 
+> Graves has revealed her true self to everyone, and the scenario in her worst nightmare does not play out again. During the battle, she finds friends who fight by her side and regains her long-lost confidence.
+> The girl who grew up in solitude once believed her confined existence was all the world had to offer. Now, stepping beyond her cage, she discovers the chains that bound her have already vanished.
+
 ## Graves - Interrogation IV
 
+> Intelligence before completion:
+> Having collapsed from exhaustion, Graves is brought back to the Bureau. As she lies unconscious, the smile on her face gradually fades, her brow furrowing deeply as if she's trapped in an endless nightmare.
+
+> Intelligence after completion:
 > You wake up next to Graves, who has regained both her strength and the spark in her eyes. She says your power helped her defeat the enemy. But you know this victory is hers alone.
 > True love grants courage. Whatever obstacles lie ahead, you'll walk beside her. If doubt still troubles her heart, you'll prove your vow through action, again and again.
+
+### Interrogation Transcript
 
 Dense fog hangs in the air as grayish-white moonlight struggles to penetrate the mist, seeping through the dilapidated windows.
 
@@ -1456,3 +1488,6 @@ She steps forward carefully and gives the door a gentle pull—the lock clicks i
 Letta: So many careless people these days. Good thing yours truly—the nighttime guardian of the Bureau—Letta is on duty! Heehee.
 
 As another good deed is accomplished, the lantern in her hand seems to radiate a little brighter in response. Content with her actions, Letta moves forward, resuming her nighttime adventure.
+
+> You wake up next to Graves, who has regained both her strength and the spark in her eyes. She says your power helped her defeat the enemy. But you know this victory is hers alone.
+> True love grants courage. Whatever obstacles lie ahead, you'll walk beside her. If doubt still troubles her heart, you'll prove your vow through action, again and again.

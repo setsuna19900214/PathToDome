@@ -2,11 +2,19 @@
 
 ### 「Autograph」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 When Serpent signs the autographs for her fans among the staff members, she doesn't leave lip prints on them but her snake's tooth prints.
 
 - Serpent's autograph really is unique...
 
 ### 「Chief's Sacrifice」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 Everyone likes Serpent's snake dance performance at the gala, but they are too afraid to be chosen as the "lucky audience" to be on stage and interact with her snakes.
 
@@ -15,6 +23,10 @@ Everyone likes Serpent's snake dance performance at the gala, but they are too a
   You clench your teeth and "volunteer" to be that "lucky audience".
 
 ### 「What Does the Snake Say?」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 On a sunny afternoon, Serpent is talking with her snake on the grass.
 
@@ -45,6 +57,10 @@ Serpent: Snakes are smart. They have their own thoughts and moods.
 
 ### 「Justice is Done」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 A staff member was bitten on the hand by the snake and sent to the clinic for treatment. His hand was all swollen up.
 
 You come to call Serpent to account.
@@ -72,6 +88,10 @@ Serpent: Yeah. You can just punish me.
     Serpent: Hmph, all right. I'm doing this only because of you.
 
 ### 「Malfunctioning "Alarm Clock"」
+
+Location: Management Center / Training Room
+
+Urgency: ⚠⚠⚠
 
 Surveillance System: Sinner Serpent did not arrive at the training room for training today. Go to inquire?
 
@@ -120,6 +140,10 @@ Surveillance System: Sinner Serpent did not arrive at the training room for trai
     Chief: Don't be late or absent next time.
 
 ### 「Poisonous Blood」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Surveillance System: Received a message from Pepper. Please process.
 

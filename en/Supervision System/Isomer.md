@@ -2,6 +2,10 @@
 
 ### 「Night Owl Overlord」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 A casual chat with Isomer somehow drifts into the topic of working late.
 
 - Share notes
@@ -9,6 +13,10 @@ A casual chat with Isomer somehow drifts into the topic of working late.
   You two trade late‑night survival tips in earnest. They're practical enough... though you quietly hope you'll never need them.
 
 ### 「Powerhouse Performer」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 Lady Pearl's show is a surprise hit at the Bureau, and when the curtain falls, one performer draws all the praise.
 
@@ -19,6 +27,10 @@ Lady Pearl's show is a surprise hit at the Bureau, and when the curtain falls, o
   Not the answer you expected.
 
 ### 「Coffee Room Chat」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You drag yourself in, desperate for caffeine, only to find Langley and Isomer already there.
 
@@ -58,6 +70,10 @@ Langley: You're not wrong. If all you want is a jolt, plain black coffee works. 
 
 ### 「Before the Butterfly Flaps」
 
+Location: Energy Furnace
+
+Urgency: ⚠⚠
+
 A tiny insect drifts through the Bureau corridor. Isomer pauses, opens a ventilation panel with practiced ease, and lets it out.
 
 The precision of the gesture makes it look less like releasing a bug and more like quietly averting a crisis.
@@ -85,6 +101,10 @@ The precision of the gesture makes it look less like releasing a bug and more li
     That evening, you approve the ventilation maintenance request anyway.
 
 ### 「The Art of Leadership」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Isomer's just come out of a meeting. Her composure holds, but there's a faint tiredness around her eyes.
 
@@ -135,6 +155,10 @@ Isomer's just come out of a meeting. Her composure holds, but there's a faint ti
       Isomer: And if I'm honest... I admire how you sometimes set all of this aside and move forward on instinct alone.
 
 ### 「The Science of Steak Searing」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You follow the delightful smell to the kitchen and find Isomer at the stove, pan‑searing a steak.
 

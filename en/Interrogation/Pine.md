@@ -2,8 +2,15 @@
 
 ## Pine - Interrogation I
 
+> Intelligence before completion:
+> Recently, at a public speech, you apprehended Pine, a Sinner who had been spreading malicious rumors and inciting unrest during the Eastside election, and brought her back to the MBCC.
+> However, in just a matter of days, she has already bombarded you with dozens of poorly written leave applications, giving you a huge headache.
+
+> Intelligence after completion:
 > Through the interrogation, you learn that an anonymous source has reported multiple crimes committed by Hale, Shedde Town's administrative officer, to The Hedgehog's Eye, along with supporting evidence. This is why Pine is requesting to leave the Bureau, to conduct a field investigation there and verify these allegations.
 > After some back-and-forth, you finally reach an agreement with Pine. You approve her request, but on one condition: You would accompany her on this investigation.
+
+### Interrogation Transcript
 
 Reporter: Mr. Worthington, there are rumors suggesting that the pharmaceutical factory explosion was directly caused by aging equipment. Can you confirm if this is true?
 
@@ -319,10 +326,19 @@ Pine: Fine, fine. You've made a concession, so I'll play along. But don't you da
 
 You shrug, pull out her leave request form from the document folder, check the approval box, and sign your name.
 
+> Through the interrogation, you learn that an anonymous source has reported multiple crimes committed by Hale, Shedde Town's administrative officer, to The Hedgehog's Eye, along with supporting evidence. This is why Pine is requesting to leave the Bureau, to conduct a field investigation there and verify these allegations.
+> After some back-and-forth, you finally reach an agreement with Pine. You approve her request, but on one condition: You would accompany her on this investigation.
+
 ## Pine - Interrogation II
 
+> Intelligence before completion:
+> You let Pine put you in a disguise and head to Shedde Town with her for an investigation into Hale.
+
+> Intelligence after completion:
 > After a whole day of investigation, you find nothing suspicious about Hale. You turn your attention to Worthington, Shedde Town's Councilor. Meanwhile, as Pine tells stories of her past, you learn about her long-standing feud with Worthington.
 > To your surprise, the mysterious anonymous informant turns out to be Hale himself.
+
+### Interrogation Transcript
 
 At 7:30 in the morning, you and Pine arrive at the Shedde Town Municipal Office building, a full hour and a half before its official opening time.
 
@@ -848,11 +864,20 @@ Hale looks at you both and gives a slight nod, an unexpected smile slowly spread
 
 Hale: It's me.
 
+> After a whole day of investigation, you find nothing suspicious about Hale. You turn your attention to Worthington, Shedde Town's Councilor. Meanwhile, as Pine tells stories of her past, you learn about her long-standing feud with Worthington.
+> To your surprise, the mysterious anonymous informant turns out to be Hale himself.
+
 ## Pine - Interrogation III
 
+> Intelligence before completion:
+> What could have driven Hale to turn himself in? And what secrets lie beneath the surface of this entire incident?
+
+> Intelligence after completion:
 > You manage to expose Worthington's hypocrisy to the public. Pine finally breaks free from the shadows of her past.
 > Evil may be ever-present in this world, but they cannot extinguish the flame of hope. Perhaps a doomsday will finally come, but at least it's not today.
 > "In that case, I'll just have another lollipop."
+
+### Interrogation Transcript
 
 The luxury black sedan glides smoothly along the road. Inside, a middle-aged man sips his iced wine while gazing at the city lights coming alive outside his window. Their reflection on the glass transforms into a dazzling constellation.
 
@@ -1255,3 +1280,7 @@ Pine: Whatever. This messed up world is going to bring itself down eventually, j
 She shakes her head and pulls out two lollipops from her chest pocket, warm from being kept close. She pops one in her mouth and offers you the other.
 
 Pine: In that case, might as well have another lollipop.
+
+> You manage to expose Worthington's hypocrisy to the public. Pine finally breaks free from the shadows of her past.
+> Evil may be ever-present in this world, but they cannot extinguish the flame of hope. Perhaps a doomsday will finally come, but at least it's not today.
+> "In that case, I'll just have another lollipop."

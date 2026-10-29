@@ -2,11 +2,19 @@
 
 ### 「Top Student...?」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 After joining the Bureau, Echo ranked first in three consecutive exams, answering all the memory test questions correctly, and was unrivaled for a while. But soon her weak subject was exposed—she only scored 37 points in math, on par with Hella and EMP.
 
 - Next time, write down the formula, you can get two more points.
 
 ### 「Too Much Optimism」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Echo meets a staff member at the door of the Chief's office. He has a lot of late clock-in records that need the Chief's signature to make up. The staff member is somewhat anxious and uneasy, and dares not go in to find the Chief. Echo encourages him to be bold.
 
@@ -18,11 +26,19 @@ Staff Member: ...I still want this job at the Bureau.
 
 ### 「Fully Prepared」
 
+Location: Training Room
+
+Urgency: ⚠
+
 After having several deep conversations with Echo, you find that Echo carries a lot of things with her, from tissues to plastic bottles to banners for roadside performances. After asking her, you find out that this habit was developed during her nomadic life. Every day when she goes out, she carries all her "property" with her.
 
 - You don't have to do this anymore, your room will always be yours.
 
 ### 「Special Program」
+
+Location: Management Center / Darkroom
+
+Urgency: ⚠⚠
 
 Chief: This noise, like a ruckus is on full blast right beside your ear... Could it be Echo again? Didn't you tell her to make sure the door is closed when practicing the saxophone in the room...
 
@@ -57,6 +73,10 @@ Chief: Echo, you forgot to check the door before practicing again. Quickly, befo
     Chief: So, it's this kind of demand... How should I put it, it's actually quite useful...
 
 ### 「Unfathomable」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 The Bureau's cafeteria serves meals at fixed times every day. In principle, they do not wait for latecomers, but many Sinners do not eat on time. Only Echo never misses a meal.
 
@@ -97,6 +117,10 @@ Chief: Good morning, Echo, you always have such a big appetite in the morning, i
   After a while, you go to inquire about the situation. Due to Echo's relentless efforts in finding dining partners, the cafeteria's dining rate has increased. Echo no longer appears in the infirmary with an overfull stomach.
 
 ### 「Love is Blind」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Demolia: Who would've thought that to repair this piece of junk, it would cost so many DisCoins? Sigh, the Bureau is becoming less and less suitable for scavenging, danger really is everywhere!
 

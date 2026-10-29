@@ -2,17 +2,29 @@
 
 ### 「Silent Treatment」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 The hypnotherapist sends you a message saying that Angell is guarded during their sessions, a tendency that is undermining the efficacy of the therapy, and that you should consider getting involved in helping her get better.
 
 - All right, I will.
 
 ### 「A Guinea Pig for New Dishes」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 The cafeteria has invented quite a few new dishes lately, all of which taste peculiar and turn stomachs. Angell is the only person who doesn't seem repulsed by these dishes, and, as a result, the middle-aged lady in the cafeteria always gives Angell a larger serving.
 
 - As long as they're not doing her body any harm...
 
 ### 「Sleep-inducing Music」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 The activity log for the Recreation Area shows that Angell has fallen asleep on the public sofa multiple times. When the staff asked her why, she was unforthcoming.
 
@@ -45,6 +57,10 @@ The activity log for the Recreation Area shows that Angell has fallen asleep on 
     Chief: I'll have a record player installed in your room. If you have similar needs in the future, you can come to me.
 
 ### 「Sleep Easy」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 After completing a punishing mission, Angell went straight to her room. She hasn't been seen in public for three days now.
 
@@ -79,6 +95,10 @@ After completing a punishing mission, Angell went straight to her room. She hasn
       Angell gives a non-committal nod. Then she pulls the curtains tighter, ready to fall back into sleep.
 
 ### 「An Automatic Blade Sharpener」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 Holding a small device in her arms, Eureka explains something excitedly to Angell, who nods or shakes her head from time to time, making occasional replies.
 
@@ -131,6 +151,10 @@ It is rare to see Angell interacting with another Sinner. Your curiosity is piqu
   Angell: Either works for me. They both get the job done.
 
 ### 「A Missing Cat」
+
+Location: Greenhouse / Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 A newly-adopted kitten goes missing on the premises of the Bureau. The staff and Sinners search high and low, but the cat, clearly an expert at the games of tag and hide-and-seek, is far from being caught.
 

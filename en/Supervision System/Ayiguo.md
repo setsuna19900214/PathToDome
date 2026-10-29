@@ -2,6 +2,10 @@
 
 ### 「Senior and Junior Privileges」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Many activities in the Recreation Area offer privileges for seniors and children. Ayiguo insists she qualifies for both.
 
 - Reject
@@ -9,6 +13,10 @@ Many activities in the Recreation Area offer privileges for seniors and children
   Chief: Okay, senior privilege, I get it. But playing the child card on top of that? Come on.
 
 ### 「Another Expert」
+
+Location: Confinement Cell
+
+Urgency: ⚠
 
 [System Notice] Supervision System:
 
@@ -20,6 +28,10 @@ There have been 24 brawl incidents this week. Investigation reveals that Mess an
 
 ### 「Body Painting」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Years of painting spider web patterns over her own scars have honed Ayiguo's body painting skills to perfection. These days, many Sinners seek her out for her artistry.
 
 - Offer her some more design ideas
@@ -27,6 +39,10 @@ Years of painting spider web patterns over her own scars have honed Ayiguo's bod
   Chief: Everywhere I look, it's all Ayiguo!
 
 ### 「Love Poison」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 After a training session with Ayiguo, she stretches contentedly, savoring the moment.
 
@@ -62,6 +78,10 @@ Ayiguo: What, having second thoughts already?
 
 ### 「Special Talent」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
+
 The therapist decides to use music therapy for Ayiguo.
 
 What no one sees coming is that after each phrase ends, she hums along, carrying on an animated, back-and-forth exchange with the music itself.
@@ -93,6 +113,10 @@ Chief: ...Exchange with what?
     Ayiguo: Easy enough to pick up. Back in the day, Granny here learned it just by listening!
 
 ### 「Beverage Tasting」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Ayiguo lines up an array of colorful beverages on your desk, waiting for you to sample them one by one.
 

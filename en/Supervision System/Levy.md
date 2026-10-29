@@ -2,11 +2,19 @@
 
 ### 「Hypnotherapy」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 The hypnotist sends a message saying that Levy isn't cooperative during therapy sessions and keeps bragging about his awesome RGB-lighting showerhead. They don't know what to do with him.
 
 - Ask Chameleon to go...
 
 ### 「Persistence」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 To keep his demeanor, Levy insists on wearing his sable fur coat even on the hottest days, risking heatstroke.
 
@@ -14,11 +22,19 @@ To keep his demeanor, Levy insists on wearing his sable fur coat even on the hot
 
 ### 「Good Taste」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Levy is all about good taste and ceremony. He drinks water from a wine glass and even gives it a theatrical swirl before downing the liquid.
 
 - That's how rich kids are like?
 
 ### 「Fitness Lover」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 You see Levy lifting a barbell when you pass by the Training Room.
 
@@ -47,6 +63,10 @@ Levy: 51, 52, 53...
     Levy: Hey! Don't go yet! I haven't finished!
 
 ### 「About Sunglasses」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You think Levy looks a little weird today, so you stare at him for a few extra seconds. He seems to have noticed the gaze from behind and turns back to ask you.
 
@@ -77,6 +97,10 @@ He pulls down his sunglasses and winks at you. You finally notice what's weird.
   Chief: ...No. I've got other things to do.
 
 ### 「The Taste of Home」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You see Levy sitting in the cafeteria and sighing at the food on his plate.
 
@@ -137,6 +161,10 @@ You see Levy sitting in the cafeteria and sighing at the food on his plate.
     Chief: ...
 
 ### 「Memories in a Glass」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 At the party, Levy leans against the bar, watching Cassian work.
 

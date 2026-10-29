@@ -2,6 +2,10 @@
 
 ### 「Unexpected Interest」
 
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
+
 The Bureau has ordered a batch of lab rats for certain Sinners' experiments, but the Sinners all happen to be out on missions, so the rats are temporarily stored in the secret chamber.
 
 Chief: Huh, is that Moore... and Mantis? What are they doing in the secret chamber together?
@@ -54,17 +58,29 @@ Chief: Moore, Mantis, what are you doing here? Let me guess, is Mantis taking ca
 
 ### 「Special Therapy」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Mantis's mind is shattered; she perceives the world differently, which stalls her hypnosis-based healing. The therapist believes she requires a unique approach, but can't seem to find the right angle.
 
 - Maybe some nature documentaries could be the key?
 
 ### 「Opening Package」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Those inside and Sinners slowly got to see Mantis for the warm-hearted soul she is. They're not scared anymore; in fact, they've started to rely on her sharp appendages to slice open their parcels.
 
 - If anything gets damaged, it's on you to cover the costs for Mantis.
 
 ### 「Missing Ingredients」
+
+Location: Management Center / Greenhouse
+
+Urgency: ⚠⚠
 
 Those Sinners have appetites as mighty as their strength, leading to a higher burn through the food supplies. The kitchen, a frequent pit stop for their hunger pangs, often finds its stores inexplicably depleted.
 
@@ -91,6 +107,10 @@ Chief: Three bags of flour, five boxes of dried mushrooms, two kilograms of froz
     Chief: Great, I'll be counting on you then.
 
 ### 「Cocooning」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Mantis is often in the hot seat for her untamed survival tactics, and you've grown quite accustomed to it. But this time, the beef someone has with her seems a bit off the beaten track.
 
@@ -127,6 +147,10 @@ Complaint ticket: Mantis and her cohorts have commandeered a section of the gym,
       Chief: Keep at it, you two. But make sure to take down the cocoon after your experiment; don't hog the gym space.
 
 ### 「Hunter」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Out in the yard where they can breathe easy, the Sinners really let loose and chill out. Mantis does too—she's always got this softer edge when she's out touching grass.
 
@@ -181,6 +205,10 @@ Mantis: This one's for you... it's not often we get this kind of game around her
 Chief: Thanks, Mantis. Let's bring it back to the cafeteria for the cooks to do their magic, and we'll dig in together.
 
 ### 「Cozy Nook」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Mantis has been easing into life at the Bureau, and she's even got her own little slice of the greenhouse now, courtesy of a special permit.
 

@@ -2,8 +2,15 @@
 
 ## Jichuan - Interrogation I
 
+> Intelligence before completion:
+> After returning from Eastia to DisCity, you have never stopped seeking news of Jichuan. The withered plum branch she left behind still remains in the vase in your office.
+> You've been pressured by various parties to conclude the investigation regarding the "Northwild martial heroes," yet the status and whereabouts of Northsnow Manor's master is still an unfilled gap in the files to this day.
+
+> Intelligence after completion:
 > Clues from Eastia about Jichuan's whereabouts have reached you. Even though hope is slim, you still decide to go.
 > The withered plum branch in the vase has sprouted a small new bud without you noticing. It's as if a snowstorm is stirring in the distance, as a lingering breath of life awakens in the silence.
+
+### Interrogation Transcript
 
 In the final snowstorm that sweeps across Northwild, Jichuan walks alone to the farthest end she can reach. Sustained only by the last remnants of life the shackles can give, she goes to a place where her passing burdens no one.
 
@@ -213,10 +220,20 @@ Just then, your terminal emits an urgent chime.
 
 Nightingale: Chief... this is from Eastia. They found Jichuan!
 
+> Clues from Eastia about Jichuan's whereabouts have reached you. Even though hope is slim, you still decide to go.
+> The withered plum branch in the vase has sprouted a small new bud without you noticing. It's as if a snowstorm is stirring in the distance, as a lingering breath of life awakens in the silence.
+
 ## Jichuan - Interrogation II
 
+> Intelligence before completion:
+> The road to Eastia is long, giving you ample time to reflect on your brief acquaintance with Jichuan. You restrain yourself from looking back too often, afraid this journey will ultimately prove futile.
+> The only thing keeping the journey real is that faint, almost imperceptible pulse from the other end of the shackles. It's so weak, yet it persists, like a heartbeat from beneath deep snow, proving that life and breath still exist on the other side, that an obsession still lingers.
+
+> Intelligence after completion:
 > There are no pleasantries of reunion, no emotional reflections on life and death. When you find Jichuan, she is simply lying there, still breathing, but extremely faintly.
 > You must enter her mindscape—which is collapsing—as quickly as possible. You need to find her and bring her back to this side before her consciousness completely dissolves.
+
+### Interrogation Transcript
 
 ???: Help... help me...
 
@@ -470,11 +487,21 @@ Wherever you look, blinding white fills your vision and blots out the sky.
 
 Adrift in this vast expanse, you have no idea which way to go.
 
+> There are no pleasantries of reunion, no emotional reflections on life and death. When you find Jichuan, she is simply lying there, still breathing, but extremely faintly.
+> You must enter her mindscape—which is collapsing—as quickly as possible. You need to find her and bring her back to this side before her consciousness completely dissolves.
+
 ## Jichuan - Interrogation III
 
+> Intelligence before completion:
+> The snowstorm, the bitter cold, the fleeing crowds. Everything is so vivid, sweeping you up and causing you to lose your bearings again and again in this frozen wasteland. This is what she still clings to in her final moments. If even you could get lost here, how much more so Jichuan, who is trapped deep within?
+> The corruption is devouring her once more, shattering her beautiful illusions, questioning her over and over: How did your life come to this?
+
+> Intelligence after completion:
 > Those flashbacks at the edge of her consciousness are the remnants of her unfulfilled dreams. You and she make a promise together: to rewrite all these broken chapters in reality.
 > The plum branch symbolizing her will has taken root and grown in this desolate mindscape, no longer yielding to the snowstorm. The battle ahead is one between her ailing body and time itself.
 > On the journey back to DisCity, Jichuan is already covered with tubes connecting to medical equipment, yet her expression remains peaceful with a faint smile. She is serene because she has entrusted everything to you.
+
+### Interrogation Transcript
 
 A stove fire flickers inside the inn, its flames trembling in the biting wind—flaring bright, then fading—threatening to go out entirely.
 
@@ -768,10 +795,21 @@ You watch the gradual steadying of Jichuan's breath and let out the sigh you hav
 
 Chief: You've never been to DisCity, have you? Wake up soon. I'll show you around myself.
 
+> Those flashbacks at the edge of her consciousness are the remnants of her unfulfilled dreams. You and she make a promise together: to rewrite all these broken chapters in reality.
+> The plum branch symbolizing her will has taken root and grown in this desolate mindscape, no longer yielding to the snowstorm. The battle ahead is one between her ailing body and time itself.
+> On the journey back to DisCity, Jichuan is already covered with tubes connecting to medical equipment, yet her expression remains peaceful with a faint smile. She is serene because she has entrusted everything to you.
+
 ## Jichuan - Interrogation IV
 
+> Intelligence before completion:
+> Highly corrupted yet still fully conscious, Jichuan has been classified as a rare case. As soon as she arrives in DisCity, Banyan's team of specialists is already there to accompany her into the isolated emergency room.
+> You are not the only one waiting for the results of this long and uncommon treatment. A thousand miles away, under the lights of Ping'an Town, the elderly and children stay awake through the night, sharing legends of the master of Northsnow Manor.
+
+> Intelligence after completion:
 > Jichuan's body has not fully recovered. Mania's corruption of her body cannot be reversed and healed in such a short time. But she can now slowly get out of bed, talk and laugh, and stand alongside you occasionally.
 > The distant dream you and Shuang'er once shared, of wandering the world as martial heroes, is gradually taking shape. That martial world full of heroic virtues that only existed in storybooks now seems just a few steps away.
+
+### Interrogation Transcript
 
 Outside the emergency room, harsh fluorescent lights sting your eyes. Their stark white glare mingles with the thick reek of disinfectant, pressing down on the waiting area until the air feels suffocating.
 
@@ -1020,3 +1058,6 @@ Chief: That's rich coming from you. You've been faking symptoms to trick me sinc
 Jichuan: Then to be known alongside you as the Gray-White Twin Deceivers—why, I would count that the greatest fortune of my life.
 
 Inside the porcelain vase on your office desk, the plum branch defies all reason and puts forth fresh, delicate buds.
+
+> Jichuan's body has not fully recovered. Mania's corruption of her body cannot be reversed and healed in such a short time. But she can now slowly get out of bed, talk and laugh, and stand alongside you occasionally.
+> The distant dream you and Shuang'er once shared, of wandering the world as martial heroes, is gradually taking shape. That martial world full of heroic virtues that only existed in storybooks now seems just a few steps away.

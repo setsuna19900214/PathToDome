@@ -2,17 +2,29 @@
 
 ### 「Formulaic Apology」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You've received another handwritten apology letter from Phanuel. The content is sincere and heartfelt, yet even after reading it through, you still can't quite tell what she's actually apologizing for.
 
 - Nothing major has happened lately either... huh.
 
 ### 「Empty Schedule」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Since joining the Bureau, whenever there's nothing on her schedule, Phanuel would simply sit perfectly still in her room. Well, aside from the fact that she'd flash a sweet smile whenever someone passes by.
 
 - Set up a daily schedule for her
 
 ### 「Selfie Review」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 The Bureau has recently opened up applications for Sinners to update their file photos. As you walk past the photo room, you find a long line already forming at the door.
 
@@ -39,6 +51,10 @@ A Sinner nearby wearily informs you that Phanuel, who went in before everyone el
     Phanuel follows your directives and finally gets her file photo updated.
 
 ### 「Idol Mode: On」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You notice that after finishing a small task, Phanuel will sometimes pause in place for three seconds.
 
@@ -67,6 +83,10 @@ If no one nearby reacts in a way that satisfies her, she'll casually repeat the 
     Phanuel doesn't seem to have understood you at all. Looks like this is about as much help as you can offer her.
 
 ### 「Special Giveaway」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You've received a report stating that Phanuel has been repeatedly damaging public and private property.
 
@@ -111,6 +131,10 @@ Phanuel: Not to mention, it's an exclusive perk that only Cherubs at the Bureau 
   Phanuel's plans have clearly hit a wall. But with the number of related complaints dropping significantly, you're more than satisfied with the outcome.
 
 ### 「Heart-Shaped Cookies」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Word has reached you that Phanuel's heart-shaped cookies have put several Sinners out of commission, so you head straight to the scene.
 

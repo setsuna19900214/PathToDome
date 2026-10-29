@@ -2,6 +2,10 @@
 
 ### 「Fireproof and Waterproof」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Several design blueprints are spread out before Celine and Flora, who are deep in discussion.
 
 Flora: Containing the fire immediately while keeping the tomes intact... that's a tall order.
@@ -38,17 +42,29 @@ Celine: If possible, I'd prefer the tomes come away without any water marks. Eve
 
 ### 「My Dinner」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 One day, during dinner, Ignis accidentally lit the kitchen on fire, which quickly spread to the dining room. Flora, who hasn't eaten yet, angrily uses her power to drown out the fire... as well as everyone's dinner.
 
 - We can only have instant noodles tonight...
 
 ### 「Good Intentions Gone Awry」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 When Flora passes by the greenhouse, she wants to water the plants. Unfortunately, her water pressure is too strong and she breaks the stems. She feels very guilty about this and is sad for a long time.
 
 - Comfort her
 
 ### 「Morning Run」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You coincidentally bump into Flora, who is out for a morning jog, while you are going for a walk in the Outdoor Activity Area.
 
@@ -80,6 +96,10 @@ You coincidentally bump into Flora, who is out for a morning jog, while you are 
 
 ### 「Honorary External Personnel」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 A logistics department staff requests access to the office. Grant permission?
@@ -107,6 +127,10 @@ A logistics department staff requests access to the office. Grant permission?
     Chief: How great it would be if there were more reliable and responsible people like her in the MBCC!
 
 ### 「A Little Nightmare」
+
+Location: Secret Chamber / Management Center
+
+Urgency: ⚠⚠⚠
 
 As one of the models of a healthy lifestyle in MBCC, Flora always goes to bed early, but she occasionally sleepwalks.
 

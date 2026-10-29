@@ -2,11 +2,19 @@
 
 ### 「Stubborn Claws」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Synex's claws grow excessively sharp and regularly need to be filed down with hard stones to prevent accidental injuries. Unfortunately, the Bureau is currently running short on suitable grinding stones to meet her needs.
 
 - Refer her to Enfer's studio
 
 ### 「Mice in the Maze」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Upon discovering the lab mice kept for experiments at the Bureau, Synex volunteers to construct a maze for them, claiming this enrichment measure will improve the quality of life for the lab animals.
 
@@ -15,6 +23,10 @@ Upon discovering the lab mice kept for experiments at the Bureau, Synex voluntee
   Chief: Animal cruelty is prohibited in the Bureau.
 
 ### 「Devil or Angel」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 A crowd of stray animals has recently moved into the area surrounding the Bureau. To prevent these *uninvited guests* from damaging sensitive equipment or coming to harm, the Bureau has decided to organize a capture operation to neuter and rehome them.
 
@@ -49,6 +61,10 @@ If scaring small animals almost to death counts as caring for them... You keep t
   Synex: After all, these fragile creatures are barely meaty enough to serve as snacks for an apex predator. So when a powerful beast encounters such tiny critters, it'll tend to handle them... with more care.
 
 ### 「Vigilant Tail」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Synex: Hey Chief, you're here for the meeting too?
 
@@ -95,6 +111,10 @@ Synex: Hey Chief, you're here for the meeting too?
     Chief: ...
 
 ### 「Hair Loss Crisis」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -149,6 +169,10 @@ Sinner Synex is at the clinic to seek treatment for severe hair loss. Would you 
   Chief: The memento should stay with you, so it can constantly remind you to take good care of your hair. I'd rather not see your hair flying all over the Bureau again.
 
 ### 「Seeds of Discord」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 The Bureau has received a shipment of rare goods. Word spread quickly, and by early morning, there's already a long line of people outside the Supply Office. You see the supplies are nearly sold out and are about to leave empty-handed when Synex waves to you from a distance.
 

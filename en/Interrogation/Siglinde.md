@@ -2,7 +2,13 @@
 
 ## Siglinde - Interrogation I
 
+> Intelligence before completion:
+> The Bureau receives a distress signal from a village on DisCity's border. The Tide of Ashes is rapidly approaching. Time is of the essence for the rescue.
+
+> Intelligence after completion:
 > The terrain of WhiteSands is harsh enough, but even more challenging is the internal conflict within the rescue team. Friction and mutual distrust are growing between the FAC squad and Siglinde, a liaison officer from DisCorps. More than once, you've had to intervene to keep the mission on track.
+
+### Interrogation Transcript
 
 Beyond the borders of DisCity, howling gales tear across the landscape, carrying stinging clouds of sand and gravel. The air itself is thick with Mania, an unsettling aura that heralds the approaching Tide of Ashes.
 
@@ -244,10 +250,18 @@ Siglinde: I will spare no effort in this mission.
 
 Chief: Good. Let's move out.
 
+> The terrain of WhiteSands is harsh enough, but even more challenging is the internal conflict within the rescue team. Friction and mutual distrust are growing between the FAC squad and Siglinde, a liaison officer from DisCorps. More than once, you've had to intervene to keep the mission on track.
+
 ## Siglinde - Interrogation II
 
+> Intelligence before completion:
+> After an arduous night-long search, the rescue team finally locates the survivors hiding behind the rocks.
+
+> Intelligence after completion:
 > The WhiteSands rescue operation is fraught with peril. Villagers infected with Mania choose to remain in the storm to give others a chance to escape. The FAC captain dies heroically while saving a little girl who has fallen into quicksand.
 > At the final critical moment, Siglinde comes forward, deploying a barrier with her mobile transmitter to hold back the Tide of Ashes, buying precious time for your escape.
+
+### Interrogation Transcript
 
 After an arduous night-long search, the rescue team finally locates the survivors.
 
@@ -657,11 +671,21 @@ You snap back to your senses and continue organizing the evacuation.
 
 Pushing aside their shock, the survivors board the sand ships under the FAC's direction. Shielded by Siglinde's barrier, they finally escape the Tide of Ashes' consuming grasp.
 
+> The WhiteSands rescue operation is fraught with peril. Villagers infected with Mania choose to remain in the storm to give others a chance to escape. The FAC captain dies heroically while saving a little girl who has fallen into quicksand.
+> At the final critical moment, Siglinde comes forward, deploying a barrier with her mobile transmitter to hold back the Tide of Ashes, buying precious time for your escape.
+
 ## Siglinde - Interrogation III
 
+> Intelligence before completion:
+> The rescue operation concludes as you return safely. While all villagers were saved, the mission was not accomplished without sacrifice.
+> Meanwhile, the Bureau receives an anonymous complaint demanding further investigation into Siglinde.
+
+> Intelligence after completion:
 > Siglinde attends the FAC captain's funeral with you. She stands quietly among the mourners, eyes downcast, her usually composed face betraying her emotions.
 > This is the first time she realizes that, while military glory can be found in absolute decisiveness and hunger for victory, sacrifice made in the name of protection is equally worthy of reverence.
 > Glory cannot be defined through the lens of prejudice. True understanding comes only through experience and empathy. When the aftermath subsides, Siglinde will forge her own path, to feel, to choose, and to defend the beliefs and duties she stands behind.
+
+### Interrogation Transcript
 
 Though the rescue operation succeeded, with over eighty percent of the villagers saved, it was not without sacrifice.
 
@@ -904,3 +928,7 @@ Chief: The real fight is just beginning. Are you ready to stand with your comrad
 A smile finally brightens the young liaison officer's face—a little awkward, as if unfamiliar to her, but undeniably real.
 
 Siglinde: Always.
+
+> Siglinde attends the FAC captain's funeral with you. She stands quietly among the mourners, eyes downcast, her usually composed face betraying her emotions.
+> This is the first time she realizes that, while military glory can be found in absolute decisiveness and hunger for victory, sacrifice made in the name of protection is equally worthy of reverence.
+> Glory cannot be defined through the lens of prejudice. True understanding comes only through experience and empathy. When the aftermath subsides, Siglinde will forge her own path, to feel, to choose, and to defend the beliefs and duties she stands behind.

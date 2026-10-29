@@ -2,8 +2,15 @@
 
 ## OwO - Interrogation I
 
+> Intelligence before completion:
+> After DisCars is over, OwO, who has set out on the road to find her hometown, sends you postcards from time to time. Her last postcard stated that she had found her hometown and would be returning in the near future.
+> This morning, you were alerted that there was a disturbance in the street by a Sinner. However, when you hurried to the scene, you realized that the Sinner causing the trouble was actually OwO.
+
+> Intelligence after completion:
 > You learn from the interrogation that while searching for Goldionville, OwO saved one of Quinn's caravans. The caravan happened to have traded with Goldionville, so to thank her, they took OwO to Goldionville.
 > Besides, OwO got her lion head stolen soon after she returned to Syndicate. To calm her down, you decide to go back to Syndicate with her to look for the lost lion head.
+
+### Interrogation Transcript
 
 Postcard content:
 
@@ -281,10 +288,19 @@ She blew her nose, hopped off the interrogation seat before you could protest, a
 
 It looks like the little clapper is forced to play house with the lion dance star before you find the lion head...
 
+> You learn from the interrogation that while searching for Goldionville, OwO saved one of Quinn's caravans. The caravan happened to have traded with Goldionville, so to thank her, they took OwO to Goldionville.
+> Besides, OwO got her lion head stolen soon after she returned to Syndicate. To calm her down, you decide to go back to Syndicate with her to look for the lost lion head.
+
 ## OwO - Interrogation II
 
+> Intelligence before completion:
+> You return with OwO to the place where the lion head was lost。 After asking around in vain, you meet a homeless boy who comes to you on his own. He claims to have a clue about the lion head.
+
+> Intelligence after completion:
 > You followed the clue from a homeless man and found the boy who stole the lion head in an alley. He imitated OwO's moves in the movie and danced with the lion head, but failed to gain the power to return home.
 > To prove that the lion head can indeed bring people power, OwO again assigns you a new mission: help the boy find his home with her.
+
+### Interrogation Transcript
 
 Pedestrian A: Why is that little girl back again? Isn't that person behind her the one who arrested her last time?
 
@@ -538,10 +554,19 @@ OwO: If I could find my home, I must be able to find yours too! Right, little cl
 
 Chief: Huh? Oh, Yeah!
 
+> You followed the clue from a homeless man and found the boy who stole the lion head in an alley. He imitated OwO's moves in the movie and danced with the lion head, but failed to gain the power to return home.
+> To prove that the lion head can indeed bring people power, OwO again assigns you a new mission: help the boy find his home with her.
+
 ## OwO - Interrogation III
 
+> Intelligence before completion:
+> You drive the boy and OwO all the way to the unknown village outside the main districts. Two kids of similar age are chattering feverishly in the back seat.
+
+> Intelligence after completion:
 > On the way, OwO shares with Bagley how she gained the lion head's power, her hometown's culture, and the lion head eye-dotting tradition.
 > Bagley is very envious of her. He asks her why she's returning to DisCity if she finds her hometown so amazing. OwO seems baffled by the question. Meanwhile, Bagley finds a tiny flower from his home on the roadside.
+
+### Interrogation Transcript
 
 Nightingale: It's a considerably long ride to your destination from the MBCC. We have stationed staff on standby at the stops along the route. Please contact them in time if you need anything.
 
@@ -709,10 +734,19 @@ Bagley must have seen what you've seen as well. But he simply bows his head and 
 
 Bagley: I've finally found it! It's right here! I'm home!
 
+> On the way, OwO shares with Bagley how she gained the lion head's power, her hometown's culture, and the lion head eye-dotting tradition.
+> Bagley is very envious of her. He asks her why she's returning to DisCity if she finds her hometown so amazing. OwO seems baffled by the question. Meanwhile, Bagley finds a tiny flower from his home on the roadside.
+
 ## OwO - Interrogation IV
 
+> Intelligence before completion:
+> You and OwO get off the car after Bagley, but this so-called *village* is now nothing but a ruin covered in sand and dry weeds.
+
+> Intelligence after completion:
 > Encouraged by OwO, Bagley understands that the pearly flower, named after his village, still exists in many parts of DisCity as an essential ingredient of a dye. Even though his home is no more, this flower still blooms everywhere, carrying his village's hope, culture, and memories.
 > As she consoles Bagley, OwO also finds the answer to the earlier question. She's always been carrying her hometown's culture with her, so she's never truly left home. Now, she returns to DisCity because her friends and loved ones are here.
+
+### Interrogation Transcript
 
 You and OwO look around the abandoned village and knock on almost every one of the dusty doors, but you don't find any trace of life here.
 
@@ -919,3 +953,6 @@ OwO: That word...
 OwO: In... de... pendent...
 
 OwO: Zzz... Zzz...
+
+> Encouraged by OwO, Bagley understands that the pearly flower, named after his village, still exists in many parts of DisCity as an essential ingredient of a dye. Even though his home is no more, this flower still blooms everywhere, carrying his village's hope, culture, and memories.
+> As she consoles Bagley, OwO also finds the answer to the earlier question. She's always been carrying her hometown's culture with her, so she's never truly left home. Now, she returns to DisCity because her friends and loved ones are here.

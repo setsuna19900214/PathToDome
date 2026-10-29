@@ -2,17 +2,29 @@
 
 ### 「The Woman in a Case」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Ever since she set foot in MBCC, Rahu consistently wears attire that shields almost her entire body, no matter the season. Quite a few inquisitive folks have attempted to dig deeper, but unsurprisingly, she's swiftly put them in their place.
 
 - Go easy on them...
 
 ### 「Ace Bodyguard」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Lately, with the rise of thefts in the Black Market, you've been hitting the streets with Rahu. And it's working wonders. But it's not just her expertise making the difference—a good number of small-time crooks get caught off-guard, completely enchanted by her looks.
 
 - Maybe next time try changing her clothes.
 
 ### 「New Training Robot」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 The bureau's just got their hands on the latest batch of battle bots, famous for their lightning-fast moves and Corruptor-like looks.
 
@@ -70,6 +82,10 @@ Before diving into regular drills with them, you're thinking of having the formi
 
 ### 「The Idol's Dilemma」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Given Rahu's perpetually stern demeanor, the friendly vibes from the bureau appear to catch her off guard.
 
 While wandering through the Recreation Area, you spot Rahu lounging on a couch and a handful of young Sinners huddled nearby, sharing hushed words.
@@ -109,6 +125,10 @@ You can faintly catch a few surprised exclamations from the crowd's unabated vol
   Chief: Kids these days...
 
 ### 「Tea Tasting for Beginners」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Chief: On a laid-back afternoon, how about a pot of black tea?
 
@@ -197,6 +217,10 @@ Rahu: Chief, would you like to join me for some tea?
   Chief: Silver lining? It just means you're blending in with the gang.
 
 ### 「Let Me In」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 EMP: My bad, my bad!
 

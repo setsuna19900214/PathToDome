@@ -2,6 +2,10 @@
 
 ### 「Tomb Raider」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Recent investigation has confirmed that the suspicious items circulating in large quantities on the black market are all relics from tombs.
 
 - Summon Lysandra
@@ -9,6 +13,10 @@ Recent investigation has confirmed that the suspicious items circulating in larg
   You reprimanded Lysandra and strictly forbade her from repeating the offense.
 
 ### 「Under Construction」
+
+Location: Training Room
+
+Urgency: ⚠
 
 Some Sinners have reported that the Training Room door has been deliberately damaged.
 
@@ -18,11 +26,19 @@ Some Sinners have reported that the Training Room door has been deliberately dam
 
 ### 「Peak Test Path」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Lysandra would like to install rock climbing equipment in the Outdoor Activity Area.
 
 - Approve
 
 ### 「WhiteSands Roulette」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 As you pass by the Recreation Room, you overhear Lysandra and Roulecca talking.
 
@@ -82,6 +98,10 @@ As you pass by the Recreation Room, you overhear Lysandra and Roulecca talking.
 
 ### 「Nocturnal Animal」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 The lights in the room of Sinner Lysandra have been detected off for 72 hours. Go and take a look?
@@ -129,6 +149,10 @@ The lights in the room of Sinner Lysandra have been detected off for 72 hours. G
     Chief: ...Thanks! My eyes suddenly don't hurt anymore!
 
 ### 「Wasted Eloquence」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 As you pass through the Outdoor Activity Area, you notice Lysandra standing in the center, gazing thoughtfully at the simulated night sky.
 

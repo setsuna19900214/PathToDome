@@ -2,6 +2,10 @@
 
 ### 「Special Strategy」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 The hypnotist is having trouble communicating with Ninety-Nine, but the hypnotherapy is still progressing, though barely.
 
 - Look for a translator
@@ -9,6 +13,10 @@ The hypnotist is having trouble communicating with Ninety-Nine, but the hypnothe
   With Hella's help, the therapy session is going a lot more smoothly.
 
 ### 「Friends」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Hella was careless and got hurt on a dispatch mission. Though she recovered from such minor injuries very soon, the infuriated Ninety-Nine took it out on the attacker and almost killed them.
 
@@ -28,6 +36,10 @@ Ninety-Nine just takes your punishment without saying a word.
 
 ### 「Master of Destruction」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The authorities requested to second Ninety-Nine to aid their equipment development, but quickly returned her.
 
 - Ask about the reason
@@ -35,6 +47,10 @@ The authorities requested to second Ninety-Nine to aid their equipment developme
   Our assessment shows that Ninety-Nine's destructive power is not suitable for testing the defensive strength of soldiers' protective gear. It's more suitable for testing heavy armored vehicles.
 
 ### 「Gone Rogue」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Ninety-Nine the Sinner seems to have lost control. Go check on her immediately.
 
@@ -68,6 +84,10 @@ Chief: ...
 
 ### 「Enjoying the Clouds」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 It's a sunny day. When you were taking a stroll in the Outdoor Activity Area, you ran into Ninety-Nine who was lying on the grass and enjoying the clouds.
 
 Chief: Ninety-Nine?
@@ -89,6 +109,10 @@ Chief: Ninety-Nine?
     Ninety-Nine: That is because when I escaped together with Hella and looked up, what I saw were clouds like this.
 
 ### 「Snacks」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Ninety-Nine the Sinner asks to enter your office. Approve?
 
@@ -115,6 +139,10 @@ Ninety-Nine the Sinner asks to enter your office. Approve?
     Chief: Thank you.
 
 ### 「Emotion Control」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠⚠
 
 Ninety-Nine the Sinner lost control and damaged the TV in the Recreation Area.
 

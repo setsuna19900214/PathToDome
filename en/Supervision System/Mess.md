@@ -2,6 +2,10 @@
 
 ### 「Specialized Treatment」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Mess's regular hypnotherapy sessions included one additional program than others — one that allowed her to sleep soundly without the disturbance of nightmares.
 
 - How effective is it?
@@ -10,17 +14,29 @@ Mess's regular hypnotherapy sessions included one additional program than others
 
 ### 「Master of Provoking」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 According to this week's statistics, there were 12 cases of fighting among the Sinners, two-thirds of which were identified as being related to Mess.
 
 - Discipline and punish
 
 ### 「Forging Workshop」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Mess has made a request to you. She wants a dedicated weapon forge for smiting.
 
 - Give it some more thoughts
 
 ### 「Fashion Icon」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
 
 You notice that there is always a group of young girls gathering behind Mess from time to time, ranging from Sinners to bureau staff members.
 
@@ -41,6 +57,10 @@ They were whispering with excitement on their faces.
   - … That's what it's all about.
 
 ### 「Styling Advice」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -72,6 +92,10 @@ Sinner Mess requests access to the office. Grant permission?
     - I promise I will next time!
 
 ### 「Cost of a New Weapon」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 Many Sinners have recently received new weapons built by Mess, but you have a hunch that things are not so simple.
 
@@ -110,6 +134,10 @@ Take Sinner Mess for questioning?
   Mess: Tsk, that's so lame ...
 
 ### 「God Gamer」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Jane and Mess are having a PvP match in "Sheriff and Bandit" with many onlookers around.
 

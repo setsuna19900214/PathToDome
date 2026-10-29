@@ -2,8 +2,14 @@
 
 ## Mira - Interrogation I
 
+> Intelligence before completion:
+> The MBCC and the FAC have just launched a joint investigation into a major Hypercube smuggling case. Following the FAC's leads, you track the repeat smuggler to an obscure WhiteSands settlement—Tuco.
+
+> Intelligence after completion:
 > After careful investigation, you confirm that Mira, the town's motel owner, must be connected to the case. You check into her motel and conduct a search in the dead of night, only to find yourself lured into a trap.
 > Just when all seems lost, Mira appears out of nowhere and rescues you from the mechanisms of the secret passage.
+
+### Interrogation Transcript
 
 Local: Outsiders who've been here...? Nah, except you.
 
@@ -403,11 +409,20 @@ With practiced ease, Mira feels the wall until a mechanism clicks into place. Sh
 
 The next second, you hear a hail of knives hitting the other side of the door.
 
+> After careful investigation, you confirm that Mira, the town's motel owner, must be connected to the case. You check into her motel and conduct a search in the dead of night, only to find yourself lured into a trap.
+> Just when all seems lost, Mira appears out of nowhere and rescues you from the mechanisms of the secret passage.
+
 ## Mira - Interrogation II
 
+> Intelligence before completion:
+> Mira drags you through a dark underground tunnel swiftly while you desperately want to understand the full story and her involvement in it all.
+
+> Intelligence after completion:
 > After learning about Mira's past, you reach an agreement with her. She will help you escape Tuco and return to the MBCC with you for her detention. In exchange, you promise to come back as soon as you're safe to bring her comatose parents to DisCity for treatment.
 > You successfully rendezvous with the reinforcements, but Mira takes a bullet protecting you. In the heat of the moment, you're forced to order a retreat, planning to return later for a proper investigation of Tuco.
 > However, when you finally return to Tuco, all that awaits you is an empty stretch of sand and the smuggler that should have been "gotten rid of" according to Mira.
+
+### Interrogation Transcript
 
 You take several turns and stumble down a few flights of stairs. You couldn't have imagined the small motel having an underground space this huge.
 
@@ -833,10 +848,20 @@ All that remains of the vanished town of Tuco is an entrance leading to that bas
 
 And there, bound and abandoned at the entrance, is the wounded smuggler Mira said she had *gotten rid of*.
 
+> After learning about Mira's past, you reach an agreement with her. She will help you escape Tuco and return to the MBCC with you for her detention. In exchange, you promise to come back as soon as you're safe to bring her comatose parents to DisCity for treatment.
+> You successfully rendezvous with the reinforcements, but Mira takes a bullet protecting you. In the heat of the moment, you're forced to order a retreat, planning to return later for a proper investigation of Tuco.
+> However, when you finally return to Tuco, all that awaits you is an empty stretch of sand and the smuggler that should have been "gotten rid of" according to Mira.
+
 ## Mira - Interrogation III
 
+> Intelligence before completion:
+> Once Mira's injuries have gotten better, you begin the interrogation. Many questions still linger about the smuggling case and the mysterious "disappearance" of the whole Tuco.
+
+> Intelligence after completion:
 > The people of the desert are like wild grass growing stubbornly in arid soil. They have the wisdom and tenacity to survive against impossible odds, as well as the courage and determination to seize every opportunity that comes their way.
 > For Mira, DisCity represents exactly such an opportunity. And she stands ready to embrace a new journey filled with new challenges and new hope.
+
+### Interrogation Transcript
 
 When you enter the interrogation room, Mira has just finished telling a WhiteSands joke, and the smiles have yet to fade from the two staff members beside her.
 
@@ -1243,3 +1268,6 @@ Mira: Oh, and you know, I was right about that Chief. Told you, I know a good pe
 A sudden breeze sweeps through the treetops outside the hospital window.
 
 The leaves rustle softly, like words filled with longing from a distance, too soft to be heard, responding to the girl: *They are listening.*
+
+> The people of the desert are like wild grass growing stubbornly in arid soil. They have the wisdom and tenacity to survive against impossible odds, as well as the courage and determination to seize every opportunity that comes their way.
+> For Mira, DisCity represents exactly such an opportunity. And she stands ready to embrace a new journey filled with new challenges and new hope.

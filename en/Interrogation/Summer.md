@@ -2,10 +2,17 @@
 
 ## Summer - Interrogation I
 
+> Intelligence before completion:
+> After the battle in the Black Water's crypt, many questions have arisen within you about the Laboratory of Parma and Mania Crystals.
+> To find the answers, you decide to seek help from the *Ring Research Institute*, the forefront of DisCity's academia.
+
+> Intelligence after completion:
 > Mania Crystals, the Ring substance... These mysterious and deadly substances seem to be mere playthings in Summer's hands.
 > No one expected this mad genius to have such a deep secret.
 > The videotape has resolved the question that no one could answer.
 > At least for now, you want your relationship to be one of mentor and friend instead of Sinner and warden.
+
+### Interrogation Transcript
 
 After the Crypt Operation, Bureau Office
 
@@ -495,11 +502,24 @@ Summer: Tokusatsu show, here I come!
 
 With the help of the drones, Summer dashes out of the interrogation room.
 
+> Mania Crystals, the Ring substance... These mysterious and deadly substances seem to be mere playthings in Summer's hands.
+> No one expected this mad genius to have such a deep secret.
+> The videotape has resolved the question that no one could answer.
+> At least for now, you want your relationship to be one of mentor and friend instead of Sinner and warden.
+
 ## Summer - Interrogation II
 
+> Intelligence before completion:
+> After the Black Ring eruption in Keylan Square, you're growing terrified of the mystery about yourself.
+> What's this *inheritance* residing inside you? What will be your future?
+> You need an answer, a definite answer.
+
+> Intelligence after completion:
 > Summer's senses are just too sharp. She catches on that something's wrong from just a few words.
 > Her curiosity has been ignited after learning that you've absorbed the inheritance.
 > After bringing you under control, this mad scientist is now free of all restraints.
+
+### Interrogation Transcript
 
 The screams are tearing at your nerves. The contamination is ripping your consciousness apart. Countless hands of filth are sticking onto your body.
 
@@ -943,12 +963,23 @@ Laplace: Yes, this is the outcome I've been anticipating.
 
 Laplace: Welcome back, my genius.
 
+> Summer's senses are just too sharp. She catches on that something's wrong from just a few words.
+> Her curiosity has been ignited after learning that you've absorbed the inheritance.
+> After bringing you under control, this mad scientist is now free of all restraints.
+
 ## Summer - Interrogation III
 
+> Intelligence before completion:
+> The smell of rust, the smell of rot, the smell of disinfectant.
+> The smells have been constantly plaguing you, waking you from your sleep impatiently.
+
+> Intelligence after completion:
 > The Ring Research Institute anticipated all of Summer's actions. Even the research conducted on you is part of their plan.
 > Laplace, or rather the Ring Research Institute, anticipated everything. They want to use you to lure Summer back to the Ring Research Institute.
 > However, it seems that this genius doesn't have the best relationship with the institute.
 > The blazing light that pierced the sky once again shines over the Laboratory of Parma.
+
+### Interrogation Transcript
 
 You wake up.
 
@@ -1414,11 +1445,24 @@ Summer: This time, take a good look at how I butcher a whole team of villains on
 
 The two sides pull the triggers at the same time. The blinding light forces you to keep your eyes shut.
 
+> The Ring Research Institute anticipated all of Summer's actions. Even the research conducted on you is part of their plan.
+> Laplace, or rather the Ring Research Institute, anticipated everything. They want to use you to lure Summer back to the Ring Research Institute.
+> However, it seems that this genius doesn't have the best relationship with the institute.
+> The blazing light that pierced the sky once again shines over the Laboratory of Parma.
+
 ## Summer - Interrogation IV
 
+> Intelligence before completion:
+> Adrift.
+> That's the perfect word to describe your current state.
+> But regardless, it's still way better than being sealed in an airtight experiment container.
+
+> Intelligence after completion:
 > The last episode of The Age of Youth is finally released in a high school of Eastside.
 > No special effect or expensive props.
 > It just feels like some ordinary life moment, but it becomes a regret of Summer's that can never been compensated.
+
+### Interrogation Transcript
 
 An unfamiliar ceiling, the edge of an unfamiliar bed, and unfamiliar curtains.
 
@@ -1791,3 +1835,7 @@ Teary-eyed, the genius inventor watches you leave the confinement cell.
 But eventually, in the approval form for the chocolate purchase order, you increase the volume discreetly...
 
 Perhaps this can somewhat compensate the girl for not being able to have her graduation this summer.
+
+> The last episode of The Age of Youth is finally released in a high school of Eastside.
+> No special effect or expensive props.
+> It just feels like some ordinary life moment, but it becomes a regret of Summer's that can never been compensated.

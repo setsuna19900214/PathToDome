@@ -2,8 +2,15 @@
 
 ## Ceto - Interrogation I
 
+> Intelligence before completion:
+> Back in DisCity, there's no time to rest. You're immediately buried in a mountain of documents, racing to build a case: that Rancors can be controlled even without restraints. It's a truth you've seen firsthand, essential for future battles, and proven by Ceto and the lighthouse keepers.
+> But your report is still a jumble of notes and theories when the highest-priority alarm shrieks through the Bureau. The special Rancor protocol has been triggered. An S-Class Rancor is at the border checkpoint, forcing their way in!
+
+> Intelligence after completion:
 > The Rancor suspect who kidnapped a girl, forced her way through the city gates, and evaded capture in Syndicate turns out to be Ceto! Why is she here? Why would she do these things? The Ceto you know would never stir up conflict out of malice.
 > The more you want to prove the lighthouse keeper Ceto's ability to control this dangerous weapon—and the more you hope to leverage this to establish cooperation with Rancor wielders—the less you can afford to release her purely out of trust, creating an opening that other factions could exploit. You must use the interrogation to uncover her true motives and their origins.
+
+### Interrogation Transcript
 
 July 18, N.F. 115
 
@@ -217,10 +224,20 @@ Chief: As long as the interrogation happens at MBCC, in our facility, we still c
 
 Chief: I know that Rancor wielder, the lighthouse keeper Ceto... I trust my judgment of her.
 
+> The Rancor suspect who kidnapped a girl, forced her way through the city gates, and evaded capture in Syndicate turns out to be Ceto! Why is she here? Why would she do these things? The Ceto you know would never stir up conflict out of malice.
+> The more you want to prove the lighthouse keeper Ceto's ability to control this dangerous weapon—and the more you hope to leverage this to establish cooperation with Rancor wielders—the less you can afford to release her purely out of trust, creating an opening that other factions could exploit. You must use the interrogation to uncover her true motives and their origins.
+
 ## Ceto - Interrogation II
 
+> Intelligence before completion:
+> Officially, Ceto is labeled a "Rancor suspect" who took hostages and breached DisCity with malicious intent. Paranoid about their city's defenses, the leadership is now demanding that you force a confession that aligns with their conspiracy theory.
+> You're trapped between the leadership's heavy-handed pressure and Ceto's defiance. Yet in this tense standoff, your mission is clear: cut through the noise, earn her trust, and uncover the truth.
+
+> Intelligence after completion:
 > Your mission is a delicate balancing act: win Ceto's trust while gathering the evidence needed to prove her innocence to a suspicious DisCity leadership. The task is fraught with difficulty.
 > Throughout the interrogation, Ceto remains defiant and uncooperative, her defenses seemingly impenetrable. Yet, you remain undeterred. You are certain this destructive persona is a facade, a shield hiding someone capable of far more than ruin.
+
+### Interrogation Transcript
 
 Ceto: We meet again so soon, DisCity native. Right... everyone here is.
 
@@ -494,10 +511,20 @@ You freeze in your tracks, your heart skipping a beat. This girl—struggling wi
 
 You are witnessing Ceto's own story, a memory from her childhood.
 
+> Your mission is a delicate balancing act: win Ceto's trust while gathering the evidence needed to prove her innocence to a suspicious DisCity leadership. The task is fraught with difficulty.
+> Throughout the interrogation, Ceto remains defiant and uncooperative, her defenses seemingly impenetrable. Yet, you remain undeterred. You are certain this destructive persona is a facade, a shield hiding someone capable of far more than ruin.
+
 ## Ceto - Interrogation III
 
+> Intelligence before completion:
+> As your shackles resonate with the Rancor, you are plunged into Ceto's memories. The familiar lighthouse dissolves into foreign visions of her deepest self.
+> You don't know what you'll find, but you know it holds the key to your dilemma, to her regrets, and to breaking the lock of prejudice forged by a history of tyranny.
+
+> Intelligence after completion:
 > You secured her freedom and cleared her name, yet she still cannot tell invasion from protection, a battlefield from a homeland. Ceto remains a seabird with nowhere to land, circling endlessly over DisCity.
 > She bears the weight of comrades who never returned, forever searching for a place to belong. In the girl once called a "hostage," she found a glimmer of purpose. Her fierce resistance and her frantic need for blame were all born from a single, simple desire: to bring them home.
+
+### Interrogation Transcript
 
 The scene feels hauntingly familiar. Wind, carrying the stench of the Black Tide, seeps through the hatch door, rattling the metal hinges. Inside the lighthouse, a dim, amber glow bathes everything.
 
@@ -759,10 +786,20 @@ Chief: There is no script. My only plan is trusting you to write your own.
 
 You share a final, knowing smile as she walks out of the interrogation room, silhouetted against the light from the hall. The device clings to her like faithful shadows as she departs to explore her DisCity, her "anchor," and her "belonging."
 
+> You secured her freedom and cleared her name, yet she still cannot tell invasion from protection, a battlefield from a homeland. Ceto remains a seabird with nowhere to land, circling endlessly over DisCity.
+> She bears the weight of comrades who never returned, forever searching for a place to belong. In the girl once called a "hostage," she found a glimmer of purpose. Her fierce resistance and her frantic need for blame were all born from a single, simple desire: to bring them home.
+
 ## Ceto - Interrogation IV
 
+> Intelligence before completion:
+> You have secured for Ceto a measure of freedom, however limited. Though your presence could expedite her journey, you believe these are regrets for her alone to reconcile.
+> The tracking device transmits photographs at regular intervals. Through these images—her exploration of DisCity, her return to her homeland, her search for "protection"—you feel as if you are walking beside her every step of the way.
+
+> Intelligence after completion:
 > She has found her lighthouse to guard; perhaps the "battlefield" was her true home all along. With DisCorps receiving her enlistment request, you finally learn the deal she struck with Augustus.
 > The aged blade, salvaged from beneath the Black Tide, bought her the freedom to command the Rancor dagger independently. Now, by her own will, she joins the BR-005 campaign. Like her fallen comrades, her name will be just another forgotten ripple on the shallows of history.
+
+### Interrogation Transcript
 
 Beep, beep, beep... A rhythmic electronic pulse underscores your work, an ouroboros of sound looping endlessly as you flip through documents. In the corner of your screen, notifications bloom and vanish in a silent, frantic dance.
 
@@ -1021,3 +1058,6 @@ Ceto: The more I kill... the longer I hold... the more I can protect. Fynn, Herb
 Ceto: ...Ha. So this is what it feels like... to fight for something worth protecting.
 
 Perhaps she has finally found it: a homeland, a place of belonging. Her new "lighthouse."
+
+> She has found her lighthouse to guard; perhaps the "battlefield" was her true home all along. With DisCorps receiving her enlistment request, you finally learn the deal she struck with Augustus.
+> The aged blade, salvaged from beneath the Black Tide, bought her the freedom to command the Rancor dagger independently. Now, by her own will, she joins the BR-005 campaign. Like her fallen comrades, her name will be just another forgotten ripple on the shallows of history.

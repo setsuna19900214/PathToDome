@@ -2,6 +2,10 @@
 
 ### 「Hoarder」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You stumble on a pile of objects when entering Dreya's room. You look down and find a few dozen boxes of coffee beans.
 
 - Case closed.
@@ -10,6 +14,10 @@ You stumble on a pile of objects when entering Dreya's room. You look down and f
 
 ### 「Where's the Monocle」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Dreya's monocle is missing and it makes her uneasy. You order dozens of people to search every corner of the MBCC. About an hour later, someone finally finds it on the lawn in the Outdoor Activity Area.
 
 - Return it to Dreya
@@ -17,6 +25,10 @@ Dreya's monocle is missing and it makes her uneasy. You order dozens of people t
   I probably dropped it when I was gazing at the stars last night.
 
 ### 「Curiosity」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Dreya's mental state seems to have improved these days. Today, she comes to you with a notebook.
 
@@ -54,6 +66,10 @@ Dreya's mental state seems to have improved these days. Today, she comes to you 
 
 ### 「Stargazing」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The sky is clear tonight, perfect for stargazing, so you take Dreya to the Outdoor Activity Area.
 
 - Sit on the lawn together
@@ -83,6 +99,10 @@ The sky is clear tonight, perfect for stargazing, so you take Dreya to the Outdo
   Chief: Sure. Look over there...
 
 ### 「Canned Fruit」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 While tidying the Sinners' files, you learn that Dreya's favorite food used to be canned fruit. So you grab a can from the kitchen and bring it to her, hoping to help her recall the related memories.
 
@@ -133,6 +153,10 @@ Dreya: I remember now... A senior in the lab was allergic to peaches, so she alw
   Chief: Save the can for yourself. If you want more, go grab some in the kitchen. They have many different flavors there.
 
 ### 「Listener」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Although Dreya is quite introverted, many people in the Bureau like to chat with her.
 

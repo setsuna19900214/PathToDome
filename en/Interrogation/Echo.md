@@ -2,7 +2,13 @@
 
 ## Echo - Interrogation I
 
+> Intelligence before completion:
+> Negative field assignment feedback makes you suspect that Echo's physical condition is abnormal, and the assessment report confirms your suspicion. To prevent further adverse effects, you must find a way to get Echo treated.
+
+> Intelligence after completion:
 > Echo is in denial about her illness, insisting that she's a *musical genius* and using the invitation to a concert as proof. Assaulted by Echo's solo performance, you reluctantly agree to her outing request.
+
+### Interrogation Transcript
 
 Two sets of documents are neatly placed on the office desk. On the left is a Sinner dispatch report received a few days ago, while on the right is the latest pathology diagnosis report.
 
@@ -220,9 +226,17 @@ Echo: Of course, no problem, I will get an invitation for you! It's a deal!
 
 Echo jumps off her seat excitedly, and gives you a big hug. Amid her joyful cheers, you can only smile wryly.
 
+> Echo is in denial about her illness, insisting that she's a *musical genius* and using the invitation to a concert as proof. Assaulted by Echo's solo performance, you reluctantly agree to her outing request.
+
 ## Echo - Interrogation II
 
+> Intelligence before completion:
+> Given Echo's unresponsive attitude, you know you must approach her issue with a lot of tactfulness. With a concert coming up, you plan to have Echo undergo corrective musical training under the guise of rehearsal.
+
+> Intelligence after completion:
 > Echo's terrible sense of pitch and performance put the three *amateur musicians* in a state of misery. Fortunately, the tough rehearsal hasn't been in vain as her performance is improving. Touched by Echo's passion, you also agree to be her loyal audience.
+
+### Interrogation Transcript
 
 Two days ago.
 
@@ -452,10 +466,18 @@ Echo's eyes sparkle with joy as she gives you an enthusiastic thumbs up.
 
 Echo: You made a promise. Don't go missing on that day!
 
+> Echo's terrible sense of pitch and performance put the three *amateur musicians* in a state of misery. Fortunately, the tough rehearsal hasn't been in vain as her performance is improving. Touched by Echo's passion, you also agree to be her loyal audience.
+
 ## Echo - Interrogation III
 
+> Intelligence before completion:
+> On the day of the charity concert, you receive an urgent task at the last minute and have to let Echo go alone. You promise her that you will arrive before the performance starts.
+
+> Intelligence after completion:
 > Once, on a bone-chilling winter night, a miraculous saxophone melody saved the dying girl. Now, on the stage of her dreams, an even warmer sound once again saves her soul.
 > It tells her that it's no big deal to wake up from your dream. As long as one has courage, one can always begin anew.
+
+### Interrogation Transcript
 
 Sally: Welcome back, Echo!
 
@@ -814,3 +836,6 @@ Echo: Someday, my most loyal spectator!
 Under the streetlights on a winter night, a homeless girl picks up a worn saxophone at the entrance of the theatre, carefully cradling it in her arms.
 
 This night will be free of sorrow, and this winter will not be long and harsh.
+
+> Once, on a bone-chilling winter night, a miraculous saxophone melody saved the dying girl. Now, on the stage of her dreams, an even warmer sound once again saves her soul.
+> It tells her that it's no big deal to wake up from your dream. As long as one has courage, one can always begin anew.

@@ -2,8 +2,15 @@
 
 ## Evie - Interrogation I
 
+> Intelligence before completion:
+> Following the Phanuel incident, the MBCC has been monitoring Mania responses among the personnel involved. Recently, Sinner Evie's M-value has shown abnormal fluctuations, accompanied by clear signs of physical exhaustion.
+> You initiate an interrogation targeting her according to protocol, hoping to contain the deterioration before it causes her Mania to flare up.
+
+> Intelligence after completion:
 > Through the interrogation, you learn that Evie was recently invited by Mimi-meow's talent agent to participate in promotional activities as a fan, and that she has been using her ability during performances without permission. Despite feeling unwell, she continues to endure the exhaustion, ignoring the possible threat it poses.
 > This is no accident. Evie's family has instilled in her the belief that self-sacrifice is a prerequisite for earning love, even at the expense of her physical health. A few words from you won't change how she operates. To truly eliminate the risk of her ability spiraling out of control from overexertion, perhaps a meeting with the figure at the center of her world—Mimi-meow—is inevitable.
+
+### Interrogation Transcript
 
 Chief: Good morning, Evie.
 
@@ -293,10 +300,20 @@ She finally lets out a smile that's genuinely relaxed, her fan merchandise swayi
 
 Then let's see if the "center of her world" can help you treat both the symptoms and the cause. Let's see if she can stabilize this dim star that's always on the verge of burning out.
 
+> Through the interrogation, you learn that Evie was recently invited by Mimi-meow's talent agent to participate in promotional activities as a fan, and that she has been using her ability during performances without permission. Despite feeling unwell, she continues to endure the exhaustion, ignoring the possible threat it poses.
+> This is no accident. Evie's family has instilled in her the belief that self-sacrifice is a prerequisite for earning love, even at the expense of her physical health. A few words from you won't change how she operates. To truly eliminate the risk of her ability spiraling out of control from overexertion, perhaps a meeting with the figure at the center of her world—Mimi-meow—is inevitable.
+
 ## Evie - Interrogation II
 
+> Intelligence before completion:
+> Evie acknowledges her mistakes, but still hopes to support Mimi-meow at her 365th live performance, an event Evie has spent a long time preparing for. For medical monitoring and investigative purposes, you agree to accompany her.
+> This performance may help you determine whether the idol Evie places her trust in is a callous enabler who exploits her people-pleasing tendencies, or a brilliant star who can genuinely brighten her future and guide her out of the dark.
+
+> Intelligence after completion:
 > At the venue, fans shoulder a massive workload that should have fallen to the talent agency. Evie pushes through her illness and delivers the surprise she has prepared onto the stage.
 > But this gift she treasures is publicly rejected by Mimi-meow. Rushing backstage, you and Evie even overhear Mimi-meow dismissing Evie's efforts. The shock causes Evie to collapse on the spot. It seems that Mimi-meow has betrayed your expectations and turned out to be just another pitiless idol who exploits her fans... or is she?
+
+### Interrogation Transcript
 
 The backstage area before the show is more chaotic than you expected. Racks of performance outfits hang in rows, decorative ribbons and balloons are strewn about, and in the middle of the hallway, a large number sticker sits all alone, for whatever reason.
 
@@ -560,10 +577,20 @@ Something stirs in you. Is this the kind of expression, the kind of reaction, yo
 
 Could what lies behind that hesitation... be a turning point?
 
+> At the venue, fans shoulder a massive workload that should have fallen to the talent agency. Evie pushes through her illness and delivers the surprise she has prepared onto the stage.
+> But this gift she treasures is publicly rejected by Mimi-meow. Rushing backstage, you and Evie even overhear Mimi-meow dismissing Evie's efforts. The shock causes Evie to collapse on the spot. It seems that Mimi-meow has betrayed your expectations and turned out to be just another pitiless idol who exploits her fans... or is she?
+
 ## Evie - Interrogation III
 
+> Intelligence before completion:
+> After being brought back to the Bureau for treatment, Evie's recovery is far from ideal. With Mimi-meow gone as her emotional anchor, she continues to respond to everyone's requests out of habit while ignoring her own needs.
+> Rest alone is probably insufficient to get her back in shape. You bring her to a run-down livehouse, where someone has prepared an exhibition meant for her and her alone.
+
+> Intelligence after completion:
 > Mimi-meow shows Evie that the efforts she dismissed as trivial were never forgotten. At last, Evie understands that she doesn't have to burn herself out just to deserve love and attention. Just as light travels in both directions, the connection between Evie and the star that illuminates her has always been mutual.
 > The talent agency will need to be investigated for manipulating the Sinner into misusing her ability. But at the very least, Evie has begun to learn how to value herself and how to shine upon those she loves without endangering herself.
+
+### Interrogation Transcript
 
 Staff A: Miss Evie, are you heading to the front desk of the recovery ward? In that case, could you bring this little package over for me? I've got something urgent to deal with...
 
@@ -898,3 +925,6 @@ ${PlayerName}: Sounds like it's very effective. This plan has my full support.
 Chief: Neither of them insisted on paying for both. A good sign, if I may say so myself.
 
 You close the chat with a smile, and as you do, your eyes catch Evie's profile status. It reads: "I'm free!!!!"
+
+> Mimi-meow shows Evie that the efforts she dismissed as trivial were never forgotten. At last, Evie understands that she doesn't have to burn herself out just to deserve love and attention. Just as light travels in both directions, the connection between Evie and the star that illuminates her has always been mutual.
+> The talent agency will need to be investigated for manipulating the Sinner into misusing her ability. But at the very least, Evie has begun to learn how to value herself and how to shine upon those she loves without endangering herself.

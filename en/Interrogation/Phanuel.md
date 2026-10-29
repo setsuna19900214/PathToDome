@@ -2,8 +2,14 @@
 
 ## Phanuel - Interrogation I
 
+> Intelligence before completion:
+> The investigation into Hollow Syndrome patients is nearing its conclusion, but the public discourse it has stirred continues to spread. Worse still, some of this discourse has begun to implicate the Bureau.
+
+> Intelligence after completion:
 > Phanuel has been subdued and brought to the Bureau, yet she claims to have lost certain key memories and has thus far been unable to provide any useful leads. Is she telling the truth? The interrogation results appear to support this claim, though further confirmation is still required.
 > After all, no one will blame a blank sheet of paper.
+
+### Interrogation Transcript
 
 A single spotlight cuts through the dark. A girl with snow-white wings descends to the center of the stage. Yet beyond that beam of light, not a single star shines.
 
@@ -253,10 +259,19 @@ In the photos scattered across the desk, Phanuel's smile looks divine and radian
 
 Chief: Let's just wait and see.
 
+> Phanuel has been subdued and brought to the Bureau, yet she claims to have lost certain key memories and has thus far been unable to provide any useful leads. Is she telling the truth? The interrogation results appear to support this claim, though further confirmation is still required.
+> After all, no one will blame a blank sheet of paper.
+
 ## Phanuel - Interrogation II
 
+> Intelligence before completion:
+> To contain the public relations crisis, a livestream is being set up at the Bureau. Almost instantly, Phanuel's fans, her haters, and even more curious spectators pour into the stream.
+
+> Intelligence after completion:
 > On the surface, the livestream serves to address public scrutiny, but you're also secretly using it to verify your assessment of Phanuel. During the stream, Phanuel's display of naivety, compliance, and self-blame swiftly softens the hostile opinions directed at her.
 > Responses can be scripted, and mannerisms can be rehearsed. But habits and details never lie.
+
+### Interrogation Transcript
 
 Love: Oh my, did you hear, Lil Daisy?! My drama radar's going absolutely haywire! Former super-idol Phanuel is doing a livestream from inside the Bureau!
 
@@ -502,10 +517,19 @@ And just as the counselor looks down to find the bandages, the tears vanish from
 
 But fleeting as that smile may be, it doesn't escape your notice.
 
+> On the surface, the livestream serves to address public scrutiny, but you're also secretly using it to verify your assessment of Phanuel. During the stream, Phanuel's display of naivety, compliance, and self-blame swiftly softens the hostile opinions directed at her.
+> Responses can be scripted, and mannerisms can be rehearsed. But habits and details never lie.
+
 ## Phanuel - Interrogation III
 
+> Intelligence before completion:
+> The original concert venue has yet to be fully dismantled. To further suppress the risks surrounding the public discourse, you bring Phanuel there to carry out a special mission.
+
+> Intelligence after completion:
 > At the press conference, Phanuel changes her retirement statement, inciting a frenzy among her fans. The chaos ultimately ends with an unforeseen attack... But thanks to your intervention, the situation does not spiral further. And with that, you finally confirm that Phanuel's wish has never changed.
 > She is accustomed to having everything arranged for her, and has made it a habit to trade away her memories for a life of comfortable stability. But that kind of stability was never built to last.
+
+### Interrogation Transcript
 
 The sun is relentless during Eastside's summer. The streets are scorching, and the asphalt has gone soft underfoot. Meanwhile, rising heat warps the grand stadium in the distance into a shimmering mirage.
 
@@ -851,10 +875,19 @@ Chief: And not just this time...
 
 Chief: The last time you reset your life, too.
 
+> At the press conference, Phanuel changes her retirement statement, inciting a frenzy among her fans. The chaos ultimately ends with an unforeseen attack... But thanks to your intervention, the situation does not spiral further. And with that, you finally confirm that Phanuel's wish has never changed.
+> She is accustomed to having everything arranged for her, and has made it a habit to trade away her memories for a life of comfortable stability. But that kind of stability was never built to last.
+
 ## Phanuel - Interrogation IV
 
+> Intelligence before completion:
+> In the aftermath of the press conference, public discourse has subsided for the time being. Phanuel has come to terms with remaining at the Bureau and has begun carrying out her daily training, attending counseling, and building a structured routine, though her attitude toward you appears to have changed.
+
+> Intelligence after completion:
 > Phanuel has not brought up her sealed past again, and out of consideration for her well-being, you choose not to press the matter. She has decided to leave that past locked away in a box and instead accept the new order arranged by the Bureau. Even now, she still relies on others to structure her daily life and affirm that her existence has meaning.
 > Faced with an uncertain fate, she learned early on to stop asking questions. She walked with a smile onto a stage decorated with flowers and lights, and everyone mistook that for a blessing. Until a pair of eyes looked past the gilded wrapping and saw what lay within—an utterly hollow heart smothered in adoration.
+
+### Interrogation Transcript
 
 *To love the spotlight, to crave love and attention... Is that really so strange?*
 
@@ -1225,3 +1258,6 @@ Phanuel doesn't turn off the bedtime alarm right away. She lets the soft melody 
 *So unlike anything before*
 
 *Worth more than any treasure*
+
+> Phanuel has not brought up her sealed past again, and out of consideration for her well-being, you choose not to press the matter. She has decided to leave that past locked away in a box and instead accept the new order arranged by the Bureau. Even now, she still relies on others to structure her daily life and affirm that her existence has meaning.
+> Faced with an uncertain fate, she learned early on to stop asking questions. She walked with a smile onto a stage decorated with flowers and lights, and everyone mistook that for a blessing. Until a pair of eyes looked past the gilded wrapping and saw what lay within—an utterly hollow heart smothered in adoration.

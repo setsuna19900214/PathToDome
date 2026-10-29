@@ -2,6 +2,10 @@
 
 ### 「Nobody's Wrong」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listening quietly.
 
 - What just happened?
@@ -36,17 +40,29 @@ Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listeni
 
 ### 「Secret Habit」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Most people like to snuggle with a pillow or blanket when they sleep, but Dolly is different. She prefers to cuddle a baseball bat.
 
 - Doesn't that feel uncomfortable?
 
 ### 「Blowing Bubbles Technique」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 It's the same gum, but while you struggle to blow a bubble, Dolly can effortlessly blow a bubble bigger than her head.
 
 - Are there some special techniques to it?
 
 ### 「Baseball Therapy」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 It seems that the best way to alleviate Dolly's restlessness is not through hypnosis treatment, but by playing a bit of baseball with her. Over time, you also learned how to play baseball.
 
@@ -55,6 +71,10 @@ It seems that the best way to alleviate Dolly's restlessness is not through hypn
   Chief: You aren't that busy today. Play with her for a little while longer.
 
 ### 「League Live Stream」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Regarding tomorrow's fieldwork, there are a few key points you want to discuss with Dolly.
 
@@ -90,6 +110,10 @@ After searching for a while, you finally found her in the Recreation Area, compl
 
 ### 「Wall Destroyer」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 You're walking in the Outdoor Activity Area after dinner when you suddenly hear a loud "bang" coming from the southwest corner.
 
 - Go take a look
@@ -117,6 +141,10 @@ You're walking in the Outdoor Activity Area after dinner when you suddenly hear 
     Chief: That's actually a pretty good solution.
 
 ### 「Spot the Difference」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You notice that Dolly has been constantly hovering around you lately, talking about nonsensical things.
 

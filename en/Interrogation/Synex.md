@@ -2,7 +2,13 @@
 
 ## Synex - Interrogation I
 
+> Intelligence before completion:
+> Field agents have sent an urgent report from WhiteSands regarding Synex, a former Campbell shadow operative who is on the run.
+
+> Intelligence after completion:
 > Your intelligence from emergency communications has confirmed Synex's location in WhiteSands. To ensure her safe apprehension and bring her to justice, you must lead the operation on the ground and confront her directly.
+
+### Interrogation Transcript
 
 The horizon is a blight of black debris, the air seething with violent Mania energy. Through the shroud of sand, two figures are barely visible, locked in a fierce struggle.
 
@@ -154,9 +160,17 @@ Chief: Nightingale, log the coordinates of that distress signal and notify the r
 
 Chief: If necessary, I'll go to WhiteSands myself.
 
+> Your intelligence from emergency communications has confirmed Synex's location in WhiteSands. To ensure her safe apprehension and bring her to justice, you must lead the operation on the ground and confront her directly.
+
 ## Synex - Interrogation II
 
+> Intelligence before completion:
+> You find Synex in WhiteSands, only to witness her devouring an Alchemic Beast as she almost loses control of her power. To prevent her from harming innocent people again, you use the shackles to draw her attention.
+
+> Intelligence after completion:
 > Synex has not harmed you; instead, she has brought you to her nest deep within WhiteSands as a trophy. During your time in her territory, you start to learn more about the Alchemic Beasts and their origins.
+
+### Interrogation Transcript
 
 9th Agency Agent: The intel collection on target Synex is complete, Chief. Here is the operation report for your review.
 
@@ -392,11 +406,19 @@ Synex: Now, be a good little toy and keep me company. Once I get bored, I'll tos
 
 Having said this, she gives your head a final, sharp pat with her claws before turning and leaving the cave.
 
+> Synex has not harmed you; instead, she has brought you to her nest deep within WhiteSands as a trophy. During your time in her territory, you start to learn more about the Alchemic Beasts and their origins.
+
 ## Synex - Interrogation III
 
+> Intelligence before completion:
+> Craving unbridled freedom, Synex recklessly battles the Apostles of Ashes and absorbs Aurum Secretum freely to empower herself, completely ignoring the lurking dangers.
+
+> Intelligence after completion:
 > During the fierce battle with the Apostle of Ashes, Synex loses control. In despair, you have no choice but to seize her moment of weakness and shackle her.
 > To your surprise, the shackles regulate the chaotic Mania and Aurum Secretum within her body, restoring her sanity. She is thrilled by this extraordinary new power as well.
 > Working together, you manage to severely wound the Apostle of Ashes, forcing it to retreat. Completely drained, you both eventually collapse. Shortly after, the FAC locate you by tracking your transmitter signal.
+
+### Interrogation Transcript
 
 Like all deserts, WhiteSands is a place of stark extremes—blinding, scorching days give way to bone-chilling nights.
 
@@ -594,10 +616,20 @@ Subtitles: ${PlayerName} was found suffering from multiple wounds, moderate dehy
 
 Subtitles: Authorities also apprehended Synex at the scene, a suspect in multiple serious crimes, including the Fraser Institute information leak. The subject's threat level was assessed as significantly diminished at the time of capture. Due to the sensitive intelligence she possesses, her immediate interrogation has been requested.
 
+> During the fierce battle with the Apostle of Ashes, Synex loses control. In despair, you have no choice but to seize her moment of weakness and shackle her.
+> To your surprise, the shackles regulate the chaotic Mania and Aurum Secretum within her body, restoring her sanity. She is thrilled by this extraordinary new power as well.
+> Working together, you manage to severely wound the Apostle of Ashes, forcing it to retreat. Completely drained, you both eventually collapse. Shortly after, the FAC locate you by tracking your transmitter signal.
+
 ## Synex - Interrogation IV
 
+> Intelligence before completion:
+> You capture Synex with your shackles during the battle against the Apostles of Ashes. Your superiors in DisCity order you to conduct an urgent interrogation aboard the sand ship to quickly extract vital intelligence about Fraser and Aurum Secretum from her.
+
+> Intelligence after completion:
 > In the interrogation room, Synex restrains her impatience to answer your questions. Her true goal is to provoke you into using the shackles, craving once more the unbridled sensation of power surging through her body.
 > When she realizes you will not indulge her, she abruptly gives up on getting any satisfaction from you. Instead, she destroys the sand ship with the Alchemic Beasts and flees into WhiteSands.
+
+### Interrogation Transcript
 
 Escort Soldier: Chief, the interrogation room is ready. The walls have been reinforced per your orders, but our resources on the sand ship are limited.
 
@@ -888,3 +920,6 @@ Subtitles: Synex has escaped. Fortunately, the shackles allow you to constantly 
 Subtitles: She appears to know your location as well, using the very shackles embedded in her body to periodically return to the MBCC, cause a disturbance, and then vanish again.
 
 Subtitles: You've decided to end the pursuit. Now, you simply wait, knowing she will return. You use these fleeting confrontations to your advantage. Deep down, you know the truth: she will never truly break the bond of the shackles, nor will she let Aurum Secretum fully claim her life.
+
+> In the interrogation room, Synex restrains her impatience to answer your questions. Her true goal is to provoke you into using the shackles, craving once more the unbridled sensation of power surging through her body.
+> When she realizes you will not indulge her, she abruptly gives up on getting any satisfaction from you. Instead, she destroys the sand ship with the Alchemic Beasts and flees into WhiteSands.

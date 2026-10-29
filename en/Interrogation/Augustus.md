@@ -2,9 +2,16 @@
 
 ## Augustus - Interrogation I
 
+> Intelligence before completion:
+> The battle of BR-005 has ended, but General Catherine Augustus Andohar of DisCorps, who was deeply involved in the conflict, remains in DisCity, drawing attention from all parties.
+> Seeing as your relationship has somewhat improved, the messenger from the 9th Agency hopes you can have a *discussion* with Augustus as soon as possible.
+
+> Intelligence after completion:
 > The interrogation of Augustus comes to a halt, but you've confirmed numerous discrepancies between the historical record and this *classified document* on hand.
 > As you get pulled into yet another political turmoil involving various factions, Augustus asks you to keep a close eye on her.
 > You agree.
+
+### Interrogation Transcript
 
 August, N.F. 115. The destruction of BR-005 turned the tide of war.
 
@@ -462,11 +469,22 @@ Augustus: After all, weren't you ordered to keep a close eye on me?
 
 **end**
 
+> The interrogation of Augustus comes to a halt, but you've confirmed numerous discrepancies between the historical record and this *classified document* on hand.
+> As you get pulled into yet another political turmoil involving various factions, Augustus asks you to keep a close eye on her.
+> You agree.
+
 ## Augustus - Interrogation II
 
+> Intelligence before completion:
+> The banquet at the premier luxury hotel has attracted numerous influential figures, including factions involved in cases you've previously handled.
+> While they're all ready to fawn over Augustus, she deliberately approaches you as she enters the hall.
+
+> Intelligence after completion:
 > It's obvious these people gather around Augustus with their own ulterior motives. They seek to use her reputation and authority to further their own goals.
 > Yet in a quiet bar away from the crowds, you hear a different perspective from the general.
 > What you didn't expect was that the tensions between DisCity and the Shattered Blade would be reignited overnight.
+
+### Interrogation Transcript
 
 September 2, N.F. 115
 
@@ -1200,11 +1218,22 @@ On the fifth day, you finally find your answer splashed across the news.
 
 *It is in this moment that the people of DisCity feel the chilling truth: the shadows of the past have returned, shrouding their city once more.*
 
+> It's obvious these people gather around Augustus with their own ulterior motives. They seek to use her reputation and authority to further their own goals.
+> Yet in a quiet bar away from the crowds, you hear a different perspective from the general.
+> What you didn't expect was that the tensions between DisCity and the Shattered Blade would be reignited overnight.
+
 ## Augustus - Interrogation III
 
+> Intelligence before completion:
+> You sense this spectacle is not what Augustus truly wants.
+> After reaching out to various contacts, you send Augustus a message requesting a private meeting.
+
+> Intelligence after completion:
 > To cleanse the city of its corruption would require another kind of battle, one far messier and more vicious.
 > Returning to that small bar, you learn that Augustus's actions are an attempt to purge the entrenched darkness within DisCity, though the darkness is slowly consuming her in return.
 > You know well that this is not a path one can walk alone. You will not let your Sinner proceed without company.
+
+### Interrogation Transcript
 
 September 12, N.F. 115, 02:00 PM
 
@@ -1824,10 +1853,22 @@ EDGE-08 [Proxy]: The blade has returned, now hanging above your heads.
 
 EDGE-08 [Proxy]: You'd better all watch your steps.
 
+> To cleanse the city of its corruption would require another kind of battle, one far messier and more vicious.
+> Returning to that small bar, you learn that Augustus's actions are an attempt to purge the entrenched darkness within DisCity, though the darkness is slowly consuming her in return.
+> You know well that this is not a path one can walk alone. You will not let your Sinner proceed without company.
+
 ## Augustus - Interrogation IV
 
+> Intelligence before completion:
+> *DOCUMENT*
+> "The Dark Side of DisCity - The Real History of Its Tyranny"
+> Author: Barry Orwell
+
+> Intelligence after completion:
 > The blade returns to its sheath.
 > On this path, history is taking root silently.
+
+### Interrogation Transcript
 
 *The Dark Side of DisCity: Rule of Shadow*
 
@@ -2428,3 +2469,6 @@ ${PlayerName}: Still not broken yet? Need any tending?
 Augustus: Don't worry. Everything's fine.
 
 Augustus: Now the blade can finally return to its scabbard.
+
+> The blade returns to its sheath.
+> On this path, history is taking root silently.

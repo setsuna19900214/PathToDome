@@ -2,17 +2,29 @@
 
 ### 「Practice Match」
 
+Location: Training Room
+
+Urgency: ⚠
+
 As usual, Gekkabijin challenges Sumire to a swordsmanship duel in the Training Room, but unsurprisingly, she loses again.
 
 - Keep at it.
 
 ### 「Strange Noise」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Sounds of someone sharpening a knife often come from Gekkabijin's room in the detention area late at night, which is quite irritating.
 
 - Give a stern warning!
 
 ### 「Consequences of Boasting」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -46,6 +58,10 @@ A staff member from the Outdoor Activity Area requests access to the office. Gra
 
 ### 「Study」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 The moment you see Gekkabijin, you instinctively step back out of the library.
 
 - Ask anxiously
@@ -73,6 +89,10 @@ The moment you see Gekkabijin, you instinctively step back out of the library.
   Chief: ...Learn about something else!
 
 ### 「Suspicious Person」
+
+Location: Secret Chamber / Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

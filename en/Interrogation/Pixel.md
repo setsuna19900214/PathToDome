@@ -2,8 +2,15 @@
 
 ## Pixel - Interrogation I
 
+> Intelligence before completion:
+> Acting on a tip, you lead a team to surround an abandoned warehouse. The target: a dangerous Sinner known as "Pixel."
+> The door is about to come down. Everyone holds their breath.
+
+> Intelligence after completion:
 > The fierce confrontation you anticipated never comes. Throughout the interrogation, Pixel remains delirious and incoherent. You can't tell whether this is a genuine mental situation or she is simply putting on an act. And yet, she confesses to her crimes readily and drops a bombshell: Wittmann, a leading authority on biochemistry, is suspected of conducting Mania experiments.
 > During the arrest, Pixel suddenly projects a minigame titled "Life in Academia" onto her screen and invites everyone to play. What is she trying to show you?
+
+### Interrogation Transcript
 
 On the outskirts of Eastside, wild grass runs rampant. A few drab, weathered buildings hunch silently under the midday glare.
 
@@ -317,11 +324,20 @@ Through the shimmering colors, crooked letters bounce into view, wobbling like p
 
 Life in Academia
 
+> The fierce confrontation you anticipated never comes. Throughout the interrogation, Pixel remains delirious and incoherent. You can't tell whether this is a genuine mental situation or she is simply putting on an act. And yet, she confesses to her crimes readily and drops a bombshell: Wittmann, a leading authority on biochemistry, is suspected of conducting Mania experiments.
+> During the arrest, Pixel suddenly projects a minigame titled "Life in Academia" onto her screen and invites everyone to play. What is she trying to show you?
+
 ## Pixel - Interrogation II
 
+> Intelligence before completion:
+> In "Life in Academia," the game Pixel created, you play as a student from a humble background who steps through the gates of Eastside's most prestigious university with a heart full of hope and wonder, embarking on a brand-new chapter of life.
+
+> Intelligence after completion:
 > By the time the game reaches its end, you realize that the line between right and wrong has long since blurred. Those who held fast to their principles were the first to be cast aside. Ultimately, the one who always tried to do everything right was pushed into a hopeless dead end.
 > This was Pixel's life. This strange, deranged individual standing before you was once a "model student" who believed that hard work would be rewarded.
 > You remain wordless for a long time. This feeling is complicated, and words fail you.
+
+### Interrogation Transcript
 
 [Chapter One: An Ordinary Family]
 
@@ -755,10 +771,20 @@ Girl: Then fine. A lunatic it is.
 
 Girl: Everything you took from me, I'm taking back. This whole machine that ate me alive, along with countless others like me... I'm going to tear it apart until there's nothing left!
 
+> By the time the game reaches its end, you realize that the line between right and wrong has long since blurred. Those who held fast to their principles were the first to be cast aside. Ultimately, the one who always tried to do everything right was pushed into a hopeless dead end.
+> This was Pixel's life. This strange, deranged individual standing before you was once a "model student" who believed that hard work would be rewarded.
+> You remain wordless for a long time. This feeling is complicated, and words fail you.
+
 ## Pixel - Interrogation III
 
+> Intelligence before completion:
+> During the confrontation with Wittmann, Pixel's mental state teeters on the edge.
+
+> Intelligence after completion:
 > After the gunshot, Pixel vanishes into the densest crowds of Eastside without a trace.
 > Some people choose to walk into the dark so that others can stay in the light. You believe she will come back. When she does, she should be able to go home once again, as "Lucy," and savor a cup of tea poured by her mother.
+
+### Interrogation Transcript
 
 Crack.
 
@@ -1033,3 +1059,6 @@ Beyond the window, twilight settles over Eastside. One by one, the streetlamps a
 You press your lips together gently. The faint sweetness of the tea still lingers in your mouth, as if a silent greeting had traveled across an impossible distance just to reach you.
 
 Perhaps next time, she can be the one to go home and drink that tea herself.
+
+> After the gunshot, Pixel vanishes into the densest crowds of Eastside without a trace.
+> Some people choose to walk into the dark so that others can stay in the light. You believe she will come back. When she does, she should be able to go home once again, as "Lucy," and savor a cup of tea poured by her mother.

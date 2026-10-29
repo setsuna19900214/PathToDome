@@ -2,8 +2,14 @@
 
 ## Thani - Interrogation I
 
+> Intelligence before completion:
+> MBCC operatives rescued a girl from unidentified assailants in WhiteSands. Investigation reveals that this girl named Thani suffers from severe Aurum Secretum infection and is suspected to have close ties with the Aurum Secretum Research Institute. You need to interrogate her as soon as possible.
+
+> Intelligence after completion:
 > Through your interrogation, you confirm that Thani is indeed connected to the Aurum Secretum Research Institute and is a key witness to the BR-005 explosion incident. You demand that she remain at the Bureau for treatment, and promise to find her companions as soon as possible, but Thani seems to be having second thoughts.
 > The next day, Thani is gone.
+
+### Interrogation Transcript
 
 Refugee Boy: Thani, can we... can we rest for a bit? Dima can't walk anymore.
 
@@ -351,10 +357,19 @@ Under the harsh lights of the interrogation room, Thani's face is deathly pale, 
 
 *But the next day, Thani is gone.*
 
+> Through your interrogation, you confirm that Thani is indeed connected to the Aurum Secretum Research Institute and is a key witness to the BR-005 explosion incident. You demand that she remain at the Bureau for treatment, and promise to find her companions as soon as possible, but Thani seems to be having second thoughts.
+> The next day, Thani is gone.
+
 ## Thani - Interrogation II
 
+> Intelligence before completion:
+> You follow the signal to an intricate cave system in WhiteSands. Here, you find yourself locked in a cat-and-mouse chase with a mysterious figure.
+
+> Intelligence after completion:
 > You spend a night with Thani and her companions in WhiteSands, witnessing the bonds between them and gaining some insight into Thani's insistence on staying with her family.
 > But that very night, you're visited by uninvited guests. You and Thani try to buy time while waiting for reinforcements, but the Fraser assassins soon have you cornered. Just as all seems lost, a figure steps between you and death.
+
+### Interrogation Transcript
 
 Inside the dark cave, you advance slowly, feeling along the clammy, rough rock faces.
 
@@ -738,10 +753,19 @@ Right then, a tiny shadow emerges.
 
 Thani: Shura!
 
+> You spend a night with Thani and her companions in WhiteSands, witnessing the bonds between them and gaining some insight into Thani's insistence on staying with her family.
+> But that very night, you're visited by uninvited guests. You and Thani try to buy time while waiting for reinforcements, but the Fraser assassins soon have you cornered. Just as all seems lost, a figure steps between you and death.
+
 ## Thani - Interrogation III
 
+> Intelligence before completion:
+> At the crucial moment, Shura takes a blow for Thani. Now, flowing in Thani's veins is not only her blood, but also her newfound resolve.
+
+> Intelligence after completion:
 > You and Thani bid farewell to Shura in WhiteSands. As the moment of departure arrives, the wind stirs across the sea of white sands, while precious memories with old friends drift away over a gentle Outland melody.
 > And someday, they will be there, waiting for you with a welcoming embrace.
+
+### Interrogation Transcript
 
 Thani: Uncle Saen, Aunt Isha, where... where are you going?
 
@@ -1028,3 +1052,6 @@ Thani lies flat on her back, having managed to save only a bag of fruit. She can
 From the other end of the corridor, a mechanical female voice speaks.
 
 Labyrinth: Labyrinth is here to report that today's floor waxing has been completed. Master may inspect the results whenever you want.
+
+> You and Thani bid farewell to Shura in WhiteSands. As the moment of departure arrives, the wind stirs across the sea of white sands, while precious memories with old friends drift away over a gentle Outland melody.
+> And someday, they will be there, waiting for you with a welcoming embrace.

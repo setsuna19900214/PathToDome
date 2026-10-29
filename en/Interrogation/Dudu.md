@@ -2,8 +2,14 @@
 
 ## Dudu - Interrogation I
 
+> Intelligence before completion:
+> After the Drifter Camp operation, the MBCC detains Sinner Dudu. Her gratuitous suona playing anywhere and anytime seriously disturbs the order in the Bureau and gives you a big headache.
+
+> Intelligence after completion:
 > Dudu demonstrates her thorough knowledge of the Drifter Camp during the interrogation. Despite refusing her request to release her back to the Drifter Camp, you promise to share some of the information you pry out of the camp. In exchange, Dudu agrees to obey the Bureau's rules.
 > Finally, the problem troubling you for days is solved.
+
+### Interrogation Transcript
 
 In just one night, a stack of complaint letters as thick as half a coin piles up on the desk.
 
@@ -285,10 +291,20 @@ You tell Nightingale to take Dudu back. Watching her skip happily behind Nightin
 
 A wave of exhaustion sweeps over you. After reaching a deal with this little troublemaker, you can finally live a few days in peace.
 
+> Dudu demonstrates her thorough knowledge of the Drifter Camp during the interrogation. Despite refusing her request to release her back to the Drifter Camp, you promise to share some of the information you pry out of the camp. In exchange, Dudu agrees to obey the Bureau's rules.
+> Finally, the problem troubling you for days is solved.
+
 ## Dudu - Interrogation II
 
+> Intelligence before completion:
+> Merely a few days after the last interrogation, Dudu barges into your office anxiously all of a sudden.
+> She brings a piece of breaking news. Someone in the Drifter Camp has a lead about Parma.
+
+> Intelligence after completion:
 > The so-called lead about *Parma* is indeed just a pretext Dudu has made up for going back to the Drifter Camp to visit a severely ill old lady. But guided by Dudu, you interact with the residents there and observe their customs and habits up close, making quite a few useful discoveries.
 > However, just when you're about to go home, you learn from the local elderly that the old lady's mind has been occupied by something named *Palama*. The truth about everything seems to hide in an abandoned building destroyed in a disaster.
+
+### Interrogation Transcript
 
 However, you have only enjoyed a few days of hard-earned peace and quiet in the office, and it was once again shattered by a high-decibel shout.
 
@@ -780,10 +796,19 @@ You wipe your face and look at the serious-faced Dudu in exasperation.
 
 Even if those ghost stories, which are probably made up to scare people, are real, a green onion is totally useless as a weapon...
 
+> The so-called lead about *Parma* is indeed just a pretext Dudu has made up for going back to the Drifter Camp to visit a severely ill old lady. But guided by Dudu, you interact with the residents there and observe their customs and habits up close, making quite a few useful discoveries.
+> However, just when you're about to go home, you learn from the local elderly that the old lady's mind has been occupied by something named *Palama*. The truth about everything seems to hide in an abandoned building destroyed in a disaster.
+
 ## Dudu - Interrogation III
 
+> Intelligence before completion:
+> You and Dudu sneak into a long-abandoned building in the northwest of the Drifter Camp for your investigation. Can you unveil the mystery around *Palama*?
+
+> Intelligence after completion:
 > *Palama* is in fact the old lady's grandson who died years ago. When you arrive at her home with the photo and diary she left in the abandoned building, she's already had her last breath in her dream.
 > As promised, Dudu plays a suona tune for her for the last time. Just as Dudu's master once said, death is not the end of life, forgetting is. The story of the old lady and Palama will live on in your memories.
+
+### Interrogation Transcript
 
 Dudu: This ghastly place looks scary enough on the outside, but it turns out to be even scarier on the inside! And it's so dark! I can't even see the way in front of me!
 
@@ -1098,3 +1123,6 @@ Dudu: Now that Granny is gone, will Palama completely disappear from this world?
 You take a deep breath and look at Dudu with warm, reassuring eyes.
 
 Chief: At least we shall remember him for her.
+
+> *Palama* is in fact the old lady's grandson who died years ago. When you arrive at her home with the photo and diary she left in the abandoned building, she's already had her last breath in her dream.
+> As promised, Dudu plays a suona tune for her for the last time. Just as Dudu's master once said, death is not the end of life, forgetting is. The story of the old lady and Palama will live on in your memories.

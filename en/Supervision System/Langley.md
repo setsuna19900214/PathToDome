@@ -2,17 +2,29 @@
 
 ### 「Unknown Taste」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Lately, you often see several Sinners gather at your office door, whispering to each other and looking envious. You asked them and realized that they too wanted to taste Langley's ground coffee.
 
 - The taste is wonderful.
 
 ### 「Interrogation Method」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Macchiato came to chat with Langley. She seems to be curious about how Langley used to interrogate prisoners.
 
 - I am curious as well.
 
 ### 「The Tortured & the Torturer」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 On the night after the mission went very successfully, Langley visited Chief's office with a bottle of vodka in her hand.
 
@@ -42,6 +54,10 @@ Chief: ...
 
 ### 「True Aim」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Langley the Sinner asks to enter. Approve?
 
 - Yes
@@ -67,6 +83,10 @@ Langley the Sinner asks to enter. Approve?
   Chief: You are truly the strongest security measure in the Bureau...
 
 ### 「Iron Willpower」
+
+Location: Confinement Cell
+
+Urgency: ⚠⚠⚠
 
 Langley has stayed in the Confinement Cell for ten hours now. The system considers this behavior unusual. Head there now and check on her.
 
@@ -117,6 +137,10 @@ Langley has stayed in the Confinement Cell for ten hours now. The system conside
     Langley: Alright. I'll be there to test and assess the measures myself.
 
 ### 「Who's the Boss」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Langley walks into your office.
 
@@ -181,6 +205,10 @@ Langley: Report your work, rookie.
         Langley: I'm looking forward to your future performance.
 
 ### 「Coffee Room Chat」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You drag yourself in, desperate for caffeine, only to find Langley and Isomer already there.
 

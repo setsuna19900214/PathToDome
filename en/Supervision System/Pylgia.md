@@ -2,11 +2,19 @@
 
 ### 「Fish Treat」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Since she started hypnotherapy, Pylgia has been treating her therapist like some kind of helpless marine animal who can't hunt for itself, always bringing small fish to the hypnotherapy room. Reeking of fish, the therapist shows up to request changes to Pylgia's treatment plan.
 
 - Approve
 
 ### 「Aquarium Screensaver」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 The computer in the Recreation Area has an aquarium screensaver. Pylgia often stands transfixed before it, watching the virtual fish swim. It's seriously putting other Sinners who want to use the computer in a dilemma.
 
@@ -15,6 +23,10 @@ The computer in the Recreation Area has an aquarium screensaver. Pylgia often st
   After seeing the order for the new computer, Faye suggests buying one more to get the discount.
 
 ### 「A Whale's Feast」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 As you pass by the hypnotherapy room, you run into Pylgia who has just finished her art therapy session.
 
@@ -52,6 +64,10 @@ Chief: How are you feeling today?
 
 ### 「Lifeguard」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The pool maintenance staff report that a Sinner is refusing to leave the water.
 
 You rush to the Outdoor Activity Area. Sure enough, you find Pylgia in the pool. She's keeping her distance from the others, but upon seeing you, she swims over.
@@ -79,6 +95,10 @@ Chief: Pylgia, what are you doing here?
     Having heard your explanation, Pylgia stops pulling people out of the water. Nevertheless, she insists on staying nearby until the pool maintenance is finished.
 
 ### 「Slacking Off」
+
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -139,6 +159,10 @@ Abnormal behavior detected in Sinner Pylgia: absence from regular training. Go a
     Later, based on Pylgia's description, you track down the *culprit* Che and tell him to stop encouraging others to slack off at work.
 
 ### 「Pink Warmth」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Recently, the researchers have developed a holographic projection that can recreate the coastal ecosystem from the past. Thinking it may pique Pylgia's interest, you bring the device to her room.
 

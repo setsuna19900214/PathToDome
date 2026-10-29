@@ -2,8 +2,15 @@
 
 ## Serpent - Interrogation I
 
+> Intelligence before completion:
+> It's been 10 days since the Dream Bottle incident. After the dream shattered, Serpent is nowhere to be found.
+> But you and the team has not given up. You've been searching for Serpent, to prevent her from producing more Ambrosia.
+
+> Intelligence after completion:
 > Serpent told you that to know the truth behind everything, you must enter the "theater" with her.
 > She kissed your fingertip and brought you together into the haziness to find happiness.
+
+### Interrogation Transcript
 
 This darkness feels familiar.
 
@@ -305,10 +312,20 @@ You have a vague feeling that you are still in the interrogation room. And then 
 
 Serpent: The awake one does not enter the Realm of Dreams... Come in to my story then.
 
+> Serpent told you that to know the truth behind everything, you must enter the "theater" with her.
+> She kissed your fingertip and brought you together into the haziness to find happiness.
+
 ## Serpent - Interrogation II
 
+> Intelligence before completion:
+> You're brought to the Starry Theater by Serpent, and see a girl with a snake.
+> You kind of figure the girl is Serpent herself.
+
+> Intelligence after completion:
 > Serpent experiences the girl's past with you together in the theater.
 > You've found that the two cases related to Serpent have nothing to do with Ambrosia, so when exactly Serpent first got Ambrosia is still a mystery.
+
+### Interrogation Transcript
 
 You come around to find yourself surrounded by darkness. You have a vague feeling that you haven't left the interrogation room, but everything around you is blurry.
 
@@ -670,11 +687,22 @@ You know that Serpent is baring her soul to you, and that she will drag you unde
 
 Chief: Lay it on me, let me feel everything you've gone through, if you so wish.
 
+> Serpent experiences the girl's past with you together in the theater.
+> You've found that the two cases related to Serpent have nothing to do with Ambrosia, so when exactly Serpent first got Ambrosia is still a mystery.
+
 ## Serpent - Interrogation III
 
+> Intelligence before completion:
+> What you didn't expect, was that the girl with a snake was led to the Endless Carnival.
+> That incident regarding the "Corpus" in the Endless Carnival didn't happen back then. So... Could it be that the "Corpus" was the source of the Dreamy Bottle and the Ambrosia?
+> And why is Serpent... so very bent on letting you accept the "happiness" she feels?
+
+> Intelligence after completion:
 > It turns out that the Endless Carnival was where Serpent meet Marv. But to your surprise, Serpent has made Marv her servant.
 > But new mysteries have appeared: Where did Marv come from? Did it have anything to do with that eerie parade of monsters?
 > You don't have time for these questions now, though. Serpent's life force is near the limit, and you have to save her from being controlled by Marv and the Bottle of Dreams.
+
+### Interrogation Transcript
 
 Serpent: Legend has it that there's an amusement park for monsters.
 
@@ -1020,10 +1048,21 @@ Chief: You are my Sinner... Whatever I tell you to do, you shall follow.
 
 Chief: Now let me... into the Realm of Dreams.
 
+> It turns out that the Endless Carnival was where Serpent meet Marv. But to your surprise, Serpent has made Marv her servant.
+> But new mysteries have appeared: Where did Marv come from? Did it have anything to do with that eerie parade of monsters?
+> You don't have time for these questions now, though. Serpent's life force is near the limit, and you have to save her from being controlled by Marv and the Bottle of Dreams.
+
 ## Serpent - Interrogation IV
 
+> Intelligence before completion:
+> You enter Serpent's dream realm with the shackles.
+> But her dream realm is collapsing with your entry, and even wants to perish with you.
+
+> Intelligence after completion:
 > The only power that Bottle of Dreams has left, has attached to Serpent's heart, eating away and controlling Serpent, whose Realm of Dream has shattered.
 > You acknowledge, accept, and embrace the sufferings of Serpent, and wish to find the true happiness that belongs to her, together, along the path of future full of perils.
+
+### Interrogation Transcript
 
 The white landscape stretches in every direction, too bright to behold.
 
@@ -1300,3 +1339,6 @@ Chief: Sigh...
 Chief: I'll be right there. Adjutant, could you find it in your heart to tell her you like her very much?
 
 Chief: That would help quiet her down a bit.
+
+> The only power that Bottle of Dreams has left, has attached to Serpent's heart, eating away and controlling Serpent, whose Realm of Dream has shattered.
+> You acknowledge, accept, and embrace the sufferings of Serpent, and wish to find the true happiness that belongs to her, together, along the path of future full of perils.

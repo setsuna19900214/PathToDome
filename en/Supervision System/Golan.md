@@ -2,11 +2,19 @@
 
 ### 「A Runaway」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After being told by some of the staff that the color of her sash bow clashes with that of her dress, Golan declares she'll leave the Bureau and storms off. According to the surveillance cameras, she lingers just outside the perimeter walls until late at night before returning to the detention area.
 
 - Leave her alone for a while
 
 ### 「Tales of Yesteryear」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 During therapy sessions, Golan has a habit of telling her therapist fictitious tales about her past, a habit that greatly undermines the effectiveness of the sessions.
 
@@ -14,11 +22,19 @@ During therapy sessions, Golan has a habit of telling her therapist fictitious t
 
 ### 「An Honorable Thief」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 The snack cabinet was raided last night. An investigation is conducted. Nino, Hella, and EMP, all looking shifty, sneak away during the investigation, while Golan stays put, confessing that she ate three chicken legs and five bags of potato chips, and drank seven bottles of milk tea.
 
 - Reprimand them
 
 ### 「A Glamorous Picnic」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 The Bureau has organized a picnic. You arrive at the appointed location ahead of time to make sure everything is in order, only to find you're not the first one to arrive.
 
@@ -70,6 +86,10 @@ Golan is standing with her back to you, straightening her clothes. She's dressed
 
 ### 「An Unarguable Recap」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 It's a new day. In the library, Golan sits hunched over a notebook. She is writing away on it, a solemn expression on her face.
 
 It's rare to see her in the library, and even rarer to see her studying hard in the library.
@@ -109,6 +129,10 @@ It's rare to see her in the library, and even rarer to see her studying hard in 
     Golan: Of course it will! I've thought of a killer comeback for what Hella said.
 
 ### 「An Ordinary Sinner」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You've received multiple complaints from the staff against Golan. According to these complaints, Golan has the peculiar habit of standing in the corner of this or that common area at the Bureau and staring at other Sinners with an unnerving intensity.
 

@@ -2,11 +2,19 @@
 
 ### 「Vanished」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Raw meat keeps disappearing from the kitchen, and the greedy thief is still at large... until the day Bai Yi's chili-marinated beef goes missing. When Helga's hyenas are spotted panting in the hallway with their tongues lolling out, the culprits are finally exposed.
 
 - Scold them
 
 ### 「Location Tracker」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Helga handcrafts a pendant with a built-in mini-tracker for each of the young Sinners. No more worrying about these little rascals wandering off and getting lost.
 
@@ -16,6 +24,10 @@ Helga handcrafts a pendant with a built-in mini-tracker for each of the young Si
 
 ### 「Medals and Dust」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 You pick up a few pieces of scrap metal in the Recreation Area. Someone says Helga was just using them to play marbles with the kids. You take a closer look and realize these are actually Helga's old service medals.
 
 - Ask Helga about them
@@ -23,6 +35,10 @@ You pick up a few pieces of scrap metal in the Recreation Area. Someone says Hel
   Helga: Oh, those little trinkets. They're bothersome around the neck and get dusty in the drawer. Figured it's better to use them to make the kids happy than let them rot in some box.
 
 ### 「Woman with the Sunglasses」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You encounter a glum-looking Helga in the hallway.
 
@@ -53,6 +69,10 @@ You encounter a glum-looking Helga in the hallway.
   A few days later, you run into Helga in the corridor again. She's still wearing the sunglasses, but this time, no one's confused. Perched conspicuously above the frames is a sign that reads: *I CAN SEE*.
 
 ### 「Sharpshooter」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -101,6 +121,10 @@ A brawl has been detected in the Outdoor Activity Area. Go and check?
   Helga gives the plushie a casual toss, and a quirky-looking hyena lands squarely in your arms. You look down at it, then back up at Helga.
 
 ### 「Wellness Boot Camp」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

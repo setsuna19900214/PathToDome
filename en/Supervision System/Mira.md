@@ -2,11 +2,19 @@
 
 ### 「A Piece of Cake」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 The Bureau's team-building dinners in the cafeteria were once chaotic events that ended up with numerous broken dishes. That was until Mira volunteered to serve dishes and maintain order. Even the rowdiest troublemakers now behave impeccably in her presence, reducing damage and mess to an all-time low.
 
 - Fill me in on the secrets, pretty please!
 
 ### 「Born a Fighter」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠
 
 During seasonal shifts and within the close quarters, flu outbreaks have swept through the Bureau, affecting everyone—except Mira. When asked about her health regimen, she offers one simple response: "Indulge in good food and choose meat over vegetables."
 
@@ -16,6 +24,10 @@ During seasonal shifts and within the close quarters, flu outbreaks have swept t
 
 ### 「Business Acumen」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After joining the Bureau's cafeteria management, Mira has introduced mystery meals at fixed prices—customers might pay for chicken wings but end up with a steak. She's even offered a guaranteed rare WhiteSands-styled roasted beef for every ten orders. While concerns arise about potential gambling tendencies among the Sinners who pool their purchases, the unexpected outcome is a notable drop in food wastage within the cafeteria.
 
 - So, she's making use of the Sinners' big appetites?
@@ -23,6 +35,10 @@ After joining the Bureau's cafeteria management, Mira has introduced mystery mea
   Chief: Now that's some sharp business acumen.
 
 ### 「Bonfire Substitute」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 Scheduled Reminder: The Energy Furnace Ghost anomaly, as reported by several Sinners, is estimated to happen again in 10 minutes. Chief, please look into this promptly.
 
@@ -55,6 +71,10 @@ Chief: It hasn't been long since the last oddity. Perhaps the Eastians are onto 
     Mira: Hmm? I'm not entirely sure what you're getting at, Chief, but since you're here, why not join me for some dancing and singing under the night sky? I've even brought some drinks—the kind that goes perfectly with bonfires and folk tunes!
 
 ### 「Deceiving Appearance」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Chief: For once I've finished work early. Time to savor this rare, peaceful afternoon...
 
@@ -89,6 +109,10 @@ Chief: And that's that... Well, not sure what's going on, but those noises don't
     Mira: Oh, this is nothing really. Back in Tuco, I used to carry all the supplies for my motel by myself. I just don't want anything happening to the cafeteria—I made a promise to look after it well.
 
 ### 「People Reader」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Sinner A: That fortune teller from Phantom Entertainment is incredible! They can tell your deepest secrets at just one glance!
 

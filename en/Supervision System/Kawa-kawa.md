@@ -2,6 +2,10 @@
 
 ### 「Cocooning」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 Mantis is often in the hot seat for her untamed survival tactics, and you've grown quite accustomed to it. But this time, the beef someone has with her seems a bit off the beaten track.
 
 Complaint ticket: Mantis and her cohorts have commandeered a section of the gym, keeping other Sinners from their fair share of the workout gear.
@@ -38,6 +42,10 @@ Complaint ticket: Mantis and her cohorts have commandeered a section of the gym,
 
 ### 「Desert Delicacies」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Kawa-kawa suggests new dishes to the MBCC's cafeteria: Barbecued WhiteSands Lizards, Air-dried WhiteSands Scorpions, WhiteSands Snake Jerky, and Marinated WhiteSands Spiders.
 
 - Reject
@@ -45,6 +53,10 @@ Kawa-kawa suggests new dishes to the MBCC's cafeteria: Barbecued WhiteSands Liza
   The cooks agree with you.
 
 ### 「A Tremor」
+
+Location: Management Center
+
+Urgency: ⚠
 
 A tremor starts somewhere near the door to the office...
 
@@ -56,6 +68,10 @@ A tremor starts somewhere near the door to the office...
 
 ### 「Water, A Precious Commodity」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 You buy a bottle of water from the vending machine. You drink half of it and intend to throw the other half away.
 
 Kawa-kawa: Chief, water is a precious commodity. You're gonna... throw that away?
@@ -65,6 +81,10 @@ Kawa-kawa: Chief, water is a precious commodity. You're gonna... throw that away
   Kawa-kawa: Good for you, Chief! Efficient as ever, even when it comes to drinking water!
 
 ### 「A Naive Person」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Kawa-kawa: Good morning, Chief, I'm back! Mission accomplished!
 
@@ -103,6 +123,10 @@ Kawa-kawa: Fantastic! Who will it be?
 
 ### 「Competitive Eating」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 An eating contest is being held in the recreation area. Kawa-kawa is one of the contestants.
 
 Crowd: Come on! Come on!
@@ -132,6 +156,10 @@ Kawa-kawa passes out as soon as he finishes the sentence.
   Chief: Mmmph! He's heavy!
 
 ### 「Tales of the WhiteSands」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Kawa-kawa is reading a book titled *Tales of the WhiteSands* when you come upon him.
 

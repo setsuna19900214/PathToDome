@@ -2,8 +2,14 @@
 
 ## Eleven - Interrogation I
 
+> Intelligence before completion:
+> Although the Call at 3 AM incident has been resolved, the monitor often detects traces of Mania near the Fifth Avenue in Eastside. It seems that those involved in the incident are being drawn into something new.
+
+> Intelligence after completion:
 > You met Eleven again at the TV station, where she was threatened by a power similar to hers.
 > After resolving this threat, Eleven voluntarily returned to the Bureau with you for detention and interrogation.
+
+### Interrogation Transcript
 
 Walking through familiar streets at a well-known hour, she goes against the flow of the crowd. A quick left and 50 meters more, and there's the Fifth Avenue. There stands the nerve center of Eastside—the towering Eastside TV Station.
 
@@ -239,10 +245,20 @@ On the screen above, a feed cycles through show highlights, timetables, and a ha
 
 Starting today, our regular broadcast "Call at 3 AM" will be on hiatus until further notice. We apologize for any inconvenience and appreciate our audience's patience.
 
+> You met Eleven again at the TV station, where she was threatened by a power similar to hers.
+> After resolving this threat, Eleven voluntarily returned to the Bureau with you for detention and interrogation.
+
 ## Eleven - Interrogation II
 
+> Intelligence before completion:
+> You conducted a routine interrogation on Eleven, learning that she's been near the Fifth Avenue after the incident, tracing her lost power.
+> Subsequently, Eleven confessed the truth. While tracing her lost power, she was also erasing the Eastsiders' memories of the Call at 3 AM, hoping people could forget it.
+
+> Intelligence after completion:
 > You brought back the old terminal from the TV station that used Eleven's and your power to call everyone. Eleven admitted that she couldn't control or destroy this part of the lost power.
 > You and Eleven decided to use the terminal to activate the Shackles again in search of useful clues but unexpectedly created another world.
+
+### Interrogation Transcript
 
 The woman in front of you sits elegantly in the interrogation seat, looking like she could be about to start a TV show.
 
@@ -498,10 +514,20 @@ Chief: I'm on my way, heading there now...
 
 Chief: After all, it's not like I have anywhere else to go.
 
+> You brought back the old terminal from the TV station that used Eleven's and your power to call everyone. Eleven admitted that she couldn't control or destroy this part of the lost power.
+> You and Eleven decided to use the terminal to activate the Shackles again in search of useful clues but unexpectedly created another world.
+
 ## Eleven - Interrogation III
 
+> Intelligence before completion:
+> In the new world born from combining Eleven's memories with the old terminal, you become an invisible spirit behind Eleven, moving with her.
+> In this world, you and Eleven recorded a radio program together.
+
+> Intelligence after completion:
 > In the end, you discover that this world belongs to a part of the old terminal, coming from the Ghost in Ghost Call that has been troubling Eleven. She, just like Eleven, was a host.
 > However, the good feelings she used to bring to others with her honesty and cheering personality were eventually turned into templates and lifeless performances aimed at getting views and earning profits.
+
+### Interrogation Transcript
 
 You're caught in the thick of the crowd, as crammed as sardines, all shuffling towards that tin-can of a building.
 
@@ -831,9 +857,18 @@ As soon as you grab the terminal, everything whirls around you. The space distor
 
 Eleven: Why is this happening... It's all been scripted... My likes, my steadfastness... utterly pointless... It was the same in the past, and it's the same now... In this situation... there's no chance for any change!
 
+> In the end, you discover that this world belongs to a part of the old terminal, coming from the Ghost in Ghost Call that has been troubling Eleven. She, just like Eleven, was a host.
+> However, the good feelings she used to bring to others with her honesty and cheering personality were eventually turned into templates and lifeless performances aimed at getting views and earning profits.
+
 ## Eleven - Interrogation IV
 
+> Intelligence before completion:
+> Eleven was overwhelmed by the same powerful emotional feelings, wanting to tread the same path as the "female ghost." But the uncontrollable power within her, along with the Chief, successfully stopped her.
+
+> Intelligence after completion:
 > Don't be afraid of being crushed by darkness or sunk by falsehood. Since you chose to grow and evolve, use the power you gained from this to trample all that makes you suffer.
+
+### Interrogation Transcript
 
 The world in front of you starts to fall apart, glitching and flickering like a broken machine.
 
@@ -1142,3 +1177,5 @@ Eleven: "Take it easy... sweetheart, Call at 3 AM will forever be a part of your
 Eleven: "A big thank you to everyone for sticking with Call at 3 AM. This isn't a farewell; it's a pact for an eventual comeback."
 
 Eleven: "In this never-ending night, under the faint glow of lights, I'll always be here... hearing out your voices."
+
+> Don't be afraid of being crushed by darkness or sunk by falsehood. Since you chose to grow and evolve, use the power you gained from this to trample all that makes you suffer.

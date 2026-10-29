@@ -2,8 +2,15 @@
 
 ## L.L. - Interrogation I
 
+> Intelligence before completion:
+> Toward the end of the Elysiland mental contamination case, you track down Sinner L.L.'s home, only to find out she has already been taken away by someone else.
+> A few days later, in the dead of night, you suddenly receive a garbled message of unknown meaning and origin on your device.
+
+> Intelligence after completion:
 > During the interrogation, Lore-Ley recounted her experience of being taken by the Underground. Now, with the shackles, she can leave the water temporarily and live like a normal person, but she still struggles to adjust to life offline.
 > Lore-Ley is frustrated by this. You reassure her there's no need to rush and decide to take her out of the Bureau to see the outside world.
+
+### Interrogation Transcript
 
 The MBCC command room remains brightly lit deep in the night. The message that woke you from your sleep thirty minutes ago glares on the large screen on the wall.
 
@@ -259,10 +266,19 @@ Lore-Ley: Huh? That's what you mean little-by-little?
 
 Chief: Well, I thought the Elysiland owner might prefer a more thrilling approach, don't you?
 
+> During the interrogation, Lore-Ley recounted her experience of being taken by the Underground. Now, with the shackles, she can leave the water temporarily and live like a normal person, but she still struggles to adjust to life offline.
+> Lore-Ley is frustrated by this. You reassure her there's no need to rush and decide to take her out of the Bureau to see the outside world.
+
 ## L.L. - Interrogation II
 
+> Intelligence before completion:
+> You and Lore-Ley begin your day trip in Eastside. Lore-Ley seems extremely curious about the real-life objects she's seeing and touching for the first time in her life.
+
+> Intelligence after completion:
 > In the pet shop, while playing with a puppy, Lore-Ley tells you about an online friend she used to know called Ada. With your encouragement, she finds her friend's current contact with her power and tries to reconnect with her.
 > Although Ada has turned Lore-Ley down over the phone, you are concerned by the occasional loud noise in the background during the call and decide to go check it out.
+
+### Interrogation Transcript
 
 The weekend weather is splendid, with the clear skies carrying not a wisp of cloud. Even the gentle breeze is adorned with the faint scent of newly bloomed flowers.
 
@@ -534,10 +550,19 @@ Lore-Ley: Found it! She's very close! It's a neighborhood about two kilometers f
 
 Chief: Okay, let's head over there.
 
+> In the pet shop, while playing with a puppy, Lore-Ley tells you about an online friend she used to know called Ada. With your encouragement, she finds her friend's current contact with her power and tries to reconnect with her.
+> Although Ada has turned Lore-Ley down over the phone, you are concerned by the occasional loud noise in the background during the call and decide to go check it out.
+
 ## L.L. - Interrogation III
 
+> Intelligence before completion:
+> Following the address, you and Lore-Ley head to the neighborhood where Ada lives. As you arrive at the ground floor of the apartment, you bump into Ada on her way out.
+
+> Intelligence after completion:
 > Due to a pregnancy allergy, Ada has to send her sick and disabled dog, Cabbage, to the pet shop for a while and find it a new home.
 > To your surprise, you encounter Lore-Ley's parents and their new child at the pet shop.
+
+### Interrogation Transcript
 
 ???: I've already agreed to send him away! What more do you want!?
 
@@ -759,10 +784,19 @@ Lore-Ley: You can't believe it, can you?
 
 Lore-Ley: What a coincidence. Those two... are my parents.
 
+> Due to a pregnancy allergy, Ada has to send her sick and disabled dog, Cabbage, to the pet shop for a while and find it a new home.
+> To your surprise, you encounter Lore-Ley's parents and their new child at the pet shop.
+
 ## L.L. - Interrogation IV
 
+> Intelligence before completion:
+> Lore-Ley tells you about her past for the first time.
+
+> Intelligence after completion:
 > Lore-Ley decides to adopt Cabbage and take on the responsibility of being its carer.
 > The once-faded friendship is now being rebuilt. Having been stuck in the bathtub and the virtual world for so long, Lore-Ley can finally break free from her constraints and take the first step toward integrating into the real world and connecting with others.
+
+### Interrogation Transcript
 
 For as long as she could remember, Lore-Ley had never left that small room.
 
@@ -1093,3 +1127,6 @@ Lore-Ley thanks them and takes Cabbage from their hands. She lifts the playful l
 Lore-Ley: Didn't you hear what Dr. Iron and Miss Eureka said? This new prosthetic leg is still experimental. If something goes wrong, you could fall and get hurt!
 
 Lore-Ley: Have some patience! Take it slow, little by little. There's plenty of joy and freedom waiting for you in the future!
+
+> Lore-Ley decides to adopt Cabbage and take on the responsibility of being its carer.
+> The once-faded friendship is now being rebuilt. Having been stuck in the bathtub and the virtual world for so long, Lore-Ley can finally break free from her constraints and take the first step toward integrating into the real world and connecting with others.

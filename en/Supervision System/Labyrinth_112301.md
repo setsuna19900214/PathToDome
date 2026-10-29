@@ -2,6 +2,10 @@
 
 ### 「Best Cleaner」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 The Bureau will select a *Best Cleaner* from all the cleaning staff. Ever since the announcement, you keep running into Labyrinth lurking and spying around Thani's assigned cleaning area.
 
 - Inquire
@@ -44,11 +48,19 @@ The Bureau will select a *Best Cleaner* from all the cleaning staff. Ever since 
 
 ### 「Sci-fi Novel」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Recently, a Sinner read a sci-fi novel and kept asking Labyrinth if she sees electric sheep in her dream. Labyrinth gave it a quick thought and replied that she dreamed about robot vacuums with sheep horns.
 
 - I see.
 
 ### 「Paranoid」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Your office desk is so messy that Labyrinth, who is here to serve you a cup of coffee, can't help but nag you.
 
@@ -56,17 +68,29 @@ Your office desk is so messy that Labyrinth, who is here to serve you a cup of c
 
 ### 「Master of Robot Dance」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Under everyone's request and encouragement, Labyrinth performs a set of masterful robot dance moves. Everyone applauds her.
 
 - Applaud loudly
 
 ### 「Machine Oil Needed」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Labyrinth hasn't been doing well lately. She's spiritless, slow and having problems with cleaning work. You got a doctor and found that she needs lubricating oil in her mechanical body.
 
 - Buy lubricating oil
 
 ### 「A Throb in the Heart」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 More and more Sinners and staff are reporting to you that their hearts behave weirdly when they're around Labyrinth. It's like they're having a crush for the first time ever.
 
@@ -79,6 +103,10 @@ Has the A.I. maid finally unlocked her seductive power?
   - Repair
 
 ### 「A Maid's Duty」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You find that Labyrinth has thrown away the overnight tea on your desk.
 
@@ -104,6 +132,10 @@ Labyrinth: Otherwise, Labyrinth will treat you as garbage as well.
 
 ### 「Competitors」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Labyrinth keeps staring at the new robot vacuum cleaner you've just bought.
 
 Labyrinth: Unidentified machine spotted. Analyzing... Analyzing...
@@ -123,6 +155,10 @@ Labyrinth: Negative. Chief can only own one cleaning maid which is Labyrinth.
   Labyrinth: Chief, congratulations on making a wise decision.
 
 ### 「Captcha」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You're trying to log into the City Council's official website but get stuck with the complicated captchas.
 

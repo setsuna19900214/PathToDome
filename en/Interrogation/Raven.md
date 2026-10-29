@@ -2,7 +2,14 @@
 
 ## Raven - Interrogation I
 
+> Intelligence before completion:
+> The Bureau's insider received a request for help from Rustfire, claiming that there is a batch of Mania waste within Syndicate territory that they can't handle, and they hope the Bureau can provide assistance.
+> After confirming the location through observation, you lead the city arrest team to the site.
+
+> Intelligence after completion:
 > In the end, you agreed to Raven's request to build a school. To ensure that Raven doesn't squander the budget, you decided to keep in touch with her and start preparing the textbooks needed for Syndicate Academy as soon as possible.
+
+### Interrogation Transcript
 
 Wynn: Sigh, this is my first field mission with the task force. I thought I'd witness the Chief capturing a Sinner in action.
 
@@ -348,10 +355,18 @@ Chief: ...
 
 You know without a shadow of a doubt that she can't be trusted to oversee the construction of the school alone.
 
+> In the end, you agreed to Raven's request to build a school. To ensure that Raven doesn't squander the budget, you decided to keep in touch with her and start preparing the textbooks needed for Syndicate Academy as soon as possible.
+
 ## Raven - Interrogation II
 
+> Intelligence before completion:
+> It's said that since the inauguration of the "Syndicate Academy" project, Raven's desire to create has been increasing day by day. Meanwhile, the time for your scheduled meeting with Raven is nigh. It's time to go see her.
+
+> Intelligence after completion:
 > Raven accepted the textbooks you brought her, but when it came to the specifics of compiling the history curriculum, she seemed quite lost.
 > She needs your help and advice.
+
+### Interrogation Transcript
 
 You, heaven on earth! What kind of curse
 
@@ -565,10 +580,19 @@ Raven: Join me, Chief of the MBCC. I need your help and advice.
 
 Raven extends her hand to you.
 
+> Raven accepted the textbooks you brought her, but when it came to the specifics of compiling the history curriculum, she seemed quite lost.
+> She needs your help and advice.
+
 ## Raven - Interrogation III
 
+> Intelligence before completion:
+> You visit Raven's library, which is filled with historical materials about Syndicate. Additionally, you spotted a history textbook written by Raven herself on the library desk.
+
+> Intelligence after completion:
 > Raven's past makes her fearful of teaching the truth to children, afraid that they will be crushed by the cruel truth.
 > But regardless, children have the right to learn about Syndicate's history.
+
+### Interrogation Transcript
 
 The creaking of a door...
 
@@ -984,11 +1008,20 @@ You step forward and hold Raven's trembling hands.
 
 Chief: But I hope that in tomorrow's class, you'll give the children another chance to choose.
 
+> Raven's past makes her fearful of teaching the truth to children, afraid that they will be crushed by the cruel truth.
+> But regardless, children have the right to learn about Syndicate's history.
+
 ## Raven - Interrogation IV
 
+> Intelligence before completion:
+> After some preparation, "Syndicate Academy" is officially ready to start classes. Today is Raven's "first lesson" for the students.
+
+> Intelligence after completion:
 > The most dazzling flowers bloom above the fire and ashes.
 > The children are much stronger than Raven ever imagined.
 > Hardship has shaped them, and they will be remembered as part of history.
+
+### Interrogation Transcript
 
 On the first day of school, Raven insists on giving lessons in the new classrooms at first, but gives up the idea after being told by the construction workers that there are a lot of air pollutants in these newly renovated rooms.
 
@@ -1267,3 +1300,7 @@ The leader of the Homeless steps out from the shadows and smiles at the teacher 
 Raven: Oh, about that? I'll get around to it when I get around to it.
 
 Raven: There will be more tales about heroes in Syndicate in the future. That will certainly keep me busy.
+
+> The most dazzling flowers bloom above the fire and ashes.
+> The children are much stronger than Raven ever imagined.
+> Hardship has shaped them, and they will be remembered as part of history.

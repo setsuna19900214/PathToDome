@@ -2,6 +2,10 @@
 
 ### 「Autopsy Expert」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 An assembly of Sinners is detected. They're trying to watch TV. Go and maintain order?
@@ -35,6 +39,10 @@ An assembly of Sinners is detected. They're trying to watch TV. Go and maintain 
   Chief: Easy there. The kind of "scene" he's talking about... probably isn't what you have in mind.
 
 ### 「Interviews」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Bianca: Hello everyone, today we are interviewing Sinners about their living conditions inside the MBCC.
 
@@ -122,6 +130,10 @@ Bianca: Relax, I'll remove any sensitive information before publishing. I believ
 
 ### 「Living Search Engine」
 
+Location: Training Room
+
+Urgency: ⚠
+
 In the Bureau's reading nook, Christina paces in front of the shelves, visibly straining to remember a book.
 
 Christina: I remember a detective novel about a wealthy man who vanishes with a fortune in Hypercubes... and in the end, the reader—meaning you—is the killer. What was it called again?
@@ -134,17 +146,29 @@ Christina: I remember a detective novel about a wealthy man who vanishes with a 
 
 ### 「Important Day」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Mireya is coming to MBCC to meet Christina, who is getting both excited and a little nervous.
 
 - She must be missing her a lot.
 
 ### 「Decor Coordinator」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Christina's experience in making detective tools has made her quite skillful in making handicrafts. She always takes the initiative to make festive decorations for her favorite Recreation Area.
 
 - We're counting on you next time.
 
 ### 「Work Habits」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Christina was known for her violent methods in solving cases when she worked at the local security precinct, and this habit of hers hasn't changed since she arrived at the MBCC. Thanks to her, the average lifespan of the furniture in the Bureau has been shortened by 3.5 years.
 
@@ -153,6 +177,10 @@ Christina was known for her violent methods in solving cases when she worked at 
   With your guidance, Christina has learned to use a lock pick to open doors instead of kicking them down.
 
 ### 「Embarrassed」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Christina: I have an important task for you, my dear assistant.
 
@@ -194,6 +222,10 @@ Christina: Ahem, anyway, I'll leave it to you, my capable assistant.
 
 ### 「Nickname」
 
+Location: Management Center / Recreation Area
+
+Urgency: ⚠⚠
+
 Sinner A: Chris! Could you help me lift this box? It's too heavy, I can't do it alone...
 
 Christina: No problem! Here we go...
@@ -229,6 +261,10 @@ Chief: "A very capable assistant"?
 Chief: It's quite an honor.
 
 ### 「Sixth Sense」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Today, just like any other day, you're working in your office when you suddenly hear a familiar rush of footsteps outside.
 
@@ -325,6 +361,10 @@ Chief: Alright, alright.
 Christina: Don't go back on your word, my assistant!
 
 ### 「Dark Machinations」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Eureka: Blueprints... Where are those blueprints...
 

@@ -2,8 +2,15 @@
 
 ## Thalia - Interrogation I
 
+> Intelligence before completion:
+> Recently, FAC has been investigating a Mania contraband smuggling case, with suspicions pointing toward Sinner involvement. They call upon your expertise to aid in the case.
+> Just when you are at your wit's end, the livestream Wynn is watching provides an unexpected lead.
+
+> Intelligence after completion:
 > Thalia insists she has nothing to do with the case. As a gesture of good faith, she offers to take you to the auction house, claiming it may hold even more dangers and secrets.
 > Though unsure of her true motives, this is your only lead.
+
+### Interrogation Transcript
 
 N.F. 115
 
@@ -371,10 +378,20 @@ Thalia reaches out, her hand lingering in the space between you. You hesitate, a
 
 Thalia: To a successful partnership.
 
+> Thalia insists she has nothing to do with the case. As a gesture of good faith, she offers to take you to the auction house, claiming it may hold even more dangers and secrets.
+> Though unsure of her true motives, this is your only lead.
+
 ## Thalia - Interrogation II
 
+> Intelligence before completion:
+> You and Thalia arrive at the auction house, surrounded by society's elite. Amid the murmurs of wealth and power, you start to glimpse the weight of Thalia's hidden turmoil.
+> But beneath the surface of smuggled goods lies another surprise, one neither of you saw coming.
+
+> Intelligence after completion:
 > At the auction house, Thalia spots her long-lost family crest. No matter the cost, she is determined to reclaim it.
 > Under Kara's pressure, Thalia signs the agreement, but what is really going through her mind? That, you don't know yet.
+
+### Interrogation Transcript
 
 One Week Later
 
@@ -884,10 +901,20 @@ With deliberate flourish, she lifts her hand and writes down the name she wears 
 
 Thalia: To a successful partnership.
 
+> At the auction house, Thalia spots her long-lost family crest. No matter the cost, she is determined to reclaim it.
+> Under Kara's pressure, Thalia signs the agreement, but what is really going through her mind? That, you don't know yet.
+
 ## Thalia - Interrogation III
 
+> Intelligence before completion:
+> All major platforms buzz with hype for Thalia's return to streaming after her long absence. But behind her flawless smile, something darker stirs.
+> The livestream is about to begin. Her choice is final, and you have also made your preparations.
+
+> Intelligence after completion:
 > Alone and isolated, she finds solace only in the things she can hold. But now, it's time for her to let go, to start anew.
 > Under the blue sky, you say goodbye to Thalia, knowing you'll meet again—whether here or somewhere on the road ahead.
+
+### Interrogation Transcript
 
 New Notification
 
@@ -1284,3 +1311,6 @@ You watch as she walks away, her stride light yet deliberate, the sharp click of
 Above, the sky stretches endless and blue. DisCity's rains have passed at last, and the forecast promises nothing but sunshine ahead.
 
 She still has such a long road ahead of her.
+
+> Alone and isolated, she finds solace only in the things she can hold. But now, it's time for her to let go, to start anew.
+> Under the blue sky, you say goodbye to Thalia, knowing you'll meet again—whether here or somewhere on the road ahead.

@@ -2,6 +2,10 @@
 
 ### 「Let Me In」
 
+Location: Management Center
+
+Urgency: ⚠⚠⚠
+
 EMP: My bad, my bad!
 
 EMP: Hear me out, Chief!!!
@@ -92,6 +96,10 @@ Chief: Pfft.
 
 ### 「Heroic Tales」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 On fine afternoons, strolling by the greenhouse, it's common to spot quite a few Sinners basking in the sun and chatting.
 
 Chief: Hope this calm sticks around all day... Oh, are those Donald and EMP? They look like they're having a blast...
@@ -123,6 +131,10 @@ Chief: Hope this calm sticks around all day... Oh, are those Donald and EMP? The
     Chief: Hold off on the theatrics until I've given Mantis back her cat. Really want a cuddle? You should check with the owner first if she's okay with you giving it a little rub.
 
 ### 「Hunter」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Out in the yard where they can breathe easy, the Sinners really let loose and chill out. Mantis does too—she's always got this softer edge when she's out touching grass.
 
@@ -178,6 +190,10 @@ Chief: Thanks, Mantis. Let's bring it back to the cafeteria for the cooks to do 
 
 ### 「One-Day Chief」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! Rest assured, I've got the Bureau now!
 
 - ...Nothing can make me less reassured, you know?
@@ -221,6 +237,10 @@ Necresta·Hella: Heh heh, Chief can take a day off without a care in the world! 
   It seems Hella's career as Acting Chief has come to a spectacular end within its first hour. After all, helplessly watching the *suspects* escape right under her nose hardly qualifies as competent leadership.
 
 ### 「Pathfinders in Darkness」
+
+Location: Training Room
+
+Urgency: ⚠⚠⚠
 
 The new training venue designed for navigating in darkness is intricate, filled with numerous obstacles, making it incredibly challenging to locate the exit in the dark. As soon as the lights go out, everyone flocks to Hestia's side.
 
@@ -278,6 +298,10 @@ EMP: Hahaha, of course... Wait, solo training? Chief, get back here and explain 
 
 ### 「Game Experience」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
+
 Etti has thrown herself into organizing another TRPG session for the Sinners, her passion evident.
 
 Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. She's treating our delightful game as if it were a matter of life and death!
@@ -331,6 +355,10 @@ Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. S
   The other Sinners answer with a chorus of groans, hastily dispersing from the Recreation Area like startled birds.
 
 ### 「The Lost Pouch」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 One day, shortly after you finish work, EMP comes rushing into your office, eyes brimming with tears.
 
@@ -416,6 +444,10 @@ EMP: Sob... I didn't mean to. I was in the storeroom, and I mistook Du Ruo's pou
 
 ### 「Building Blocks Resurrected」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 EMP drags you to a spot where Irrheia sits, calmly reading a book.
 
 EMP: Chief, it's a catastrophe! You gotta see this! Irrheia totally wrecked my limited-edition Hallowing building blocks! I'm, like, actually gonna die!
@@ -441,6 +473,10 @@ EMP: Chief, it's a catastrophe! You gotta see this! Irrheia totally wrecked my l
     EMP: Waaahhhh! Chief—!!
 
 ### 「Open Mic Night: Bad Jokes」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 The Recreation Area is hosting Bad Joke Night, and Pixel signs up with boundless enthusiasm—even printing notecards.
 
@@ -477,6 +513,10 @@ EMP: Those are like cold jokes... Wait. Why is it actually cold? I've got gooseb
     From that day on, the Bureau's stand‑up comedy application form included one new rule: "No physical methods may be used to aid the effect of a bad joke."
 
 ### 「Dangerous Pet」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You're at your desk, focusing on handling documents, but after a series of sparks flicker above your head, the Bureau suddenly loses power again. This situation has happened multiple times before.
 
@@ -530,6 +570,10 @@ You're at your desk, focusing on handling documents, but after a series of spark
 
 ### 「Stealth Game」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 A group of Sinners is playing a newly released game, but many are stuck on its challenging stealth quest. You haven't managed to beat it either. The crowd next to you happens to need two more players, and you're eager to join in.
 
 EMP: I'll team up with Etti, and Chief can... Eh? Anyone want to play this game?
@@ -560,6 +604,10 @@ EMP: Hey, this is perfect... Ahem, I mean, no worries! Chief definitely won't mi
 
 ### 「Fast Driver」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 You hear EMP grumbling loudly in front of the car racing game console in the Recreation Area.
 
 EMP: Ah! Which of you broke all my records?
@@ -580,6 +628,10 @@ EMP: Ahhh! Why must you also destroy a player's heart after crushing her with yo
 
 ### 「Too Close For Comfort」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The Supervision Center's surveillance equipment has been upgraded, but it always shows a warning message saying there's something wrong with the electric and magnetic signals. After some checking and troubleshooting, it was eventually discovered that the new equipment is so sensitive that it is disturbed by EMP's power.
 
 - Let EMP discharge some more electricity.
@@ -588,17 +640,29 @@ The Supervision Center's surveillance equipment has been upgraded, but it always
 
 ### 「It's a Trap」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 People are playing truth or dare in the Bureau. When EMP is asked to choose either manga or video games, she chooses death.
 
 - Say nothing
 
 ### 「Manga」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 EMP keeps complaining to you that she thinks there aren't enough manga books in the library. She is missing out on the latest chapters.
 
 - Buy the latest manga
 
 ### 「A Scam Call」
+
+Location: Confinement Cell
+
+Urgency: ⚠
 
 The Chief's office received a scam call. EMP happened to be there to pick up the phone and managed to scam the scammer with a bunch of nonsense.
 
@@ -607,6 +671,10 @@ The Chief's office received a scam call. EMP happened to be there to pick up the
   EMP: Hey, Chief, do you think I can make a living out of this?
 
 ### 「Invalid Leave Request」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Chief, you have a new request.
 
@@ -637,6 +705,10 @@ Chief: But I saw you talking to the others in the Recreation Area. You seemed ex
 EMP: I'm sorry, Chief! I'll start the training right away!
 
 ### 「Switching Weapons」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Chief, you have a new request.
 
@@ -676,6 +748,10 @@ EMP: Well, forget it. I guess I'll just have to make do with my bow and arrows.
 
 ### 「Importance of BGM」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Something's wrong with the music player. EMP is the first suspect that comes to your mind.
 
 EMP: Chief, you want to see me again?
@@ -706,6 +782,10 @@ Chief: ...
 - Fine. But I won't allow it again.
 
 ### 「Emperor of the DisCity」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 EMP is chit-chatting with a new Sinner.
 

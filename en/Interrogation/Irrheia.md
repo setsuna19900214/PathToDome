@@ -2,8 +2,15 @@
 
 ## Irrheia - Interrogation I
 
+> Intelligence before completion:
+> You open your eyes and see endless white. Here, control masquerades as care, and deprivation and exploitation are concealed as noble sacrifice.
+> You want to resist. You decide to resist. But... who are you?
+
+> Intelligence after completion:
 > The awakening of self-awareness resets you back to your starting point, and you finally remember everything. You are not Irrheia. This is not your real past.
 > Once again, to understand and control this Sinner, you dive into the sea of her mind. And it all begins with an interrogation.
+
+### Interrogation Transcript
 
 Man: Several indicators dropped in last month's report. That's a concerning trend. After consulting with the doctor, I've decided to adjust your diet, limit your free time, and start a curfew. It's what I need to do, as your dad. You'll understand, won't you?
 
@@ -277,10 +284,20 @@ Chief: Whether or not this is also part of her script, the problems are real.
 
 Chief: I won't pass up a chance to solve these problems, especially since I've already broken her script once before. I know it can be changed.
 
+> The awakening of self-awareness resets you back to your starting point, and you finally remember everything. You are not Irrheia. This is not your real past.
+> Once again, to understand and control this Sinner, you dive into the sea of her mind. And it all begins with an interrogation.
+
 ## Irrheia - Interrogation II
 
+> Intelligence before completion:
+> Irrheia is enigmatic and elusive. You know her interrogation will be anything but easy. You proceed with caution, waiting for the right moments to play your cards.
+> Will these family secrets and abandoned scripts be your key to reaching past her detached exterior toward her heart?
+
+> Intelligence after completion:
 > In the interrogation room, after confronting Irrheia, you finally succeed in entering the script containing her past. You witness details no investigation could ever uncover and finally understand why she so deeply despises boredom.
 > But understanding alone isn't enough. It will all mean nothing if you can't break free from the illusion. To that end, you attempt to deviate from her script repeatedly, each time more drastically, but in vain.
+
+### Interrogation Transcript
 
 Three hours ago
 
@@ -532,10 +549,20 @@ A wave of excruciating pain washes over you, followed by a loud thud. Your mind 
 
 Where did it go wrong this time?
 
+> In the interrogation room, after confronting Irrheia, you finally succeed in entering the script containing her past. You witness details no investigation could ever uncover and finally understand why she so deeply despises boredom.
+> But understanding alone isn't enough. It will all mean nothing if you can't break free from the illusion. To that end, you attempt to deviate from her script repeatedly, each time more drastically, but in vain.
+
 ## Irrheia - Interrogation III
 
+> Intelligence before completion:
+> Another failure makes you realize your current approach is flawed. You need to rethink your strategy. Perhaps what Irrheia wants isn't a "better" ending that surpasses her past?
+> So you choose to comply, settling into the monotonous daily routine of an ordinary office worker. You hope this unexpected tactic will provoke a reaction from Irrheia.
+
+> Intelligence after completion:
 > To Irrheia's surprise, your tactic is to accept your defeat, telling her there is no better ending, that she did her best. Though she refuses to accept it, the shattering of the illusion proves your strategy correct.
 > Upon successfully returning to the interrogation room, the situation seems resolved. Irrheia's attitude has softened, and a good ending is in sight—until you use your shackles to break the illusion, shattering the entire script she has woven around you.
+
+### Interrogation Transcript
 
 Chief: Ow... my head hurts... This reset feels nothing like what happened in the murder mystery game. It's like I actually died...
 
@@ -777,10 +804,20 @@ The root-like thorns pierce into the very core of everything, shattering the spa
 
 Chief: If you won't give me freedom, then I'll have to seize it myself.
 
+> To Irrheia's surprise, your tactic is to accept your defeat, telling her there is no better ending, that she did her best. Though she refuses to accept it, the shattering of the illusion proves your strategy correct.
+> Upon successfully returning to the interrogation room, the situation seems resolved. Irrheia's attitude has softened, and a good ending is in sight—until you use your shackles to break the illusion, shattering the entire script she has woven around you.
+
 ## Irrheia - Interrogation IV
 
+> Intelligence before completion:
+> The tragic past and satisfying reconciliation were nothing more than stories tailored specifically for you. Only after enduring countless twists and struggles do you finally return to reality, where you can face each other in earnest.
+> And this means that after dispelling all the illusions and mysteries, you can finally communicate with the real Irrheia, without any scripts or templates this time.
+
+> Intelligence after completion:
 > The end of the interrogation marks another beginning. Irrheia acknowledges the limitations of her scripts and chooses to tear them down herself. The thrills she seeks lie not within illusions, but in reality.
 > And so you release your grip, returning her freedom. The shackles and trust now coexist. The two of you form a new pact. The story reaches its finale, yet beyond it is another fresh prologue.
+
+### Interrogation Transcript
 
 The sand constructing the scene disperses. Your soul tumbles with a thud, fitting perfectly back into your body. You look around. To your surprise, you find yourself back in your own office.
 
@@ -1039,3 +1076,6 @@ I hope you've kept my room for me. After skipping work to cooperate with your in
 You fold up the note and shake your head with a smile.
 
 Chief: I knew she would come back. As for this script... fine, let her be, seeing as no real sensitive information was leaked, and the circulation is limited within the Bureau.
+
+> The end of the interrogation marks another beginning. Irrheia acknowledges the limitations of her scripts and chooses to tear them down herself. The thrills she seeks lie not within illusions, but in reality.
+> And so you release your grip, returning her freedom. The shackles and trust now coexist. The two of you form a new pact. The story reaches its finale, yet beyond it is another fresh prologue.

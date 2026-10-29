@@ -2,8 +2,15 @@
 
 ## Vautour Bleu - Interrogation I
 
+> Intelligence before completion:
+> You receive a large package from WhiteSands along with a letter from an old friend.
+> The package contains an authentic art piece, while the envelope holds your friend's down payment for a deal—the intelligence about an illegal border crosser.
+
+> Intelligence after completion:
 > Since returning to WhiteSands from Désir, Vautour Bleu seems to be thriving, her merchant caravan a picture of success. Yet her tip-off to you raise only more questions—
 > A merchant never deals in losses, so what could she stand to gain? You accept her down payment and proceed as she said, but questions linger in your mind.
+
+### Interrogation Transcript
 
 To my gray-cloaked partner,
 
@@ -165,10 +172,20 @@ Chief: Looks like we'll have to deal with it anyway, no matter how suspicious it
 
 Chief: You won't expect me to go easy on someone like you, would you? Business is war, *Miss Merchant*, and vice versa.
 
+> Since returning to WhiteSands from Désir, Vautour Bleu seems to be thriving, her merchant caravan a picture of success. Yet her tip-off to you raise only more questions—
+> A merchant never deals in losses, so what could she stand to gain? You accept her down payment and proceed as she said, but questions linger in your mind.
+
 ## Vautour Bleu - Interrogation II
 
+> Intelligence before completion:
+> The Lyman mentioned in Vautour Bleu's letter is just steps away from DisCity's border—conflict is imminent.
+> You coordinate between the departments, racing against time to save Lyman before the worst happens.
+
+> Intelligence after completion:
 > The gunshots from DisCity's border seem to reach Vautour Bleu's ears. Snapped out of her thoughts, she's informed by her subordinates that she's got new visitors.
 > Something's dawned on her then. Compliantly, she agrees to return to DisCity with the FAC for investigation, ready to face the end she has long seen coming.
+
+### Interrogation Transcript
 
 WhiteSands stretches endlessly to the horizon. The blazing sun pours shimmering heat waves above the scorching sands. No living creature would dare traverse these dunes at this high noon.
 
@@ -374,10 +391,20 @@ She raises a hand to quiet her restless crew, her smile remaining as gentle as e
 
 Vautour Bleu: Well then, shall we go, little bloodhounds?
 
+> The gunshots from DisCity's border seem to reach Vautour Bleu's ears. Snapped out of her thoughts, she's informed by her subordinates that she's got new visitors.
+> Something's dawned on her then. Compliantly, she agrees to return to DisCity with the FAC for investigation, ready to face the end she has long seen coming.
+
 ## Vautour Bleu - Interrogation III
 
+> Intelligence before completion:
+> Thanks to her upper-class connections in DisCity, Vautour Bleu's journey is swift and comfortable, lasting only three days.
+> But the luxury triggers only more mixed feelings than enjoyment. After all, it once took her three arduous years to tread the same distance.
+
+> Intelligence after completion:
 > The Syndicate in Madeleine's memories is a far cry from what Vautour Bleu sees now. Could such changes touch the desperate souls seeking passage to DisCity too?
 > Lost in thought, she is startled by a knock on the car window—the one who reshaped the Syndicate stands outside.
+
+### Interrogation Transcript
 
 The FAC's vehicle looks even fancier than customized cargo trucks. This is no doubt the result of Vautour Bleu's regular "contributions" to the officials. The big shots in DisCity clearly want no harm to come to her.
 
@@ -625,10 +652,20 @@ In a daze, Vautour Bleu glimpses a familiar silhouette through the vehicle's win
 
 Chief: We meet again, Miss Vautour Bleu.
 
+> The Syndicate in Madeleine's memories is a far cry from what Vautour Bleu sees now. Could such changes touch the desperate souls seeking passage to DisCity too?
+> Lost in thought, she is startled by a knock on the car window—the one who reshaped the Syndicate stands outside.
+
 ## Vautour Bleu - Interrogation IV
 
+> Intelligence before completion:
+> Your interrogation of Vautour Bleu begins with friendly small talk.
+> You already know her plan—shrewd and cruel, but also romantic as ever. Still, you want to hear it from her own words.
+
+> Intelligence after completion:
 > Vautour Bleu's complexity, her evasiveness, pessimism, and stubbornness, all root back to her past and a prejudiced misunderstanding.
 > Now, she witnesses as you rewrite the tragedy she once believed unchangeable. This convinces her to strike one more deal with you. And this time, she offers herself as the price.
+
+### Interrogation Transcript
 
 Vautour Bleu: Good afternoon, my dear Chief. This is my first time being a guest... at your MBCC.
 
@@ -933,3 +970,6 @@ I've traveled this trade route many times. It's always been so wild and unforgiv
 Back then, all I wanted was to leave this wretched place with its terrible weather and worse temper, but it repaid my scorn with kindness by teaching me the best lesson in business I've ever learned.
 
 It's another long story, and perhaps not a particularly interesting one. But I think you might be willing to hear it.
+
+> Vautour Bleu's complexity, her evasiveness, pessimism, and stubbornness, all root back to her past and a prejudiced misunderstanding.
+> Now, she witnesses as you rewrite the tragedy she once believed unchangeable. This convinces her to strike one more deal with you. And this time, she offers herself as the price.

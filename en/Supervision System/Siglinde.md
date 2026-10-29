@@ -2,6 +2,10 @@
 
 ### 「Encrypted Intel」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Siglinde always wears a pair of headphones. According to certain sources, she listens in on everyone's private conversations, then encrypts and uploads any Chief-related intel.
 
 - Ask for details
@@ -9,6 +13,10 @@ Siglinde always wears a pair of headphones. According to certain sources, she li
   Siglinde: Indeed. According to my latest intercepted intel, the cafeteria has only five portions of Chief's favorite dish left. You may still be able to get it if you hurry.
 
 ### 「Unfortunate Eavesdropper」
+
+Location: Management Center
+
+Urgency: ⚠
 
 A rumor about Siglinde is circulating throughout the Bureau. She allegedly identified a spy attempting to eavesdrop on DisCorps intel by saying a single sentence, forcing the culprit to turn themselves in.
 
@@ -18,6 +26,10 @@ A rumor about Siglinde is circulating throughout the Bureau. She allegedly ident
 
 ### 「Light Stick Crisis」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Siglinde finds that her mobile transmitter is missing. It's eventually found at a Sinner's concert, where fans are enthusiastically waving it in the air, somehow using it as a glowing light stick that illuminates the entire venue.
 
 - Find the culprit
@@ -25,6 +37,10 @@ Siglinde finds that her mobile transmitter is missing. It's eventually found at 
   Siglinde: It's fine. At least it cheered up the crowd at the concert. In the Bureau, it only ever picks up useless noise anyway.
 
 ### 「Snack Attack」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Lately, Siglinde has been getting really popular in the Bureau, especially among younger Sinners. Wherever she goes, there's bound to be several young Sinners eagerly trailing after her.
 
@@ -59,6 +75,10 @@ One day, as you pass by the greenhouse, you're surprised to find Siglinde there 
   Chief: ...
 
 ### 「Stranded」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You and Siglinde are driving to a tactical meeting at an outpost when the car suddenly groans loudly before breaking down.
 
@@ -99,6 +119,10 @@ Having just said that, Siglinde casually lifts the car's axle with one hand, as 
   Siglinde: Ah, seems I might have gone too hard with my training.
 
 ### 「Cooling Expert」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 The Bureau lounge's air conditioning is undergoing routine maintenance for half an hour. The scorching summer heat is almost unbearable, so you decide to ask Siglinde to tell some bad jokes to help everyone cool down.
 

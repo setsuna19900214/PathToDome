@@ -274,73 +274,43 @@ NOX: The scenery in the painting... has faded away...
 
 #### Interaction 1
 
-NOX: There we go! You can open your eyes now!
+There we go! You can open your eyes now!
 
-NOX: Is that you, Amber?
+Is that you, Amber?
 
-NOX: Of course! Didn't we agree to watch the sunrise together? Look, all the flowers are glowing. Aren't they beautiful? Hehe, thank you for bringing me here.
-
-NOX: There we go! You can open your eyes now!
-
-NOX: Is that you, Amber?
-
-NOX: Of course! Didn't we agree to watch the sunrise together? Look, all the flowers are glowing. Aren't they beautiful? Hehe, thank you for bringing me here.
+Of course! Didn't we agree to watch the sunrise together? Look, all the flowers are glowing. Aren't they beautiful? Hehe, thank you for bringing me here.
 
 #### Interaction 2
 
-NOX: Hmm? Is something wrong with my hair?
+Amber: Hmm? Is something wrong with my hair?
 
-NOX: Looks like there's another spot for a flower.
+Chief: Looks like there's another spot for a flower.
 
-NOX: At this rate, my head is going to become a walking bouquet, but... I'd love that!
-
-NOX: Hmm? Is something wrong with my hair?
-
-NOX: Looks like there's another spot for a flower.
-
-NOX: At this rate, my head is going to become a walking bouquet, but... I'd love that!
+Amber: At this rate, my head is going to become a walking bouquet, but... I'd love that!
 
 #### Interaction 3
 
-NOX: Look! I'm holding the sun in my hands.
+Amber: Look! I'm holding the sun in my hands.
 
-NOX: Woah! Did you just sneak a photo of me? Let me see!
+Amber: Woah! Did you just sneak a photo of me? Let me see!
 
-NOX: Alright~ A souvenir for you then. Remember to take good care of it!
-
-NOX: Look! I'm holding the sun in my hands.
-
-NOX: Woah! Did you just sneak a photo of me? Let me see!
-
-NOX: Alright~ A souvenir for you then. Remember to take good care of it!
+Amber: Alright~ A souvenir for you then. Remember to take good care of it!
 
 #### Interaction 4
 
-NOX: Is this... for me?
+Amber: Is this... for me?
 
-NOX: It suits you perfectly.
+Chief: It suits you perfectly.
 
-NOX: Mmmm... I'll wear it always.
-
-NOX: Is this... for me?
-
-NOX: It suits you perfectly.
-
-NOX: Mmmm... I'll wear it always.
+Amber: Mmmm... I'll wear it always.
 
 #### Interaction 5
 
-NOX: ...It's the sound of the wind.
+Chief: ...It's the sound of the wind.
 
-NOX: Huh? Hehe.
+Amber: Huh? Hehe.
 
-NOX: Hoo...
-
-NOX: ...It's the sound of the wind.
-
-NOX: Huh? Hehe.
-
-NOX: Hoo...
+Amber: Hoo...
 
 #### Exit Interaction
 

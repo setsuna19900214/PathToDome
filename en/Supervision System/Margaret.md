@@ -2,6 +2,10 @@
 
 ### 「A Brief Landing」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Margaret has a passion for birdwatching. She keeps quite a collection of rare species in her conservatory, though according to her, the bird she desires most has yet to be acquired.
 
 - Is it a bird that went extinct before Nightfall?
@@ -10,11 +14,19 @@ Margaret has a passion for birdwatching. She keeps quite a collection of rare sp
 
 ### 「Travel Mementos」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Margaret is requesting a spare room to display souvenirs from her journeys in the farlands. Her collection consists of strange statues, ancient murals, a birdcage made of solid gold...
 
 - Reject
 
 ### 「The Seating Challenge」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 On the eve of the Bureau's gala, Wynn sits surrounded by piles of name cards and seating charts, scratching her head in visible distress.
 
@@ -60,6 +72,10 @@ Margaret: It seems our dear Wynn has run into trouble. If you wouldn't mind, per
 
 ### 「In Vino Veritas」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 There you find Margaret, who appears to have slipped out with the same excuse.
 
 - Greet her
@@ -85,6 +101,10 @@ There you find Margaret, who appears to have slipped out with the same excuse.
   After all, it seems you were the only one who truly couldn't hold your drink.
 
 ### 「Broken-Winged Dove」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You receive an SOS from Pricilla and Tetra. Their magic show dove has been injured and is currently being transported back to the Bureau. Upon hearing this, Margaret volunteers to help.
 
@@ -141,6 +161,10 @@ You look at Margaret's smile and feel a chill run down your spine.
 From that day on, a tacit consensus has been established throughout the Bureau: no matter how dire the circumstances, never entrust any living creature to Ms. Margaret's "care."
 
 ### 「The Story of a Masterpiece」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Margaret has recently acquired a famous painting from before the Nightfall at an auction and invites you to the viewing held at the Bureau.
 

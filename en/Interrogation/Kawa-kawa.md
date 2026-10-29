@@ -2,8 +2,16 @@
 
 ## Kawa-kawa - Interrogation I
 
+> Intelligence before completion:
+> You see a familiar face in the Bureau.
+> Once, he was your navigator in the boundless WhiteSands and lent you a helping hand.
+> But now, he sits in the chair in the interrogation room.
+
+> Intelligence after completion:
 > Though Nightingale doesn't trust him, you let the boy join the MBCC's WhiteSands operation.
 > You trust the navigator in front of you more than data produced by so-called experts.
+
+### Interrogation Transcript
 
 Kawa-kawa: Excuse me, Chief? Has my application been approved?
 
@@ -299,11 +307,22 @@ Chief: But is there any other, better way? If the forecasting system used by the
 
 Chief: As for socializing him with reality, he has to personally experience things to truly understand the ways of the world, no?
 
+> Though Nightingale doesn't trust him, you let the boy join the MBCC's WhiteSands operation.
+> You trust the navigator in front of you more than data produced by so-called experts.
+
 ## Kawa-kawa - Interrogation II
 
+> Intelligence before completion:
+> In the depths of WhiteSands, you're faced with certain old enemies again.
+> Having long lost their past glory, they're no match for your gunfire.
+> But you've also forgotten one thing. This sand cruiser isn't V-170.
+
+> Intelligence after completion:
 > Kawa-kawa uses his power to fight for the first time.
 > His power is supposed to be gentle, and used to protect everyone.
 > However, some people don't deserve his kindness.
+
+### Interrogation Transcript
 
 Five days later, 130 kilometers east of DisCity
 
@@ -903,11 +922,23 @@ Chief: You point out anything we've missed right away.
 
 Kawa-kawa: Okay! No problem!
 
+> Kawa-kawa uses his power to fight for the first time.
+> His power is supposed to be gentle, and used to protect everyone.
+> However, some people don't deserve his kindness.
+
 ## Kawa-kawa - Interrogation III
 
+> Intelligence before completion:
+> The sandstorm continues, and resources in the fortress are dwindling each day.
+> The team members have lost communications, entertainment, and everything that reminds them of the DisCity.
+> Except for one person.
+
+> Intelligence after completion:
 > Like his forefathers, Kawa-kawa has dedicated his all to WhiteSands.
 > The beacons beaming bright blue light across the desert are his future goals.
 > They shall connect to the sky and merge with the stars.
+
+### Interrogation Transcript
 
 Two days later, the sandstorm is still raging.
 
@@ -1282,3 +1313,7 @@ The beacons around you light up one by one. From the high tower, they look like 
 They link all the way to the night sky, merging with the stars.
 
 It's as if a second Milky Way has spread out across WhiteSands.
+
+> Like his forefathers, Kawa-kawa has dedicated his all to WhiteSands.
+> The beacons beaming bright blue light across the desert are his future goals.
+> They shall connect to the sky and merge with the stars.

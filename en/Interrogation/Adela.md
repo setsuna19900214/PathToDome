@@ -2,8 +2,15 @@
 
 ## Adela - Interrogation I
 
+> Intelligence before completion:
+> After the incident on Sloane Street, you found that your memory was missing. Although the incident was eventually resolved, you do not remember many of the experiences and details of it.
+> For quite some time after the incident, the MBCC was on a continuous search for the culprit behind the incident, the inexplicably disappeared Sinner. Finally, after great cost and effort, you have succeeded.
+
+> Intelligence after completion:
 > What you didn't expect was that Adela, the culprit in the events of Sloane Street and many more, had even erased her own memories.
 > You need to understand her motives, her starting point. To that end, you initiated a program of investigation.
+
+### Interrogation Transcript
 
 █Number: FAC-M-136-I
 
@@ -325,9 +332,18 @@ Chief: I hope you can accompany me on this trip. Your participation is essential
 
 Adela shakes her head, her smile now tinged with resignation.
 
+> What you didn't expect was that Adela, the culprit in the events of Sloane Street and many more, had even erased her own memories.
+> You need to understand her motives, her starting point. To that end, you initiated a program of investigation.
+
 ## Adela - Interrogation II
 
+> Intelligence before completion:
+> According to the nameplate on the key, you found the corresponding location: 12 Dorset Street. You plan to go there with Adela to find out the truth about the "Mad Shears".
+
+> Intelligence after completion:
 > Witnessing Adela's past, the truth has surfaced. But things are far from over.
+
+### Interrogation Transcript
 
 It's night. You and Adela are in a neighborhood crisscrossed by poorly-lit streets, searching for 12 Dorset Street.
 
@@ -749,10 +765,18 @@ You produce a tape. It's a recording of an interview with a man who has an intim
 
 Does Adela really not care about her mother?
 
+> Witnessing Adela's past, the truth has surfaced. But things are far from over.
+
 ## Adela - Interrogation III
 
+> Intelligence before completion:
+> You will prove to Adela that things are not as she thinks.
+
+> Intelligence after completion:
 > After Adela fell into a coma, you called for staff of the MBCC to bring you back.
 > You recalled all the things that had happened in Sloane Street, the times you had spent together. This time, you will not forget.
+
+### Interrogation Transcript
 
 Javis: Kelly? You mean Mary Jane Kelly?
 
@@ -1012,9 +1036,19 @@ Adela's voice grows weaker and weaker. Finally, she closes her eyes.
 
 Chief: I'll help you get them back...
 
+> After Adela fell into a coma, you called for staff of the MBCC to bring you back.
+> You recalled all the things that had happened in Sloane Street, the times you had spent together. This time, you will not forget.
+
 ## Adela - Interrogation IV
 
+> Intelligence before completion:
+> It's been a long time since the confrontation with Adela.
+> She's in a good place, and you're thinking you might want to give her a little surprise as a gift for her to commemorate our acquaintance.
+
+> Intelligence after completion:
 > Heavy memories can be remembered, and why should the future go on alone.
+
+### Interrogation Transcript
 
 You're in a hair salon bathed in sunshine coming through the giant French windows. You're there with Adela. Ever since the Dorset Street investigation, her power has been kept in check with the help of the shackles. As a result, the number of attacks has decreased dramatically. But you know that that's not the end.
 
@@ -1217,3 +1251,5 @@ Adela looks at you, her eyes full of gentleness.
 Adela: So...
 
 <ins>Adela: Mr. Inspector, let me accompany you on the journey ahead, me with all my newly-recovered worrisome memories.</ins><br><ins>Adela: Miss Inspector, let me accompany you on the journey ahead, me with all my newly-recovered worrisome memories.</ins>
+
+> Heavy memories can be remembered, and why should the future go on alone.

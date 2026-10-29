@@ -2,8 +2,15 @@
 
 ## Dove - Interrogation I
 
+> Intelligence before completion:
+> Dove's interrogation is scheduled for tomorrow, but your investigation has yielded little progress since her innocent facade remains impenetrable. However, you are interrupted by yet another unexpected visitor...
+> A certain businessman who has learned of Dove's abilities floods you with requests, hoping to use her forged letters for profit. Perhaps this intrusion could instead do you a favor.
+
+> Intelligence after completion:
 > Dove's interrogation proves easier than expected. After several tense talks, you finally break through her facade and uncover what lies beneath—a deep disillusionment from a broken dream.
 > It's raw, genuine, and firmly ingrained, a frustration not easily dispelled in the short term. So you shift tactics. The businessman, who seems to share Dove's so-called "values" might be the key to prying open her defense.
+
+### Interrogation Transcript
 
 With a soft thud, you close the folder containing Dove's file and related information. The preliminary investigation has yielded so little information that you feel like you've read nothing at all.
 
@@ -297,10 +304,20 @@ She blinks, her suspicious expression vanishing as she puts on her sweet innocen
 
 Dove: Ahem... then I would be more than happy to help, Chief.
 
+> Dove's interrogation proves easier than expected. After several tense talks, you finally break through her facade and uncover what lies beneath—a deep disillusionment from a broken dream.
+> It's raw, genuine, and firmly ingrained, a frustration not easily dispelled in the short term. So you shift tactics. The businessman, who seems to share Dove's so-called "values" might be the key to prying open her defense.
+
 ## Dove - Interrogation II
 
-> The businessman drones on about his business philosophy, his scorn for mail carriers dripping from every word. Worse still, his "profitable ventures" prey on the vulnerable, poor Outland communities. This finally pushes Dove over the edge.
-> The chaos that follows—the Sinner's attempted assault—could be a handful, but you don't mind. After all, you've seen what you needed to: the spark of something unextinguished still flickering in her heart.
+> Intelligence before completion:
+> You take Dove to the reception room to meet the businessman. He's exactly as you expected—shrewd and arrogant, brimming with dubious schemes.
+> Will Dove work with him? Can the embers of hope within her still be rekindled?
+
+> Intelligence after completion:
+> The businessman drones on about his business philosophy, his scorn for mail carriers dripping from every word. Worse still, his "profitable ventures" prey on the poor Outland people. This finally pushes Dove over the edge.
+> Dealing with the Sinner's attempted assault could be a handful, but you don't mind. After all, you've seen what matters: the unextinguished spark flickering in her heart.
+
+### Interrogation Transcript
 
 Merchant: Oh, Chief of the MBCC, it's a pleasure to meet you. It's been no easy feat to secure an audience with you.
 
@@ -542,10 +559,20 @@ Dove: ...
 
 She falls silent and walks into the confinement cell of her own accord. You close the door and turn to leave, but you can feel her lingering gaze following you.
 
+> The businessman drones on about his business philosophy, his scorn for mail carriers dripping from every word. Worse still, his "profitable ventures" prey on the vulnerable, poor Outland communities. This finally pushes Dove over the edge.
+> The chaos that follows—the Sinner's attempted assault—could be a handful, but you don't mind. After all, you've seen what you needed to: the spark of something unextinguished still flickering in her heart.
+
 ## Dove - Interrogation III
 
-> Dove pours her overwhelming emotions into a letter. It's her first hand-written letter in years. A letter trekking a path to nowhere, penned by someone who always believed it was her duty to help others find their destination.
-> But destruction begets rebirth. This time, someone appears in her moment of despair, someone willing to be the recipient of her letters. She's no longer that child who could only wait for her parents to come home. This time, she can take that step herself—seeking her own path, finding her own destination. Her letters are now entrusted to someone worthy, and her dream, long broken, begins to awaken once more.
+> Intelligence before completion:
+> Though you didn't hold Dove accountable, the incidents brought on by the businessman have shaken her deeply. She yearns for the rhythm and inner peace she once had, but can she truly go back?
+> Perhaps the answer lies within the letters.
+
+> Intelligence after completion:
+> Dove writes her first hand-written letter in years, pouring her emotions into it. A letter with no destination, from someone who always believed her duty was to help others find theirs.
+> But in her despair, someone offers to receive her letters. No longer the child waiting for her parents, Dove now seeks her own path, entrusting her letters to someone worthy. Her broken dream begins to awaken again.
+
+### Interrogation Transcript
 
 Life in the Bureau runs like a train on its predetermined tracks. Most days are regular and uneventful.
 
@@ -824,3 +851,6 @@ Dove: In exchange, I can tell you a story... about a frail girl's journey throug
 Chief: Deal.
 
 You rise with a smile, carefully tucking away her letter. This time, she walks you to the door to see you off, and you both know that a new day is about to begin.
+
+> Dove pours her overwhelming emotions into a letter. It's her first hand-written letter in years. A letter trekking a path to nowhere, penned by someone who always believed it was her duty to help others find their destination.
+> But destruction begets rebirth. This time, someone appears in her moment of despair, someone willing to be the recipient of her letters. She's no longer that child who could only wait for her parents to come home. This time, she can take that step herself—seeking her own path, finding her own destination. Her letters are now entrusted to someone worthy, and her dream, long broken, begins to awaken once more.

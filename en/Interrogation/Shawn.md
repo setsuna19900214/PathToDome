@@ -2,7 +2,14 @@
 
 ## Shawn - Interrogation I
 
+> Intelligence before completion:
+> Perhaps due to your involvement in the Gray Mirror incident, you've unfortunately attracted some weird netizens who send you hate messages daily. Thankfully, the situation has gradually improved over time... except for one individual.
+> Facing the unbearable harassment, you propose a solution...
+
+> Intelligence after completion:
 > Shawn hasn't made up the whole scenario. To avoid irreversible consequences, you decide to handle it personally.
+
+### Interrogation Transcript
 
 Terminal: Bzzz.
 
@@ -460,9 +467,17 @@ Shawn: Well, you'll have me all to yourself then. I'm in your thrall, babe.
 
 As if the sincere confession never happened, the heartbreaker returns to her usual nonchalant self, throwing you a coquettish wink.
 
+> Shawn hasn't made up the whole scenario. To avoid irreversible consequences, you decide to handle it personally.
+
 ## Shawn - Interrogation II
 
+> Intelligence before completion:
+> You're fully prepared. It's time to rescue the deceived crowd from Shawn's clutches.
+
+> Intelligence after completion:
 > An unexpected situation catches everyone off guard. Despite that, you organize a response team immediately.
+
+### Interrogation Transcript
 
 Wynn: Whenever you're ready, Chief.
 
@@ -864,9 +879,17 @@ Shawn: Help me find her. I'll make it right...
 
 Shawn: I will save her.
 
+> An unexpected situation catches everyone off guard. Despite that, you organize a response team immediately.
+
 ## Shawn - Interrogation III
 
+> Intelligence before completion:
+> Nearly all of the MBCC's operatives have been deployed, and the Eastside Public Security Bureau has also sent reinforcements. You've outlined a broad search area in Eastside, and the rescue is underway.
+
+> Intelligence after completion:
 > With the incident concluded, Shawn can no longer harm others, so there will be no more new victims.
+
+### Interrogation Transcript
 
 Shawn: Why... doesn't this damn place... have... an elevator?
 
@@ -1257,3 +1280,5 @@ Shawn moves closer, getting bolder. You feel a chill down your spine and your bo
 Thump—
 
 A clean and swift throw puts a perfect end to this imperfect story about love.
+
+> With the incident concluded, Shawn can no longer harm others, so there will be no more new victims.

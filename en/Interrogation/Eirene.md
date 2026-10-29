@@ -2,9 +2,16 @@
 
 ## Eirene - Interrogation I
 
+> Intelligence before completion:
+> Eirene, the highly sought after entrepreneur of the Eastside, very likely has an unknown, mysterious faction backing her up. This faction is quite a threat to the DisCity.
+> You received a request from the 9th Agency that you are to interrogate her and find out about this dangerous threat.
+
+> Intelligence after completion:
 > Eventually, you confirmed that the people behind Eirene are the Campbells from the Outland, Fraser City.
 > Also, Eirene told you herself that she is Campbell's daughter.
 > However, you refuse to believe that this clever Sinner standing before you is someone who will allow someone else to manipulate her, even if that someone is her father.
+
+### Interrogation Transcript
 
 Across the WhiteSands, lies a behemoth on a desert oasis—Fraser City.
 
@@ -466,10 +473,21 @@ Your report clearly points out the danger of Bryce and the need to investigate s
 
 Moreover, you believe that since Eirene voluntarily disclosed the truth, she stands to defect. You apply for a permit for the Sinner to go outside, wishing to take Eirene back to Fraser City with you.
 
+> Eventually, you confirmed that the people behind Eirene are the Campbells from the Outland, Fraser City.
+> Also, Eirene told you herself that she is Campbell's daughter.
+> However, you refuse to believe that this clever Sinner standing before you is someone who will allow someone else to manipulate her, even if that someone is her father.
+
 ## Eirene - Interrogation II
 
+> Intelligence before completion:
+> The request to investigate the Campbell family in Outland has been approved. You decide to invite Eirene to go with you.
+> But before giving you her response, Eirene suggests another game of chess with her.
+
+> Intelligence after completion:
 > Eirene tells you about her past, and also shows you her resolve.
 > Even though you lost this game, Eirene finally agrees to go with you to meet her estranged father.
+
+### Interrogation Transcript
 
 Nightingale: Chief, the permit to leave has been approved. You may take Eirene...
 
@@ -759,12 +777,22 @@ In the last conscious moment, she sees the desert bandits' contorted faces, and 
 
 Maiden: Congratulations, you're a grown-up now, Eirene.
 
+> Eirene tells you about her past, and also shows you her resolve.
+> Even though you lost this game, Eirene finally agrees to go with you to meet her estranged father.
+
 ## Eirene - Interrogation III
 
+> Intelligence before completion:
+> On the sand cruiser, Eirene demonstrates to you her control over WhiteSands and the sand cruiser.
+> But to your surprise, you are attacked in WhiteSands.
+
+> Intelligence after completion:
 > The girl who got attacked in WhiteSands has become a Sinner too when she grew up.
 > Eirene told you her past and showed you her determination.
 > Eirene confirms that your attacker is her biological father.
 > Faced with Eirene's breakdown, you decide to try and get rid of Bryce Campbell.
+
+### Interrogation Transcript
 
 Fortunately, the girl doesn't end up dying or getting swallowed by quicksand.
 
@@ -1136,11 +1164,22 @@ Eirene: There are at least ten other tricky Campbell children like me in Fraser 
 
 Chief: Your father... was a virile man.
 
+> The girl who got attacked in WhiteSands has become a Sinner too when she grew up.
+> Eirene told you her past and showed you her determination.
+> Eirene confirms that your attacker is her biological father.
+> Faced with Eirene's breakdown, you decide to try and get rid of Bryce Campbell.
+
 ## Eirene - Interrogation IV
 
+> Intelligence before completion:
+> You lead the team to investigate Bryce Campbell's sand cruiser. You ask Eirene to look inside the cabins while you go and check on Bryce Campbell right away.
+
+> Intelligence after completion:
 > The matter has been completely exposed before your eyes. Bryce is not dead. You have been misled by Eirene.
 > But Bryce no longer heads the Campbell family. Eirene does now.
 > You resist Eirene's provocations and threats. Eirene admires you and extends a hand, hoping to forge a special deal.
+
+### Interrogation Transcript
 
 Once the sandstorm calms down a little, you prepare to go to Bryce's ship with a few crew members and Eirene.
 
@@ -1447,3 +1486,7 @@ Chief: If we're no longer bound by the rules of chess, then I guess, there can b
 You grip Eirene's extended hand. Her warm palm grips yours and pulls you forward...
 
 Eirene: Very well... Let's find out together.
+
+> The matter has been completely exposed before your eyes. Bryce is not dead. You have been misled by Eirene.
+> But Bryce no longer heads the Campbell family. Eirene does now.
+> You resist Eirene's provocations and threats. Eirene admires you and extends a hand, hoping to forge a special deal.

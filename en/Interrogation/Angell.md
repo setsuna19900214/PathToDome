@@ -2,7 +2,13 @@
 
 ## Angell - Interrogation I
 
+> Intelligence before completion:
+> Since parting ways with you, Angell has vanished completely like a raindrop fallen into the dark web's deep waters. Today, you suddenly spot a familiar face on the street.
+
+> Intelligence after completion:
 > After verifying some uncertain details of a previous case with Angell and learning about how she's been doing, you decide to show her "the sunlit world" in a different way and plan an outdoor day-off with her.
+
+### Interrogation Transcript
 
 Angell: When you look up from this angle, you can see the sky through the narrow gap between the high walls of the alley. Despite its small size, the sky appears incredibly blue and vast.
 
@@ -314,10 +320,18 @@ Chief: Alright, since you're not saying anything, I'll assume you agree.
 
 Chief: I'll plan our trip for the next couple of days.
 
+> After verifying some uncertain details of a previous case with Angell and learning about how she's been doing, you decide to show her "the sunlit world" in a different way and plan an outdoor day-off with her.
+
 ## Angell - Interrogation II
 
+> Intelligence before completion:
+> The next day, you rise early and rush to West District with Angell.
+
+> Intelligence after completion:
 > You and Angell come to a newly established farmers' market in West District, becoming one of the many vendors.
 > Business is initially slow, but after Angell deals with some troublemaking thugs, your vegetable stall is swept clean by the cheering crowd.
+
+### Interrogation Transcript
 
 Chief: Fresh and organic veggies! Have a look!
 
@@ -543,9 +557,18 @@ You pack everything up, throw away the empty boxes that were used to store the g
 
 Chief: Alright, everything's sold out and now we've got some money, let's go enjoy life.
 
+> You and Angell come to a newly established farmers' market in West District, becoming one of the many vendors.
+> Business is initially slow, but after Angell deals with some troublemaking thugs, your vegetable stall is swept clean by the cheering crowd.
+
 ## Angell - Interrogation III
 
+> Intelligence before completion:
+> After the vegetable stall closes, you take Angell to the next destination—the cinema.
+
+> Intelligence after completion:
 > The movie themed around the Drifter Camp and Rustfire evokes many emotions and memories in you. You try to subtly persuade Angell to start a new life like the characters in the film. Angell responds by sharing her past, making it clear she belongs in darkness and the underworld, with no chance of coming back under the sunlight.
+
+### Interrogation Transcript
 
 There aren't many people at the cinema on a weekday afternoon, with only six or seven viewers scattered in the vast place. As you and Angell take your seats in the back row with drinks and popcorn, the movie begins.
 
@@ -815,9 +838,17 @@ After finishing your sentence, you get up from your seat.
 
 Chief: Let's go, the movie has ended for a while now.
 
+> The movie themed around the Drifter Camp and Rustfire evokes many emotions and memories in you. You try to subtly persuade Angell to start a new life like the characters in the film. Angell responds by sharing her past, making it clear she belongs in darkness and the underworld, with no chance of coming back under the sunlight.
+
 ## Angell - Interrogation IV
 
+> Intelligence before completion:
+> This is Angell's last night at the MBCC. She tosses and turns all night, unusually plagued by insomnia.
+
+> Intelligence after completion:
 > You may be destined to return to your separate worlds due to your differences, but the farewell needs not be final. You can always look forward to the next reunion.
+
+### Interrogation Transcript
 
 As night deepens, the bustling MBCC detention area gradually quiets down. Even the night owls have retreated to their rooms, now fast asleep.
 
@@ -1114,3 +1145,5 @@ angell_1231: Let me know what you need. I can help you.
 ???: I'm ■■■ trying my best ■■■■ to get there■■■■■
 
 ???: ■■ ■■■ very soon ■■■ hehe■■■■■■■■■
+
+> You may be destined to return to your separate worlds due to your differences, but the farewell needs not be final. You can always look forward to the next reunion.

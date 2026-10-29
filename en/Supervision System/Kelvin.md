@@ -2,6 +2,10 @@
 
 ### 「Social Butterfly」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Vautour Bleu: Oh, Kelvin! Thank you for the ice cream you made me yesterday. It was absolutely delightful.
 
 Kelvin: Really? I'm so glad! If you enjoy it, I'd be happy to make more flavors for you!
@@ -41,6 +45,10 @@ Despite having been in the Bureau for only a few days, she seems to have already
   Vautour Bleu: After all, investing in people's hearts is always the best bet for one's capital.
 
 ### 「Don't Eat Me」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 For some reason, you haven't received any dining invitations from Cabernet in the past few days.
 
@@ -120,11 +128,19 @@ Cabernet: I'm very disappointed in you, Chief.
 
 ### 「Kitchen Accident」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Kelvin, who is completely focused on her new dish, gets scared by the loud clang when the steel pot drops to the floor. As a result, she loses control of her power and destroys all the equipment in the kitchen.
 
 - Change reluctantly
 
 ### 「Putting on More Clothes」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Whenever Kelvin feels gloomy, the temperature in the whole Bureau drops by a few degrees.
 
@@ -132,17 +148,29 @@ Whenever Kelvin feels gloomy, the temperature in the whole Bureau drops by a few
 
 ### 「Refrigeration」
 
+Location: Management Center
+
+Urgency: ⚠
+
 It is midsummer. And the air conditioner in the Bureau was malfunctioning. It would take time to repair it, so you asked Kelvin to use her ability to keep the heat at bay for the night. However, things got out of hand and the temperature dropped too low. Half of the Sinners and staff in the Bureau caught colds, including Chief.
 
 - Handle with care when using a refrigeration machine in human shape.
 
 ### 「Violation」
 
+Location: Black Market
+
+Urgency: ⚠
+
 An employee snuck out Kelvin's ice cream and sold it for money. This case has been confirmed, and Nightingale wants that employee fired.
 
 - Approve
 
 ### 「The Taste of Snow」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You notice Kelvin sticking her tongue out in a corner in the Outdoor Activity Area.
 
@@ -175,6 +203,10 @@ Kelvin looks hesitant.
     Kelvin: Th-thank you, Chief!
 
 ### 「Cooking Anime」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 In the Recreation Area, Kelvin is watching an anime on TV with fascination.
 

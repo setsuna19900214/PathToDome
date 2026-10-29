@@ -2,17 +2,29 @@
 
 ### 「Midnight Worker」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You receive a complaint from a staff member—"I keep getting pulled into strange alternate dimensions at midnight to act as an NPC in horror stories. Working both day and night shifts is really wearing me out."
 
 - Talk to Yugu
 
 ### 「The Anonymous Donor」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 You find several plainly bound volumes of *Eastian Folk Tales* on the library shelves. Staff mentions these were donated by a Sinner free of charge.
 
 - Review the content first
 
 ### 「Yugu's Troubles」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 Yugu: Sigh...
 
@@ -54,6 +66,10 @@ Across the dining table, Yugu picks up her chopsticks only to set them down agai
 
 ### 「A Different Beauty」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 The Bureau is holding a flower arrangement competition. Both Sinners and staff members are eligible to vote by placing their provided rose into the vase in front of their chosen creation.
 
 While everyone buzzes with excitement about who might win first place, you suddenly notice an arrangement of wilted flowers—and behind it stands Yugu, looking perfectly composed.
@@ -77,6 +93,10 @@ While everyone buzzes with excitement about who might win first place, you sudde
   Chief: Is this what they call "art"?
 
 ### 「Binge in Moderation」
+
+Location: Darkroom
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 
@@ -124,6 +144,10 @@ Electronic equipment in the Darkroom has been running for over 8 hours. Go and c
 
 ### 「Unusual Tear-Jerking Criteria」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Passing by the library corridor, you catch the distinct scent of incense. Following the fragrance, you find Yugu gently waving her folding fan, completely engrossed in a magazine.
 
 Chief: When she's not speaking, she really does fit everyone's image of a refined Eastian lady.
@@ -163,6 +187,10 @@ But then, without warning, two glistening tears trace their way down Yugu's chee
     Yugu: You truly are a fascinating soul... Ha...
 
 ### 「Blossoms and Blush」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 To appease the Sinners who couldn't join in the fun, you decide to answer public demand by hosting a time-limited Eastian-themed fete within the Bureau—a safe version, of course, where Sinner abilities are strictly prohibited.
 
@@ -215,6 +243,10 @@ Chief: ...So that's the situation. This event is meant to let DisCity Sinners ex
   Feeling the heat rising in your cheeks, you make a hasty retreat.
 
 ### 「Readers' Corner」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 You're just taking a breather in the library when Jichuan and Yugu's argument pulls you in.
 

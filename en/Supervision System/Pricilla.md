@@ -2,11 +2,19 @@
 
 ### 「Leaning Tower of Pizza」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 A human wall has formed near the cafeteria. On closer inspection, it turns out that people are watching Pricilla delivering pizza orders for the Logistics Department. The boxes are stacked higher than her.
 
 - Share the load
 
 ### 「Magic Show」
+
+Location: Management Center
+
+Urgency: ⚠
 
 When Pricilla gets excited, she performs magic tricks using the personal items of those around her. The acts are diverse, ranging from transforming live people to guessing playing cards, and sometimes even doing instant costume changes.
 
@@ -14,11 +22,19 @@ When Pricilla gets excited, she performs magic tricks using the personal items o
 
 ### 「Pipes Are Steel Too」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 A pipe in the Recreation Area's ceiling has burst and it's difficult to repair. Unexpectedly, Pricilla climbs up the pipe and quickly plugs the leak.
 
 - Did you manage this with your pole dancing skills?
 
 ### 「Busy Bee」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 During a rare time off, Sinners are mostly relaxing. Only Pricilla, running around with her suitcase, seems out of place.
 
@@ -47,6 +63,10 @@ Pricilla: It's almost time, I need to hurry over to wash the bottles. After that
     Pricilla: Hehe, these are all trade secrets. Anyway, thanks, Chief! I'll get back to it. Bye!
 
 ### 「Small Memorial」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 The usually busy Pricilla is nowhere to be found today. Curious, you check the surveillance cameras and find her in the photo studio.
 
@@ -79,6 +99,10 @@ Pricilla is holding a tiny old, small photo, staring at it in a daze.
     Pricilla: Thank you, Chief...
 
 ### 「Expert at Work」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Hella has taken your communication device as a prank again and is now sleeping soundly on your sofa while holding onto it.
 

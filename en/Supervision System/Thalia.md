@@ -2,6 +2,10 @@
 
 ### 「Broadcast Mishap」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Thalia told you in advance that she would be doing a mukbang stream with Poffy today. But when it was time for the stream to start, you didn't receive any notifications.
 
 - Go and take a look
@@ -48,6 +52,10 @@ Thalia told you in advance that she would be doing a mukbang stream with Poffy t
 
 ### 「Product Influencer」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Recently, the trading volume of a certain commodity at the Supply Office has suddenly surged.
 
 - Investigate
@@ -55,6 +63,10 @@ Recently, the trading volume of a certain commodity at the Supply Office has sud
   Upon investigation, it turns out Thalia recently purchased and recommended this product, and after seeing it, Sinners were all eager to get their hands on it.
 
 ### 「Popular Appeal, Refined Taste」
+
+Location: Energy Furnace
+
+Urgency: ⚠
 
 You see Thalia and McQueen huddled together, analyzing a strange painting on the wall and calling it a Cubist work.
 
@@ -64,6 +76,10 @@ You see Thalia and McQueen huddled together, analyzing a strange painting on the
 
 ### 「Unconventional Cameo」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Thalia hopes you can help support her next livestream.
 
 - Agree
@@ -71,6 +87,10 @@ Thalia hopes you can help support her next livestream.
   You agreed to be her moderator.
 
 ### 「It's a Trap!」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 During lunch break, you remember that Faye mentioned earlier that the library got a batch of new books, among which there happened to be some you're interested in. You decide to go take a look.
 
@@ -118,6 +138,10 @@ In the library, Thalia is reclining on the sofa in an exaggerated pose, like a s
 
 ### 「In High Demand」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 You encounter Thalia in the hallway, dressed up formally.
 
 - Inquire
@@ -147,6 +171,10 @@ You encounter Thalia in the hallway, dressed up formally.
   Chief: Well, you'd better hurry then. The line of people wanting to dine with Parfait is about to reach my office door.
 
 ### 「Growing Pains」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You are reading the monthly survey questionnaires that staff just collected from the Sinners.
 

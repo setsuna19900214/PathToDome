@@ -2,7 +2,13 @@
 
 ## Mess - Interrogation I
 
+> Intelligence before completion:
+> The mysterious "spirit forger" Mess is finally detained by MBCC. You interrogate her immediately. But not because of the previous incidents; it's because she's involved in a recent series of cases in Eastside.
+
+> Intelligence after completion:
 > Mess has agreed to help the investigation on the condition that she can go back to check her ledger.
+
+### Interrogation Transcript
 
 Mess: You're here!
 
@@ -258,9 +264,17 @@ Mess: Er... I use the MBCC's car to bring them back, right?
 
 Chief: ...
 
+> Mess has agreed to help the investigation on the condition that she can go back to check her ledger.
+
 ## Mess - Interrogation II
 
+> Intelligence before completion:
+> You arrive at the workshop of Mess, in Eastside. Hopefully the investigation goes smoothly.
+
+> Intelligence after completion:
 > Mess has tricked you, but in the end she has told the truth under the power of the shackles. Now is not the time to deal with her. But you should probably talk to her after everything's done.
+
+### Interrogation Transcript
 
 Mess: See? I told you it wouldn't take up too much of your time. You said a few words, and it's taken care of, simple as that.
 
@@ -572,9 +586,17 @@ Mess: Heh... do I get to say no?
 
 That unpleasant smile of hers curves up the corners of her mouth once again.
 
+> Mess has tricked you, but in the end she has told the truth under the power of the shackles. Now is not the time to deal with her. But you should probably talk to her after everything's done.
+
 ## Mess - Interrogation III
 
+> Intelligence before completion:
+> The arrest squad has located the culprit. End this now.
+
+> Intelligence after completion:
 > Mess has received psychotherapy at MBCC medical department. Though it seems there isn't much going on with her, she was actually tortured for a very long time by despairing fear. As for that "thing" she's imagining, whether it actually exists or not is something nobody knows and nobody cares.
+
+### Interrogation Transcript
 
 Mission Operative: Chief, everything went according to plan here, and we've captured Jack Naper's four accomplices.
 
@@ -897,3 +919,5 @@ Chief: No, no accident, she, er, she is stable at the moment, not a danger.
 You take a glance at the sightless girl on the floor.
 
 Chief: What will become of her, I don't know. But we must help her, no matter what.
+
+> Mess has received psychotherapy at MBCC medical department. Though it seems there isn't much going on with her, she was actually tortured for a very long time by despairing fear. As for that "thing" she's imagining, whether it actually exists or not is something nobody knows and nobody cares.

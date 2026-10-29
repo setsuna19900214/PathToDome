@@ -2,8 +2,15 @@
 
 ## Donald - Interrogation I
 
+> Intelligence before completion:
+> Along with the arrival of an "MBCC Visit Application" letter, your friend unexpectedly entered the MBCC.
+> You knew that he wouldn't just come for a "visit" without a good reason.
+
+> Intelligence after completion:
 > Donald informed you about the Mania problem that the West District is currently facing, and you learned that his aunt Margaret was taken away by Banyan Fourth Hospital, a subordinate organization affiliated with Nirvana.
 > You found information about the doctor Donald mentioned and decided to go to the Fourth Hospital as quickly as possible to talk to him in person.
+
+### Interrogation Transcript
 
 █/12 12:35 PM, at the MBCC cafeteria.
 
@@ -243,10 +250,19 @@ Donald: Anyway, it's not like me to ask for help much, but this time... I really
 
 Donald: I'm asking you, please.
 
+> Donald informed you about the Mania problem that the West District is currently facing, and you learned that his aunt Margaret was taken away by Banyan Fourth Hospital, a subordinate organization affiliated with Nirvana.
+> You found information about the doctor Donald mentioned and decided to go to the Fourth Hospital as quickly as possible to talk to him in person.
+
 ## Donald - Interrogation II
 
+> Intelligence before completion:
+> Based on the information provided by Donald, you arranged a meeting with Doctor Das.
+
+> Intelligence after completion:
 > The meeting with Doctor Das didn't go smoothly. Things are proving to be more difficult than previously expected.
 > Fortunately, Doctor Das provided essential information. You and Donald decided to further analyze the situation and make new plans based on the current circumstances.
+
+### Interrogation Transcript
 
 █/13, 5:24 PM, at the entrance of Banyan Fourth Hospital.
 
@@ -616,9 +632,19 @@ Donald: Easy does it. Let's break down the info we've got first.
 
 Donald: We'll find a solution, for sure...
 
+> The meeting with Doctor Das didn't go smoothly. Things are proving to be more difficult than previously expected.
+> Fortunately, Doctor Das provided essential information. You and Donald decided to further analyze the situation and make new plans based on the current circumstances.
+
 ## Donald - Interrogation III
 
+> Intelligence before completion:
+> Since your visit to Banyan Fourth Hospital, you've been gathering relevant information.
+> It wasn't until today that you realized you missed something crucial—Donald's medical files.
+
+> Intelligence after completion:
 > Your late-night conversation with Donald yielded surprisingly positive results. Now, you're prepared to confront Banyan Fourth Hospital head-on.
+
+### Interrogation Transcript
 
 █/14, 2:41 AM, Chief's Office.
 
@@ -926,13 +952,22 @@ Chief: Appreciate your worry, Mr. Donald. Though, I've caught up on plenty of sl
 
 Donald: Haha, you've got a point there.
 
+> Your late-night conversation with Donald yielded surprisingly positive results. Now, you're prepared to confront Banyan Fourth Hospital head-on.
+
 ## Donald - Interrogation IV
 
+> Intelligence before completion:
+> As an official, you applied for a meeting with the person in charge of Banyan Fourth Hospital.
+> You and Donald are fully prepared. This time, you're determined to succeed.
+
+> Intelligence after completion:
 > A few days after Margaret's discharge, you approved Donald's application for his "long-term fieldwork."
 > After all, the West District needs him more than the MBCC does right now.
 > After everything he's been through over the past ten years, this man is once again back to the land he's familiar with, "giving his all" for his hometown.
 > It's clear that Donald is satisfied with his current situation. In his own words,
 > "It's quite romantic."
+
+### Interrogation Transcript
 
 █/16, 3:12 PM, Dean's Office, Banyan Fourth Hospital.
 
@@ -1307,3 +1342,9 @@ Margaret moves closer and tenderly wraps her arms around her nephew.
 Margaret: Never mind, never mind. You've always been the silent type, keeping everything to yourself... You've probably been through so much.
 
 Margaret: The important thing is you're home now, you're home...
+
+> A few days after Margaret's discharge, you approved Donald's application for his "long-term fieldwork."
+> After all, the West District needs him more than the MBCC does right now.
+> After everything he's been through over the past ten years, this man is once again back to the land he's familiar with, "giving his all" for his hometown.
+> It's clear that Donald is satisfied with his current situation. In his own words,
+> "It's quite romantic."

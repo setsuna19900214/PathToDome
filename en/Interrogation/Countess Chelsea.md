@@ -2,9 +2,16 @@
 
 ## Chelsea - Interrogation I
 
+> Intelligence before completion:
+> Chelsea, a famous countess of the Eastside, is suspected to be involved in a murder case that has something to do with Sinners' power. She is now sitting right in front of you.
+> However, she doesn't seem nervous at all. If anything, she is excited and happy as if she is experiencing an interesting event.
+
+> Intelligence after completion:
 > You have been receiving harassing calls. Things are stressful. Nightingale told you that someone leaked the information on the gem Sinner. As a result, trouble is now at your doorstep.
 > Several people, including a councilor, demand that you release Chelsea. They promise they'll make all your problems go away using money.
 > This matter won't end easily.
+
+### Interrogation Transcript
 
 Chelsea: I'm so bored... I want alcohol. Hey, the lad over there, yes, you! Get me a bottle of wine, bro, the best one you can get!
 
@@ -362,11 +369,21 @@ Chief: Hmm. The wealthy gem Sinner that everyone's after...
 
 Your voices dissipate in the wind. You have a feeling that this won't be over that easily.
 
+> You have been receiving harassing calls. Things are stressful. Nightingale told you that someone leaked the information on the gem Sinner. As a result, trouble is now at your doorstep.
+> Several people, including a councilor, demand that you release Chelsea. They promise they'll make all your problems go away using money.
+> This matter won't end easily.
+
 ## Chelsea - Interrogation II
 
+> Intelligence before completion:
+> This event took a turn and became a farce. Though you insisted not to do so, they decided to detain Chelsea at the MBCC anyway. But the place where she was detained looks nothing like a prison cell that holds a Sinner.
+
+> Intelligence after completion:
 > Chelsea, who shared her past stories with you, said that she would intercept everything for you.
 > But when you went outside to check your mail, someone attacked you out of the blue.
 > Unconscious, you don't know where you are being taken to.
+
+### Interrogation Transcript
 
 A few days have passed since the last interrogation.
 
@@ -710,11 +727,22 @@ Chelsea: Yeah...? That's great.
 
 Chelsea: I'm so glad you're happy.
 
+> Chelsea, who shared her past stories with you, said that she would intercept everything for you.
+> But when you went outside to check your mail, someone attacked you out of the blue.
+> Unconscious, you don't know where you are being taken to.
+
 ## Chelsea - Interrogation III
 
+> Intelligence before completion:
+> You awoke in a magnificent, luxurious chamber decorated with numerous statues embedded with gems. The person in front of you is the councilor who asked for Chelsea's release earlier today.
+> What surprises you even more is that Chelsea herself is present.
+
+> Intelligence after completion:
 > Gems are beautiful. What's ugly are the jackals that followed the smell and came.
 > Rather than being her sugar baby, you'd rather fight alongside Chelsea.
 > Protecting each other is the best way to keep each other company.
+
+### Interrogation Transcript
 
 Ring... Ring... Dong...
 
@@ -957,3 +985,7 @@ Chief: I still have to work. Please be quiet.
 Chelsea's voice trailed off.
 
 Chelsea: Once upon a time, there was a gem princess in the forest. She had a great companion who fought alongside her...
+
+> Gems are beautiful. What's ugly are the jackals that followed the smell and came.
+> Rather than being her sugar baby, you'd rather fight alongside Chelsea.
+> Protecting each other is the best way to keep each other company.

@@ -2,8 +2,15 @@
 
 ## Bai Yi - Interrogation I
 
+> Intelligence before completion:
+> It's been a while since the breakout of BR-004 and you still have no clue where Zoya is.
+> However, you have your eyes on the owner of Whitestone Industries, Bai Yi.
+
+> Intelligence after completion:
 > Bai Yi is very sly. She has not given you much useful info. Instead, she drags you into trouble.
 > However, she might blow her own cover because of it.
+
+### Interrogation Transcript
 
 Nightingale: Chief, we failed.
 
@@ -335,9 +342,18 @@ Nightingale: Copy that.
 
 You pocket the terminal, and hurry out of the premises.
 
+> Bai Yi is very sly. She has not given you much useful info. Instead, she drags you into trouble.
+> However, she might blow her own cover because of it.
+
 ## Bai Yi - Interrogation II
 
+> Intelligence before completion:
+> You found the location of *Whitestone Industries* headquarters. Time to act.
+
+> Intelligence after completion:
 > You're safe. After some short planning, you decide to go back to save K.K. and Che.
+
+### Interrogation Transcript
 
 Bai Yi: Relax! I've got this. I promise you I won't drop the ball.
 
@@ -913,9 +929,17 @@ Bai Yi clamps a hand on the head where it's been hit.
 
 Bai Yi: That hurts...
 
+> You're safe. After some short planning, you decide to go back to save K.K. and Che.
+
 ## Bai Yi - Interrogation III
 
+> Intelligence before completion:
+> You sneak into the building again, with Bai Yi. Hopefully this time you get lucky.
+
+> Intelligence after completion:
 > You made it. You and the Whitestone Industries team are all safe. But are things really what they seem to be? Probably not.
+
+### Interrogation Transcript
 
 Chief: So this is your plan?
 
@@ -1313,10 +1337,18 @@ Bai Yi has the grace to look embarrassed.
 
 Bai Yi: Okay, okay, no celebration tonight, no need to get angry...
 
+> You made it. You and the Whitestone Industries team are all safe. But are things really what they seem to be? Probably not.
+
 ## Bai Yi - Interrogation IV
 
+> Intelligence before completion:
+> You have not stopped investigating Bai Yi after what happened last time. Now there's some progress for the investigation.
+
+> Intelligence after completion:
 > No matter what the real identity of Bai Yi is, no matter what she's been hiding, you will find out the truth.
 > However, it's really not time yet... Maybe.
+
+### Interrogation Transcript
 
 Intelligence Officer: Sorry, Chief, we still haven't found out about Bai Yi's background info.
 
@@ -1645,3 +1677,6 @@ Chief: ...Forget it. One of these days, I'll find out what *game* you're playing
 Bai Yi: Oh... Really?
 
 Bai Yi's expression is neutral, but you see a ghost of a self-satisfied smile flit across her face, there is no denying it.
+
+> No matter what the real identity of Bai Yi is, no matter what she's been hiding, you will find out the truth.
+> However, it's really not time yet... Maybe.

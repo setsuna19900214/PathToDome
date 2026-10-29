@@ -2,6 +2,10 @@
 
 ### 「Listener」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
+
 Although Dreya is quite introverted, many people in the Bureau like to chat with her.
 
 Sumire: The flowers have bloomed in the greenhouse, so I went to pick some. Are you interested in flower arrangement? The most basic techniques include...
@@ -55,6 +59,10 @@ Chief: Maybe you should follow her discreetly to note down all these *secret mes
 Chief: I'll go after them one by one and catch them red-handed tomorrow!
 
 ### 「Career Flop」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Etti organizes her first TRPG game in the Bureau today. Everyone gathers around the long table.
 
@@ -134,6 +142,10 @@ It's the first time many of the participants have played this kind of game. Afte
 
 ### 「Nobody's Wrong」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listening quietly.
 
 - What just happened?
@@ -167,6 +179,10 @@ Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listeni
       You incorporate her suggestion into the Sinner field operations manual. According to the data department's feedback, mission success rates rise by about three percentage points.
 
 ### 「WhiteSands Roulette」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 As you pass by the Recreation Room, you overhear Lysandra and Roulecca talking.
 
@@ -226,11 +242,19 @@ As you pass by the Recreation Room, you overhear Lysandra and Roulecca talking.
 
 ### 「Participation Matters」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 You ranked second in the dice game with Roulecca.
 
 - Accept the participation award
 
 ### 「Too Lucky」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Attention please. Attention please.
 
@@ -241,6 +265,10 @@ Chief: We have this prize?
 - I'm surprised.
 
 ### 「Lucky Number」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 In the Training Room, several researchers are attempting to test Roulecca's luck.
 
@@ -292,6 +320,10 @@ To ensure the experiment's accuracy, the staff member asks you to say what's in 
 
 ### 「Bomb Disposal Expert」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Chief, the field staff have found a time bomb on a mission and requested Roulecca to help them with bomb disposal remotely.
 
 - Approve
@@ -327,6 +359,10 @@ Chief, the field staff have found a time bomb on a mission and requested Roulecc
       - Luckily, it's safe now.
 
 ### 「Four-Leaf Clover」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Attention, Sinner Roulecca has been staying by the flowerbed for over an hour. Go and check?
 

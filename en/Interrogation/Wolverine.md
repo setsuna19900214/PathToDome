@@ -2,9 +2,15 @@
 
 ## Wolverine - Interrogation I
 
+> Intelligence before completion:
+> The MBCC still doesn't know why Wolverine decided to get involved with the production of Mania weapons. After he was detained, Wolverine showed extremely intense aggressiveness towards all investigators. We can only hope that your interrogation will bring us some useful information.
+
+> Intelligence after completion:
 > Though production supplies are now being provided, Wolverine cares about only survival as he was once trained to be a beast. He knows nothing about the weapon production and arms trade.
 > During the interrogation, an unexpected name came up: Hank. This led to Wolverine's unusual reaction. Strangely enough, it seems Hank's death isn't as simple as it looks.
 > You decided to bring Wolverine to the Rust to investigate the truth behind Hank's death.
+
+### Interrogation Transcript
 
 In order to investigate who's behind the Mania weapon production, you have arranged to interrogate a person of interest. The moment you enter the interrogation room, you hear a commotion—
 
@@ -408,11 +414,21 @@ Wolverine nods hard, and looks less like someone who has any connection to this 
 
 But what did Hank and Wolverine really have to do with each other? And what was the missing information hiding? You hope that what Hank left behind may hold some clues about the mania weapons.
 
+> Though production supplies are now being provided, Wolverine cares about only survival as he was once trained to be a beast. He knows nothing about the weapon production and arms trade.
+> During the interrogation, an unexpected name came up: Hank. This led to Wolverine's unusual reaction. Strangely enough, it seems Hank's death isn't as simple as it looks.
+> You decided to bring Wolverine to the Rust to investigate the truth behind Hank's death.
+
 ## Wolverine - Interrogation II
 
+> Intelligence before completion:
+> Hank's mysterious death might have many things to do with the Mania weapon deal. Together, you and Wolverine went to Hank's place in search of clues. However, the arrival of a certain person plunged everything into chaos.
+
+> Intelligence after completion:
 > It seems Wolverine is unexpectedly familiar with the place where Hank used to live. While you were searching for clues, you ran into an unpleasant company, Labiche the Scavenger.
 > Labiche revealed information to you that might help you understand the truth behind Hank's death. But in the process, Labiche also insulted Hank, which infuriated Wolverine.
 > You stopped Wolverine from committing an atrocity and taught him how to control his impulse to kill. Also, you finally realized what Hank meant to Wolverine. Hank wasn't his enemy. He was like a father and a teacher to him as he was the first to ever treat Wolverine as a human.
+
+### Interrogation Transcript
 
 It is the Rust, and it is a dump.
 
@@ -788,10 +804,20 @@ After all, this was where he had lived.
 
 His first "home."
 
+> It seems Wolverine is unexpectedly familiar with the place where Hank used to live. While you were searching for clues, you ran into an unpleasant company, Labiche the Scavenger.
+> Labiche revealed information to you that might help you understand the truth behind Hank's death. But in the process, Labiche also insulted Hank, which infuriated Wolverine.
+> You stopped Wolverine from committing an atrocity and taught him how to control his impulse to kill. Also, you finally realized what Hank meant to Wolverine. Hank wasn't his enemy. He was like a father and a teacher to him as he was the first to ever treat Wolverine as a human.
+
 ## Wolverine - Interrogation III
 
+> Intelligence before completion:
+> After losing control and hurting people in the Rust, Wolverine shuts everyone out. You are worried for him. Encouraged by Pippy, you are ready to talk to Wolverine. And you might as well use this chance to hand something important to him.
+
+> Intelligence after completion:
 > The cat is finally out of the bag, and you now know what happened between Wolverine and Hank. It doesn't matter anymore whether it was a story of heart-warming friendship or bitter grudges. All the answers were settled as Hank's life faded away.
 > But Wolverine's life must carry on. You retrieved the Wolf Tooth Necklace from Hank and gave it to Wolverine, hoping that this boy who was once a beast could become a real human.
+
+### Interrogation Transcript
 
 Report: "The items brought back have been individually checked. In addition to household items, a black cloth was found, on which excess Mania residue was detected. This has been submitted to the FAC for further research."
 
@@ -1134,3 +1160,6 @@ Chief: Let's go, Wolverine!
 Wolverine collects the necklace and follows behind you towards people and places unknown.
 
 Wolverine: Okay, I'm coming.
+
+> The cat is finally out of the bag, and you now know what happened between Wolverine and Hank. It doesn't matter anymore whether it was a story of heart-warming friendship or bitter grudges. All the answers were settled as Hank's life faded away.
+> But Wolverine's life must carry on. You retrieved the Wolf Tooth Necklace from Hank and gave it to Wolverine, hoping that this boy who was once a beast could become a real human.

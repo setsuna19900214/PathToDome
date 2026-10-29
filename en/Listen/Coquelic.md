@@ -268,15 +268,7 @@ Coquelic: Hah... so this is... my end...
 
 Coquelic: Many have sought to approach me, but you... you are the boldest of them all.
 
-Coquelic: Why don't you strike?
-
-Coquelic: I admire the courageous, those who risk everything for a single moment of brilliance.
-
-Coquelic: You are meant to become... a being with an immortal soul.
-
-Coquelic: Many have sought to approach me, but you... you are the boldest of them all.
-
-Coquelic: Why don't you strike?
+Chief: Why don't you strike?
 
 Coquelic: I admire the courageous, those who risk everything for a single moment of brilliance.
 
@@ -286,21 +278,11 @@ Coquelic: You are meant to become... a being with an immortal soul.
 
 Coquelic: The one you desire most, the one you long to see... isn’t she right before your eyes? Where else could you possibly want to go?
 
-Coquelic: You know I want more than this.
+Chief: You know I want more than this.
 
 Coquelic: I’ll just consider you… overwhelmed with excitement then.
 
-Coquelic: Whatever do you mean?
-
-Coquelic: I look forward... to the moment you become one of my kin.
-
-Coquelic: The one you desire most, the one you long to see... isn’t she right before your eyes? Where else could you possibly want to go?
-
-Coquelic: You know I want more than this.
-
-Coquelic: I’ll just consider you… overwhelmed with excitement then.
-
-Coquelic: Whatever do you mean?
+Chief: Whatever do you mean?
 
 Coquelic: I look forward... to the moment you become one of my kin.
 
@@ -308,37 +290,19 @@ Coquelic: I look forward... to the moment you become one of my kin.
 
 Coquelic: This red flower symbolizes peace, yet it blossoms in the most passionate, crimson hue.
 
-Coquelic: ...Free-spirited yet wild.
-
-Coquelic: Yes, I really adore that. Only those I deem worthy...are deserving of them.
-
-Coquelic: This red flower symbolizes peace, yet it blossoms in the most passionate, crimson hue.
-
-Coquelic: ...Free-spirited yet wild.
+Chief: ...Free-spirited yet wild.
 
 Coquelic: Yes, I really adore that. Only those I deem worthy...are deserving of them.
 
 #### Interaction 4
 
-Coquelic: The sun’s rays are warm, capable of dispelling all darkness... Every living soul in this world chases after them.
+The sun’s rays are warm, capable of dispelling all darkness... Every living soul in this world chases after them.
 
-Coquelic: Forget about that. From now on, you will revel in the night's embrace, the moon's tender caress...
+Forget about that. From now on, you will revel in the night's embrace, the moon's tender caress...
 
-Coquelic: And within the endless flow of time, become a vampire of true power.
-
-Coquelic: The sun’s rays are warm, capable of dispelling all darkness... Every living soul in this world chases after them.
-
-Coquelic: Forget about that. From now on, you will revel in the night's embrace, the moon's tender caress...
-
-Coquelic: And within the endless flow of time, become a vampire of true power.
+And within the endless flow of time, become a vampire of true power.
 
 #### Interaction 5
-
-Coquelic: Surrender your life, and claim my power...
-
-Coquelic: Become one of my kin, and walk this world beside me...
-
-Coquelic: That will allow us to...keep each other company through eternity.
 
 Coquelic: Surrender your life, and claim my power...
 

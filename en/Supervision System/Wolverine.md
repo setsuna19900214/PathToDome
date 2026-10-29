@@ -2,6 +2,10 @@
 
 ### 「Fitness Goals」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You notice that many of the male staff at MBCC have set their phone wallpapers as pictures of Wolverine. After asking, you find out that they are trying to motivate themselves to bulk up.
 
 - Oh, I see.
@@ -9,6 +13,10 @@ You notice that many of the male staff at MBCC have set their phone wallpapers a
   Chief: It should work.
 
 ### 「Full Moon Night」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 On a full moon night, Wolverine sits alone on the grass in the Outdoor Activity Area, watching the moon.
 
@@ -18,11 +26,19 @@ On a full moon night, Wolverine sits alone on the grass in the Outdoor Activity 
 
 ### 「Reward」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Wolverine made great contributions during his mission, so as a reward, you asked the chef to prepare his favorite steak. He is very happy and eats ten pieces in a meal.
 
 - Do you want more?
 
 ### 「Survivor」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 On your way back to the office, you hear Wolverine's cry from around the corner.
 
@@ -58,6 +74,10 @@ Wolverine: I'm warning you, don't come any closer!!!
 
 ### 「Birthday cake.」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 You hold a cake in front of Wolverine. He sniffs it, then looks up at you with a puzzled expression.
 
 Wolverine: What is this?
@@ -89,6 +109,10 @@ Wolverine: What is this?
       Wolverine: T-thank you...
 
 ### 「Balanced Diet」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 During lunch, faced with a table full of good food, Wolverine is about to grab it with his hands.
 

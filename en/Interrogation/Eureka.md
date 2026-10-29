@@ -2,7 +2,13 @@
 
 ## Eureka - Interrogation I
 
+> Intelligence before completion:
+> Recently, some dangerous modified home appliances have been circulating in the market of Eastside, causing injuries to many citizens. You think Eureka's abilities and past experiences might help solve this case.
+
+> Intelligence after completion:
 > During the interrogation, a bomb left in one of the confiscated home appliances suddenly exploded. Eureka protected you with her invention and then pointed out that the mastermind behind this case could be the same person who tricked her into the black factory years ago—her old friend, Jessie.
+
+### Interrogation Transcript
 
 This time, to your great surprise, the Public Security Bureau has sent a pile of "household items" as opposed to the usual towering stack of paperwork.
 
@@ -202,10 +208,18 @@ Eureka lifts up her head, her face covered in grime. She closes her eyes for a m
 
 Eureka: It stands for Jessie. She was once my best friend, and the one who took me to the factory.
 
+> During the interrogation, a bomb left in one of the confiscated home appliances suddenly exploded. Eureka protected you with her invention and then pointed out that the mastermind behind this case could be the same person who tricked her into the black factory years ago—her old friend, Jessie.
+
 ## Eureka - Interrogation II
 
+> Intelligence before completion:
+> You go with Eureka to the factory where she once worked, and there, she tells you about her past.
+
+> Intelligence after completion:
 > After hearing Eureka's story, you feel incredibly heavy-hearted. You never thought that someone like her who always seemed so light-hearted could have experienced so much pain and misfortune.
 > However, just as you are immersed in your emotional feelings, Jessie suddenly appears.
+
+### Interrogation Transcript
 
 The next day, at the abandoned factory on the outskirts of the city.
 
@@ -439,9 +453,18 @@ Her venomous gaze is fixated on Eureka. She lets out a sneer.
 
 Jessie: Long time no see, Eureka.
 
+> After hearing Eureka's story, you feel incredibly heavy-hearted. You never thought that someone like her who always seemed so light-hearted could have experienced so much pain and misfortune.
+> However, just as you are immersed in your emotional feelings, Jessie suddenly appears.
+
 ## Eureka - Interrogation III
 
+> Intelligence before completion:
+> The "old friends" finally reunite, and a deadlock ensues, with the final showdown imminent.
+
+> Intelligence after completion:
 > So what if they don't fit into societal norms? Those eccentric ideas will always have their place, and there will always be people who genuinely appreciate and cherish them, cheering for them even.
+
+### Interrogation Transcript
 
 Eureka: Je... Jessie... How... how did you...
 
@@ -646,3 +669,5 @@ The setting sun's afterglow envelops the bombed-out factory. She gently gazes at
 Here, is rebirth. The creator here is...
 
 Eureka, the "terrible inventor."
+
+> So what if they don't fit into societal norms? Those eccentric ideas will always have their place, and there will always be people who genuinely appreciate and cherish them, cheering for them even.

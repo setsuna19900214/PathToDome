@@ -4,6 +4,18 @@
 
 The Sleeping Queen of Hearts
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor IV
+
 The journey after passing through the maze is surprisingly smooth. High walls no longer block your path, and the knights have ceased to appear. The castle gates have opened silently, as if welcoming the return of their sovereign.
 
 The closer you get to the castle, the more agitated Hella becomes. Her pace quickens with each step, practically rushing everyone forward in her haste.

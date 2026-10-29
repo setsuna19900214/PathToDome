@@ -2,7 +2,13 @@
 
 ## Forensica - Interrogation I
 
+> Intelligence before completion:
+> After the "Murder on the Praeva Express" case concluded, a body theft investigation led you to Forensica. Though you had already encountered each other in Clementine's novel, this was the first time you met her in person.
+
+> Intelligence after completion:
 > Forensica seems wary of you and the organization you represent. Still, you managed to secure authorization to examine one of the bodies for her. She knows you're just as determined to uncover the truth behind the Origami Killer—perhaps that's a decent place to start.
+
+### Interrogation Transcript
 
 Forensica stares blankly into space. Her eyes are calm, and she appears to be lost in thought. You notice her fingers gripping the pocket of her clothes.
 
@@ -276,9 +282,17 @@ Forensica doesn't speak another word. The corners of her mouth subtly curl up, b
 
 She extends her pinky and hooks it around the finger bone jutting from her pocket, her eyes brimming with anticipation for tomorrow's autopsy.
 
+> Forensica seems wary of you and the organization you represent. Still, you managed to secure authorization to examine one of the bodies for her. She knows you're just as determined to uncover the truth behind the Origami Killer—perhaps that's a decent place to start.
+
 ## Forensica - Interrogation II
 
+> Intelligence before completion:
+> You arrange to meet Forensica at the morgue to formally begin the examination procedure. The body before you is connected to the Origami Killer case.
+
+> Intelligence after completion:
 > Between the autopsy results and an offhand remark you made, Forensica seems to have latched onto a lead pointing to the real killer. Once again, she leaves to investigate on her own. However, all that returned was a note she left you. The lead points to one person: her former senior, Aster Wynne.
+
+### Interrogation Transcript
 
 Cold white light illuminates every tile of the floor evenly. The air is thick with the scent of formalin and disinfectant.
 
@@ -588,9 +602,17 @@ Chief: Now that we know the truth, I intend to keep my promise. I will give Fore
 
 Chief: Both procedural and moral justice.
 
+> Between the autopsy results and an offhand remark you made, Forensica seems to have latched onto a lead pointing to the real killer. Once again, she leaves to investigate on her own. However, all that returned was a note she left you. The lead points to one person: her former senior, Aster Wynne.
+
 ## Forensica - Interrogation III
 
+> Intelligence before completion:
+> You exercise your authority to bring charges against Aster Wynne, determined to drag this cold case back into the light. In the courtroom, you will come face to face with the legendary Origami Killer.
+
+> Intelligence after completion:
 > In the end, Forensica brings the Origami Killer to justice with irrefutable evidence. At the same time, she seems to have developed a new perspective on rules and authority, as well as human nature and justice.
+
+### Interrogation Transcript
 
 The courtroom is solemn and imposing. Everyone lowers their face instinctively in the face of the dark seats and cavernous dome.
 
@@ -925,3 +947,5 @@ Chief: Under normal circumstances, I couldn't accept someone without a license.
 Chief: But it'd be a different story if I was simply engaging in professional collaboration with a technical consultant.
 
 The air remains cold. Wind sweeps across your faces, then across the world beyond. The earth is frozen, but it is also clean.
+
+> In the end, Forensica brings the Origami Killer to justice with irrefutable evidence. At the same time, she seems to have developed a new perspective on rules and authority, as well as human nature and justice.

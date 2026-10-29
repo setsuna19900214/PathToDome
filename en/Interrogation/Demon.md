@@ -2,9 +2,17 @@
 
 ## Demon - Interrogation I
 
+> Intelligence before completion:
+> After they find out about Demon the Sinner's location, the Bureau dispatched thousands of units to track him down. But even so, it took over 60 hours to finally capture him.
+> Once Demon was contained, you were the first person the city council reached out to. They offered a few pieces of evidence to you. Eight years ago, the city council had sentenced Demon to death. But it wasn't until eight years later that this "murderer" and "psychopath" of the Eastside was finally taken into custody.
+> Now, several factions have their eyes on Demon. In 30 days, he will stand trial. But before they find you, you are going to have a "friendly conversation" with the person in question.
+
+> Intelligence after completion:
 > Demon's reaction today only adds more mysteries to the case. Though we have enough evidence to prove him guilty, we still have no idea what his motives are.
 > This is especially true considering his unusual reaction to the bracelet at the end. The city council claimed that he was a cold-blooded, murderous psychopath, but what you saw suggested otherwise.
 > Further investigation is required.
+
+### Interrogation Transcript
 
 30 Days
 
@@ -338,11 +346,21 @@ Before he could finish, the guards carried him out of the interrogation room.
 
 This was how Demon's interrogation ended.
 
+> Demon's reaction today only adds more mysteries to the case. Though we have enough evidence to prove him guilty, we still have no idea what his motives are.
+> This is especially true considering his unusual reaction to the bracelet at the end. The city council claimed that he was a cold-blooded, murderous psychopath, but what you saw suggested otherwise.
+> Further investigation is required.
+
 ## Demon - Interrogation II
 
+> Intelligence before completion:
+> The case of Demon is a very suspicious one. One interrogation alone is not enough to get a full picture of this event. As the investigation progresses, the MBCC now has more evidence and information. You will begin the next round of interrogation in the confinement room.
+
+> Intelligence after completion:
 > An unexpected man, claiming to be a member of the 9th Agency, reveals a plan to you and Demon. Having second thoughts, Demon hesitates to give an answer. Then, Nightingale arrives with forces and puts him down with an anesthesia shot. This time, you make a decision for him.
 > The MBCC raised Demon's security level once more. But you know that this measure is no longer necessary. Demon now cooperates with you willingly. Following the request of that strange man, each of you is now making preparation.
 > The trial day comes as planned.
+
+### Interrogation Transcript
 
 15 Days
 
@@ -652,11 +670,22 @@ The man smiled faintly. He didn't wait for an answer, but took off his hat and w
 
 Mysterious Man: I think you do.
 
+> An unexpected man, claiming to be a member of the 9th Agency, reveals a plan to you and Demon. Having second thoughts, Demon hesitates to give an answer. Then, Nightingale arrives with forces and puts him down with an anesthesia shot. This time, you make a decision for him.
+> The MBCC raised Demon's security level once more. But you know that this measure is no longer necessary. Demon now cooperates with you willingly. Following the request of that strange man, each of you is now making preparation.
+> The trial day comes as planned.
+
 ## Demon - Interrogation III
 
+> Intelligence before completion:
+> The day of the trial draws near.
+> This trial is to be held by the city council with several factions present to witness it. The FAC, the MBCC, and the mysterious 9th Agency will all be there. Everything about Demon's case and story is coming to an end.
+
+> Intelligence after completion:
 > No one expected that the trial would end in such a disastrous way.
 > There is now a purge in the city council, starting from its superior executives to the subordinates. It seems the 9th Agency's work is seeing progress.
 > As for Demon, now that the city council is busy saving its own skin, the MBCC will be his final destination. Carrying the burden of his past sins and the brutal crime of murdering the city council's judge on site, he will have to fight for the MBCC until one day a Corruptor or something more horrible takes his life. There is no parole, no commutation, but only a fate grimmer than death.
+
+### Interrogation Transcript
 
 10 Minutes
 
@@ -1134,10 +1163,22 @@ The man tipped his hat in respect one last time and left. Next, the FAC official
 
 In the hall, only you, Demon and a roomful of carnage remained.
 
+> No one expected that the trial would end in such a disastrous way.
+> There is now a purge in the city council, starting from its superior executives to the subordinates. It seems the 9th Agency's work is seeing progress.
+> As for Demon, now that the city council is busy saving its own skin, the MBCC will be his final destination. Carrying the burden of his past sins and the brutal crime of murdering the city council's judge on site, he will have to fight for the MBCC until one day a Corruptor or something more horrible takes his life. There is no parole, no commutation, but only a fate grimmer than death.
+
 ## Demon - Interrogation IV
 
+> Intelligence before completion:
+> It has been three months since the trial. Demon asked you to let him see Vera's remains.
+> You reached someone at the 9th Agency via the FAC, but their answer was always the same: they only managed to collect a few creature samples because it all happened too fast.
+> That means Vera's remains are still in a high-risk area in Syndicate.
+
+> Intelligence after completion:
 > Demon is not dead.
 > But no one can bring him salvation.
+
+### Interrogation Transcript
 
 MBCC Temporary Mission Log
 
@@ -1620,3 +1661,6 @@ Chief: Demon! Wake up!
 Chief: I told you I'd be back...
 
 Chief: You can't die yet!
+
+> Demon is not dead.
+> But no one can bring him salvation.

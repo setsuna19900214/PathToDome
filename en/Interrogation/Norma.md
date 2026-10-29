@@ -2,8 +2,14 @@
 
 ## Norma - Interrogation I
 
+> Intelligence before completion:
+> Today, you receive a meeting request from a visitor from the Public Security Bureau. She claims her model has predicted a potential threat that has yet to occur but poses extreme danger.
+
+> Intelligence after completion:
 > Norma explains that her upgraded predictive model, Moses 2.0, has detected significant anomalies behind a physical puzzle game called Reshaping the Future, which are highly likely to trigger a serious crisis. Despite insufficient evidence, she insists on investigating and requests your assistance.
 > After careful consideration, you decide to accompany her to the game venue and inspect it yourself.
+
+### Interrogation Transcript
 
 When you push open the interrogation room door, your steps falter for just a moment. The room is the same familiar space: one desk, two chairs, smooth walls, steady lighting. Yet something feels subtly off about these ordinary furnishings.
 
@@ -317,11 +323,20 @@ Norma frowns, about to object, but you smile at her and speak first.
 
 Chief: But I trust you. Come on, let's find out if this game is indeed free of anomalies, or if it's simply turned them into "inevitability."
 
+> Norma explains that her upgraded predictive model, Moses 2.0, has detected significant anomalies behind a physical puzzle game called Reshaping the Future, which are highly likely to trigger a serious crisis. Despite insufficient evidence, she insists on investigating and requests your assistance.
+> After careful consideration, you decide to accompany her to the game venue and inspect it yourself.
+
 ## Norma - Interrogation II
 
+> Intelligence before completion:
+> You and Norma enter the game venue and are grouped with a female stranger. Initially, everything proceeds smoothly, but as the stages progress, the woman's hostility gradually surfaces and the situation begins spiraling out of control.
+
+> Intelligence after completion:
 > The "stranger" turns out to be Eileen, Norma's former roommate. Past grievances reignite their conflict almost instantly.
 > Yet amid the chaos, you detect something strange: the environment, pacing, and prompts are all trying to amplify your emotions and worsen the confrontation. You and Norma quickly see through the mechanism. This is a manipulation system designed to work backward from a predetermined "outcome." Its core structure is a reverse, modified version of Norma's past model.
 > As the system continues spiraling into a crisis, Norma pushes Eileen out the door.
+
+### Interrogation Transcript
 
 The clock on the wall chimes for the ninth time. The sound of turning cogwheels floods in from all sides. The chandelier sways, casting unsteady shadows on the floor.
 
@@ -761,12 +776,22 @@ Her voice is drowned out by the blaring alarms, fading bit by bit.
 
 Inside, you can no longer hear anything.
 
+> The "stranger" turns out to be Eileen, Norma's former roommate. Past grievances reignite their conflict almost instantly.
+> Yet amid the chaos, you detect something strange: the environment, pacing, and prompts are all trying to amplify your emotions and worsen the confrontation. You and Norma quickly see through the mechanism. This is a manipulation system designed to work backward from a predetermined "outcome." Its core structure is a reverse, modified version of Norma's past model.
+> As the system continues spiraling into a crisis, Norma pushes Eileen out the door.
+
 ## Norma - Interrogation III
 
+> Intelligence before completion:
+> The mechanisms halt. Stripped of disguise, "Founder X" slowly emerges, revealing their identity before you.
+
+> Intelligence after completion:
 > The clash of beliefs ultimately leads to a rupture.
 > Some believe order can be designed and the world can be calculated. Others choose to continue questioning "reality" itself amid uncertainty and errors.
 > When manipulation fails and systems collapse, truth is recorded, submitted, and preserved. In the critical moment, those emotions and choices not input into any model become the variables that alter the outcome.
 > Perhaps it is precisely these incalculable errors that make us human.
+
+### Interrogation Transcript
 
 The mechanical rumbling gradually dies down. You lean against the wall, steadying your breath. Norma stands nearby, breathing hard, yet her posture remains perfectly straight. The overhead lights flicker on, and a clinical, high-definition holographic projection slowly appears in the air.
 
@@ -1123,3 +1148,8 @@ A faint smile graces her face. She's likely already aware of those eyes on her b
 As her pen glides over the paper, bright light filters in.
 
 Golden sunlight falls upon her shoulders, just as it once did on the swing on that dorm balcony, all those years ago.
+
+> The clash of beliefs ultimately leads to a rupture.
+> Some believe order can be designed and the world can be calculated. Others choose to continue questioning "reality" itself amid uncertainty and errors.
+> When manipulation fails and systems collapse, truth is recorded, submitted, and preserved. In the critical moment, those emotions and choices not input into any model become the variables that alter the outcome.
+> Perhaps it is precisely these incalculable errors that make us human.

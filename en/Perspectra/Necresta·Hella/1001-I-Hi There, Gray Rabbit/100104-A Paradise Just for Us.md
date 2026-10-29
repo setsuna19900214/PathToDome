@@ -4,6 +4,18 @@
 
 Hi There, Gray Rabbit
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor I
+
 Hella: Ouch!
 
 Finally, with your help, Hella breaks free from her restraints and gives the ground a solid embrace.

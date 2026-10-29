@@ -2,11 +2,19 @@
 
 ### 「Rookie Art Exhibition」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 A new avant-garde artist who just rose to fame is holding an art exhibition in Eastside. Hearing the news, Lisa's excited and sent you an application to take leave and attend the exhibition to see if the artist lives up to their fame.
 
 - Approve
 
 ### 「Professional Attitude」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Having harshly reprimanded the new artist at their exhibition, Lisa has drawn the attention of haters on the Internet, but she is not afraid of them. Standing her ground, she argued and quarreled with those haters for three days, eventually emerging victorious.
 
@@ -14,11 +22,19 @@ Having harshly reprimanded the new artist at their exhibition, Lisa has drawn th
 
 ### 「The Drama of Oil Paintings」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 During the hypnotherapy, Lisa recalled the time when she was painting back in college. This made her somewhat melancholy.
 
 - Comfort her
 
 ### 「Art Education」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Lisa thinks the employees of the Bureau and Sinners lack art education and their aesthetics are terribly awful. She demands new courses that teach people how to appreciate the arts.
 
@@ -27,6 +43,10 @@ Lisa thinks the employees of the Bureau and Sinners lack art education and their
   Unfortunately, this idea only received two votes.
 
 ### 「Emerging Artist」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 In the Darkroom, Lisa finds a painting Hecate has accidentally left there.
 
@@ -57,6 +77,10 @@ Lisa: Who's the artist?
   Chief: That won't be necessary...
 
 ### 「New Try」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You see Lisa holding a glass of wine and standing on the white sand in the Outdoor Activity Area, drawing something with the tips of her toes.
 
@@ -98,6 +122,10 @@ Chief: I promise you.
 
 ### 「The Poison Is the Antidote」
 
+Location: Outdoor Activity Area / Confinement Cell
+
+Urgency: ⚠⚠
+
 Attention, Sinner Lisa is found to have violated Sinner rules repeatedly. Summon Sinner?
 
 - Approve
@@ -123,6 +151,10 @@ Attention, Sinner Lisa is found to have violated Sinner rules repeatedly. Summon
     Chief: ...I'll let it slide this time.
 
 ### 「OOTD」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Chief, you received a message from Sinner Lisa.
 

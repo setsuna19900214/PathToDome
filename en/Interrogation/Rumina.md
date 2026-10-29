@@ -2,8 +2,15 @@
 
 ## Rumina - Interrogation I
 
+> Intelligence before completion:
+> Strange minor "accidents" have been troubling the Bureau lately, and the culprit turns out to be Rumina, who seems most docile and innocent.
+> She joined the Bureau of her own accord a few days ago, but you've only now found time to bring her to the interrogation room for a routine questioning. This is the first time she's seen you since leaving Nightwrought, and she seems quite cooperative... Yet you can't help but wonder: Does she even understand what crimes she's committed?
+
+> Intelligence after completion:
 > From Rumina's childish voice, you learn that despite being orphaned and living in a tiny candle factory basement, Rumina, frail from Mania's influence, grew up happy under her brother's tender care. To her, that place was her "safe house."
 > Yet during your conversation, you also discover her memories of that painful past are fragmented, and she reacts violently when they surface. And then, at last, she melts right before your eyes.
+
+### Interrogation Transcript
 
 Inside the Bureau's game room, several young Sinners are practicing with their special powers, their laughter and giggles echoing throughout the small space.
 
@@ -349,10 +356,20 @@ Bang! A sudden gust of wind bursts open the interrogation room door. Alarms blar
 
 You only hear a sorrowful sigh as warm breath brushes against your cheek. And then, Rumina completely melts away before your eyes.
 
+> From Rumina's childish voice, you learn that despite being orphaned and living in a tiny candle factory basement, Rumina, frail from Mania's influence, grew up happy under her brother's tender care. To her, that place was her "safe house."
+> Yet during your conversation, you also discover her memories of that painful past are fragmented, and she reacts violently when they surface. And then, at last, she melts right before your eyes.
+
 ## Rumina - Interrogation II
 
+> Intelligence before completion:
+> The tremendous shock has caused Rumina's body to melt and her Mania to disperse. Finding her scattered parts is now a matter of utmost urgency. You must locate her missing fragments immediately.
+> Just then, that candle hand named "Seon" suddenly appears before you anxiously...
+
+> Intelligence after completion:
 > The shackles lead you to several wax figurines. Through them, you learn of the siblings' tragic past and Rumina's agonizing awakening as a Sinner... Yet as you piece her back together, she begins projecting her longing for that safe house onto you.
 > With a flash of white light, she forcibly drags you into the picture book... Wait. A picture book?
+
+### Interrogation Transcript
 
 Shrill alarms echo through the Bureau as the pursuit team quickly assembles to investigate the situation. They soon trace Rumina's possible whereabouts by detecting the Mania residue left by the Sinner, though they seem hesitant about their findings.
 
@@ -864,10 +881,19 @@ You sense a hint of danger and don't take her hand.
 
 From then on, Rumina refuses to let you come near her and never again takes a single step outside her cell.
 
+> The shackles lead you to several wax figurines. Through them, you learn of the siblings' tragic past and Rumina's agonizing awakening as a Sinner... Yet as you piece her back together, she begins projecting her longing for that safe house onto you.
+> With a flash of white light, she forcibly drags you into the picture book... Wait. A picture book?
+
 ## Rumina - Interrogation III
 
+> Intelligence before completion:
+> Waking up to an eerie white light, you find yourself inside the "safe house" Rumina once described, the little haven that belonged to her and her brother. The cracked windows, the steam rising from the stove... Everything feels so real. Before you, the gray little girl brings out all her treasured picture books, smiling sweetly... What exactly is she trying to do?
+
+> Intelligence after completion:
 > After the tragic death of the only family she had left, her subconscious refuses to accept the painful truth. And so she stubbornly seeks out one "safe house" after another, be it a physical refuge or a person, a selfless protector just like her brother. You choose to embrace her suffering, working through her obsession using the picture book concept, offering her the guidance of a true "protector"... And she finally remembers her brother's face, gradually coming to accept the reality and taking her first steps forward.
 > You glance down at the note in your hand, the handwriting on it changing constantly. What role did that Witch play in all this again?
+
+### Interrogation Transcript
 
 Morning sunlight gently spills through the broken window of the cabin onto your eyelids. A small hand carefully reattaches the peeling tape on the glass. The light and shadows sway gently.
 
@@ -1208,3 +1234,6 @@ Stop hiding behind the curtains. Isn't this exactly the "anomaly" you were expec
 *Believe it or not, I do care about her. Perhaps not infinitely, but certainly not insignificantly.*
 
 *Now, I can truly rest easy, entrusting Rumina to your care.*
+
+> After the tragic death of the only family she had left, her subconscious refuses to accept the painful truth. And so she stubbornly seeks out one "safe house" after another, be it a physical refuge or a person, a selfless protector just like her brother. You choose to embrace her suffering, working through her obsession using the picture book concept, offering her the guidance of a true "protector"... And she finally remembers her brother's face, gradually coming to accept the reality and taking her first steps forward.
+> You glance down at the note in your hand, the handwriting on it changing constantly. What role did that Witch play in all this again?

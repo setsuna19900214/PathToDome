@@ -2,7 +2,13 @@
 
 ## Du Ruo - Interrogation I
 
+> Intelligence before completion:
+> Shortly after the Eastian delegation left DisCity, Du Ruo returns to DisCity. The council is vigilant about the Outlander's unexpected move. Even you can't help but wonder... What exactly is her purpose?
+
+> Intelligence after completion:
 > Having understood her devotion to mythology, you decide to give the mythologist the trust she deserves.
+
+### Interrogation Transcript
 
 Councilor: I've heard that during the recent operation against the Sun Crow Apostle, you collaborated closely with the Eastian delegation.
 
@@ -306,9 +312,17 @@ Du Ruo: Then let's consider us even on this matter.
 
 Du Ruo: See you on the streets of DisCity, fellow traveler.
 
+> Having understood her devotion to mythology, you decide to give the mythologist the trust she deserves.
+
 ## Du Ruo - Interrogation II
 
+> Intelligence before completion:
+> Du Ruo showed up at the agreed time and brought you on her DisCity tour. Under the bustling neon lights, you catch a rare glimpse of the innocent and carefree side of the mythologist.
+
+> Intelligence after completion:
 > Du Ruo leaves DisCity without any warning. Meanwhile, the Bureau's database is invaded. Your newly minted trust for Du Ruo is being challenged by the harsh reality.
+
+### Interrogation Transcript
 
 It's nighttime in Eastside. Towering skyscrapers stretch endlessly into the depths of the streets.
 
@@ -664,10 +678,18 @@ Nightingale: Surveillance cameras showed that Du Ruo never left her room since r
 
 Nightingale: She's gone.
 
+> Du Ruo leaves DisCity without any warning. Meanwhile, the Bureau's database is invaded. Your newly minted trust for Du Ruo is being challenged by the harsh reality.
+
 ## Du Ruo - Interrogation III
 
+> Intelligence before completion:
+> Du Ruo's suspicion cannot be cleared. Before things go beyond repair, you head to WhiteSands to track her down. Whether she indeed came as a spy or not, you hope to hear her explanation.
+
+> Intelligence after completion:
 > Underneath the fake academic exchange and the database attack, her purpose has always been the same from the beginning: She has come to verify your situation and to take you away.
 > You cannot leave DisCity behind, nor can you reciprocate Du Ruo's kindness. Pretending as if nothing has happened is the best you can do now.
+
+### Interrogation Transcript
 
 Chief: How much time do we have left?
 
@@ -961,10 +983,19 @@ Du Ruo: Come back to Eastia with me, Chief. You don't have to worry about any di
 
 Chief: The traitor who hacked the database went missing during the chase.
 
+> Underneath the fake academic exchange and the database attack, her purpose has always been the same from the beginning: She has come to verify your situation and to take you away.
+> You cannot leave DisCity behind, nor can you reciprocate Du Ruo's kindness. Pretending as if nothing has happened is the best you can do now.
+
 ## Du Ruo - Interrogation IV
 
+> Intelligence before completion:
+> When all is settled, it's time for the real farewell.
+
+> Intelligence after completion:
 > Du Ruo leaves DisCity.
 > No one knows when your next reunion will be.
+
+### Interrogation Transcript
 
 Chief: Tomorrow?
 
@@ -1127,3 +1158,6 @@ Once again, she smiles slyly.
 Du Ruo: Take your time to guess, Chief. We Eastians are very subtle.
 
 *"Only now do I realize one cannot quell the mountains and seas."*
+
+> Du Ruo leaves DisCity.
+> No one knows when your next reunion will be.

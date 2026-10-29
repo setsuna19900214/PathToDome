@@ -2,6 +2,10 @@
 
 ### 「Living Search Engine」
 
+Location: Training Room
+
+Urgency: ⚠
+
 In the Bureau's reading nook, Christina paces in front of the shelves, visibly straining to remember a book.
 
 Christina: I remember a detective novel about a wealthy man who vanishes with a fortune in Hypercubes... and in the end, the reader—meaning you—is the killer. What was it called again?
@@ -14,6 +18,10 @@ Christina: I remember a detective novel about a wealthy man who vanishes with a 
 
 ### 「Reading Craze」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 According to the report, the reading nook has had a notable rise in visitors, and average reading time is up as well.
 
 - Ask why
@@ -21,6 +29,10 @@ According to the report, the reading nook has had a notable rise in visitors, an
   It seems I went through the entire collection, removed titles that no longer served their purpose, and reorganized the sections and displays.
 
 ### 「Natural Born Driver」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 The Bureau is hosting an online tournament for *Ultimate Racing: Skyline*, and after enough pestering from Nino, Celine finally gives in and signs up.
 
@@ -49,6 +61,10 @@ A flicker of dejection crosses Celine's face, and you decide to help.
   A month later, in the Bureau's online *Death Rally: Violence Frenzy* tournament, Celine takes first place with the highest Violence score.
 
 ### 「Nobody's Wrong」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listening quietly.
 
@@ -83,6 +99,10 @@ Inside the Bureau, Roulecca and Dolly are arguing. Celine stands nearby, listeni
       You incorporate her suggestion into the Sinner field operations manual. According to the data department's feedback, mission success rates rise by about three percentage points.
 
 ### 「Fireproof and Waterproof」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Several design blueprints are spread out before Celine and Flora, who are deep in discussion.
 
@@ -119,6 +139,10 @@ Celine: If possible, I'd prefer the tomes come away without any water marks. Eve
   Celine eventually brings Flora's proposal to the Central Library instead—with the promise that if the research succeeds, the Bureau will be the first to benefit.
 
 ### 「Bookplate」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Celine sits at the reading nook table, several illustrated catalogs open before her. Her fingertip rests on a vermilion seal impression.
 

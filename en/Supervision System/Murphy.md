@@ -2,17 +2,29 @@
 
 ### 「Regulated Weapon」
 
+Location: Management Center
+
+Urgency: ⚠
+
 On the list of newly added regulated weapons on the Bureau's bulletin board, Murphy's messenger bag makes an appearance.
 
 - ...So this day has finally come.
 
 ### 「Before She Appears」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You hear a sharp clatter of metal, ceramic, and acrylic colliding against each other. The noise fades in, then gradually disappears toward the other end of the corridor.
 
 - Murphy rushes this way, then tumbles that way.
 
 ### 「The Storage Room Incident」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You notice Murphy crouched at the end of the corridor, fiddling with something on the ground.
 
@@ -46,6 +58,10 @@ Murphy: Is there a meeting coming up? I'll make sure to stay far away from the c
 
 ### 「Luck-Enhancement Ritual」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Murphy stares blankly at the notebook in her hands, brow furrowed as she runs her fingers through her hair, as if wrestling with her own thoughts.
 
 Murphy: It must've been something important... I wrote it down and everything, so why can't I remember?
@@ -75,6 +91,10 @@ Murphy: It must've been something important... I wrote it down and everything, s
     Murphy: Uh... I mean, you can't believe everything you see online, right? Besides, today hasn't been particularly unlucky so far, so I'll call it a win!
 
 ### 「Manifestation」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Murphy has been avoiding you these past few days.
 
@@ -125,6 +145,10 @@ That is, until today, when you cross paths at the elevator. Head down, Murphy do
   Later that day, you receive a notification that Murphy has gotten herself trapped in an elevator all by herself.
 
 ### 「Meow-velous」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Murphy has recently taken to feeding the rescue kittens in the Bureau Recreation Area, though her attempts never seem to go quite smoothly.
 

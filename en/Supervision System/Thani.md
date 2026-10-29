@@ -2,17 +2,29 @@
 
 ### 「Sensitive Skin」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Thalia's livestream channel is recruiting an assistant within the Bureau, promising a set of high-end skincare products as a reward. The selling point? The products are said to be so gentle they're even suitable for sensitive skin. Thani submits her application right away, clearly determined to get the position.
 
 - Approve
 
 ### 「Anti-Fraud Champion」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Thani's got a pair of extraordinarily sharp ears that can easily pick up even the faintest whispers. Unfortunately, Synex often tricks her into using this ability to eavesdrop on Bureau gossip.
 
 - Teach her how to catch a fraud
 
 ### 「Ticklish」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Everyone knows Thani is ticklish, and many of the more mischievous Sinners occasionally like to tease her for it.
 
@@ -21,6 +33,10 @@ Everyone knows Thani is ticklish, and many of the more mischievous Sinners occas
   Following your advice, Thani starts tickling people before they can get to her. She targets every would-be prankster until gradually... no one dares to tease her anymore.
 
 ### 「Stealth Game」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 A group of Sinners is playing a newly released game, but many are stuck on its challenging stealth quest. You haven't managed to beat it either. The crowd next to you happens to need two more players, and you're eager to join in.
 
@@ -51,6 +67,10 @@ EMP: Hey, this is perfect... Ahem, I mean, no worries! Chief definitely won't mi
   Thani: It's nothing special, I'm just good at being stealthy. A newbie like me wouldn't have stood a chance if it'd been a different type of game. But don't let them know, Chief!
 
 ### 「Best Cleaner」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 The Bureau will select a *Best Cleaner* from all the cleaning staff. Ever since the announcement, you keep running into Labyrinth lurking and spying around Thani's assigned cleaning area.
 
@@ -93,6 +113,10 @@ The Bureau will select a *Best Cleaner* from all the cleaning staff. Ever since 
   You watch the two of them walk away together and suddenly begin to wonder... What did Labyrinth come here for again?
 
 ### 「Job Hunting」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

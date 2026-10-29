@@ -2,8 +2,15 @@
 
 ## Parfait - Interrogation I
 
+> Intelligence before completion:
+> One day near the end of N.F. 115, a Nirvana employee approaches you with a task. He explains that diplomatic duties require your presence in the Outlands.
+> In addition, he asks you to track down a financial criminal, who turns out to be none other than Parfait, the former "investment guru" of Eastside and DisCity's once-revered "stock market guru."
+
+> Intelligence after completion:
 > Parfait's motives are far from innocent. You allow her limited freedom—enough to move, but never beyond your watchful eye.
 > You know she'll slip up eventually.
+
+### Interrogation Transcript
 
 Nirvana Employee: ...And so, this group of criminals who fled to WhiteSands has been apprehended. However, the leader of their town somehow found out about you and specifically requested that the Chief of MBCC oversee the extradition process.
 
@@ -431,10 +438,19 @@ Parfait: Of course. Please rest assured, I will not let you down.
 
 At last, Parfait relaxes, her breath escaping in a long sigh of relief. This outcome isn't perfect, but one you can both live with.
 
+> Parfait's motives are far from innocent. You allow her limited freedom—enough to move, but never beyond your watchful eye.
+> You know she'll slip up eventually.
+
 ## Parfait - Interrogation II
 
+> Intelligence before completion:
+> Parfait's first stop is an upscale gallery in Eastside, a hotspot for the district's celebrities and tycoons. To keep an eye on her, you naturally decide to tag along.
+
+> Intelligence after completion:
 > You slowly piece together the truth behind Parfait's situation. Since she refuses to talk, you take matters into your own hands, digging for clues, following leads. Before long, you uncover something promising.
 > But the real work is just beginning. Now, you need proof.
+
+### Interrogation Transcript
 
 With your permission, the first stop on Parfait's itinerary is an upscale gallery in Eastside.
 
@@ -688,10 +704,20 @@ The moment those words leave your mouth, Parfait's expectant expression shatters
 
 Parfait: Then... then please don't trouble yourself over this. I'll figure something out on my own...
 
+> You slowly piece together the truth behind Parfait's situation. Since she refuses to talk, you take matters into your own hands, digging for clues, following leads. Before long, you uncover something promising.
+> But the real work is just beginning. Now, you need proof.
+
 ## Parfait - Interrogation III
 
+> Intelligence before completion:
+> Your intelligence sources swiftly provide an address, one tied to Parfait's rise to wealth and rumored to be her former residence before she emerged in Eastside.
+> Using your official duties in the West District as cover, you make your way there, intent on verifying the rumors circulating in Eastside about Parfait's true identity.
+
+> Intelligence after completion:
 > Parfait's blunt honesty takes you by surprise. But since her crimes aren't truly unforgivable, you decide to offer her a hand.
 > What happens next—whether the Financial Inspection Team drags her away or Nirvana buries her with debts—is no longer your problem.
+
+### Interrogation Transcript
 
 With the West District business wrapped up smoothly today, you're now left with half a day to spare, and you already know how to spend it.
 
@@ -1071,11 +1097,21 @@ In a way, she and her friends are remarkably alike. At least when it comes to as
 
 Chief: ...Okay, I'll see what I can do.
 
+> Parfait's blunt honesty takes you by surprise. But since her crimes aren't truly unforgivable, you decide to offer her a hand.
+> What happens next—whether the Financial Inspection Team drags her away or Nirvana buries her with debts—is no longer your problem.
+
 ## Parfait - Interrogation IV
 
+> Intelligence before completion:
+> With the Spring Concert approaching, you succeed in helping Parfait convince her West District friends to attend, but on one condition: you must go with her. Knowing the Eastside merchants would cause trouble if they recognized you, you throw on a disguise before heading out. After all, their relentless harassment over the past year has left you weary.
+> Hopefully, nothing will go wrong at this concert.
+
+> Intelligence after completion:
 > The series of events surrounding Parfait reaches an anticlimactic end.
 > Whether by luck or careful design, the attacks from the Financial Inspection Team and Nirvana fade away, and she reclaims her title as the "investment guru" in the eyes of Eastsiders.
 > As for her minor exploitation of your connection, it doesn't bother you much, and it causes no further trouble. You stay in touch, even attending her exclusive gatherings now and then. At least the guests there don't badger you about West District's Hypercube mine.
+
+### Interrogation Transcript
 
 And so, Parfait brings along her whole crew of West District friends—plus you, dragged along against your better judgment—to attend the annual Spring Concert.
 
@@ -1408,3 +1444,7 @@ Faced with your barrage of questions, Parfait is visibly stunned for a moment.
 Then, she flashes you an elegant yet sly smile.
 
 Parfait: So, have you suffered any losses? Will you... expose me?
+
+> The series of events surrounding Parfait reaches an anticlimactic end.
+> Whether by luck or careful design, the attacks from the Financial Inspection Team and Nirvana fade away, and she reclaims her title as the "investment guru" in the eyes of Eastsiders.
+> As for her minor exploitation of your connection, it doesn't bother you much, and it causes no further trouble. You stay in touch, even attending her exclusive gatherings now and then. At least the guests there don't badger you about West District's Hypercube mine.

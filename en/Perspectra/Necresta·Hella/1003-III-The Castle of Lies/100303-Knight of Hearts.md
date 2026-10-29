@@ -4,6 +4,18 @@
 
 The Castle of Lies
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor III
+
 ## Chief captures Horo and the wisps with a trap
 
 1. Chief and Hella get out safely.

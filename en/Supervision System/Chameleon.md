@@ -2,11 +2,19 @@
 
 ### 「Professional Player, Replaced」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 The FAC sent a psychologist to guide the Sinners through their hypnotherapy sessions. But when the psychologist was treating Chameleon, they became the one being hypnotized and have been unconscious since.
 
 - Let Chameleon take the shift.
 
 ### 「Mean Prank」
+
+Location: Confinement Cell
+
+Urgency: ⚠
 
 Chameleon requested to stay in the Confinement Cell so she could observe the other Sinners' reactions.
 
@@ -14,11 +22,19 @@ Chameleon requested to stay in the Confinement Cell so she could observe the oth
 
 ### 「Coordination」
 
+Location: Management Center
+
+Urgency: ⚠
+
 The 9th Agency asked to borrow Chameleon because they need her psychology expertise regarding a confidential mission.
 
 - Approve
 
 ### 「Secret Guest」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief, the office door has been unlocked. Watch yourself.
 
@@ -50,6 +66,10 @@ Chameleon: When you were hypnotized.
 
 ### 「Audience」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 Chameleon is obsessed with some TV shows lately.
 
 Chief: I didn't expect you would watch TV shows as well.
@@ -79,6 +99,10 @@ Chameleon: Or is this how fate wills it?
 Chameleon: Well, now that we are here, you might as well stay a while and watch through this episode with me.
 
 ### 「Master of Hypnosis」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 Chameleon: Kids who don't behave will never wake up.
 

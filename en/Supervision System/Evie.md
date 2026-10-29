@@ -2,11 +2,19 @@
 
 ### 「Emergency Lighting」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 The Bureau has been hit by a sudden power outage, and you find everyone using Mimi-meow light sticks for illumination.
 
 - These are so bright. Thanks, Evie.
 
 ### 「Purchase Request」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Evie has submitted a leave request along with a list of daily necessities to purchase. The last item on the list, however, reads "Mimi-meow Limited Edition Cheer Set," highlighted in red three times and written in bold text.
 
@@ -14,11 +22,19 @@ Evie has submitted a leave request along with a list of daily necessities to pur
 
 ### 「Another All-Nighter」
 
+Location: Management Center
+
+Urgency: ⚠
+
 At four in the morning, the Bureau's system suddenly issues an abnormal behavior alert. After fixing three spreadsheets for her colleagues and compiling Mimi-meow's fan engagement data, Evie finally passes out, with the keyboard being her pillow.
 
 - Let her sleep
 
 ### 「The Last Red Ginseng」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Receiving red ginseng supplements from Evie during overtime has become a regular part of your routine.
 
@@ -50,6 +66,10 @@ It's past midnight already. You get up to stretch, but Evie is nowhere to be see
 
 ### 「Working Remotely」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Even joining the Bureau hasn't quite been able to shake the corporate drone out of Evie.
 
 She still opens her work apps during breaks to fix spreadsheets, coordinate tasks, and write up meeting minutes for her former colleagues. Old habits die hard, it seems.
@@ -77,6 +97,10 @@ And you only found out because Evie accidentally sent you a meeting summary inst
     Getting her to actually relax is going to take a while.
 
 ### 「The Courage to Say No」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 In order to help Evie learn to say no, you sign her up for a counseling session at the Bureau.
 

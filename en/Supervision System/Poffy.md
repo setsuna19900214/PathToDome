@@ -2,6 +2,10 @@
 
 ### 「Gourmands」
 
+Location: Hypnotherapy Room / Greenhouse
+
+Urgency: ⚠⚠⚠
+
 You're on your way out for dinner when Nightingale comes bursting into your office.
 
 Nightingale: Chief! Two Sinners lost control during hypnotherapy. Requesting your assistance immediately!
@@ -68,6 +72,10 @@ Chief: ...I can't believe we actually have two bottomless pits like this.
 
 ### 「Heart-Shaped Cookies」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Word has reached you that Phanuel's heart-shaped cookies have put several Sinners out of commission, so you head straight to the scene.
 
 You already knew that Phanuel's supposed "homemade desserts" were all fake. Anyone at the Bureau who's seen her true culinary skills firsthand should know better than to fall for it.
@@ -120,11 +128,19 @@ That is, until you see Poffy clutching half a charred cookie in her hand.
 
 ### 「Self-Heating Lunch Box」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Your office microwave broke down, and when Poffy learned about this, she heated up your lunch box with her bare hands.
 
 - Express gratitude
 
 ### 「Caretaker」
+
+Location: Greenhouse
+
+Urgency: ⚠
 
 You encounter Poffy and Ninety-Nine in the cafeteria.
 
@@ -134,11 +150,19 @@ You encounter Poffy and Ninety-Nine in the cafeteria.
 
 ### 「Treacherous Banquet」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Poffy excitedly tells you that she received a dinner invitation from Cabernet.
 
 - Dissuade her
 
 ### 「Precious Grain」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 When you pass by the cafeteria, you see Poffy sitting alone at a table.
 
@@ -181,6 +205,10 @@ When you pass by the cafeteria, you see Poffy sitting alone at a table.
       Your question completely short-circuits Poffy's brain. While she's calculating with her fingers, desperately trying to work through the logic, you quietly set down your bowl and slip away.
 
 ### 「Broadcast Mishap」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Thalia told you in advance that she would be doing a mukbang stream with Poffy today. But when it was time for the stream to start, you didn't receive any notifications.
 
@@ -227,6 +255,10 @@ Thalia told you in advance that she would be doing a mukbang stream with Poffy t
   Chief: "You two"...? I get to join in too?!
 
 ### 「Healthy Diet」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 Today is the semi-annual medical examination day. You encounter Poffy outside the medical room, looking utterly dejected.
 

@@ -2,8 +2,16 @@
 
 ## Rahu - Interrogation I
 
+> Intelligence before completion:
+> A few days ago, Sinner Rahu, the FAC's special operations unit, was transferred to the MBCC.
+> All she brought with her was a transfer order from an organization you know nothing about. All you know is that the person who issued the order wields unimaginable power and has a secret motive.
+> You must respond.
+
+> Intelligence after completion:
 > No matter what Rahu's motive is, there is something strange about her attitude towards Conrad Cage.
 > The visit to him will be key to uncovering the truth about Rahu.
+
+### Interrogation Transcript
 
 ██, ██, N.F.113
 
@@ -379,11 +387,20 @@ Rather than to help a former comrade, she's probably agreed to go in order to mo
 
 You've achieved your goal.
 
+> No matter what Rahu's motive is, there is something strange about her attitude towards Conrad Cage.
+> The visit to him will be key to uncovering the truth about Rahu.
+
 ## Rahu - Interrogation II
 
+> Intelligence before completion:
+> After applying, you have obtained permission to visit Conrad Cage.
+
+> Intelligence after completion:
 > Without a doubt, Rahu cares a lot about Conrad.
 > After the visit, every conversation you have revolves around her asking you to protect Conrad.
 > What is she hiding? And who is she hiding it from? You don't know for now.
+
+### Interrogation Transcript
 
 FAC Soldier: He was a good superior, once.
 
@@ -737,9 +754,19 @@ The door opens, and a few guards come to greet you. Rahu doesn't utter another w
 
 But you know that this *loyal guard* will never obey your commands. And she too is hiding unspeakable secrets.
 
+> Without a doubt, Rahu cares a lot about Conrad.
+> After the visit, every conversation you have revolves around her asking you to protect Conrad.
+> What is she hiding? And who is she hiding it from? You don't know for now.
+
 ## Rahu - Interrogation III
 
-> Rain Burst enters dream.
+> Intelligence before completion:
+> The operation has begun. On a night expecting torrential rain, you finally find the address given by Conrad.
+
+> Intelligence after completion:
+> Rain Burst into dreams.
+
+### Interrogation Transcript
 
 Arrest Team Captain: A Blue Rain warning has been issued. It's going to rain soon, Chief.
 
@@ -1267,12 +1294,20 @@ Without hesitation, you exhaust every bit of strength in your body, pouring ever
 
 Until the ringing in your ears drowns out the thunderstorm. Until darkness obscures your vision.
 
+> Rain Burst enters dream.
+
 ## Rahu - Interrogation IV
 
+> Intelligence before completion:
+> When the blurry memories become clear again, what choice will she make?
+
+> Intelligence after completion:
 > Rahu left the MBCC after that day.
 > Sometimes she would vanish without a trace, while other times she would pop up to meet you.
 > You believe that one day, she will achieve her goal and relieve herself of her burden... Then, she would return to the MBCC with the intelligence and "Paradeisos connections" you want.
 > Rahu, Conrad, and every person who has given their all for this city... none of them are alone.
+
+### Interrogation Transcript
 
 Varna: ...Rahu.
 
@@ -1751,3 +1786,8 @@ She smiles and gives you a standard FAC salute.
 Rahu: Best of luck to you too, ${PlayerName}.
 
 Finishing her gesture, Rahu puts on her mask and confidently sets out on her new journey.
+
+> Rahu left the MBCC after that day.
+> Sometimes she would vanish without a trace, while other times she would pop up to meet you.
+> You believe that one day, she will achieve her goal and relieve herself of her burden... Then, she would return to the MBCC with the intelligence and "Paradeisos connections" you want.
+> Rahu, Conrad, and every person who has given their all for this city... none of them are alone.

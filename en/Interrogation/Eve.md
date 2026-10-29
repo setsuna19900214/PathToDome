@@ -2,7 +2,13 @@
 
 ## Eve - Interrogation I
 
+> Intelligence before completion:
+> The rescue team found Eve in a crack in the factory's stone slabs and immediately sent her to the nearest clinic for treatment. However, the situation does not look promising...
+
+> Intelligence after completion:
 > The fire in the factory has been extinguished, and the incident seems to be over. You need to embark on a journey for new crises, and it's time for Eve to make her choice.
+
+### Interrogation Transcript
 
 The girl sits in the interrogation chair, entranced and motionless as a real doll.
 
@@ -250,9 +256,17 @@ That look of incomprehension, shock, and curiosity never leaves you until the do
 
 Eve: What is my motivation...?
 
+> The fire in the factory has been extinguished, and the incident seems to be over. You need to embark on a journey for new crises, and it's time for Eve to make her choice.
+
 ## Eve - Interrogation II
 
+> Intelligence before completion:
+> During your fieldwork, Eve needs to stay at the clinic temporarily for observation. You've asked a familiar nurse to take care of her, hoping that the new environment could lift her spirits.
+
+> Intelligence after completion:
 > One lie leads to another. They have no power to change the world, but they still hold hopes, tumbling forward in lies that will never come true.
+
+### Interrogation Transcript
 
 Nurse: Voila, this is our reconstructed ward!
 
@@ -452,9 +466,17 @@ Albert: I see... She's going to tell jokes to everyone in heaven...
 
 Francisco: Then I'll draw a portrait for her. I'm sure Rhona will like it.
 
+> One lie leads to another. They have no power to change the world, but they still hold hopes, tumbling forward in lies that will never come true.
+
 ## Eve - Interrogation III
 
+> Intelligence before completion:
+> Eve spent a long time in the clinic. Every day, she recorded everything about herself, hoping to tell her story to that special friend again.
+
+> Intelligence after completion:
 > The toy family has all left Eve. What will be the outcome this time? She believes that you can make those lies and ideals come true, and she believes that you will return.
+
+### Interrogation Transcript
 
 Eve: I'm starting to understand what those lies mean...
 
@@ -630,9 +652,17 @@ Obituary
 
 For our friend, companion, and leader, ${PlayerName}.
 
+> The toy family has all left Eve. What will be the outcome this time? She believes that you can make those lies and ideals come true, and she believes that you will return.
+
 ## Eve - Interrogation IV
 
+> Intelligence before completion:
+> Eve's prosthetic rehabilitation treatment has shown good results. The promise of "stand up, walk out" just may indeed bear fruit.
+
+> Intelligence after completion:
 > Inside the factory, when she lost her sanity in the pollution, you collected stories about her. And now, it's her turn to learn everything about you, waiting for your awakening.
+
+### Interrogation Transcript
 
 Andrew: What are you doing here?
 
@@ -795,3 +825,5 @@ Eve: But I also want to hear the story of the gray cloth doll when you were just
 Eve: The next time we meet, please tell me.
 
 Eve: Your lies and your ideals...
+
+> Inside the factory, when she lost her sanity in the pollution, you collected stories about her. And now, it's her turn to learn everything about you, waiting for your awakening.

@@ -2,8 +2,14 @@
 
 ## Ayiguo - Interrogation I
 
+> Intelligence before completion:
+> A shrill alarm echoes throughout the Bureau as swarms of vermin suddenly invade the facility. The dispersed insects and creatures converge in one spot, from which emerges a young girl's voice. And she seems to know you?
+
+> Intelligence after completion:
 > Ayiguo traveled all the way from Eastia to DisCity to find you, asking for the shackles. After interrogating her, you still can't discern her true intentions. Instead, you're left with even more questions.
 > Perhaps within her evasive words and peculiar refusals lies the key to uncovering the truth.
+
+### Interrogation Transcript
 
 A shrill alarm blares throughout the Bureau. The corridor, once neat and orderly, lies now in shambles.
 
@@ -271,10 +277,19 @@ You look down at the two documents resting on the desk: one a fragmented file sp
 
 ${PlayerName}: Nightingale, send Ayiguo's medical report to Banyan Medical College. I need their assistance.
 
+> Ayiguo traveled all the way from Eastia to DisCity to find you, asking for the shackles. After interrogating her, you still can't discern her true intentions. Instead, you're left with even more questions.
+> Perhaps within her evasive words and peculiar refusals lies the key to uncovering the truth.
+
 ## Ayiguo - Interrogation II
 
+> Intelligence before completion:
+> Ayiguo has broken out of the Bureau suddenly, leaving behind a cryptic note. Following the clues, you reach an underground auction house in Eastside, where the unexpected occurs.
+
+> Intelligence after completion:
 > Ayiguo's longevity is, in fact, the product of a precarious balance between Mania and ancient poison within her body. Now, this vessel teeters on the brink of collapse. Taking the "Genesis Powder" is like detonating a bomb, dragging her consciousness into the abyss. You must wake her.
 > The price of eternal youth is endless physical suffering. Fighting poison with poison is the only method she could find.
+
+### Interrogation Transcript
 
 Since the interrogation, you have been waiting to see what Ayiguo does next.
 
@@ -550,10 +565,19 @@ Until your hand touches something.
 
 In a single instant, all darkness and all pain dissolve into nothing. You stand at the center of a lake.
 
+> Ayiguo's longevity is, in fact, the product of a precarious balance between Mania and ancient poison within her body. Now, this vessel teeters on the brink of collapse. Taking the "Genesis Powder" is like detonating a bomb, dragging her consciousness into the abyss. You must wake her.
+> The price of eternal youth is endless physical suffering. Fighting poison with poison is the only method she could find.
+
 ## Ayiguo - Interrogation III
 
+> Intelligence before completion:
+> You are pulled into Ayiguo's mental realm. Before you stretches a tranquil lake, and above its surface stand two doors awaiting your entry.
+
+> Intelligence after completion:
 > After three days of sleep, Ayiguo has finally digested the toxins. Your gamble pays off. She is like a wildflower growing in her homeland—struggling out of dark soil, nourished by deadly poison, and blooming with tenacious vitality. No one was ever her gardener, so she became her own soil, rain, and lightning.
 > Fortunately, it's not too late. This is a slow journey through the wilderness, now with a companion by her side.
+
+### Interrogation Transcript
 
 You stand on the lake's surface, alone and shadowless.
 
@@ -928,3 +952,6 @@ Ayiguo: What's that supposed to mean?! Making this granny your personal bodyguar
 Ayiguo: ...Still. I imagine more than a few eyes are on you. An elixir of immortality, walking around on two legs. Tempting target.
 
 Ayiguo: Perhaps I should find a place nearby. Just to keep a proper eye on things. You, specifically.
+
+> After three days of sleep, Ayiguo has finally digested the toxins. Your gamble pays off. She is like a wildflower growing in her homeland—struggling out of dark soil, nourished by deadly poison, and blooming with tenacious vitality. No one was ever her gardener, so she became her own soil, rain, and lightning.
+> Fortunately, it's not too late. This is a slow journey through the wilderness, now with a companion by her side.

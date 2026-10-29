@@ -2,17 +2,29 @@
 
 ### 「Crime Consultation」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Recently, the incident rate within the Bureau has risen by seven percent. According to sources, Clementine's crime consultation business is flourishing, and has already spread throughout the Bureau.
 
 - Shut it down immediately
 
 ### 「Locked Room Mystery」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 In order to recreate the perfect locked room murder, Clementine has submitted a request, inviting you to enter a confinement cell with her.
 
 - ...Should I write my will before we go in?
 
 ### 「Insomnia Regular」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠
 
 This quarter's treatment report from the Hypnotherapy Room has been sent. Please check it promptly.
 
@@ -50,6 +62,10 @@ This quarter's treatment report from the Hypnotherapy Room has been sent. Please
 
 ### 「Unconventional Literature」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Lately, you've noticed the Bureau's young Sinners acting strangely out of character. Unlike before, the moment classes are mentioned, all their headaches and stomachaches miraculously vanish. Their attendance rate has been nearly perfect.
 
 All of this is thanks to Syndicate Academy's new substitute literature appreciation teacher—Clementine.
@@ -77,6 +93,10 @@ All of this is thanks to Syndicate Academy's new substitute literature appreciat
   From that day forward, you require Clementine to submit all lesson plans to your office for review and approval before adapting them.
 
 ### 「The Novelist's Manuscript」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Whenever Clementine's deadline rolls around, the Bureau's reception room gets filled with editors from various publishers, each hoping to secure her latest manuscript. Today is no exception.
 
@@ -117,6 +137,10 @@ Clementine: Then let the ending be this—the protagonist slowly lowers his gun 
 Clementine: Perhaps it will give the readers a glimmer of hope, however fleeting. Someone's got to choose the harder path.
 
 ### 「Dangerous Signing」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

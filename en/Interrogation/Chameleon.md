@@ -2,8 +2,14 @@
 
 ## Chameleon - Interrogation I
 
+> Intelligence before completion:
+> Chameleon is a special consultant hired by the 9th Agency. The reason behind her arrest—manipulating others' subconsciousness—is recorded in the authority's document. To find out more about what crimes were committed and why, you will have to take Chameleon for a regular interrogation.
+
+> Intelligence after completion:
 > Chameleon didn't directly answer any of the questions regarding the case. Instead, she tried to hypnotize you without your consent in an attempt to break your determination by making you believe that the other Sinners are refusing to cooperate.
 > Her mysterious nature troubles you. It seems another threat is lurking in the dark and waiting for its chance to jump at you.
+
+### Interrogation Transcript
 
 Nightingale: Chief, this Sinner is very dangerous.
 
@@ -357,10 +363,19 @@ Is her lack of honesty in the interrogation room just a means to avoid confessin
 
 "Pain may not be a bad thing." Perhaps this is the only true thing she said today.
 
+> Chameleon didn't directly answer any of the questions regarding the case. Instead, she tried to hypnotize you without your consent in an attempt to break your determination by making you believe that the other Sinners are refusing to cooperate.
+> Her mysterious nature troubles you. It seems another threat is lurking in the dark and waiting for its chance to jump at you.
+
 ## Chameleon - Interrogation II
 
+> Intelligence before completion:
+> It has been several days since we sent Chameleon to a confinement cell. The nightmare fragment that is suddenly haunting you gives you a weird feeling. Your hunch tells you that this mirage seems to have something to do with Chameleon.
+
+> Intelligence after completion:
 > Chameleon's power isn't just any hypnosis. She plants a subconscious thought in your mind that makes you want to check confidential documents, directly manipulating your behaviors and leading you to provide information to her without you realizing it.
 > To retrieve Oris, the culprit who killed her family, from the 9th Agency, she is resorting to every possible measure. But the enemy that she has been fighting isn't you but the woman hiding in the dark. Having fallen victim to the hypnotist and become the pawn in her hands several times, you decide to never let this happen again.
+
+### Interrogation Transcript
 
 Clock cabinet, sculpture, flames, hostages...
 
@@ -760,10 +775,19 @@ Even committed evil acts that you cannot speculate or control for now.
 
 Langley: Be careful as it is the key to the dangerous door.
 
+> Chameleon's power isn't just any hypnosis. She plants a subconscious thought in your mind that makes you want to check confidential documents, directly manipulating your behaviors and leading you to provide information to her without you realizing it.
+> To retrieve Oris, the culprit who killed her family, from the 9th Agency, she is resorting to every possible measure. But the enemy that she has been fighting isn't you but the woman hiding in the dark. Having fallen victim to the hypnotist and become the pawn in her hands several times, you decide to never let this happen again.
+
 ## Chameleon - Interrogation III
 
+> Intelligence before completion:
+> You and Nightingale immediately took action and dispatched guards to where the hostage is being held in the hope that you might be able to stop Chameleon and prevent irreversible consequences...
+
+> Intelligence after completion:
 > Oris is now a hostage secretly taken into custody by the 9th Agency. And Chameleon is cooperating with the MBCC to continue the detention. Perhaps it is just like what Chameleon said: this is a balancing art of restraint. But it is also acceptable if we continue this balance.
 > Greed, desire, and pain... The seemingly cool-headed psychologist is actually struggling to hold down the impulses deep down. You only have one mission: maintain balance and contain the subject.
+
+### Interrogation Transcript
 
 Guard A: Unconscious guards found. The east exit has been blocked. Over.
 
@@ -1196,3 +1220,6 @@ There, she was playing the role of a psychologist like she was before. She has n
 It doesn't seem like there will be any more incidents, but you still feel vaguely uneasy.
 
 Your game with her seems to have just begun.
+
+> Oris is now a hostage secretly taken into custody by the 9th Agency. And Chameleon is cooperating with the MBCC to continue the detention. Perhaps it is just like what Chameleon said: this is a balancing art of restraint. But it is also acceptable if we continue this balance.
+> Greed, desire, and pain... The seemingly cool-headed psychologist is actually struggling to hold down the impulses deep down. You only have one mission: maintain balance and contain the subject.

@@ -2,17 +2,29 @@
 
 ### 「Professional Suggestion」
 
+Location: Secret Chamber
+
+Urgency: ⚠
+
 In the document, Eirene offers her suggestion about the Bureau's personnel structure and management strategy.
 
 - Sleep on it
 
 ### 「Flowers」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Eirene wants to send a bouquet to her father on his birthday.
 
 - Approve
 
 ### 「Book List」
+
+Location: Black Market
+
+Urgency: ⚠⚠
 
 Chief, you have a new request.
 
@@ -54,6 +66,10 @@ Eirene: I wrote a list of books. You can buy the books that I picked.
 
 ### 「New Field」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 You passed by the library and saw Eirene holding a book in her hands and leaning against a door. She seems to be smiling and in a good mood. You got curious.
 
 Chief: Eirene, what are you reading?
@@ -80,6 +96,10 @@ Eirene: Would you like to read it? I'll give it to you once I'm done.
 - When I'm available.
 
 ### 「Disgrace」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Eirene the Sinner sent you a message request.
 
@@ -128,6 +148,10 @@ Eirene the Sinner sent you a message request.
     Eirene: You are just searching for an excuse to cover up your lack of skills.
 
 ### 「Concentration」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 In the bustling Recreation Area, Eirene's sitting on a couch in the corner, focusing on a pile of papers as thick as a dictionary, writing on them from time to time, seemingly undisturbed by the noise.
 

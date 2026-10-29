@@ -2,6 +2,10 @@
 
 ### 「Legal Consultation」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Mr. Fox sometimes offers legal consultation to the other Sinners in his free time. He also says Chief is welcome to ask him about the Bureau's legal matters.
 
 Chief: Thank you. But I think I'll pass the reimbursement part.
@@ -14,6 +18,10 @@ Chief: Thank you. But I think I'll pass the reimbursement part.
 
 ### 「Taste of Fashion」
 
+Location: Management Center
+
+Urgency: ⚠
+
 For every necktie Mr. Fox has, he has sleeve buttons that match its colors and style.
 
 - You are a meticulous lawyer.
@@ -21,6 +29,10 @@ For every necktie Mr. Fox has, he has sleeve buttons that match its colors and s
   But where did he get the money to get those things?
 
 ### 「Tale of Tongue Piercing」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 The other Sinners have always wondered what Mr. Fox's tongue piercing looks like. Only a few have seen it with their eyes, so the rumors start to get dramatic. But he seems to be fine with it and doesn't care to clarify anything.
 
@@ -32,6 +44,10 @@ The other Sinners have always wondered what Mr. Fox's tongue piercing looks like
 - I don't know either.
 
 ### 「Equivalent Exchange」
+
+Location: Black Market
+
+Urgency: ⚠⚠
 
 Mr. Fox didn't show up in the Training Room as scheduled.
 
@@ -71,6 +87,10 @@ Chief: I really should help him become more professional.
 
 ### 「Temporary Mission」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Lately, there has been a popular TV show going on in the Recreation Area every night. People are so obsessed that they are always there to catch the show.
 
 While you're heading there for the show, you see Mr. Fox who was walking away from the Recreation Area.
@@ -97,6 +117,10 @@ Mr. Fox: I always find them unprofessional. They portray trials as child's play.
 - Oh, I see.
 
 ### 「Golf」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 According to the analysis of facial expressions of Mr. Fox, it seems that he is somewhat bored.
 

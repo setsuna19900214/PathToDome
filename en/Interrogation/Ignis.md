@@ -2,8 +2,13 @@
 
 ## Ignis - Interrogation I
 
-> Though the information coming from EDGE is limited, you use the evidence you have to reveal another truth that Ignis is hiding: she was an arsonist in Eastside years ago.
-> She is being very straightforward about her crimes, but her reaction is intense whenever you mention something about her parents. Is she hiding something?
+> Intelligence before completion:
+> The MBCC assesses each Sinner to find out how big of a threat they are, what are their abilities, and how willingly they will commit a crime. Ignis was the first to attract attention.
+
+> Intelligence after completion:
+> Your interrogation is successful. From the information, you learned that there is another criminal case where Ignis is involved, and that is the serial arsonist of Eastside. Since then, she hasn't demonstrated any vicious behaviors. Though you are certain that she is still hiding something, you don't know for sure if that something is a threat or just a scar from her past.
+
+### Interrogation Transcript
 
 When Ignis is brought into the interrogation room, she is clearly not in a good mood—which is normal. Anyone suddenly called into the small black chamber has good reason to be angry.
 
@@ -285,9 +290,20 @@ All you can do is call Nightingale, and have her take Ignis back to rest.
 
 But your suspicions linger...
 
+> Though the information coming from EDGE is limited, you use the evidence you have to reveal another truth that Ignis is hiding: she was an arsonist in Eastside years ago.
+> She is being very straightforward about her crimes, but her reaction is intense whenever you mention something about her parents. Is she hiding something?
+
 ## Ignis - Interrogation II
 
-> Ignis' parents are still alive. They received help from the Affiliate Protection Program and were able to leave the place that brought them sorrow to pursue a new career. Staying away from a Sinner had many benefits. They no longer had to hide, compensate for the losses of unexpected accidents, or tolerate insults from neighbors and strangers.
+> Intelligence before completion:
+> Every word on this Affiliate Protection Program is evidence that Ignis is a liar. The answer to all the questions are written in this book...
+> As expected, her partner Hella revealed some not-so-important intel to you.
+
+> Intelligence after completion:
+> She came here of her own accord and became what others called a monster. It is for herself but also for her parents.
+> It's like a recovering wound. The blood coagulates, but the scab still stings when you touch it.
+
+### Interrogation Transcript
 
 Message: Alert, there has been an explosion in the kitchen. Suspect: Ignis.
 
@@ -591,9 +607,17 @@ Ignis: And you see, as soon as they moved on from me, my wish came true.
 
 She is still smiling, and the tears in her eyes haven't fallen.
 
+> Ignis' parents are still alive. They received help from the Affiliate Protection Program and were able to leave the place that brought them sorrow to pursue a new career. Staying away from a Sinner had many benefits. They no longer had to hide, compensate for the losses of unexpected accidents, or tolerate insults from neighbors and strangers.
+
 ## Ignis - Interrogation III
 
-> Ignis is a little disappointed, but she seems more relieved. Maybe she still wasn't ready to accept the truth.
+> Intelligence before completion:
+> After that, Ignis seems to have completely changed. At least she doesn't intentionally hurt people's feelings anymore. Now, I know her past and what kind of a person she is. It's about time that this ends. I mean, what else can I do? I cannot help her. And I'm not even her friend. I'm just a "Restrainer."
+
+> Intelligence after completion:
+> I should be just a "Restrainer."
+
+### Interrogation Transcript
 
 A long while after that, you finally find an opportunity to ask to take Ignis out.
 
@@ -814,3 +838,5 @@ Ignis: Just here is okay, here is fine. I don't want to be a bother...
 You don't answer her, just nod silently.
 
 Of course, no matter how many times. Until she is finally brave enough to push open the door and go home.
+
+> Ignis is a little disappointed, but she seems more relieved. Maybe she still wasn't ready to accept the truth.

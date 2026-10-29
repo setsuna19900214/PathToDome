@@ -2,11 +2,19 @@
 
 ### 「A Special Day」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Today is the anniversary of Anavrin's lead singer's death. After seeing the band's documentary film on TV, Joan went silent and started drinking alone in the corner of the room. Traumatized, she seems lonely.
 
 - Sit by her side for a bit
 
 ### 「Intrusive Fan」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Joan beat up the Sinner, an obsessive fan of hers, who tried to sneak into her room and steal her personal belongings.
 
@@ -14,17 +22,29 @@ Joan beat up the Sinner, an obsessive fan of hers, who tried to sneak into her r
 
 ### 「Special Show」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Joan kept asking and pleading, so you had no choice but to approve her nostalgic rock music concert. The employees gather and hug, singing along while crying tears of joy as they recollect the fond memories of their past youth.
 
 - Wipe away your tears quietly
 
 ### 「New Gear」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Joan added a set of dazzling rainbow strings to her guitar. She is now drawing more attention than ever.
 
 - Take another look
 
 ### 「Work and Rock」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Joan walks into your office.
 
@@ -49,6 +69,10 @@ Joan: Right, that's it! Embrace that rhythm in your heart!
   Chief: Rock is definitely not the best background music for working...
 
 ### 「New Song」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Having received another noise complaint, you go to Joan's room to check on her.
 

@@ -2,6 +2,10 @@
 
 ### 「Hot Eastiano」
 
+Location: Energy Furnace
+
+Urgency: ⚠
+
 A procurement accident leaves Moore out of coffee. Eager to fight off sleep and finish her work, she decides to try a mysterious black drink known as "Hot Eastiano."
 
 - It all depends on whether you like caffeine
@@ -10,11 +14,19 @@ A procurement accident leaves Moore out of coffee. Eager to fight off sleep and 
 
 ### 「The Real Deal」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Once, when the Sinners are one player short in an online game, they drag Moore over to fill in. To no one's surprise, she ends up with a 0-0-0 score. After three days of intensive practice, Moore volunteers to try again. This time, to everyone's surprise, she makes everyone finish at a 0-0-0 score using only scripts and plugins and without even touching the keyboard.
 
 - Are you the... real 000?
 
 ### 「Night Walker」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Chief: The recent energy-saving campaign is really thorough... The corridor is pitch black. I can't find my way at all...
 
@@ -52,6 +64,10 @@ Chief: Waa! This voice... Are you Moore? How did you come out of nowhere? You sc
 
 ### 「Too Sleepy」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 To keep up with the recent fancy coffee trend, the Bureau's cafeteria is launching several new coffee products.
 
 Chief: From the look of today's schedule, you should probably get two extra strong espressos to keep yourself alive... Hmm? Is that Moore?
@@ -85,6 +101,10 @@ Chief: Good afternoon, Moore. Are you here to get coffee too? Looks like you've 
     Chief: ...Wait, did Moore just drink half a cup of *Sleepless Night*... and go back to sleep? Doesn't that mean the contest is already over...
 
 ### 「Firewall」
+
+Location: Darkroom
+
+Urgency: ⚠⚠⚠
 
 Certain Sinners' internet addiction is severely impacting their daily lives. The Bureau has attempted to correct them but with little success. So you decide to ask Moore to develop a parental control system to limit their internet access.
 
@@ -147,6 +167,10 @@ Chief: Hmm? According to the numbers in the report, the average time the Sinners
   Moore: Let those who think they've pierced the spider's web find out they've actually been led into corrosive venom... Wouldn't that make a more intriguing twist?
 
 ### 「Unexpected Interest」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 The Bureau has ordered a batch of lab rats for certain Sinners' experiments, but the Sinners all happen to be out on missions, so the rats are temporarily stored in the secret chamber.
 

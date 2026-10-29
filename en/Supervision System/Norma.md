@@ -2,11 +2,19 @@
 
 ### 「Order-obsessed」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Norma proposes a comprehensive plan to improve the organization of all items in the Bureau, specifying the angles, spacing, and orientation of their placement.
 
 - Under serious review.
 
 ### 「Perfectionist」
+
+Location: Management Center
+
+Urgency: ⚠
 
 While organizing her personal office, Norma seems visibly dissatisfied with the water streaks left behind by a damp cloth.
 
@@ -14,11 +22,19 @@ Afterwards, Norma conducts a rigorous analysis on the proper technique for wring
 
 ### 「Scientific Recipe」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Norma conducts a systematic nutritional evaluation of the Bureau's standard meals and points out that the cafeteria staff's insufficient hand stability has resulted in significant deviations in the samples.
 
 - Noted.
 
 ### 「Noise Terminator」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Recently, Norma has been frequently seen moving back and forth across the detention area carrying a DIY detector. Any curious questions about her behavior get cut off by her sternly.
 
@@ -44,6 +60,10 @@ Norma: May I bring your attention to this, Chief? I believe irregular low-freque
 
 ### 「Quantifying Emotions」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 Norma: Chief, would you say your current mood is approximately 65% confusion and 35% resignation?
 
 After a moment's thought, you nod. But Norma doesn't seem satisfied with this answer.
@@ -65,6 +85,10 @@ Norma: I can understand the confusion that arises from your first encounter with
     Norma: Thank you for your cooperation, Chief. I'll continue collecting more samples to refine these undefined emotion categories.
 
 ### 「Unreasonable Request」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Ever since Norma joined the Bureau, you frequently run into her around the office area.
 

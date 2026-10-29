@@ -2,8 +2,15 @@
 
 ## Margaret - Interrogation I
 
+> Intelligence before completion:
+> A traffic jam brings your mission to an abrupt halt. Protests and furious shouts fill the streets with a maelstrom of unrest. You witness a clash of ideas and identities escalate.
+> You recognize this is no mere accident. It is a microcosm of the ideological war sweeping through DisCity. As Chief of MBCC, you know your influence is limited. But how can you simply stand by and watch?
+
+> Intelligence after completion:
 > As sanity and emotions teeter on the edge of collapse, Margaret walks in calmly, commanding the venue with her gentle voice. Without using brute force, she mends the rupture with her words. Without resorting to authority, she quiets the clamor.
 > Beneath this veneer of peace, however, the winds continue to shift. You are tasked with interrogating Margaret, whose position grows ever more precarious. In doing so, you become the sole variable in the power play between her and DisCity's leadership. What should you do? What can you do?
+
+### Interrogation Transcript
 
 Chief: ...What's going on? Have we been sitting here long, or is it just me?
 
@@ -279,10 +286,20 @@ You organize the documents, making your final preparations before the interrogat
 
 You will be no one's pawn. Your power serves one purpose alone: to find the truth, and to judge what is right.
 
+> As sanity and emotions teeter on the edge of collapse, Margaret walks in calmly, commanding the venue with her gentle voice. Without using brute force, she mends the rupture with her words. Without resorting to authority, she quiets the clamor.
+> Beneath this veneer of peace, however, the winds continue to shift. You are tasked with interrogating Margaret, whose position grows ever more precarious. In doing so, you become the sole variable in the power play between her and DisCity's leadership. What should you do? What can you do?
+
 ## Margaret - Interrogation II
 
+> Intelligence before completion:
+> In the interrogation room, Margaret gets unexpectedly candid with you. Your probing questions lead you nowhere, and before you know it, you find yourself dancing to her rhythm.
+> She doesn't try to defend or conceal herself, but simply patiently tells you about her hope for peace, her difficult choices, and the situation spiraling beyond control. And somehow, you can relate to every word she says. Is this the mutual understanding between two idealists? Or a carefully laid trap?
+
+> Intelligence after completion:
 > As the interrogation nears its end, Margaret casually drops a shocking truth, confessing her transgressions and laying bare her heart. In your moment of hesitation, she places the key to her fate squarely in your hands.
 > Every detail urges you to trust her, to help her. And yet, it is precisely this that stirs a quiet unease. She is a river whose depths you cannot fathom. You decide to let the water flow a little longer.
+
+### Interrogation Transcript
 
 You pull out a chair and sit, lifting your eyes to meet Margaret's. A faint, knowing smile rests on her lips, her posture perfectly poised. From her refined makeup to the elegant line of her dress, she is an image of flawless, unassailable grace.
 
@@ -550,10 +567,20 @@ Nightingale: We should have notified you immediately, but the alert itself was..
 
 Well, there's the answer. How convenient the system chose now to fail. You shake your head, wondering: could the timing really be so perfect?
 
+> As the interrogation nears its end, Margaret casually drops a shocking truth, confessing her transgressions and laying bare her heart. In your moment of hesitation, she places the key to her fate squarely in your hands.
+> Every detail urges you to trust her, to help her. And yet, it is precisely this that stirs a quiet unease. She is a river whose depths you cannot fathom. You decide to let the water flow a little longer.
+
 ## Margaret - Interrogation III
 
+> Intelligence before completion:
+> Suspicions of betrayal have put Margaret in a plight, yet she doesn't wait for rescue. Simply reaching out to a contact and having a seemingly unplanned interview is enough to get her back onto the public stage, reclaiming the spotlight.
+> She speaks of peace and duty, placing herself at the eye of the storm while exposing no weakness to anyone. This is no act of self-defense, but the first move in rewriting the narrative.
+
+> Intelligence after completion:
 > You, too, have been woven into Margaret's narrative, becoming a footnote and echo in her discourse. She's never once asked for your help, yet deftly turns your very presence into an endorsement.
 > But you refuse to play the obedient pawn. The crimson flare of your shackles tears through her gilded vision, and you break your silence at last, making yourself clear: This path leads nowhere.
+
+### Interrogation Transcript
 
 Butler: The requests for a visit have been filed as usual, Miss Margaret. I have also taken the liberty of preparing a list of those families who customarily send their regards but whose correspondence was... notably absent this time.
 
@@ -815,10 +842,20 @@ You raise your palm, giving a small, deliberate wave before her eyes. Fine crims
 
 Chief: Don't forget. I'm the one who put the shackles on you.
 
+> You, too, have been woven into Margaret's narrative, becoming a footnote and echo in her discourse. She's never once asked for your help, yet deftly turns your very presence into an endorsement.
+> But you refuse to play the obedient pawn. The crimson flare of your shackles tears through her gilded vision, and you break your silence at last, making yourself clear: This path leads nowhere.
+
 ## Margaret - Interrogation IV
 
+> Intelligence before completion:
+> Margaret remains unshaken, still attempting to charm her way out of the situation with a smile and regain control. But your words cut like a blade, peeling away her seemingly noble pretense.
+> The mask slips. At last, she abandons the disguise and stops her innocent act. Beneath her lofty idea of peace, you glimpse her true, scheming intentions, and the trump card that keeps her forever one step ahead.
+
+> Intelligence after completion:
 > Margaret's "peace" has never been a virtuous compromise, but an art of control. To her, others are merely threads in her tapestry, pieces on her board.
 > And so, even if your goals align, you will not let her have her way again. This time, no matter how many secrets lurk beneath her elegant facade, you will be the one moving the pieces.
+
+### Interrogation Transcript
 
 Margaret: What could you mean? Of course I remember the shackles. They're a testament to the trust between us, aren't they? You aren't suggesting... this has all been a one-sided delusion on my part?
 
@@ -1073,3 +1110,6 @@ The line falls silent for a moment, as if transmitting data. Margaret's eyes sca
 It is an electronic map, an aerial view of the land below. Scattered intelligence markers dot the terrain like the lit windows of a residential area in an age of peace.
 
 *Now then, onward to the next move.*
+
+> Margaret's "peace" has never been a virtuous compromise, but an art of control. To her, others are merely threads in her tapestry, pieces on her board.
+> And so, even if your goals align, you will not let her have her way again. This time, no matter how many secrets lurk beneath her elegant facade, you will be the one moving the pieces.

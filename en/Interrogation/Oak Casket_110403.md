@@ -2,8 +2,16 @@
 
 ## Oak Casket - Interrogation I
 
+> Intelligence before completion:
+> After the Rustfire serial event ended, Oak Casket returned with you to the MBCC.
+> She seemed to be in low spirits all the time. Like other Sinners, she was somewhat free to do as she pleased in the MBCC, but she rarely engaged in outdoor activities.
+> However, there are still many mysteries surrounding the Drifter Camp, and you need her help.
+
+> Intelligence after completion:
 > Oak Casket might still harbor doubts about you.
 > You decide to win her trust in a way she can understand and accept.
+
+### Interrogation Transcript
 
 The lights in the interrogation room are turned off. Someone is murmuring in the darkness.
 
@@ -223,10 +231,20 @@ You complete the application as quickly as possible, but Nightingale is still co
 
 You reassure her that Oak Casket has helped you many times before and that she'll do the same this time. Finally, Nightingale relents.
 
+> Oak Casket might still harbor doubts about you.
+> You decide to win her trust in a way she can understand and accept.
+
 ## Oak Casket - Interrogation II
 
+> Intelligence before completion:
+> You brought a permit to leave for Oak Casket.
+> As promised, you will accompany her to the Romanesque Hall to resolve the obsession that even Oak Casket couldn't handle.
+
+> Intelligence after completion:
 > From the obsession, you can only gather very little information. There seems to be something hidden behind the information...
 > You need to investigate further.
+
+### Interrogation Transcript
 
 Romanesque Hall
 
@@ -466,11 +484,21 @@ Before leaving the stele garden, you look back. The land where the oak tree once
 
 There's still not a breath of wind in the stele garden. The tombstones are gray, just as those *stars* sealed in the glass jar are.
 
+> From the obsession, you can only gather very little information. There seems to be something hidden behind the information...
+> You need to investigate further.
+
 ## Oak Casket - Interrogation III
 
+> Intelligence before completion:
+> Oak Casket once mentioned that everyone buried beneath those monuments had something to do with the monastery.
+> Since this doctor has close ties with the monastery, perhaps you can gain information relevant to the obsession from him.
+
+> Intelligence after completion:
 > Oak Casket shared some of her past with you.
 > From her story and her attitude, you were able to confirm that the obsession has something to do with her.
 > You need to talk to Oak Casket.
+
+### Interrogation Transcript
 
 The journey isn't peaceful. You pass collapsed houses and ruins while Oak Casket remains unusually silent. The only thing that alleviates your unease is the faint, unique fragrance on her.
 
@@ -722,10 +750,20 @@ You catch up with Oak Casket, who seems to be avoiding something. You can barely
 
 You have many questions, but at least one thing is certain: That incomprehensible regret on that stele has something to do with Oak Casket.
 
+> Oak Casket shared some of her past with you.
+> From her story and her attitude, you were able to confirm that the obsession has something to do with her.
+> You need to talk to Oak Casket.
+
 ## Oak Casket - Interrogation IV
 
+> Intelligence before completion:
+> To unravel that obsession, you need Oak Casket to stop hiding away from her problems.
+
+> Intelligence after completion:
 > This world awaits a change, a transformation into a place worth lingering for the revenants, a place worth staying for the living.
 > As for Oak Casket, she trusts you.
+
+### Interrogation Transcript
 
 By the time you return to the stele garden, the day is already bright.
 
@@ -956,3 +994,6 @@ Oak Casket: I won't urge you to come back to my side so soon before we see a new
 Oak Casket: I've always wondered why I stay in the world of the living...
 
 Oak Casket: But your existence may help me find the meaning.
+
+> This world awaits a change, a transformation into a place worth lingering for the revenants, a place worth staying for the living.
+> As for Oak Casket, she trusts you.

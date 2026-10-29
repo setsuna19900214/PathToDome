@@ -2,6 +2,10 @@
 
 ### 「Shield Stolen」
 
+Location: Training Room
+
+Urgency: ⚠⚠⚠
+
 Demon the Sinner lost his shield to a thief. Investigate immediately.
 
 Chief: When was the last time you saw that shield?
@@ -74,6 +78,10 @@ Chief: When was the last time you saw that shield?
 
 ### 「Forbidden Summit」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got into a fight in the Recreation Area after a disagreement.
 
 - Go immediately to the Recreation Area
@@ -105,6 +113,10 @@ A Sinner rushes breathlessly into your office to report: Jasmine and Hamel got i
     Chief: There are people coming and going here constantly. If you two want to dance, you should go to the dance studio instead.
 
 ### 「Listener」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Although Dreya is quite introverted, many people in the Bureau like to chat with her.
 
@@ -159,6 +171,10 @@ Chief: Maybe you should follow her discreetly to note down all these *secret mes
 Chief: I'll go after them one by one and catch them red-handed tomorrow!
 
 ### 「Love is Blind」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Demolia: Who would've thought that to repair this piece of junk, it would cost so many DisCoins? Sigh, the Bureau is becoming less and less suitable for scavenging, danger really is everywhere!
 
@@ -216,6 +232,10 @@ Chief: Demolia, why are you standing here with a troubled look on your face, wha
 
 ### 「New Try」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 While passing by the cafeteria, you see Letta and Demolia huddling together, chatting about something. That's a rather strange combo.
 
 - Go take a look
@@ -248,6 +268,10 @@ While passing by the cafeteria, you see Letta and Demolia huddling together, cha
 
 ### 「Pickled Vegetables」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 It's the season for vegetable pickling again. Demolia sent pickled vegetables she just made to every Sinner and employee. And she sent double portions to her dearest Chief.
 
 Chief: Another winter, another time of the year when I don't need to shop for pickled vegetables at the grocery store.
@@ -258,17 +282,29 @@ Chief: Another winter, another time of the year when I don't need to shop for pi
 
 ### 「Not Garbage!」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 Demolia plans to make a gift for you using her precious "loots." However, before she could finish the gift, cleaning staff mistook it for garbage and disposed of it. She was depressed for several days.
 
 - Comfort Demolia
 
 ### 「External Personnel」
 
+Location: Black Market
+
+Urgency: ⚠
+
 Commodity prices rose, and Supply Office staff tried to negotiate to no avail. After two hours of intense bargaining, Demolia scored an even cheaper deal, saving lots of money for the Bureau.
 
 - I knew I could count on you!
 
 ### 「After-Sales Service」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Demolia the Sinner requests a call with you. Approve?
 
@@ -302,6 +338,10 @@ Demolia the Sinner requests a call with you. Approve?
 
 ### 「An Elder's Lifestyle」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 You hear the sound of Demolia sighing from a distance.
 
 Demolia: Sigh. Chief, the young people these days should really rethink their lifestyles.
@@ -331,6 +371,10 @@ Chief: ...
 Chief: But here in the Bureau, we turn off the lights at ten thirty.
 
 ### 「A Round of Chess」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Demolia is knocking on your door like crazy.
 
@@ -365,6 +409,10 @@ Chief: ...
 Chief: If only you had such passion whenever you were on a mission, that'd be nice.
 
 ### 「The Popular One」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 The result of *The Most Popular Staff Member* vote is finally revealed today. You read out her name at the staff meeting.
 

@@ -2,8 +2,15 @@
 
 ## Bianca - Interrogation I
 
+> Intelligence before completion:
+> The Gray Mirror case has essentially concluded, yet the key culprit, Bianca, remains missing.
+> Finally, you spot a familiar figure on TV today.
+
+> Intelligence after completion:
 > Bianca also brings a new case that needs urgent investigation. She seems sincere and earnest, but you still can't be sure if she has changed.
 > This joint investigation will be your best chance to find out.
+
+### Interrogation Transcript
 
 It's midday. You're hard at work.
 
@@ -343,9 +350,18 @@ Bianca: Investigation 2.0! After a long hiatus, Defender of Justice Ashy and Sup
 
 Bianca: No time to waste. Let's go!
 
+> Bianca also brings a new case that needs urgent investigation. She seems sincere and earnest, but you still can't be sure if she has changed.
+> This joint investigation will be your best chance to find out.
+
 ## Bianca - Interrogation II
 
+> Intelligence before completion:
+> Following the leads, you and Bianca head to a factory along the banks of the Rust. You're about to sneak in for your investigation.
+
+> Intelligence after completion:
 > The covert investigation has been a complete success, but then things take an unexpected turn: An unforeseen account ban deals a fatal blow to Bianca's coverage.
+
+### Interrogation Transcript
 
 Morghan & Ethan: ...
 
@@ -669,9 +685,17 @@ User Extra-Rich Apple Juice 2.0 has been found to be spreading misinformation on
 
 In addition, Extra-Rich Apple Juice 2.0 is to be permanently banned from the forum. This ban is effective immediately and is not subject to appeals.
 
+> The covert investigation has been a complete success, but then things take an unexpected turn: An unforeseen account ban deals a fatal blow to Bianca's coverage.
+
 ## Bianca - Interrogation III
 
+> Intelligence before completion:
+> In a hazy memory, a little girl wearing an apple hair accessory poses her question to a journalist.
+
+> Intelligence after completion:
 > The exposure by Bianca hasn't brought any salvation, and the mere power of a journalist can't change the reality. She challenges you: How should she achieve justice without relying on Mania?
+
+### Interrogation Transcript
 
 *Witness. Observe. Verify. The line between right and wrong is well-defined. If one commits a crime, they must be punished.*
 
@@ -933,9 +957,17 @@ Finally, Bianca turns to you, wearing her usual smile.
 
 Bianca: So tell me, Chief, what else I can do?
 
+> The exposure by Bianca hasn't brought any salvation, and the mere power of a journalist can't change the reality. She challenges you: How should she achieve justice without relying on Mania?
+
 ## Bianca - Interrogation IV
 
+> Intelligence before completion:
+> After her account was banned, Bianca's gone inactive for a while. You're worried she might resort to some drastic measures again. This time, however, she seems to have made a different choice.
+
+> Intelligence after completion:
 > One journalist's voice may be nothing, but it can be the first pebble that stirs the waves.
+
+### Interrogation Transcript
 
 It has been a week since you last saw Bianca.
 
@@ -1196,3 +1228,5 @@ Bianca: I did!
 Bianca: At least I can serve as a starting point...
 
 Bianca: A starting point that has many imperfections but is full of possibilities...
+
+> One journalist's voice may be nothing, but it can be the first pebble that stirs the waves.

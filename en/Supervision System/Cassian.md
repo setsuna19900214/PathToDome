@@ -2,6 +2,10 @@
 
 ### 「Wine Cellar Request」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Impressed with the Bureau's subterranean environment, Cassian wants to build a wine cellar to store his private brews.
 
 - Too costly, and poses a security risk. Denied.
@@ -9,6 +13,10 @@ Impressed with the Bureau's subterranean environment, Cassian wants to build a w
   Considering the special nature of Cassian's work, you approve a mini-fridge for his room to store his prized vintages.
 
 ### 「Reluctant Pianist」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 After much persuasion, Cassian finally agrees with just one condition: 24-hour access to the piano room.
 
@@ -18,6 +26,10 @@ After much persuasion, Cassian finally agrees with just one condition: 24-hour a
 
 ### 「Drunken Deeds」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Many at the Bureau are wary of Cassian. The rumor is that he knows everyone's most embarrassing drunken moments. The list includes, but is not limited to: vomiting, tearful calls to an ex, impromptu pole dancing, and bellowing folk ballads...
 
 - Ask if the rumor is true
@@ -25,6 +37,10 @@ Many at the Bureau are wary of Cassian. The rumor is that he knows everyone's mo
   Cassian: Whether it's true or not depends on how much you trust me, Chief.
 
 ### 「Memories in a Glass」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 At the party, Levy leans against the bar, watching Cassian work.
 
@@ -52,6 +68,10 @@ Levy: Hey there! Just asking Cassian to mix me a drink. You want one, Chief?
 
 ### 「Drink Promotion」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 With alcohol sales in a slump, Faye has organized the biggest drink promotion in Bureau history to boost business: a drinking championship.
 
 The last one standing gets the tab on the house. Once the fliers go out, the Sinners are all ready for a fight.
@@ -77,6 +97,10 @@ By the time you arrive on the scene, the floor is littered with drunken bodies. 
   Cassian: Indeed. From now on, whenever you feel like drinking, Chief, you'll always have company.
 
 ### 「Mood Special」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Night has fallen. After a dreary day of paperwork, you decide to unwind at the Bureau's new bar.
 

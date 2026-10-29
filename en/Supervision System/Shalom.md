@@ -2,17 +2,29 @@
 
 ### 「Human Observer」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Since who knows when, Shalom has started to call herself the president of the "Human Observation Society," even though she's only been listening to vinyl records and watching movies in the Recreation Area every day. Amazingly, it didn't take long before she gathered a bunch of club members.
 
 - Club members? More like minions.
 
 ### 「Bad Role Model」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Since Shalom came to the Bureau, she's been ignoring all rules and regulations. This "laid-back" style has attracted the attention of all the Sinners. Some reckless Sinners start to imitate her... and the results are as expected.
 
 - Better not to follow her lead.
 
 ### 「Plant Slayer」
+
+Location: Outdoor Activity Area / Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Warning! The key monitoring subject, Shalom, has recently met with multiple contacts in secret room. It is suspected that a handover of items has occurred for unknown purposes. Please intervene as soon as possible!
 
@@ -45,6 +57,10 @@ Chief: Just watching the footage, I can't make heads or tails of what Shalom's h
     Shalom: Until I can grow a gorgeous flower myself... You, who've peeled back my scars and seen the truth, maybe you'd be up for being my "partner in crime"?
 
 ### 「Filling the Gap」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 System has identified an attempt by certain Sinners, including Hella, to congregate and view movies with inappropriate content. Swift measures have been taken to halt this activity.
 
@@ -81,6 +97,10 @@ When Shalom joined the Bureau, she didn't leave behind her massive trove. She ha
     Shalom: I've never really meddled in the lending process, just watched from the sidelines. And even if I get what I want out of it... it's not like it's going to hurt you, right?
 
 ### 「Gift」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 It's almost Shalom's birthday, and you want to get her a small gift.
 
@@ -169,6 +189,10 @@ Chief: While I may not love flowers as much as you do, I can somewhat understand
 Shalom: Hehe. Do you really?
 
 ### 「Little Trick」
+
+Location: Secret Chamber
+
+Urgency: ⚠⚠⚠
 
 Recently, you've started to find Shalom's behavior suspicious.
 

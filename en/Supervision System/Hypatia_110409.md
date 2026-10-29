@@ -2,11 +2,19 @@
 
 ### 「Stargazing」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Hypatia would like to simulate a starry sky.
 
 - Approve
 
 ### 「World Travels」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 Hypatia is interested in Yugu's stories about Eastia, and the two have arranged to meet up in the library.
 
@@ -15,6 +23,10 @@ Hypatia is interested in Yugu's stories about Eastia, and the two have arranged 
   Hypatia repeatedly questioned the authenticity of Yugu's stories. After several such challenges, Yugu excused herself saying she needed to drink tea to soothe her throat, and never returned.
 
 ### 「Scientific Dispute」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 While passing by the Energy Furnace, you spot Hypatia and sense Mania Flux.
 
@@ -49,6 +61,10 @@ While passing by the Energy Furnace, you spot Hypatia and sense Mania Flux.
       With her composure restored, Hypatia returns to her work.
 
 ### 「Unfettered」
+
+Location: Training Room / Darkroom
+
+Urgency: ⚠⚠
 
 You encounter Hypatia in the hallway and, while greeting her, notice her robe is hopelessly wrinkled.
 
@@ -85,6 +101,10 @@ You encounter Hypatia in the hallway and, while greeting her, notice her robe is
     Later that day, you spot Hypatia with her robe draped conspicuously over her arm, drawing more attention to what she's trying to hide. Without a word, you hand her a note you've prepared with Mira and Jelena's room numbers.
 
 ### 「Dry Humor」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 While passing through the Recreation Area, you notice Hypatia clutching a notebook as she sits among a group of Sinners. Despite the setting, the atmosphere is strangely solemn.
 
@@ -141,6 +161,10 @@ While passing through the Recreation Area, you notice Hypatia clutching a notebo
     Hypatia is too busy to answer you, focused on jotting down your joke in her notebook.
 
 ### 「Equivalent Exchange」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Passing by the greenhouse, you're surprised to find Hypatia—who absolutely cannot cook—busily working in the kitchen.
 

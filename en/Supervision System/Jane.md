@@ -2,6 +2,10 @@
 
 ### 「Part-Time Expert」
 
+Location: Management Center
+
+Urgency: ⚠
+
 In addition to her missions, Jane takes on part-time jobs in the cafeteria, logistics, Supply Office, and various other departments of the Bureau. Her bustling presence seems to be everywhere.
 
 - Tell her to take more rest
@@ -10,11 +14,19 @@ In addition to her missions, Jane takes on part-time jobs in the cafeteria, logi
 
 ### 「Movie Date」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Jane occasionally plays old silent films that she rented in the Recreation Area, and Angell sometimes joins her to watch.
 
 - Looks like they found a common interest.
 
 ### 「Promotional Ambassador」
+
+Location: Management Center
+
+Urgency: ⚠
 
 A public welfare organization sends a request to the Bureau, inviting Jane to become an "anti-gambling ambassador." Her role would involve writing articles based on personal experiences to caution the public about the perils of gambling on families and individuals.
 
@@ -23,6 +35,10 @@ A public welfare organization sends a request to the Bureau, inviting Jane to be
   Chief: Forward the message to Jane and let her decide.
 
 ### 「Shooting Spar」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -47,6 +63,10 @@ Damages to equipment in the Training Room detected. Go and check?
   Chief: Everyone benefits from practicing together, but let's be mindful of the equipment's wear and tear during training next time.
 
 ### 「Special Photo」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 Several Sinners gather to exchange photos from their school days.
 
@@ -73,6 +93,10 @@ Jane: Yeah, our uniform is quite similar to the sheriff's one...
   Chief: Oh, I see... That's a funny coincidence to have a photo of you two together like that.
 
 ### 「God Gamer」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Jane and Mess are having a PvP match in "Sheriff and Bandit" with many onlookers around.
 

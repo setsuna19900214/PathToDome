@@ -2,7 +2,13 @@
 
 ## Yao - Interrogation I
 
+> Intelligence before completion:
+> You've successfully detained Sinner Yao in Eastia. However, due to her abnormal condition, you have no choice but to keep her by your side and take care of her personally.
+
+> Intelligence after completion:
 > Cared by you and the shackles, Yao gradually returns to who you used to know. However, she retains a lot of her wild instincts and Apostle traits, making it impossible for her to integrate into her current life.
+
+### Interrogation Transcript
 
 The dream is shrouded in fog, the boundaries not at all in sight.
 
@@ -294,10 +300,18 @@ You arrange for Yao, who's still bound, to be taken to the interrogation room. B
 
 Chief: I will take responsibility for everyone's safety. No worries.
 
+> Cared by you and the shackles, Yao gradually returns to who you used to know. However, she retains a lot of her wild instincts and Apostle traits, making it impossible for her to integrate into her current life.
+
 ## Yao - Interrogation II
 
+> Intelligence before completion:
+> Returning from a work trip in WhiteSands, you witness Yao's rampage. According to the Bureau's observation report on Yao, she sometimes enters a state similar to that of an Apostle of Ashes. You decide to begin her interrogation at once, hoping to find out the reasons behind the unusual phenomena revolving around Yao, WhiteSands, and the Apostle alarms.
+
+> Intelligence after completion:
 > You can feel Yao's inner struggle as she digests everyone's expectations for her and resists her own instincts.
 > Yao flees the Bureau amid the ear-splitting Apostle alarm. Even though documents issued by Paradeisos judge that the alarm has been triggered by Yao, you still hold a unique trust in her.
+
+### Interrogation Transcript
 
 The room's lights on, the person in the seat curls up a bit.
 
@@ -665,9 +679,18 @@ The moment she gazes at you, everyone feels it.
 
 An unparalleled power, monstrous, an Apostle-level Mania power.
 
+> You can feel Yao's inner struggle as she digests everyone's expectations for her and resists her own instincts.
+> Yao flees the Bureau amid the ear-splitting Apostle alarm. Even though documents issued by Paradeisos judge that the alarm has been triggered by Yao, you still hold a unique trust in her.
+
 ## Yao - Interrogation III
 
+> Intelligence before completion:
+> You intercept the rampaging Yao in the heart of WhiteSands. Apart from you, she won't listen to anyone else. With the still-connected shackles as proof, you order the frontline soldiers to halt their attack before communicating with Yao personally.
+
+> Intelligence after completion:
 > Yao goes berserk because she senses the invasion of an even more powerful Apostle. Her instincts lead her to the fight in WhiteSands while her emotions urge her to protect you and humanity.
+
+### Interrogation Transcript
 
 Not far away, heatwaves carrying coarse sand hit in waves.
 
@@ -979,14 +1002,22 @@ You raise your hand through the scorching flames, the crimson shackles linking t
 
 But this time, it's not a prohibitive command, but a warm, embracing force.
 
+> Yao goes berserk because she senses the invasion of an even more powerful Apostle. Her instincts lead her to the fight in WhiteSands while her emotions urge her to protect you and humanity.
+
 ## Yao - Interrogation IV
 
+> Intelligence before completion:
+> The attack of the Apostle of Ashes knocks you unconscious. But in the moment before you black out, you see the brilliance of the sun bursting right before your eyes.
+
+> Intelligence after completion:
 > Radiance bloomed, sunshine on face;
 > Snow melts away, a serene embrace.
 > Blossoms and sprouts, virescent sights;
 > Wraith spirits cried, gleams of late nights.
 > Nightmare ended, tear streaks faded.
 > Sunrise glistened, true wish granted.
+
+### Interrogation Transcript
 
 You dream again.
 
@@ -1279,3 +1310,10 @@ Chief: Let's make a deal, next time you come, can you not let the Bureau's tempe
 Yao: That's not possible I'm afraid.
 
 Yao: Unless of course... I'm not *too* busy thinking about you.
+
+> Radiance bloomed, sunshine on face;
+> Snow melts away, a serene embrace.
+> Blossoms and sprouts, virescent sights;
+> Wraith spirits cried, gleams of late nights.
+> Nightmare ended, tear streaks faded.
+> Sunrise glistened, true wish granted.

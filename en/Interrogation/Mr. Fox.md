@@ -2,8 +2,15 @@
 
 ## Mr. Fox - Interrogation I
 
-> Based on his unique ideas of "chasing justice," you don't think Mr. Fox should be allowed to go out.
+> Intelligence before completion:
+> You detained Mr. Fox, the 'undefeated lawyer' from the Eastside, but just a day later, he submitted an application for a leave permit.
+> In order to review whether he is eligible to go out, you decided to conduct a one-on-one interrogation of him.
+
+> Intelligence after completion:
+> Given his unconventional interpretation of 'justice', you believe Mr. Fox should not be permitted to leave.
 > With his power, Mr. Fox forces you to allow him. You decide to play along and try to reverse his mind.
+
+### Interrogation Transcript
 
 ???: So, this is how it feels to be in a position like this.
 
@@ -343,10 +350,20 @@ Nightingale: Eastside? You want to follow Mr. Fox again?
 
 Chief: No, I want to beat him at his own game.
 
+> Based on his unique ideas of "chasing justice," you don't think Mr. Fox should be allowed to go out.
+> With his power, Mr. Fox forces you to allow him. You decide to play along and try to reverse his mind.
+
 ## Mr. Fox - Interrogation II
 
+> Intelligence before completion:
+> The FAC sent you as their special agent to investigate and search for evidence at the manor.
+> It is in this manor that you will have to dig out the truth little by little.
+
+> Intelligence after completion:
 > The information you received from the manor's mistress, maid, and young master concerns you.
 > Fox is no longer eligible to use his ability. You and he are going to have a fair duel that he wishes for.
+
+### Interrogation Transcript
 
 An MBCC vehicle pulls up in front of a grandiose manor.
 
@@ -774,10 +791,19 @@ Fox doesn't finish his sentence. He looks at you for a long while before steppin
 
 <ins>Mr. Fox: Tell us your theory then, sir.</ins><br><ins>Mr. Fox: Tell us your theory then, miss.</ins>
 
+> The information you received from the manor's mistress, maid, and young master concerns you.
+> Fox is no longer eligible to use his ability. You and he are going to have a fair duel that he wishes for.
+
 ## Mr. Fox - Interrogation III
 
+> Intelligence before completion:
+> The case took a different turn. Will you be able to turn the tide in the end?
+
+> Intelligence after completion:
 > Those who hurt other people eventually get what's coming for them.
 > But what people think to be justice isn't always true justice.
+
+### Interrogation Transcript
 
 You can sense that everyone in the room is looking at you. There are appraising looks, grateful looks, distrustful looks, and looks of anticipation. You must control the whole situation here and now.
 
@@ -1250,3 +1276,6 @@ Mr. Fox: But I had no peace of mind, until I met you.
 Mr. Fox: I've been waiting for the person who'll mete out my sentence.
 
 Mr. Fox: If I really am a bad seed, then I hope you'll be the one who sends me down to hell.
+
+> Those who hurt other people eventually get what's coming for them.
+> But what people think to be justice isn't always true justice.

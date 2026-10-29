@@ -2,8 +2,15 @@
 
 ## Nino - Interrogation I
 
+> Intelligence before completion:
+> During the Call at 3 AM incident, Nino found an excuse to flee from your side, and a few days after the incident was resolved, she posted a message on her social media that she was about to resume livestreaming.
+> It seems that she was not bothered by the incident at all.
+
+> Intelligence after completion:
 > You and the city arrest team raided Sinner Nino's residence and successfully detained her.
 > You agreed to Nino's live stream conditions, with the aim of studying and observing her slightly special ability more closely.
+
+### Interrogation Transcript
 
 Those shrill alarms and PA announcements feel like a thing of the past. Today, only the faint clamor from the distant Recreation Area can be heard.
 
@@ -545,10 +552,19 @@ Nino: As if I'll tell you!
 
 The big-name streamer makes a face at you.
 
+> You and the city arrest team raided Sinner Nino's residence and successfully detained her.
+> You agreed to Nino's live stream conditions, with the aim of studying and observing her slightly special ability more closely.
+
 ## Nino - Interrogation II
 
+> Intelligence before completion:
+> Nino is preparing for her first live stream at the Bureau. Meanwhile, you also discovered the source of Nino's abilities.
+
+> Intelligence after completion:
 > While Nino's livestream talent certainly surprised you, what surprised you even more was how Nino behaved in front of her neighbor.
 > It was as if the silly, chatty host you knew changed into a completely different person.
+
+### Interrogation Transcript
 
 Soon after, Nino sets up her streaming equipment in the room you specially prepared for her, ready to start.
 
@@ -860,10 +876,19 @@ You can sense a surge of uncontrollable energy filling up the room, pressing in 
 
 You reach out toward the tough black barrier once again...
 
+> While Nino's livestream talent certainly surprised you, what surprised you even more was how Nino behaved in front of her neighbor.
+> It was as if the silly, chatty host you knew changed into a completely different person.
+
 ## Nino - Interrogation III
 
+> Intelligence before completion:
+> The heavy Mania energy envelops Nino in layers, seemingly about to spread. You must suppress this ominous power as soon as possible.
+
+> Intelligence after completion:
 > You successfully suppressed Nino's Mania and devised a new training plan for her.
 > Meanwhile, due to your negligence that night, the live stream plan was leaked, and now you need to submit a 1500-word review report to Nightingale.
+
+### Interrogation Transcript
 
 ??: Nino, Mom and Dad are off to work now. Take good care of yourself, sweetheart...
 
@@ -1204,3 +1229,6 @@ Nightingale: It seems to be the deliveryman that night.
 **end**
 
 Nightingale: Sure, Chief.
+
+> You successfully suppressed Nino's Mania and devised a new training plan for her.
+> Meanwhile, due to your negligence that night, the live stream plan was leaked, and now you need to submit a 1500-word review report to Nightingale.

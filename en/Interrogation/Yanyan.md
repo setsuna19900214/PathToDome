@@ -2,7 +2,13 @@
 
 ## Yanyan - Interrogation I
 
+> Intelligence before completion:
+> The Eastian delegation has already left, but Yanyan has stayed in DisCity by herself. Of course, you welcome the girl and her prophecies, but things are turning out more complicated.
+
+> Intelligence after completion:
 > Struck by reality, Yanyan admits something is wrong with her abilities. To help repair her power and faith, you decide to take her to verify her latest prophecy.
+
+### Interrogation Transcript
 
 The Apostle of Ashes *Sun Crow* has been vanquished, and the Eastian delegation has embarked on their return journey after a brief rest at the MBCC. All of this seems to signify a break from the recent hustle. You're finally able to catch a breath.
 
@@ -216,9 +222,17 @@ Chief: Of course. Besides, a crisis happens to be awaiting us now, remember?
 
 Chief: Let's start with that legendary evil spirit at the end of the alley you prophesied about just now.
 
+> Struck by reality, Yanyan admits something is wrong with her abilities. To help repair her power and faith, you decide to take her to verify her latest prophecy.
+
 ## Yanyan - Interrogation II
 
+> Intelligence before completion:
+> The prophecy proves inaccurate again. Luckily, Yanyan's attention has already shifted to the mysterious old lady searching for aliens.
+
+> Intelligence after completion:
 > The old lady who resembles Yanyan's grandmother has a sorrowful past. Moved by her story, Yanyan decides to help her fulfill her wish after careful consideration.
+
+### Interrogation Transcript
 
 Yanyan: Ah! Granny! Stop, there's a filthy, man-eating presence ahead! It's very dangerous!
 
@@ -532,10 +546,18 @@ Chief: If that's what you want, go for it, Yanyan. Not for duty and not to prove
 
 Yanyan: Yes! I'll do my best!
 
+> The old lady who resembles Yanyan's grandmother has a sorrowful past. Moved by her story, Yanyan decides to help her fulfill her wish after careful consideration.
+
 ## Yanyan - Interrogation III
 
+> Intelligence before completion:
+> Yanyan still doesn't have perfect control of her power. But this time, she's holding onto a wish and refuses to be defeated by failure and doubt again.
+
+> Intelligence after completion:
 > Having shed her doubts and concerns, Yanyan grows like a sun-facing flower toward her goal as a reliable seer.
 > At the moment of farewell, you make a pinky promise with each other about the luminous future.
+
+### Interrogation Transcript
 
 Witnessed by you and the old woman, Yanyan sits cross-legged under the tree, takes a few deep breaths, and slowly closes her eyes.
 
@@ -784,3 +806,6 @@ The girl waves at you one last time, then walks away with her bags of gifts.
 Her figure is just as tiny and slender as before, but those small but firm shoulders are now capable of bearing responsibilities.
 
 She turns and walks into the rising sun, advancing in her life and into her future.
+
+> Having shed her doubts and concerns, Yanyan grows like a sun-facing flower toward her goal as a reliable seer.
+> At the moment of farewell, you make a pinky promise with each other about the luminous future.

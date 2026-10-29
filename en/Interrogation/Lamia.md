@@ -2,8 +2,14 @@
 
 ## Lamia - Interrogation I
 
+> Intelligence before completion:
+> Although the Insatiable Fiesta event has come to an end, you still have doubts about the mysterious network organization, the Thaumas Society, so you decide to interrogate Lamia.
+
+> Intelligence after completion:
 > You finally know the inside story of the Thaumas Society and the hidden truths behind the President's death, but when the topic comes to Lamia's childhood, she suddenly loses control, forcing the interrogation to be suspended.
 > At the same time, she gives you a location—Eastside Psychiatric Hospital. It seems to hide the reason for her loss of control.
+
+### Interrogation Transcript
 
 Knock knock knock...
 
@@ -275,9 +281,18 @@ Lamia: You're right. Only by knowing this will you be able to help me...
 
 Lamia: Help me, Chief.
 
+> You finally know the inside story of the Thaumas Society and the hidden truths behind the President's death, but when the topic comes to Lamia's childhood, she suddenly loses control, forcing the interrogation to be suspended.
+> At the same time, she gives you a location—Eastside Psychiatric Hospital. It seems to hide the reason for her loss of control.
+
 ## Lamia - Interrogation II
 
+> Intelligence before completion:
+> After the interrogation, with your questions, you go to the Eastside Psychiatric Hospital with Lamia.
+
+> Intelligence after completion:
 > With the sudden appearance of a relative, Lamia's disguise is completely torn apart. Her true face and the real inner world are finally fully revealed in front of you.
+
+### Interrogation Transcript
 
 Pedestrian A: Hey! Look over there! That girl has gray skin!
 
@@ -619,9 +634,17 @@ She lifts up her chin and looks at you smugly.
 
 Lamia: How about it? Do you dare take up my offer?
 
+> With the sudden appearance of a relative, Lamia's disguise is completely torn apart. Her true face and the real inner world are finally fully revealed in front of you.
+
 ## Lamia - Interrogation III
 
+> Intelligence before completion:
+> You follow Lamia to an old district in Eastside, where she will show you the bright and dark sides of humanity.
+
+> Intelligence after completion:
 > Although darkness is an inevitable part of the vast world and complex human nature, you still hope that Lamia understands that, even if accustomed to the cold and loneliness of the deep sea, one can still embrace the sunshine.
+
+### Interrogation Transcript
 
 On a sunny afternoon, you follow Lamia into an Eastside residential neighborhood. It's one of Eastside's rare old neighborhoods, somewhat cluttered and dilapidated, but full of life.
 
@@ -994,3 +1017,5 @@ There is a lot of dust and grime on the windows, but the warm golden light shine
 Lamia stands next to the girl's bed, clasping her hands in genuine reverence.
 
 It's as if the sunlight had finally reached the depths of the ocean.
+
+> Although darkness is an inevitable part of the vast world and complex human nature, you still hope that Lamia understands that, even if accustomed to the cold and loneliness of the deep sea, one can still embrace the sunshine.

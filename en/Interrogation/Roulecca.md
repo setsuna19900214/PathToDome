@@ -2,9 +2,17 @@
 
 ## Roulecca - Interrogation I
 
+> Intelligence before completion:
+> In the crypt, you found a curled-up Roulecca. When she was arrested, she looked indifferent and even whispered in your ear.
+> "I know something you want to know."
+> When you were about to ask her for more details, she claimed that it was not the place to discuss this matter. You would have to find... a quieter place.
+
+> Intelligence after completion:
 > She eventually got the list from you, anyway.
 > You should've realized this earlier. She approached you on purpose because you had something that she wanted.
 > Her right hand is wounded. You should seize this chance and reinforce her room to prevent her from escaping the MBCC.
+
+### Interrogation Transcript
 
 You push the door to the interrogation room and find the survivor of the crypt sitting on a chair. She is fiddling with her handcuffs while trying to get a good look at the papers on your desk.
 
@@ -604,10 +612,21 @@ Despite being splattered by the debris, Roulecca is in high spirits. She proudly
 
 Roulecca: Goodbye, Chief. Next time we meet, you've got to entertain me more.
 
+> She eventually got the list from you, anyway.
+> You should've realized this earlier. She approached you on purpose because you had something that she wanted.
+> Her right hand is wounded. You should seize this chance and reinforce her room to prevent her from escaping the MBCC.
+
 ## Roulecca - Interrogation II
 
+> Intelligence before completion:
+> Though you gave an order to keep a close eye on Roulecca, she blasted open her Sinner room and fled back to Syndicate.
+> You know that she is probably now acting on her own and following that list.
+
+> Intelligence after completion:
 > After quite some effort, you finally found an exhausted Roulecca. To save her, you took a shot for her that would've been fatal.
 > Poisonous gas is everywhere in the air. You take off your coat and use it to cover Roulecca's mouth and nose. You will only have a chance to survive if she's alive too.
+
+### Interrogation Transcript
 
 Nightingale: Chief, we've captured three target signals. Please use your shackles to locate the Sinner.
 
@@ -939,11 +958,21 @@ Looks like... you're not lucky enough.
 
 Your consciousness grows hazy, but you do not let go of her.
 
+> After quite some effort, you finally found an exhausted Roulecca. To save her, you took a shot for her that would've been fatal.
+> Poisonous gas is everywhere in the air. You take off your coat and use it to cover Roulecca's mouth and nose. You will only have a chance to survive if she's alive too.
+
 ## Roulecca - Interrogation III
 
+> Intelligence before completion:
+> To protect Roulecca, you took a heavy blow and breathed in the gangsters' poison gas.
+> Before you passed out, you had a glimpse of a memory...
+
+> Intelligence after completion:
 > Roulecca has never lied to you. Her "good luck" is indeed a result of her "spoiling" family.
 > However, here at the MBCC, you will spoil her no further. Instead, you will correct some of her bad habits.
 > Except that... it is a bit difficult to actually get it done.
+
+### Interrogation Transcript
 
 Man: Roulecca? Roulecca?
 
@@ -1266,3 +1295,7 @@ Roulecca: I-I'll see you later, Chief. Don't forget our promise!
 Roulecca pulls the window open and leaps down.
 
 Chief: ROULECCA!
+
+> Roulecca has never lied to you. Her "good luck" is indeed a result of her "spoiling" family.
+> However, here at the MBCC, you will spoil her no further. Instead, you will correct some of her bad habits.
+> Except that... it is a bit difficult to actually get it done.

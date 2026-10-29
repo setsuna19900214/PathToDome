@@ -2,7 +2,13 @@
 
 ## Celine - Interrogation I
 
+> Intelligence before completion:
+> A curious historical incident unfolding on the internet. An ordinary meeting arranged by EDGE. No one can guess what's awaiting the two of you at the end of it all...
+
+> Intelligence after completion:
 > The Head Librarian of the Central Library is as gentle as moonlight, yet as cunning as a fox. She shows you the true source behind the chaotic information on the internet, disregarding everything else as a smokescreen. With her help, you zero in on the most likely suspect: Maris Andre.
+
+### Interrogation Transcript
 
 *[Is the Speaker of the City Council Driving DisCity's Future Off a Cliff?]*
 
@@ -254,9 +260,17 @@ Chief: ...
 
 So that's what it all comes down to, huh...
 
+> The Head Librarian of the Central Library is as gentle as moonlight, yet as cunning as a fox. She shows you the true source behind the chaotic information on the internet, disregarding everything else as a smokescreen. With her help, you zero in on the most likely suspect: Maris Andre.
+
 ## Celine - Interrogation II
 
+> Intelligence before completion:
+> You track down Professor Morton, the academic luminary who fabricated the existence of "Maris Andre," only to find him living in a crumbling apartment...
+
+> Intelligence after completion:
 > You finally uncover the mastermind behind Morton and resolve to raid the inauguration banquet of Maris Andre's memorial hall. But looking back on the predicaments faced by Morton and that nameless individual, you can't help but wonder: If one side of the scales held truth and poverty, and the other falsehood and happiness, which would you choose? Whatever your answer might be, Celine responds with gentle agreement, maintaining her composed, impartial distance.
+
+### Interrogation Transcript
 
 Rain drips from the man's disheveled hair as he squeezes sideways through the ajar door, clutching a crumpled coat against his chest. The door hinge groans, refusing to budge.
 
@@ -514,9 +528,17 @@ Her finger points to a faint imprint in the bottom-right corner of the photocopy
 
 You recall seeing this family name in the investigation report. In three days, they are hosting a banquet to celebrate the inauguration of the Maris Andre Memorial Hall.
 
+> You finally uncover the mastermind behind Morton and resolve to raid the inauguration banquet of Maris Andre's memorial hall. But looking back on the predicaments faced by Morton and that nameless individual, you can't help but wonder: If one side of the scales held truth and poverty, and the other falsehood and happiness, which would you choose? Whatever your answer might be, Celine responds with gentle agreement, maintaining her composed, impartial distance.
+
 ## Celine - Interrogation III
 
+> Intelligence before completion:
+> Everything is ready. All you need now is a disguise and an act of bravado to expose who orchestrated it all, and why. The truth is almost within reach... or is it?
+
+> Intelligence after completion:
 > The operation concludes without a hitch. But as you watch the documents and collections get handed over to the Central Library, a faint, unsettling feeling stirs in your chest...
+
+### Interrogation Transcript
 
 Over the years, the Black Rings have become a unit we use to measure time: N.F. 89, BR-001. N.F. 104, BR-002. N.F. 112, BR-004... But before them, there was another way to define an era.
 
@@ -760,11 +782,19 @@ As if she's already expecting your surprise, Nightingale gives a small nod of co
 
 Nightingale: Yes, Chief. Everything.
 
+> The operation concludes without a hitch. But as you watch the documents and collections get handed over to the Central Library, a faint, unsettling feeling stirs in your chest...
+
 ## Celine - Interrogation IV
 
+> Intelligence before completion:
+> With the access Celine granted you, you visit the Central Library and find her in the heart of the archives, surrounded by the spoils of her victory. Perhaps, at this very moment, you too are walking into a trap...
+
+> Intelligence after completion:
 > "Throughout history, I have witnessed many who strove to carve the truth between the narrowest of cracks, who cast themselves into the current of their age, knowing it could cost them everything."
 > "I've watched them, studied them, seen them off. And in the end, I, too, long to become one of them."
 > "Time surges on like a ceaseless river. May I at last become the water itself, and find you again."
+
+### Interrogation Transcript
 
 *I can't tell when exactly this started. But no matter how I fall asleep, the lessons from my childhood always appear at the beginning of my dreams...*
 
@@ -1083,3 +1113,7 @@ Celine: ......
 *And those who remember history... and continue to move forward...*
 
 Celine: ...Heh. Then... it's a promise.
+
+> "Throughout history, I have witnessed many who strove to carve the truth between the narrowest of cracks, who cast themselves into the current of their age, knowing it could cost them everything."
+> "I've watched them, studied them, seen them off. And in the end, I, too, long to become one of them."
+> "Time surges on like a ceaseless river. May I at last become the water itself, and find you again."

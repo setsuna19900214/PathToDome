@@ -2,8 +2,16 @@
 
 ## Helga - Interrogation I
 
+> Intelligence before completion:
+> Following the Farland Alliance's declaration of independence, Fraser swiftly imposed a blockade and embargo on all trade routes. Only one path remains passable, but it cuts through the Alsa Highlands, a region severely contaminated by Mania. Left with no other choice, Helga comes to request your aid in purifying the Mania there. You agree, gather the necessary equipment, and set out for the outpost in the farlands.
+>
+> Somewhere in the farlands, a group of Fraser soldiers is holding out desperately.
+
+> Intelligence after completion:
 > Through Helga, you meet the other members of the special squad for this mission. But before you get to chat, a Corruptor ambush nearby signals the further spread of Mania. You have no choice but to move out immediately.
 > Yet even before setting off, you already sense the differing opinions among the squad members, and their subtle hostility toward you. The road ahead seems full of uncertainty.
+
+### Interrogation Transcript
 
 N.F. ██, █/██
 
@@ -305,11 +313,22 @@ Then, grasping his thin, bony fingers, you haul him to his feet.
 
 Chief: Let's go.
 
+> Through Helga, you meet the other members of the special squad for this mission. But before you get to chat, a Corruptor ambush nearby signals the further spread of Mania. You have no choice but to move out immediately.
+> Yet even before setting off, you already sense the differing opinions among the squad members, and their subtle hostility toward you. The road ahead seems full of uncertainty.
+
 ## Helga - Interrogation II
 
+> Intelligence before completion:
+> With most of the journey behind you, your vehicle suddenly breaks down, forcing an unplanned stop. What should have been a brief rest to recover strength instead becomes a breeding ground for suspicion and hostility.
+>
+> On the battlefield of the Alsa Highlands, the Fraser company continues to hold on. Yet among their ranks, it seems the first deserter is about to emerge.
+
+> Intelligence after completion:
 > At the critical moment, you reveal your identity and drive back the Corruptors, but this immediately ignites the hostility of your companions. The tensions between them erupt, and the squad splinters apart.
 > As for that Fraser company, it was the very unit Helga led in her youth. She told you this story from forty years ago herself. They held out until the very end, but at last, no one could be saved.
 > The Alsa Highlands stretch before you. As far as the eye can see, there are only Corruptors and corpses. Only one thing remains to be done.
+
+### Interrogation Transcript
 
 Vester: You sure this is the way?
 
@@ -973,11 +992,22 @@ Helga: In the end... even our enemies had written us off.
 
 Helga: This is... our story.
 
+> At the critical moment, you reveal your identity and drive back the Corruptors, but this immediately ignites the hostility of your companions. The tensions between them erupt, and the squad splinters apart.
+> As for that Fraser company, it was the very unit Helga led in her youth. She told you this story from forty years ago herself. They held out until the very end, but at last, no one could be saved.
+> The Alsa Highlands stretch before you. As far as the eye can see, there are only Corruptors and corpses. Only one thing remains to be done.
+
 ## Helga - Interrogation III
 
+> Intelligence before completion:
+> One week ago, Helga, the current Speaker of the Farlands, came to the Bureau alone and sat herself down in the interrogation room, all to prove her convictions and earn your support.
+> Now, one week later, only the two of you remain. But together, you will see this mission through.
+
+> Intelligence after completion:
 > Through the combined efforts of everyone, the Alsa Highlands are successfully purified. The dark mist lifts at last, and light shines once more upon the scorched earth, illuminating those who have passed, and those who remain. This may only be a beginning, but for the farlands, it is precious enough.
 > Throughout it all, Helga guards your back, pointing her barrel forward, every shot scattering the shadows that lunge for those young souls.
 > This will never be just the farlands' fight. It is everyone's battle. You do not yet know where this road will ultimately lead, but the path will certainly be a bright one.
+
+### Interrogation Transcript
 
 One week ago.
 
@@ -1374,3 +1404,7 @@ The young woman with frayed sleeves offers a hand and pulls you up.
 Her lips part, and she speaks.
 
 *"I wish you a long road ahead."*
+
+> Through the combined efforts of everyone, the Alsa Highlands are successfully purified. The dark mist lifts at last, and light shines once more upon the scorched earth, illuminating those who have passed, and those who remain. This may only be a beginning, but for the farlands, it is precious enough.
+> Throughout it all, Helga guards your back, pointing her barrel forward, every shot scattering the shadows that lunge for those young souls.
+> This will never be just the farlands' fight. It is everyone's battle. You do not yet know where this road will ultimately lead, but the path will certainly be a bright one.

@@ -2,8 +2,14 @@
 
 ## Hypatia - Interrogation I
 
+> Intelligence before completion:
+> December, N.F. 113. After the BR-002 High Tower Black Ring crisis, while you're occupied with West District reconstruction efforts, you receive an anomaly report from the 9th Agency: A suspicious anonymous account has been actively collecting sensitive information on the dark web.
+
+> Intelligence after completion:
 > With the assistance of the 9th Agency and Wynn, you finally gain the trust of this suspicious account in an unexpected manner and under an assumed identity, successfully establishing long-term contact.
 > A corner of the veil has been lifted, yet countless mysteries remain unsolved. You'll need to maintain this connection and continue your search for answers.
+
+### Interrogation Transcript
 
 December, N.F. 113
 
@@ -293,10 +299,19 @@ Chief: Keep this account active and continue monitoring.
 
 This chess match is far from over. To unravel these mysteries, you need to maintain contact with them and find the answers through careful probing.
 
+> With the assistance of the 9th Agency and Wynn, you finally gain the trust of this suspicious account in an unexpected manner and under an assumed identity, successfully establishing long-term contact.
+> A corner of the veil has been lifted, yet countless mysteries remain unsolved. You'll need to maintain this connection and continue your search for answers.
+
 ## Hypatia - Interrogation II
 
+> Intelligence before completion:
+> Having been in contact with "Archivist 19260817" for some time, you discover this archivist seems somewhat different from your initial imagination.
+
+> Intelligence after completion:
 > "Archivist 19260817" brings up her family and personal struggles for the first time. Despite the vague description, you can clearly sense the suffocating loneliness of someone crushed beneath the weight of duty and expectations.
 > You know you cannot free her from these restraints, yet you still hope your words might offer her some comfort and courage.
+
+### Interrogation Transcript
 
 Early February, N.F. 114
 
@@ -664,11 +679,20 @@ Adelaide: Don't worry, Hypa... Just like always...
 
 Adelaide: Your brother will always be by your side.
 
+> "Archivist 19260817" brings up her family and personal struggles for the first time. Despite the vague description, you can clearly sense the suffocating loneliness of someone crushed beneath the weight of duty and expectations.
+> You know you cannot free her from these restraints, yet you still hope your words might offer her some comfort and courage.
+
 ## Hypatia - Interrogation III
 
+> Intelligence before completion:
+> In the months that follow, incidents and crises emerge one after another. As the external situation grows increasingly volatile, you receive no further messages from "Archivist 19260817."
+
+> Intelligence after completion:
 > Struggling against the tides of time, Hypatia feels so small. All her efforts and determination seem fruitless. That long letter from you strikes like a devastating blow, shattering her final defenses. In that moment, all the pain and despair she's been suppressing explode. With flowing tears and ragged breaths, she breaks down completely.
 > Yet deep in her collapse, Hella's appearance rekindles a glimmer of hope. She begins to believe that perhaps fate might still offer a chance to turn things around.
 > ...But would things truly take a turn for the better?
+
+### Interrogation Transcript
 
 Early March, N.F. 114
 
@@ -1020,10 +1044,21 @@ The Fall of Furor
 
 BR-005 Outbreak
 
+> Struggling against the tides of time, Hypatia feels so small. All her efforts and determination seem fruitless. That long letter from you strikes like a devastating blow, shattering her final defenses. In that moment, all the pain and despair she's been suppressing explode. With flowing tears and ragged breaths, she breaks down completely.
+> Yet deep in her collapse, Hella's appearance rekindles a glimmer of hope. She begins to believe that perhaps fate might still offer a chance to turn things around.
+> ...But would things truly take a turn for the better?
+
 ## Hypatia - Interrogation IV
 
+> Intelligence before completion:
+> The illusion shatters. Consciousness plunges into an endless void. In that self-woven abyss, Hypatia finally faces a cruel reckoning.
+> Here, there is no forgiveness, no redemption. Every accusation and punishment will be delivered by her own hand.
+
+> Intelligence after completion:
 > One week before the outbreak of the War of the Shattered Blade, the DisCity spy "Peace Dove" successfully makes contact with a key figure in Fraser's Aurum Secretum research, Hypatia Campbell.
 > The road ahead remains treacherous and full of uncertainty. May the determined, kind-hearted girl follow the glimmer of light through the ruins and find her way to her own dawn.
+
+### Interrogation Transcript
 
 Her consciousness drifts through a boundless black void. Hypatia cannot tell whether she's floating or falling, only sensing that time has long lost its meaning.
 
@@ -1294,3 +1329,6 @@ Mysterious Woman: War is coming. If we delay any longer, peace won't reach the b
 One week before the outbreak of the War of Shattered Blade.
 
 The DisCity spy "Peace Dove" has successfully made contact with the key figure of Fraser's Aurum Secretum research, Hypatia Campbell.
+
+> One week before the outbreak of the War of the Shattered Blade, the DisCity spy "Peace Dove" successfully makes contact with a key figure in Fraser's Aurum Secretum research, Hypatia Campbell.
+> The road ahead remains treacherous and full of uncertainty. May the determined, kind-hearted girl follow the glimmer of light through the ruins and find her way to her own dawn.

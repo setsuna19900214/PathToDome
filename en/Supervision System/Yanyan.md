@@ -2,6 +2,10 @@
 
 ### 「Save the Light」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
+
 [System Notice] Supervision System:
 
 Malfunction detected in the lighting system of the Outdoor Activity Area. Go and check?
@@ -68,6 +72,10 @@ Malfunction detected in the lighting system of the Outdoor Activity Area. Go and
 
 ### 「The Irresistible Taste of Eastia」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 Yanyan gives you a generous portion of her homemade snack. This spicy treat is so flavorful and delicious that you can't stop eating.
 
 - Eat your fill
@@ -75,6 +83,10 @@ Yanyan gives you a generous portion of her homemade snack. This spicy treat is s
   That night, you develop stomach cramps. When the pain becomes too much, you go to the infirmary to seek medical attention, only to find that many Sinners have suffered the same fate.
 
 ### 「A Question Machine」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 Yanyan loves spending time in the library. Due to the cultural differences, she often has difficulty in understanding some of the text she is reading.
 
@@ -86,6 +98,10 @@ Whenever this happens, she'll accost whoever happens to be near her and ply them
 
 ### 「A Sunny Day」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 One sunny day, you notice that Yanyan has brought the large antique rack out of her room to air, along with some objects that need to stay dry.
 
 - Go take a look
@@ -93,6 +109,10 @@ One sunny day, you notice that Yanyan has brought the large antique rack out of 
   On the top shelf is a neat row of hand-written notes, kept in place with paperweights. Their edges have yellowed, but the writing is still clear.
 
 ### 「A Master Storyteller」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 You've been receiving daily notifications of gatherings in the recreation room recently. You guess it might be some team-building activity organized by the Sinners, so you've chosen to stay out of it.
 
@@ -146,6 +166,10 @@ A few days later, however, the therapist's office, which is normally empty, sudd
 
 ### 「An Impressive Magic Item」
 
+Location: Energy Furnace
+
+Urgency: ⚠⚠
+
 Yanyan seeks you out while you're alone, excitement writ large on her face.
 
 - What's the matter?
@@ -191,6 +215,10 @@ Yanyan seeks you out while you're alone, excitement writ large on her face.
     Chief: You can borrow them from the library, if you're interested. How does that sound?
 
 ### 「Homesickness」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 One day, walking past the Recreation Room, you catch Yanyan sitting in the room all by herself.
 

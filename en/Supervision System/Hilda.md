@@ -2,6 +2,10 @@
 
 ### 「Challenge」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Every morning, she's waiting for "DisCity Today" to arrive. She won't even think about starting her day until she's finished with the entertainment section's crossword.
 
 - She hasn't finished today's puzzle yet. Must be a tricky one.
@@ -10,11 +14,19 @@ Every morning, she's waiting for "DisCity Today" to arrive. She won't even think
 
 ### 「Old-Timer」
 
+Location: Management Center
+
+Urgency: ⚠
+
 [System Notice] Supervision System: Sinner Hilda is rejecting the new food formula. This could lead to nutritional deficiencies. Please intervene.
 
 - Provide her with a vitamin supplement and give her time to adjust.
 
 ### 「Noise-Canceling Earphones」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Another day of thunderstorms. Remembering Hilda's severe storm anxiety, you go to check on her.
 
@@ -44,6 +56,10 @@ Hilda: But if I'm being honest, they aren't any more effective at sound isolatio
 
 ### 「The Homebody's Focus」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 [System Notice] Supervision System:
 
 Sinner Hilda has not left her detention area for 72 consecutive hours. Go and inspect?
@@ -71,6 +87,10 @@ Sinner Hilda has not left her detention area for 72 consecutive hours. Go and in
     Chief: Sure, let's go.
 
 ### 「Game Experience」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Etti has thrown herself into organizing another TRPG session for the Sinners, her passion evident.
 
@@ -125,6 +145,10 @@ Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. S
   The other Sinners answer with a chorus of groans, hastily dispersing from the Recreation Area like startled birds.
 
 ### 「Beyond the Samples」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 Anonymous Email:
 

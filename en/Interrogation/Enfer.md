@@ -2,8 +2,15 @@
 
 ## Enfer - Interrogation I
 
+> Intelligence before completion:
+> The Witching Hour has ended. Enfer has awakened as an S-Class Sinner and falls into a slumber at the same time.
+> A week later, Enfer comes back to consciousness. When the doctor confirms that Enfer is well, you decide to interrogate her.
+
+> Intelligence after completion:
 > Enfer, too, knows little about the Witching Hour's power, but you both are certain it is related to Sinner power.
 > Enfer wants you to visit Belphegor with her again for an investigation.
+
+### Interrogation Transcript
 
 The woman in the blue dress is sitting up straight in the interrogation room.
 
@@ -265,11 +272,21 @@ Enfer props her chin on her palm, her eyes curving with her smile.
 
 Enfer: Am I not obedient enough, Honored Chief?
 
+> Enfer, too, knows little about the Witching Hour's power, but you both are certain it is related to Sinner power.
+> Enfer wants you to visit Belphegor with her again for an investigation.
+
 ## Enfer - Interrogation II
 
+> Intelligence before completion:
+> You and Enfer return to Belphegor art museum together to clean up the aftermath of the Witching Hour.
+> Facing the shattered pieces on the floor, Enfer tells you not to feel sad about it.
+
+> Intelligence after completion:
 > Enfer re-creates a small sculpture with the fragments of her works. You find on the sculpture a tiny heart-shaped mark, just like the one present on most of Enfer's works.
 > But that mark is missing on a painting in the art museum painted by Enfer when she was little...
 > Enfer seems to recall something and hopes that you can accompany her back to her home.
+
+### Interrogation Transcript
 
 Days later, you and Enfer finally step inside the Belphegor Art Museum again.
 
@@ -567,10 +584,21 @@ Before hearing your answer, Enfer grabs your hand.
 
 Enfer: Come, go home with me!
 
+> Enfer re-creates a small sculpture with the fragments of her works. You find on the sculpture a tiny heart-shaped mark, just like the one present on most of Enfer's works.
+> But that mark is missing on a painting in the art museum painted by Enfer when she was little...
+> Enfer seems to recall something and hopes that you can accompany her back to her home.
+
 ## Enfer - Interrogation III
 
+> Intelligence before completion:
+> Enfer leads you to the underground studio in her residence. Walking down that long staircase, she tells you a different story.
+> What kind of truth is hidden in this place housing the art of two generations?
+
+> Intelligence after completion:
 > Not all of Enfer's artworks are destroyed. Her masterpiece, which has brought her fame, is still kept in the studio. It's her awakening of fear, as well as fear's restraint on her.
 > When Enfer discovers the heart-shaped mark on the sculpture, the unstable power leaks again, allowing the sculpture to... devour Enfer using its remaining power.
+
+### Interrogation Transcript
 
 After leaving the museum, Enfer brings you to a residence near the suburbs.
 
@@ -856,11 +884,21 @@ Amid the blur... you hear Enfer's voice.
 
 But the next moment, darkness overwhelms everything. You feel the shackles on your hand throbbing, gradually fusing with the person on the other end. You know that Enfer has used her power.
 
+> Not all of Enfer's artworks are destroyed. Her masterpiece, which has brought her fame, is still kept in the studio. It's her awakening of fear, as well as fear's restraint on her.
+> When Enfer discovers the heart-shaped mark on the sculpture, the unstable power leaks again, allowing the sculpture to... devour Enfer using its remaining power.
+
 ## Enfer - Interrogation IV
 
+> Intelligence before completion:
+> This is Enfer's consciousness. You're inside Enfer's fear.
+> Every lustrous and bizzare sight is a memory carved by fear.
+
+> Intelligence after completion:
 > Love is her redemption and her curse. But above all, it is her power.
 >
 > Love allows her to walk with fear and embrace the blazing flames.
+
+### Interrogation Transcript
 
 The thick darkness drowns everything in an instant. Just like that, the world falls silent.
 
@@ -1167,3 +1205,7 @@ Under the light, you see a vibrantly blue moth struggle free from a black cocoon
 Wings flashing a fiery light, it flutters and flies off to somewhere far away.
 
 Hell may be its destination, but this time... you're certain she isn't only accompanied by fear.
+
+> Love is her redemption and her curse. But above all, it is her power.
+>
+> Love allows her to walk with fear and embrace the blazing flames.

@@ -2,6 +2,10 @@
 
 ### 「Social Butterfly」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 Vautour Bleu: Oh, Kelvin! Thank you for the ice cream you made me yesterday. It was absolutely delightful.
 
 Kelvin: Really? I'm so glad! If you enjoy it, I'd be happy to make more flavors for you!
@@ -42,17 +46,29 @@ Despite having been in the Bureau for only a few days, she seems to have already
 
 ### 「Forever Loser」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Countess Chelsea bought a few pool tables and put them in the Recreation Area. It caused quite a commotion, but she ended up losing the most games.
 
 - Hope she's learned her lesson.
 
 ### 「A Good Deed」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 An employee is very ill but cannot afford the expensive medical expenses. Just when he was desperate, he received a huge amount of money from Chelsea.
 
 - Guess that's one good deed.
 
 ### 「Steal the Style」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 Someone asks Countess Chelsea for fashion tips. Two days later, they receive a set of clothes identical to all of the Countess's outfits this season.
 
@@ -61,6 +77,10 @@ Someone asks Countess Chelsea for fashion tips. Two days later, they receive a s
   That's Chelsea for you!
 
 ### 「Not for Sale」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
 
 You see Countess Chelsea fiddling with a calculator.
 
@@ -83,6 +103,10 @@ You see Countess Chelsea fiddling with a calculator.
     Chief: The Bureau is not for sale...
 
 ### 「Thank-you Letter」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Countess Chelsea is reading a letter with a frown. You notice the letter is addressed to *Countess Idiot*.
 
@@ -113,6 +137,10 @@ Countess Chelsea: I'm quite keen to learn how they'll insult me this time.
   Countess Chelsea: Chief, please allow me some privacy for now.
 
 ### 「The Countess Is Here」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠⚠
 
 You hear a clamor ahead.
 

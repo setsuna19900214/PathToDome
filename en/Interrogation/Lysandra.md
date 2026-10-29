@@ -2,8 +2,15 @@
 
 ## Lysandra - Interrogation I
 
+> Intelligence before completion:
+> Recently, the MBCC launched an official investigation into a series of artifact thefts near the DisCity border. Lysandra, the Sinner involved in these cases, was successfully apprehended.
+> This model detainee has been on excellent behavior and never made any special requests during her confinement. Yet one afternoon, she knocks on your office door alongside Roulecca, seeking permission for an outing.
+
+> Intelligence after completion:
 > The escape room adventure continues smoothly as you take the opportunity to observe Lysandra. She expertly guides you through each challenge, while Roulecca's remarkable luck significantly speeds up your progress. But when the game stops providing the thrill she craves, Roulecca decisively ditches you both to find her own entertainment elsewhere.
 > Finally reaching the last chamber, Lysandra warns you that something feels off about this place.
+
+### Interrogation Transcript
 
 ???: Plant your feet there and hold onto me.
 
@@ -343,10 +350,20 @@ At the far end, Lysandra is crouching down examining something. Looking ready to
 
 Lysandra: Ready for a truly nasty WhiteSands tomb, Chief?
 
+> The escape room adventure continues smoothly as you take the opportunity to observe Lysandra. She expertly guides you through each challenge, while Roulecca's remarkable luck significantly speeds up your progress. But when the game stops providing the thrill she craves, Roulecca decisively ditches you both to find her own entertainment elsewhere.
+> Finally reaching the last chamber, Lysandra warns you that something feels off about this place.
+
 ## Lysandra - Interrogation II
 
+> Intelligence before completion:
+> Once inside the highly immersive WhiteSands tomb raiding-themed escape room that the owner obviously spared no expense constructing, Lysandra immediately slips into her professional mode, ready to tackle the most challenging puzzles with you. But just one thing, don't forget that on the flyer it says this is only a...
+> *Soft Opening*
+
+> Intelligence after completion:
 > You and Lysandra work together seamlessly to solve the puzzle, gradually building trust along the way.
 > But with the escape room still in its trial period, the mechanism suddenly malfunctions, leaving you trapped in quicksand. For the first time, Lysandra is uncharacteristically unable to stay calm. The sand-covered coin lying in her palm tells you you should schedule an interrogation with her asap.
+
+### Interrogation Transcript
 
 The rubbing of the sand sounds like ancient whispers as more and more grains pelt against your body. Following Lysandra, you pass through a long, dim corridor engraved with ancient script before quickly reaching the heart of the sandstorm.
 
@@ -778,10 +795,20 @@ It's as if she's collecting all the emotions she just displayed, carefully foldi
 
 She leaves the chamber without looking back. You watch her solitary figure disappear as your own expression turns complicated.
 
+> You and Lysandra work together seamlessly to solve the puzzle, gradually building trust along the way.
+> But with the escape room still in its trial period, the mechanism suddenly malfunctions, leaving you trapped in quicksand. For the first time, Lysandra is uncharacteristically unable to stay calm. The sand-covered coin lying in her palm tells you you should schedule an interrogation with her asap.
+
 ## Lysandra - Interrogation III
 
+> Intelligence before completion:
+> Nightingale hands you the important follow-up files you've requested. The interrogation begins, but Lysandra is less than forthcoming. She's clearly hiding something from you.
+> As the interrogation progresses, you blow off the old sand covering the coin as past sins long buried beneath the dunes slowly come to light...
+
+> Intelligence after completion:
 > Under the tomb raider gang's cruel rules that disregarded human life, Lysandra had an epiphany. When she finally reached her breaking point, impulse drove her to rebel fiercely. Yet the harsh environment of WhiteSands left her powerless to change the fates of the other children she desperately wanted to help. That one time she resorted to *luck* became the cause of her lasting trauma.
 > Don't be so hard on yourself. It's okay to accept there are things beyond your control. Flipping a coin can simply be a little game of chance, nothing more.
+
+### Interrogation Transcript
 
 This is the first time you've met Lysandra after that nerve-wracking but ultimately harmless escape room adventure.
 
@@ -1378,3 +1405,6 @@ But this time, instead of clutching it in her palm as usual, she presses the coi
 The two of you exchange a smile.
 
 Lysandra: Take a guess, Chief. Heads or tails?
+
+> Under the tomb raider gang's cruel rules that disregarded human life, Lysandra had an epiphany. When she finally reached her breaking point, impulse drove her to rebel fiercely. Yet the harsh environment of WhiteSands left her powerless to change the fates of the other children she desperately wanted to help. That one time she resorted to *luck* became the cause of her lasting trauma.
+> Don't be so hard on yourself. It's okay to accept there are things beyond your control. Flipping a coin can simply be a little game of chance, nothing more.

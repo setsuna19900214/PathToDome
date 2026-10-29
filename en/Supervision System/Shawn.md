@@ -2,11 +2,19 @@
 
 ### 「Narrow Defeat」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Whenever it's time to select a movie for the movie night, Shawn always casts her vote for her favorite horror movies, but alas, horror movies always lose by a few votes to other genres.
 
 - Wish her success next time
 
 ### 「New Profile Picture」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Recently, many staff members in the Bureau have changed their profile pictures. These pictures are all quite similar in style, and they never show their whole faces in these pictures, giving off a mysterious vibe. It turns out they all asked Shawn to edit them.
 
@@ -14,11 +22,19 @@ Recently, many staff members in the Bureau have changed their profile pictures. 
 
 ### 「Voice Acting Performance」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Shawn, at everyone's request, also performs a dubbing act on stage at the gathering. She played multiple roles single-handedly, earning a room full of admiration and applause.
 
 - That's amazing!
 
 ### 「Magical Pockets」
+
+Location: Training Room
+
+Urgency: ⚠⚠
 
 Recently, the Bureau has introduced some delicate multifunctional training equipment, leading to a new rule in the Training Room: Sinners must temporarily hand over personal electronic devices, such as mobile phones, to the staff for safekeeping during training sessions to prevent signal interference with the equipment.
 
@@ -54,6 +70,10 @@ You nod and turn to leave, but she grabs your arm.
 
 ### 「Consensus」
 
+Location: Secret Chamber
+
+Urgency: ⚠⚠
+
 Passing by the secret room, you overhear two logistics department staff members having a secret discussion.
 
 Chief: What are they so excited about?
@@ -85,6 +105,10 @@ Chief: What are they so excited about?
   Chief: ...
 
 ### 「Hydrate」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Today, while taking a stroll in the Bureau, you receive a voice message from Shawn on your terminal.
 

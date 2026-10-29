@@ -2,6 +2,10 @@
 
 ### 「Interviews」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 Bianca: Hello everyone, today we are interviewing Sinners about their living conditions inside the MBCC.
 
 Bianca: I'm currently standing at the entrance of the MBCC cafeteria. I'm sure I'll gather lots of interesting firsthand material.
@@ -88,11 +92,19 @@ Bianca: Relax, I'll remove any sensitive information before publishing. I believ
 
 ### 「Fear's Nemesis」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Several fainthearted Sinners always bring Dudu with them when they watch horror movies. They ask her to play her suona when they get scared.
 
 - ...I got it.
 
 ### 「Where Are the Chicken Legs」
+
+Location: Greenhouse
+
+Urgency: ⚠
 
 A strange incident has been happening recently. The chicken legs in the cafeteria always disappear. The surveillance camera has captured Dudu's sneaky silhouette, and you've indeed found three chicken legs in her pocket and three others in her sleeves.
 
@@ -102,6 +114,10 @@ A strange incident has been happening recently. The chicken legs in the cafeteri
 
 ### 「Outdoor Activity Wonder」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 You find that several little birds often follow Dudu, especially when she plays the suona.
 
 - Why?
@@ -109,6 +125,10 @@ You find that several little birds often follow Dudu, especially when she plays 
   Chief: When you recall the name of that tune she always plays, realization dawns on you.
 
 ### 「The Pursuit of Art」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 You happen to see a frustrated Dudu during a walk in the Outdoor Activity Area. Normally, she seems energetic all the time and never likes to be alone.
 
@@ -144,6 +164,10 @@ So you walk over and pat her on the shoulder.
 
 ### 「Eating Is a Blessing」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 You and Dudu have lunch in the cafeteria.
 
 Dudu: Boss, why aren't you eating?
@@ -167,6 +191,10 @@ Dudu: Do you not like the food today?
     Chief: Half a roast chicken is quite enough!
 
 ### 「Buy One Get One」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

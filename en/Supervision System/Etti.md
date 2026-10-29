@@ -2,6 +2,10 @@
 
 ### 「Handmade Book」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After settling down in the MBCC, Etti immediately decorated her room in a fantasy style and displayed her grandfather's handmade book in the most eye-catching spot.
 
 - Observe
@@ -10,11 +14,19 @@ After settling down in the MBCC, Etti immediately decorated her room in a fantas
 
 ### 「Do Dragons Have Wings?」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
+
 Etti and OwO seem to disagree on the topic of whether dragons have wings.
 
 - It could be a different breed...
 
 ### 「Gate to Otherworld」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -54,6 +66,10 @@ Unusual behaviors have been detected in Sinner Etti. Go and inspect?
 
 ### 「Weapon Design」
 
+Location: Training Room
+
+Urgency: ⚠⚠
+
 Etti has no scheduled training missions today, but she still shows up in the Training Room.
 
 You find it a bit odd, so you go and ask her why.
@@ -83,6 +99,10 @@ She moves through the Training Room packed with Sinners and keeps talking to her
   Chief: Your naming system seems a bit arbitrary...
 
 ### 「Career Flop」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Etti organizes her first TRPG game in the Bureau today. Everyone gathers around the long table.
 
@@ -162,6 +182,10 @@ It's the first time many of the participants have played this kind of game. Afte
 
 ### 「Escape from Minos」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 [System Notice] Supervision System:
 
 Unauthorized gatherings have been detected in the tool room. Participants seem to be conspiring about an escape from the Bureau. Please confirm.
@@ -226,6 +250,10 @@ Unauthorized gatherings have been detected in the tool room. Participants seem t
 
 ### 「Game Experience」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
+
 Etti has thrown herself into organizing another TRPG session for the Sinners, her passion evident.
 
 Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. She's treating our delightful game as if it were a matter of life and death!
@@ -279,6 +307,10 @@ Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. S
   The other Sinners answer with a chorus of groans, hastily dispersing from the Recreation Area like startled birds.
 
 ### 「Specialty」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Etti's new work, a retro tabletop RPG, has been very popular in the Bureau recently. And for today's game, she invited you to be the game master.
 

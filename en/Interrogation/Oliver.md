@@ -2,7 +2,13 @@
 
 ## Oliver - Interrogation I
 
+> Intelligence before completion:
+> A new A-Class Sinner has been found in Eastside but has yet to be captured. Listening to the information from frontline officers, you feel that this Sinner seems familiar as if you've met somewhere before.
+
+> Intelligence after completion:
 > As expected, the "little trickster" that has been giving the officers a headache is Oliver. You've located Oliver's residence, and now you're just waiting for the plan to take effect.
+
+### Interrogation Transcript
 
 ██ ██, N.F. ██.
 
@@ -158,9 +164,17 @@ Impatient, Oliver stands on tiptoes to look through the peephole in the door ske
 
 <ins>Oliver: Wow, how glamorous... Oh, I mean, please come in, sir!</ins><br><ins>Oliver: Wow, how glamorous... Oh, I mean, please come in, miss!</ins>
 
+> As expected, the "little trickster" that has been giving the officers a headache is Oliver. You've located Oliver's residence, and now you're just waiting for the plan to take effect.
+
 ## Oliver - Interrogation II
 
-> Discrepancies have been resolved, and amidst lies and deception, you've found the truth. This mistreated child has already taken his vengeance, using even more extreme measures.
+> Intelligence before completion:
+> You successfully enter Oliver's residence. The strange Mania aura, the missing aunt's family... To figure these out, you must first win Oliver's trust.
+
+> Intelligence after completion:
+> Discrepancies have been resolved, and amidst lies and deception, you've found the truth. This mistreated child has already taken vengeance, using even more extreme measures.
+
+### Interrogation Transcript
 
 You take a good look around the house.
 
@@ -364,9 +378,17 @@ Oliver: There's nothing I despise more...
 
 Oliver: Than *family*...
 
+> Discrepancies have been resolved, and amidst lies and deception, you've found the truth. This mistreated child has already taken his vengeance, using even more extreme measures.
+
 ## Oliver - Interrogation III
 
+> Intelligence before completion:
+> Since being detained in the Bureau, Oliver has been extremely uncooperative. Does Oliver really have no self-awareness? Or is Oliver deliberately avoiding admitting to being a "bad kid"?
+
+> Intelligence after completion:
 > Within the battered unicorn toy, a glimpse of hope yet remains, its heart as clear and precious as a gem. This is Oliver's most treasured possession.
+
+### Interrogation Transcript
 
 ??: Oliver... When I'm gone, you must listen to your aunt.
 
@@ -583,3 +605,5 @@ Oliver: ...This is!
 Chief: If you think you're a good child, I'd be happy to help you escape from here and buy you the best toy in Eastside.
 
 The child runs into the giant colorful toy and starts crying loudly, like a newborn in the most loving embrace in the world.
+
+> Within the battered unicorn toy, a glimpse of hope yet remains, its heart as clear and precious as a gem. This is Oliver's most treasured possession.

@@ -2,9 +2,15 @@
 
 ## Cassian - Interrogation I
 
+> Intelligence before completion:
+> After the catastrophic explosion aboard Euphoria, Cassian, the Sinner who served as the ship's bartender, went missing. After days of searching, you finally find him on a rooftop in Eastside, deeply disturbed.
+
+> Intelligence after completion:
 > After days of observation and a heartfelt conversation, you come to understand the blood feud that weighs on Cassian. Yet when his vengeance finally settles, he seems like nothing more than an empty shell. He has lived his entire life under the shadow of duty and hatred, never truly living for himself. "Selfhood" is to him an unattainable luxury.
 > When the interrogation reaches a deadlock, you offer to help clear his family's name. This proposal finally begins to open the long-sealed door to his heart.
 > You immediately spring into action, gathering the materials needed for his exoneration.
+
+### Interrogation Transcript
 
 The night is silent, like a drop of wine sealed in glass.
 
@@ -342,11 +348,21 @@ After a moment, you hear him say:
 
 Cassian: Thank you.
 
+> After days of observation and a heartfelt conversation, you come to understand the blood feud that weighs on Cassian. Yet when his vengeance finally settles, he seems like nothing more than an empty shell. He has lived his entire life under the shadow of duty and hatred, never truly living for himself. "Selfhood" is to him an unattainable luxury.
+> When the interrogation reaches a deadlock, you offer to help clear his family's name. This proposal finally begins to open the long-sealed door to his heart.
+> You immediately spring into action, gathering the materials needed for his exoneration.
+
 ## Cassian - Interrogation II
 
+> Intelligence before completion:
+> After compiling all the evidence for Cassian's exoneration, you accompany him to submit it, only to unexpectedly encounter a familiar face from the past along the way.
+
+> Intelligence after completion:
 > Cassian stands up to his highborn "old friend" for the first time, then accompanies you to visit his "uncle," wrongfully imprisoned for years after being implicated in the family's downfall. Before those eyes, still gentle yet resolute, Cassian finally breaks down, weeping uncontrollably as he pours out years of suppressed grief and pain.
 > Walking once again through Eastside's sunlit, bustling streets, Cassian feels reborn. For the first time, he realizes there are still people in this world who want him to live. Perhaps not all of the past is beyond repair.
 > But when he habitually reaches to touch the family brooch he always carries, he discovers it is gone without a trace.
+
+### Interrogation Transcript
 
 The next day, you compile everything Cassian mentioned during the interrogation into a detailed report. After reading it through, word by word, he finally nods and agrees to go with you.
 
@@ -684,11 +700,21 @@ Noticing his pause, you stop and turn to him. Under the bright sun, his face has
 
 Cassian: My brooch. It's gone.
 
+> Cassian stands up to his highborn "old friend" for the first time, then accompanies you to visit his "uncle," wrongfully imprisoned for years after being implicated in the family's downfall. Before those eyes, still gentle yet resolute, Cassian finally breaks down, weeping uncontrollably as he pours out years of suppressed grief and pain.
+> Walking once again through Eastside's sunlit, bustling streets, Cassian feels reborn. For the first time, he realizes there are still people in this world who want him to live. Perhaps not all of the past is beyond repair.
+> But when he habitually reaches to touch the family brooch he always carries, he discovers it is gone without a trace.
+
 ## Cassian - Interrogation III
 
+> Intelligence before completion:
+> You soothe Cassian's frayed emotions, attempting to help him regain his composure.
+
+> Intelligence after completion:
 > At the wanderers' outpost, you come upon the old piano that accompanied Cassian throughout his childhood—shattered and dusted in ash, yet not wholly lost. He takes a seat, fingers trembling as they brush the keys. Though the notes stumble and the melody fractures, it remains the most raw and heartfelt music you have ever heard.
 > In that moment, he is no longer an avenger, no longer a pawn of fate, but simply a resilient soul striving to break free from his past, a man reclaiming his life from the wreckage.
 > The self awakens amid the debris—incomplete, yet learning to speak. This first step, however faint, is enough to cast light into the endless night.
+
+### Interrogation Transcript
 
 He frantically pats down every pocket, but the cherished brooch is nowhere to be found. And with it, his wallet is gone, too.
 
@@ -1031,3 +1057,7 @@ It isn't avoidance, or weariness, or sorrow. It's a gentle, long-forgotten glimm
 You don't say anything, just smile quietly.
 
 Your shadows stretch out, long and thin in the lamplight. They meet and join on the pavement, like two worlds meeting at last.
+
+> At the wanderers' outpost, you come upon the old piano that accompanied Cassian throughout his childhood—shattered and dusted in ash, yet not wholly lost. He takes a seat, fingers trembling as they brush the keys. Though the notes stumble and the melody fractures, it remains the most raw and heartfelt music you have ever heard.
+> In that moment, he is no longer an avenger, no longer a pawn of fate, but simply a resilient soul striving to break free from his past, a man reclaiming his life from the wreckage.
+> The self awakens amid the debris—incomplete, yet learning to speak. This first step, however faint, is enough to cast light into the endless night.

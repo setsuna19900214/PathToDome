@@ -2,8 +2,14 @@
 
 ## Shalom - Interrogation I
 
+> Intelligence before completion:
+> The chaos in the city-state has come to an end. As you finish wrapping things up at the MBCC, an unexpected guest arrives: Shalom, the envoy from Paradeisos.
+
+> Intelligence after completion:
 > Shalom is not only an envoy from Paradeisos, but also someone you've known for a long time. She knows your current situation and about your past...
 > But many discrepancies keep you on your toes: Is she really an "old friend" you can trust?
+
+### Interrogation Transcript
 
 1:21 p.m., October 13, N.F. 112
 
@@ -499,10 +505,19 @@ Just who were you before the loss of memory?
 
 And who is this woman who "can't" be shackled?
 
+> Shalom is not only an envoy from Paradeisos, but also someone you've known for a long time. She knows your current situation and about your past...
+> But many discrepancies keep you on your toes: Is she really an "old friend" you can trust?
+
 ## Shalom - Interrogation II
 
+> Intelligence before completion:
+> You can't tell what Shalom's motive is, nor can you control her with your shackles. You secretly observe her actions in the Bureau, your heart full of apprehension.
+
+> Intelligence after completion:
 > You can't release the shackles because of Schorl's obstruction. Shalom's attitude is ambiguous.
 > You're skin to skin, yet her heart is a mystery. You finally unearth fragments from her past.
+
+### Interrogation Transcript
 
 1:21 p.m., October 14, N.F. 112
 
@@ -900,9 +915,18 @@ A triangular glyph appears in Shalom's right eye. Something penetrates your fles
 
 Your body starts to go numb, but your soul quivers from the raw contact. In an instant, you feel weightless—swept away entirely by the experience.
 
+> You can't release the shackles because of Schorl's obstruction. Shalom's attitude is ambiguous.
+> You're skin to skin, yet her heart is a mystery. You finally unearth fragments from her past.
+
 ## Shalom - Interrogation III
 
+> Intelligence before completion:
+> The light brings you to a surreal space. Here, you can let your hearts out.
+
+> Intelligence after completion:
 > After the investigation, you rush to a new battlefield. Shalom moves on to her next "mission": To turn into the sharpest tool and orchestrate a grand blooming of flowers.
+
+### Interrogation Transcript
 
 As you slowly open your eyes, an oppressive darkness surrounds you. You find yourself standing in a space that's unfamiliar, yet oddly haunting.
 
@@ -1442,10 +1466,18 @@ She gazes down the other end of the channel, at the faceless operators of the Hu
 
 *I have six months left; let's find the Ultimate Answer.*
 
+> After the investigation, you rush to a new battlefield. Shalom moves on to her next "mission": To turn into the sharpest tool and orchestrate a grand blooming of flowers.
+
 ## Shalom - Interrogation IV
 
+> Intelligence before completion:
+> In June of N.F. 113, the HUSH Unit went to West District to carry out the SHP-13 recovery mission.
+
+> Intelligence after completion:
 > In July N.F. 113, HUSH X went to Erica Villa in Eastside. In August of the same year, the Battle of West District officially began. X was confirmed to have deviated, and the Observatorium was contaminated. The HUSH system was urgently shut down.
 > The journey is treacherous. May those venturing against the tide eventually find freedom.
+
+### Interrogation Transcript
 
 In N.F. 113, this March, chaos erupts in the West District due to the Rustfire Uprising. Unexpectedly, BR-002 is reactivated three days ahead of schedule, and its capabilities far exceed our projections.
 
@@ -1840,3 +1872,6 @@ As the battle erupts, emotional and strategic undercurrents surge, yet all she s
 *Life's path is unforgiving, yet may we both find...*
 
 *final freedom.*
+
+> In July N.F. 113, HUSH X went to Erica Villa in Eastside. In August of the same year, the Battle of West District officially began. X was confirmed to have deviated, and the Observatorium was contaminated. The HUSH system was urgently shut down.
+> The journey is treacherous. May those venturing against the tide eventually find freedom.

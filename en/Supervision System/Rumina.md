@@ -2,11 +2,19 @@
 
 ### 「Heatwave」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Due to the persistent heatwave in DisCity, Rumina has begun to enter a semi-melted state while in public areas.
 
 - We should consider installing additional air conditioning.
 
 ### 「Ghostly Nursery Rhyme」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Rumina has been frightening employees who work overtime by singing nursery rhymes from the Bureau's dark corners at night.
 
@@ -14,11 +22,19 @@ Rumina has been frightening employees who work overtime by singing nursery rhyme
 
 ### 「Human-Shaped Candle」
 
+Location: Management Center
+
+Urgency: ⚠
+
 After another late night at work, you notice two aromatic candles on your desk, promising focus and calm.
 
 - The gesture would be sweet, if not for the fact it came from human-shaped candles.
 
 ### 「Organizing Training」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 Lately, your belongings have a habit of vanishing, only to reappear in the strangest places.
 
@@ -46,6 +62,10 @@ Rumina: Chief... are you upset? ...Did Rumina do something to displease you?
 
 ### 「Helper」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 After a day of exhausting work, you collapse into your office chair.
 
 Rumina: You seem exhausted, Chief. If you'd like, Rumina can massage your shoulders. Brother used to love when Rumina massaged his shoulders...
@@ -71,6 +91,10 @@ Her fingertips apply the perfect pressure, drawing an involuntary yawn from you.
     Rumina: Oh, it's just Seon coming to help... Please don't be nervous, Chief. He's very good at taking care of people...
 
 ### 「Horror Wax Museum」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 Rumina peers into your office, evidently with something on her mind.
 

@@ -2,8 +2,14 @@
 
 ## Clementine - Interrogation I
 
+> Intelligence before completion:
+> Months pass since Carl's death, yet you refuse to give up the search for Clementine. Eventually, a string of bizarre cases begins to surface across Eastside. Something about them feels eerily familiar...
+
+> Intelligence after completion:
 > Clementine's demeanor remains between cooperative and careful probing. Her responses are swift and precise, revealing little emotion. What concerns you more is the recording though—she's wavering, but the patience of the other party is wearing thin. Time is running out.
 > When standing at the cliff's edge, courage is required whether you take a step back or press forward.
+
+### Interrogation Transcript
 
 Thunder rumbles within the dark clouds. Rain pours over Eastside, sending the city into a dreary haze.
 
@@ -311,10 +317,19 @@ You can't let her fall to the darkness. You have to do something.
 
 You can only hope it's not too late.
 
+> Clementine's demeanor remains between cooperative and careful probing. Her responses are swift and precise, revealing little emotion. What concerns you more is the recording though—she's wavering, but the patience of the other party is wearing thin. Time is running out.
+> When standing at the cliff's edge, courage is required whether you take a step back or press forward.
+
 ## Clementine - Interrogation II
 
+> Intelligence before completion:
+> You drive Clementine to a place she knows all too well. Nostalgia does have a way of softening even the hardest hearts, but this brief journey proves less peaceful than anticipated. Unwelcomed guests are prowling in the shadows...
+
+> Intelligence after completion:
 > Amid the orphanage ruins, the two of you speak openly. She's far too clever not to understand your intentions. But then an assassin appears, communications with security are severed, and Clementine's Mania erupts. Finally, you understand how she breached those layers of security to eliminate Carl—it was by letting the flames of Mania consume her own broken body.
 > A beautiful butterfly always draws the eye. Some seek to make her stay of her own accord. Others wish to pin her down as a specimen. But the butterfly, too, has her own choice.
+
+### Interrogation Transcript
 
 Two weeks later
 
@@ -682,10 +697,19 @@ Piercing crimson light floods your vision as the shackles bridge your consciousn
 
 You feel her vital signs fading. You try to use the shackles to shoulder her burden, but instead, you're dragged alongside her into the endless void...
 
+> Amid the orphanage ruins, the two of you speak openly. She's far too clever not to understand your intentions. But then an assassin appears, communications with security are severed, and Clementine's Mania erupts. Finally, you understand how she breached those layers of security to eliminate Carl—it was by letting the flames of Mania consume her own broken body.
+> A beautiful butterfly always draws the eye. Some seek to make her stay of her own accord. Others wish to pin her down as a specimen. But the butterfly, too, has her own choice.
+
 ## Clementine - Interrogation III
 
+> Intelligence before completion:
+> Through the link of the shackles, you find yourself in Clementine's memories. You follow her as she walks on and on—from the orphanage to a cramped rental room, from voices of laughter to someone weeping. Where... is she heading next?
+
+> Intelligence after completion:
 > Everything Clementine does is driven by vengeance. Hatred sustains her, compels her to write, urges her to weave intricate webs to ensnare the guilty. Yet, that same web has ensnared her as well, trapping her in the past, imprisoning her in hatred.
 > That flame yet burns. It has burned since that day years ago, and it has never once been extinguished.
+
+### Interrogation Transcript
 
 Then, cheers and footsteps begin to echo, getting ever closer.
 
@@ -943,10 +967,19 @@ Clementine: ...I'll leave the cleanup in your hands.
 
 Finally, her body gives out, and she collapses.
 
+> Everything Clementine does is driven by vengeance. Hatred sustains her, compels her to write, urges her to weave intricate webs to ensnare the guilty. Yet, that same web has ensnared her as well, trapping her in the past, imprisoning her in hatred.
+> That flame yet burns. It has burned since that day years ago, and it has never once been extinguished.
+
 ## Clementine - Interrogation IV
 
+> Intelligence before completion:
+> After the assassination attempt, Clementine is rushed to the hospital for treatment. Physically, she's out of danger, but her spirits remain low. You'll need to find a way to help her.
+
+> Intelligence after completion:
 > At the campus Clementine once yearned to be a part of, you accompany her to watch a debate on justice. As the debate draws to a close, you facilitate an important reunion. The bright-eyed debater turns out to be the very child Clementine carried out of the flames all those years ago. Once a seed in the ruins, she has quietly taken root and grown her own flowers. In this world that's shifting through your hands, she will become yet another force in pushing change.
 > A bottle must be emptied before it can hold something new. There's no need to rush. This time, you'll be the ones to decide what fills it.
+
+### Interrogation Transcript
 
 You enter the hospital room again. The flowers by the side of the bed bloom vibrantly, yet the woman lying in bed only stares off into the distance.
 
@@ -1297,3 +1330,6 @@ The heart that was once filled with hatred, left hollow after she struck down he
 Clementine: *If someday, the redwood seeds could scatter, drifting far and wide to take root elsewhere... Perhaps there, they would become forests that stretch as far as the eye can see, and if you listen closely, you'd hear the gentle chime of wind through the trees...*
 
 Clementine: *...I look forward to seeing that future.*
+
+> At the campus Clementine once yearned to be a part of, you accompany her to watch a debate on justice. As the debate draws to a close, you facilitate an important reunion. The bright-eyed debater turns out to be the very child Clementine carried out of the flames all those years ago. Once a seed in the ruins, she has quietly taken root and grown her own flowers. In this world that's shifting through your hands, she will become yet another force in pushing change.
+> A bottle must be emptied before it can hold something new. There's no need to rush. This time, you'll be the ones to decide what fills it.

@@ -2,11 +2,19 @@
 
 ### 「Paranormal Terror」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Forensica remains completely unfazed when watching gory, brutal horror films. Yet, when she accidentally walked into a screening of a supernatural horror movie, she was scared out of her wits.
 
 - A forensic pathologist being afraid of the dead...?
 
 ### 「Useless Discourse」
+
+Location: Management Center
+
+Urgency: ⚠
 
 They're discussing a hypothetical scenario—if Chief were to fall into water, whose ability would be the most useful? Forensica declares that she would definitely be the most useless.
 
@@ -18,6 +26,10 @@ They're discussing a hypothetical scenario—if Chief were to fall into water, w
 
 ### 「Corpse Revival Incident」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 A group of young Sinners sneak into the operating room to explore. They witness what they believe to be a corpse on the operating table talking in its sleep and start panicking. Their screams wake up the "corpse" in question—Forensica, who scolds each of them before leaving.
 
 - Ask why she was in the operating room
@@ -25,6 +37,10 @@ A group of young Sinners sneak into the operating room to explore. They witness 
   Forensica: The AC in my room broke. The operating table is made of stainless steel, so it's cooler here.
 
 ### 「Food Safety」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 The communal kitchen fridge has become completely full recently. The staff members cleared out a pile of unclaimed fresh ingredients, which the Whitestone crew has been eyeing for a while now. They're trying to get your permission to use them for a hot pot.
 
@@ -55,6 +71,10 @@ The Whitestone duo falls completely silent. They stare at the bubbling crimson b
 As for you, for the sake of food safety at the Bureau, you approved an emergency budget that very night and had a brand-new dedicated freezer delivered to the premises.
 
 ### 「Sharp Tongue, Soft Heart」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -97,6 +117,10 @@ Abnormal gathering detected in the cafeteria. Go and disperse the crowd?
   Hella: Wow... She grumbled and yelled the whole time, but still did all the work for us. She's such a nice person...
 
 ### 「Battle of Disciplines」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Forensica rarely eats with others. The last time she did, you received a complaint that very evening. Someone reported that she had shown her colleagues photos of stomach contents from a corpse during the meal.
 

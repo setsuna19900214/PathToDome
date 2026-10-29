@@ -2,7 +2,13 @@
 
 ## Garofano - Interrogation I
 
+> Intelligence before completion:
+> You have temporarily taken in a suspect in a husband-killing case who will soon be tried. However, there are some doubts about this case, so you decide to interrogate the widow.
+
+> Intelligence after completion:
 > Through Garofano's heartfelt confession, you learn about her untold truths and the grief of losing her loved ones. Compelled by her story, you vow to get to the bottom of the case and clear her name.
+
+### Interrogation Transcript
 
 You peruse through the file in your hands. It's about a homicide case caused by inheritance disputes.
 
@@ -234,9 +240,17 @@ She gives a gentle but formal bow.
 
 Garofano: ...and wait for you patiently.
 
+> Through Garofano's heartfelt confession, you learn about her untold truths and the grief of losing her loved ones. Compelled by her story, you vow to get to the bottom of the case and clear her name.
+
 ## Garofano - Interrogation II
 
+> Intelligence before completion:
+> An anonymous tip steers your investigation in a new direction. You reconnect with Garofano, eager for more pieces of the puzzle from her.
+
+> Intelligence after completion:
 > As the truth shatters past misconceptions, new connections emerge. You not only help Garofano reclaim her reputation but also welcome her as part of your family.
+
+### Interrogation Transcript
 
 <ins>???: Is this the Chief of the MBCC? Mr. ${PlayerName}?</ins><br><ins>???: Is this the Chief of the MBCC? Ms. ${PlayerName}?</ins>
 
@@ -544,10 +558,18 @@ Garofano: I want to go back to my tailor shop to retrieve some tools and fabrics
 
 Chief: No problem. I'll apply for a permit to leave right away. Once everything is arranged, I'll take you there.
 
+> As the truth shatters past misconceptions, new connections emerge. You not only help Garofano reclaim her reputation but also welcome her as part of your family.
+
 ## Garofano - Interrogation III
 
+> Intelligence before completion:
+> But as you and Garofano head back to the tailor's to grab some personal belongings, you're blindsided by a surprise attack.
+
+> Intelligence after completion:
 > A skilled seamstress, a kind-hearted widow, a member of the Garden... All these roles are embodied by "Garofano."
 > You grapple with discerning the truth from potential deceptions, but those genuine eyes of hers are hard to overlook. Time is on your side, and eventually, it will unveil the truth.
+
+### Interrogation Transcript
 
 Garofano: Please come in, Chief.
 
@@ -928,3 +950,6 @@ Garofano: When you return, I'll... help you try it on myself.
 On March XX, Chief ${PlayerName} of the MBCC was severely injured on a mission to Syndicate and fell into a coma.
 
 On April XX, Sinner Garofano escaped from the Bureau and went missing.
+
+> A skilled seamstress, a kind-hearted widow, a member of the Garden... All these roles are embodied by "Garofano."
+> You grapple with discerning the truth from potential deceptions, but those genuine eyes of hers are hard to overlook. Time is on your side, and eventually, it will unveil the truth.

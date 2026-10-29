@@ -2,6 +2,10 @@
 
 ### 「Paranoid」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You can't find a place tidier than Uni's room in the entire MBCC. The arrangement of objects is absolutely symmetric. Even the books on her desk are strictly aligned.
 
 - You must be extra careful when you visit her.
@@ -10,17 +14,29 @@ You can't find a place tidier than Uni's room in the entire MBCC. The arrangemen
 
 ### 「Mirror」
 
+Location: Management Center
+
+Urgency: ⚠
+
 Many people are curious about Uni's magical mirror that's said to reflect the face you desire the most deep down. But Uni herself doesn't seem to like to look at the mirror and always covers it with a piece of cloth.
 
 - Everyone has something from the past they don't want to face.
 
 ### 「Kid Repellent」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Uni is known in the Bureau for not getting along with kids. Wherever she goes, no little Sinners are allowed to go within ten meters around her.
 
 - Are they really that incompatible...
 
 ### 「Compliment」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -68,6 +84,10 @@ You received a request from a staff member. Please confirm.
 
 ### 「Heart-Broken Moment」
 
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠⚠
+
 During the lunch break, several staff members chatter about something in a huddle.
 
 - Go take a look
@@ -101,6 +121,10 @@ During the lunch break, several staff members chatter about something in a huddl
   Staff B: ...
 
 ### 「Sweet Tooth」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 At lunchtime, you see Uni sitting in the cafeteria, facing only two cheesecakes on her plate.
 
@@ -159,6 +183,10 @@ At lunchtime, you see Uni sitting in the cafeteria, facing only two cheesecakes 
   Uni: ...Okay. Stop nagging.
 
 ### 「Battle of Disciplines」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 Forensica rarely eats with others. The last time she did, you received a complaint that very evening. Someone reported that she had shown her colleagues photos of stomach contents from a corpse during the meal.
 

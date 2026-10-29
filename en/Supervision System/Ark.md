@@ -2,6 +2,10 @@
 
 ### 「Nickname」
 
+Location: Management Center / Outdoor Activity Area
+
+Urgency: ⚠
+
 Recently, Ark's earned the new nickname "Cabernet Junior" after she was reportedly seen smiling sweetly at everyone's photos while mumbling: "Drool... drool..." The vibe was very creepy...
 
 - Tell Ark
@@ -10,11 +14,19 @@ Recently, Ark's earned the new nickname "Cabernet Junior" after she was reported
 
 ### 「Overkill」
 
+Location: Management Center / Training Room
+
+Urgency: ⚠
+
 You've noticed that recently, whenever Ark shows up at the shooting range, everyone immediately takes off frantically. Apparently, Ark always finds the practice gun not powerful enough and ends up hauling out her cannon.
 
 - ...Firepower dependency is an illness.
 
 ### 「The Ark's Keeper」
+
+Location: Black Market
+
+Urgency: ⚠
 
 [System Notice] Supervision System:
 
@@ -25,6 +37,10 @@ The Logistics Department reports that since Ark has participated in inventory an
   Ark: Piece of cake! You can leave it all to me when it comes to resources. After all, I'm the one who runs the Ark!
 
 ### 「Broadcast Critique」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 You happen to find Ark listening to DeadLover Radio. Her expression seems troubled and pensive.
 
@@ -47,6 +63,10 @@ You happen to find Ark listening to DeadLover Radio. Her expression seems troubl
   Ark: Maybe I should try slipping in some jokes during my broadcasts too, but only after I've finished delivering all the important information.
 
 ### 「Homesick」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -83,6 +103,10 @@ Sinner Ark is detected to be still awake with heightened anxiety.
         With you by her side, Ark finally drifts into a peaceful slumber.
 
 ### 「Surveillant」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

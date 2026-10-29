@@ -2,8 +2,14 @@
 
 ## Cassia - Interrogation I
 
+> Intelligence before completion:
+> A batch of popular perfumes named after people have been found to contain traces of Mania. This has also linked the mysterious perfumer that made them to the serial disappearances of young girls in Eastside. You infiltrate the perfumer's gala to investigate her real identity and intentions.
+
+> Intelligence after completion:
 > At the perfume gala, you not only meet Lucas, an investigative journalist claiming to be a victim's father, but also shackle Cassia and prevent new victims from appearing.
 > The photo of Lucas's daughter is not only a clue, but also a father's prayer. You will carry it with you as you formally interrogate the perfumer.
+
+### Interrogation Transcript
 
 Nightingale: Here are all the case files the Eastside Public Security Bureau has handed over this time. Please review them, Chief.
 
@@ -245,10 +251,19 @@ Although she doesn't resist arrest violently, you don't feel any more at ease. A
 
 The mental state of this Sinner is obviously way more problematic than you thought. The upcoming interrogation... probably won't be easy.
 
+> At the perfume gala, you not only meet Lucas, an investigative journalist claiming to be a victim's father, but also shackle Cassia and prevent new victims from appearing.
+> The photo of Lucas's daughter is not only a clue, but also a father's prayer. You will carry it with you as you formally interrogate the perfumer.
+
 ## Cassia - Interrogation II
 
+> Intelligence before completion:
+> The perfumer, Cassia, is cold towards you. She brushes off all your questions and keeps talking about scents you can't detect. You need to find a breakthrough with her.
+
+> Intelligence after completion:
 > Your shackles successfully soothe Cassia's indescribable fear. She changes her attitude and begins to cooperate with your questioning.
 > However, when you test Cassia with the name and photo of Lucas's daughter Fleur, her reaction is somewhat suspicious. You decide to take her to the perfume room to further investigate.
+
+### Interrogation Transcript
 
 Heart notes:
 
@@ -470,10 +485,19 @@ Cassia: Now, they are all stored in my perfumery.
 
 Chief: If you don't mind, take me to see them. Perhaps there are some clues you've forgotten about.
 
+> Your shackles successfully soothe Cassia's indescribable fear. She changes her attitude and begins to cooperate with your questioning.
+> However, when you test Cassia with the name and photo of Lucas's daughter Fleur, her reaction is somewhat suspicious. You decide to take her to the perfume room to further investigate.
+
 ## Cassia - Interrogation III
 
+> Intelligence before completion:
+> You take Cassia to the perfume room, successfully gathering numerous clues related to the perfumes named after people and the missing cases. However, both the missing cases and Cassia herself seem to hold darker secrets than you expected.
+
+> Intelligence after completion:
 > Lucas, who suddenly barged in, finds the perfume named "Fleur." You learn from Cassia about what happened to Fleur, and about her own dark past.
 > Lost lives can't be saved, but at least you can break the cycle and try to remove Cassia's darkness.
+
+### Interrogation Transcript
 
 This is an exquisitely decorated perfumery. Numerous perfume bottles are displayed in tall cabinets, creating a magnificent sight.
 
@@ -786,3 +810,6 @@ Lucas: *At least no one else will suffer like I did.*
 Alone in her room, Cassia dips a strand of black hair into the perfume bottle in front of her. She inhales deeply, luxuriating in the smell.
 
 Cassia: Hehe...
+
+> Lucas, who suddenly barged in, finds the perfume named "Fleur." You learn from Cassia about what happened to Fleur, and about her own dark past.
+> Lost lives can't be saved, but at least you can break the cycle and try to remove Cassia's darkness.

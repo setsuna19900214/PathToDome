@@ -2,7 +2,14 @@
 
 ## Etti - Interrogation I
 
+> Intelligence before completion:
+> The game of the Isle of Sky is finished. In the game, you've learned where Etti's located, so you go to Eastside and bring the unconscious Etti back to the Bureau.
+> When she wakes up, you prepare a... special interrogation for her.
+
+> Intelligence after completion:
 > As expected, Etti quickly accepts the invitation to the *game*. She fills out the character card and challenges you with a smile. She thinks you can never control her.
+
+### Interrogation Transcript
 
 This is a house that no one has visited for a long time. Withered creepers cling to its exterior like the decaying limbs of some giant beast.
 
@@ -232,9 +239,17 @@ As you take Etti "southwest," you hear that staff member complaining softly.
 
 Staff Member: Good thing she didn't want my pants...
 
+> As expected, Etti quickly accepts the invitation to the *game*. She fills out the character card and challenges you with a smile. She thinks you can never control her.
+
 ## Etti - Interrogation II
 
+> Intelligence before completion:
+> The game starts. Step by step, you guide her to follow the destined track of fate. You play quite a few tricks along the way, but Etti tolerates each one of them.
+
+> Intelligence after completion:
 > Guided by *fate*, Etti, Hella, and Ninety-Nine form an adventurer team. After wrecking the Bureau's walls, they quickly escape...
+
+### Interrogation Transcript
 
 Chief: *"The southwestern region is a barren wasteland, with nothing but bare mountains and dead trees."*
 
@@ -604,10 +619,19 @@ Nightingale: I guess. In any case, we have a lot of people on our side, so we sh
 
 Nightingale: All right, then. Continue onwards.
 
+> Guided by *fate*, Etti, Hella, and Ninety-Nine form an adventurer team. After wrecking the Bureau's walls, they quickly escape...
+
 ## Etti - Interrogation III
 
+> Intelligence before completion:
+> The group comes to a *market* and discusses how to find clues about the *legendary castle*.
+> Meanwhile, they hear a familiar voice...
+
+> Intelligence after completion:
 > The adventurer team defeats the *West District Overlord* EMP and takes her in.
 > With the message from EMP, Etti confirms that the instructions for the next step are kept by the merchant who sells her clues.
+
+### Interrogation Transcript
 
 Chief: *"Leaving the dark swamp behind, you're finally greeted by warm sunshine."*
 
@@ -959,10 +983,19 @@ Chief: *"Having added a new member to the team, the adventurers set off to find 
 
 Chief: *"They march forward fearlessly in the darkness of night, unafraid of what lies ahead, be it danger or deceit... I'm sure they'll overcome all hardships, grasp the direction of fate, and bring light back to this world... .”*
 
+> The adventurer team defeats the *West District Overlord* EMP and takes her in.
+> With the message from EMP, Etti confirms that the instructions for the next step are kept by the merchant who sells her clues.
+
 ## Etti - Interrogation IV
 
+> Intelligence before completion:
+> Combining the clues from EMP and the merchant, you finally find the *legendary castle*.But Etti seems to be acting differently because of the castle.
+
+> Intelligence after completion:
 > The dragon guards the magic box, in which darkness, tears, despair... and a small but brilliant glint of hope are locked.
 > Within the hope is everything everyone cherishes and will never forget.
+
+### Interrogation Transcript
 
 The comms device in your pocket buzzes. Walking behind everyone else, you take a peek at it.
 
@@ -1429,3 +1462,6 @@ Hehe... If this is the case, then you can safely tuck me away into the deepest, 
 ...Until you turn all this darkness into joy.
 
 —Guardian of Darkness - Genesis Gamemaster - Black Dragon - Old Wach
+
+> The dragon guards the magic box, in which darkness, tears, despair... and a small but brilliant glint of hope are locked.
+> Within the hope is everything everyone cherishes and will never forget.

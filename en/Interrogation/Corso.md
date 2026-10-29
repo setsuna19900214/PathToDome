@@ -2,8 +2,14 @@
 
 ## Corso - Interrogation I
 
+> Intelligence before completion:
+> You receive a report that Corso frequently deserts during field operations to go to the most chaotic area of Syndicate. You're concerned that the combative Sinner has a hidden agenda and decide to start an interrogation.
+
+> Intelligence after completion:
 > Corso claims that she's only left to participate in the fight and to look for her past opponent. She also firmly denies her relations with the Rustfire remnants.
 > You demand that Corso stop leaving without permission. After weighing the pros and cons, she reluctantly agrees.
+
+### Interrogation Transcript
 
 In the interrogation room, Corso sits slumped in a chair, her chin resting in her hand. She looks sideways at you when you come in. Despite her relaxed posture, the intensity of her gaze is unmistakable.
 
@@ -243,9 +249,18 @@ Corso: Whatever you say, boss. Just don't forget your promise. More challenging 
 
 Corso has finally agreed to your terms. You breathe a sigh of relief, hoping that this energetic Sinner won't stir more things up anytime soon.
 
+> Corso claims that she's only left to participate in the fight and to look for her past opponent. She also firmly denies her relations with the Rustfire remnants.
+> You demand that Corso stop leaving without permission. After weighing the pros and cons, she reluctantly agrees.
+
 ## Corso - Interrogation II
 
-> Corso saves you from the thugs and takes you into the fight stadium. There, you meet that opponent Corso has been feeling bitter about, Chief gladiator Angus. They've promised to have a fight. You permit Corso to compete, but only on one condition.
+> Intelligence before completion:
+> Corso runs away again and doesn't return within the promised time. Guided by the shackles, you come to the ghetto she's in and plan to bring her back before she gets into more serious trouble.
+
+> Intelligence after completion:
+> Corso saved you from the thugs and took you into the fight stadium. There, you meet that opponent Corso has been feeling bitter about, chief gladiator Angus. They've promised to have a fight. You permit Corso to compete, but only on two conditions.
+
+### Interrogation Transcript
 
 Your terminal vibrates. You answer it, and EMP's voice comes through, hot and bothered.
 
@@ -533,10 +548,18 @@ Chief: You let me worry about that. You should go get ready for the fight. And I
 
 Corso: Ah, I will win, I definitely will.
 
+> Corso saves you from the thugs and takes you into the fight stadium. There, you meet that opponent Corso has been feeling bitter about, Chief gladiator Angus. They've promised to have a fight. You permit Corso to compete, but only on one condition.
+
 ## Corso - Interrogation III
 
+> Intelligence before completion:
+> You sit in the first row, ready to witness this exciting fight for victory in the ring.
+
+> Intelligence after completion:
 > It's a gladiator's fate to pursue victory. Everyone gives their best to reach this goal, and sometimes they don't choose the most noble method. While Corso chooses determination, Angus chooses a more unsavory way. As for you, you choose not to stand by and watch. You must help Corso climb to the top and claim the glory she deserves.
 > Finally, the winner Corso agrees to stay and see the MBCC as the next battlefield she must conquer.
+
+### Interrogation Transcript
 
 Clutching the ticket Corso gave you, you find your seat in the front row. In the fighting area below, Corso and Angus are facing each other, waiting for the fight to begin.
 
@@ -889,3 +912,6 @@ Corso: If you go back on your word, you'll be bitten by the most vicious dog.
 Chief: I won't disappoint you. You have my word.
 
 Corso: Okay. I hope you're as good as your word.
+
+> It's a gladiator's fate to pursue victory. Everyone gives their best to reach this goal, and sometimes they don't choose the most noble method. While Corso chooses determination, Angus chooses a more unsavory way. As for you, you choose not to stand by and watch. You must help Corso climb to the top and claim the glory she deserves.
+> Finally, the winner Corso agrees to stay and see the MBCC as the next battlefield she must conquer.

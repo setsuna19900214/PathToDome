@@ -2,6 +2,10 @@
 
 ### 「Too Close For Comfort」
 
+Location: Management Center
+
+Urgency: ⚠
+
 When Oliver wakes up, the pink unicorn is gone. Oliver cries and threatens to turn everyone in MBCC into puppets.
 
 - Look for it together
@@ -10,17 +14,29 @@ When Oliver wakes up, the pink unicorn is gone. Oliver cries and threatens to tu
 
 ### 「Puppet Show」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Oliver performs a puppet show at the party. Many Sinners and staff members say they have only seen this stuff on TV before and find it very cool.
 
 - This is the first time I've seen a live performance.
 
 ### 「How to Grow Taller」
 
+Location: Hypnotherapy Room
+
+Urgency: ⚠
+
 Oliver comes to you in a huff, asking how to grow taller as even Horo has grown much taller, which makes Oliver feels like defeated.
 
 - Drink more milk.
 
 ### 「Conflict」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 [System Notice] Supervision System:
 
@@ -51,6 +67,10 @@ Sinner Oliver is arguing with a staff member in the recreation area. Head there 
       Chief: ...If you're going to lie, at least remember to hide the strings on your hand!
 
 ### 「Oblique Accusation」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Unexpectedly, you bump into someone in the library while you head there to pick up some materials.
 
@@ -91,6 +111,10 @@ Unexpectedly, you bump into someone in the library while you head there to pick 
     Chief: Why on earth would such a weird book be in the library?!
 
 ### 「New Wound」
+
+Location: Hypnotherapy Room
+
+Urgency: ⚠⚠⚠
 
 [System Notice] Supervision System:
 

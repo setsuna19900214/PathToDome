@@ -2,11 +2,19 @@
 
 ### 「Legend of Sirens」
 
+Location: Recreation Area
+
+Urgency: ⚠
+
 Ever since the swimming pool facilities were opened in the Recreation Area, Lamia often spends the entire day submerged in the pool. She occasionally scares other Sinners who come to swim. After all, it's indeed a bit eerie when she does not move at all.
 
 - Swim occasionally.
 
 ### 「Emergency」
+
+Location: Outdoor Activity Area / Recreation Area
+
+Urgency: ⚠
 
 During a gathering organized in the Bureau, Lamia habitually triggered her ability, causing several Sinners to experience collective hallucinations and causing chaos. The event was urgently canceled.
 
@@ -14,11 +22,19 @@ During a gathering organized in the Bureau, Lamia habitually triggered her abili
 
 ### 「New Eating Champion」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 In your memory, Lamia has always been someone with a small appetite and elegant eating manners, until tonight when you witnessed her single-handedly devour all the fish made in the cafeteria.
 
 - Never judge a book by its cover...
 
 ### 「Dangerous Pet」
+
+Location: Management Center
+
+Urgency: ⚠⚠
 
 You're at your desk, focusing on handling documents, but after a series of sparks flicker above your head, the Bureau suddenly loses power again. This situation has happened multiple times before.
 
@@ -71,6 +87,10 @@ You're at your desk, focusing on handling documents, but after a series of spark
       Later, you help her clean up the mess in her room, and her mood seems to improve a bit.
 
 ### 「Specialty」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 Etti's new work, a retro tabletop RPG, has been very popular in the Bureau recently. And for today's game, she invited you to be the game master.
 
@@ -125,6 +145,10 @@ Sinner: I have a high constitution, I'm sure I can pass. Heh...
     Chief: It seems that today's game is destined to be not so simple...
 
 ### 「Ocean World」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Lamia seems to have recently taken a liking to watching television. You often see her on the sofa in front of the TV screen in the Recreation Area.
 

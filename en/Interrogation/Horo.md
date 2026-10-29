@@ -2,7 +2,13 @@
 
 ## Horo - Interrogation I
 
+> Intelligence before completion:
+> After Zoya's disappearance, the Legion is in jeopardy. So they sent the maimed Horo to MBCC.
+
+> Intelligence after completion:
 > The only way to resolve the Legion's crisis is to go on the offensive.
+
+### Interrogation Transcript
 
 2 weeks after the Black Ring incident in the Square
 
@@ -298,9 +304,18 @@ Horo: Okay.
 
 Horo nods heavily, obeying your harsh commands without complaint.
 
+> The only way to resolve the Legion's crisis is to go on the offensive.
+
 ## Horo - Interrogation II
 
+> Intelligence before completion:
+> With a team, you start the stealth operation into Syndicate.
+> The goal is to find the intel Earl has left.
+
+> Intelligence after completion:
 > Enemies incoming. Prepare to fight.
+
+### Interrogation Transcript
 
 Chief: You guys wait here.
 
@@ -608,9 +623,17 @@ Hecate: There's more than a hundred of them, and they have Mania weapons.
 
 Hecate: We're surrounded.
 
+> Enemies incoming. Prepare to fight.
+
 ## Horo - Interrogation III
 
+> Intelligence before completion:
+> The enemies' attack is getting more and more brutal. You must react immediately.
+
+> Intelligence after completion:
 > The Legion's crisis has been resolved. Through this series of events, Horo has grown into a worthy leader. She is now strong enough to hold down the fort before Zoya comes back.
+
+### Interrogation Transcript
 
 Bang!
 
@@ -881,3 +904,5 @@ Horo: Earl...
 You gently stroke Horo's forehead, wiping the tears from her eyes.
 
 Hope she has a sweet dream.
+
+> The Legion's crisis has been resolved. Through this series of events, Horo has grown into a worthy leader. She is now strong enough to hold down the fort before Zoya comes back.

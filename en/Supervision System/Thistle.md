@@ -2,11 +2,19 @@
 
 ### 「Good Samaritan」
 
+Location: Management Center
+
+Urgency: ⚠
+
 In the Bureau's annual Good Samaritan Award, Thistle wins by a wide margin. Deeds she's awarded for: Helping the cafeteria lady pick up oranges from the floor, returning lost coins to the staff... She's done many good deeds without telling anyone.
 
 - Congratulations
 
 ### 「Lost Item」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 There's a new lost item notice about a beautiful journal sticker. You have some idea who the owner is.
 
@@ -14,11 +22,19 @@ There's a new lost item notice about a beautiful journal sticker. You have some 
 
 ### 「Harmless Bickering」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Thistle and Horo are having a heated debate over whether the Garden or the Legion is more formidable.
 
 - Calm them down
 
 ### 「Roadblock」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠
 
 You're passing through the corridor of an unused facility when Thistle blocks your way.
 
@@ -56,6 +72,10 @@ Chief: Toll-collecting is forbidden within the Bureau.
 
 ### 「The Defiant One」
 
+Location: Recreation Area
+
+Urgency: ⚠⚠
+
 As you pass by the Recreation Area, you happen to see Thistle suddenly stopping a staff member, and the atmosphere seems a bit tense.
 
 - Go near and watch
@@ -81,6 +101,10 @@ As you pass by the Recreation Area, you happen to see Thistle suddenly stopping 
   Chief: Maybe next time. Have fun.
 
 ### 「Reason for Visiting」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
 
 You often get requests to visit Thistle's room. You want to find out more about the situation.
 

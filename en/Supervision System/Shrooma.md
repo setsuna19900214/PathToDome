@@ -2,11 +2,19 @@
 
 ### 「Fluffy Crisis」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠
+
 Recent Bureau daily reports explicitly note that when Shrooma approaches, fluffy animals tend to steer clear of her.
 
 - Someone's poisonous nature is exposed.
 
 ### 「Squishy Toys」
+
+Location: Recreation Area
+
+Urgency: ⚠
 
 Shrooma has recently become obsessed with squishy toys, asserting their popularity as stress-relief items in Eastside. She has even made one for Chief.
 
@@ -14,11 +22,19 @@ Shrooma has recently become obsessed with squishy toys, asserting their populari
 
 ### 「Remote Study」
 
+Location: Management Center
+
+Urgency: ⚠
+
 You receive a call from Shrooma's teacher, requesting your assistance in overseeing Shrooma's remote online studies.
 
 - Being a kid is really not easy nowadays.
 
 ### 「Mushroom Feast」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠
 
 You walk into the kitchen and spot Shrooma standing on a small stool, emptying a basket filled with mushrooms onto the preparation area.
 
@@ -60,6 +76,10 @@ You walk into the kitchen and spot Shrooma standing on a small stool, emptying a
 
 ### 「Online Class Check-In」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 As Shrooma's temporary guardian, you diligently oversee her studies. However, you ponder whether the responsibilities placed on parents of elementary students are becoming excessively burdensome.
 
 Shrooma: Chief, the teacher says students need to take a picture of them having the online class and send it within five minutes.
@@ -99,6 +119,10 @@ Shrooma: Depending on the Nap Master to grade my homework... Who knows when that
   Chief: ...
 
 ### 「Picky Eater」
+
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
 
 You see Shrooma sighing at the food on her plate.
 

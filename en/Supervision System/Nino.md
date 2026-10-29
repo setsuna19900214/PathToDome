@@ -2,6 +2,10 @@
 
 ### 「Escape Love Spell」
 
+Location: Secret Chamber
+
+Urgency: ⚠⚠
+
 At last, a break in the non-stop hustle, giving you a chance to randomly check up on the Sinners.
 
 Chief: Wait, why are Eve and Nino doing together in the secret room? Did Eve accidentally walk in on Nino's live stream while looking for some peace and quiet...?
@@ -36,6 +40,10 @@ Chief: Wait, why are Eve and Nino doing together in the secret room? Did Eve acc
 
 ### 「Natural Born Driver」
 
+Location: Darkroom
+
+Urgency: ⚠⚠
+
 The Bureau is hosting an online tournament for *Ultimate Racing: Skyline*, and after enough pestering from Nino, Celine finally gives in and signs up.
 
 Nino: Yes! A gentle, soft‑spoken Head Librarian paired with a technical gaming powerhouse like me—this tournament is going to be legendary!
@@ -64,11 +72,19 @@ A flicker of dejection crosses Celine's face, and you decide to help.
 
 ### 「Naughty Kid」
 
+Location: Black Market
+
+Urgency: ⚠
+
 During Nino's initial time in the MBCC, she wasn't allowed to live stream. Unexpectedly, as soon as she got the chance, she sneaked off to the black market to start broadcasting, sharing the money and equipment costs fifty-fifty with the Merchant.
 
 - It's easier to learn bad habits than good ones.
 
 ### 「Canteen Terminator」
+
+Location: Management Center
+
+Urgency: ⚠
 
 Recently, the number of Sinners complaining about the snack bar consistently running out of stock and never replenishing has surged. However, the truth is that restocking has already increased, they just can't order as fast as Nino.
 
@@ -76,11 +92,19 @@ Recently, the number of Sinners complaining about the snack bar consistently run
 
 ### 「Live Stream Highlights」
 
+Location: Confinement Cell
+
+Urgency: ⚠
+
 When Nino was in the Confinement Cell undergoing music therapy, she live-streamed and critiqued every song used in the therapy, sparking a large-scale discussion.
 
 - I should cut off the Internet access in the Confinement Cell.
 
 ### 「Surfing Pro」
+
+Location: Darkroom
+
+Urgency: ⚠⚠
 
 Nino: Is the equipment quality much better today? Hehe, I have specifically run to a dedicated room to live stream! That's all for today, next time I'll broadcast from here again! Bye!
 
@@ -116,6 +140,10 @@ Chief: It's not about any games, it's a procurement issue... Sigh, online shoppi
 
 ### 「Hack Attack」
 
+Location: Management Center
+
+Urgency: ⚠⚠
+
 [System Notice] Warning, warning. The Bureau's network has been attacked by a hacker. Entering defense mode. Please handle it quickly.
 
 Chief: Tetra, what's the situation? Nino insisted on joining the countermeasure team. I couldn't persuade her otherwise, so I had to bring her along. I hope it won't affect you.
@@ -145,6 +173,10 @@ Chief: Tetra, what's the situation? Nino insisted on joining the countermeasure 
     Chief: It seems we need to give her another lecture on internet use...
 
 ### 「Explore and Discover」
+
+Location: Energy Furnace
+
+Urgency: ⚠⚠⚠
 
 Since Nino's live stream brought some heat to the Bureau, you started to regularly check her page to see if there are any violations.
 

@@ -4,6 +4,18 @@
 
 The Castle of Lies
 
+Farewell in Splendor
+
+> Description before completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+> Description after completion:
+> O spirit brimming with sorrow, please grieve no more.
+> The one in your dreams will return home in the galaxy's embrace.
+
+Farewell in Splendor III
+
 The team presses on. With the little wisp gone, your only option is to follow Hella toward the royal castle.
 
 At first, the castle is merely a spire peeking out of distant treetops. Soon, the view opens up, allowing you to behold the castle in its entirety.

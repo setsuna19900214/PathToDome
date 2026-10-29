@@ -2,6 +2,10 @@
 
 ### 「Kitchen Chaos」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠⚠
+
 000: Three, two, one. Time's up. The food can be served now!
 
 Ignis: Hey, be careful! A sauce this thick can get really hot. If you spill it on yourself, you'll regret it! Remember, I've warned you!
@@ -62,6 +66,10 @@ Chief: 000, Ignis? What are you doing in the kitchen? Is... 000 learning to cook
 
 ### 「Some Progress」
 
+Location: Greenhouse
+
+Urgency: ⚠⚠
+
 Ever since Cabernet joined the MBCC, Ignis's passion for cooking has reached a new level.
 
 Despite frequent kitchen accidents and Cabernet's sharp critiques, Ignis remains undeterred on her culinary journey.
@@ -118,11 +126,19 @@ Cabernet: What do you think about the dish then, Chief?
 
 ### 「Heat Warning」
 
+Location: Energy Furnace
+
+Urgency: ⚠
+
 The temperature is unusual in the Energy Furnace's vicinity. You asked the employees and realized it was just Ignis training to keep her power under control.
 
 - Make sure to report first next time.
 
 ### 「Maintaining Course」
+
+Location: Outdoor Activity Area
+
+Urgency: ⚠
 
 On a chair in the Outdoor Activity Area, there is an open cuisine magazine. And the first column comes from "Crème Brûlée_Official."
 
@@ -130,11 +146,19 @@ On a chair in the Outdoor Activity Area, there is an open cuisine magazine. And 
 
 ### 「Maintaining Persona」
 
+Location: Greenhouse
+
+Urgency: ⚠
+
 On one side of the Outdoor Activity Area, Ignis is staring at a few pictures of large dogs on the wall. Upon noticing that you are next to her, she quickly looked away from the pictures, pretending she was just enjoying the view.
 
 - Walk away
 
 ### 「Special Comment」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠
 
 When you're having your meal, you notice someone has published an article on the Bureau's internal forum under the name *CrèmeBrûlée_Official*.
 
@@ -162,6 +186,10 @@ Ignis: All in all, the Bureau's food rating has gone from a previously failing s
 
 ### 「Fire Drill」
 
+Location: Outdoor Activity Area
+
+Urgency: ⚠⚠
+
 The Bureau is holding a fire drill. To demonstrate how to use a fire extinguisher, Ignis is asked to make some fire.
 
 Ignis: Um... Chief, I'm worried I can't control the flame properly.
@@ -177,6 +205,10 @@ Ignis: Um... Chief, I'm worried I can't control the flame properly.
   Ignis: ...I'm sorry.
 
 ### 「Someone Who Gets It」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
 
 Ignis chats with you about the new cook in the Bureau.
 

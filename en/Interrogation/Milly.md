@@ -2,7 +2,13 @@
 
 ## Milly - Interrogation I
 
+> Intelligence before completion:
+> In the aftermath of the Euphoria incident, Milly is unable to return to the MBCC with the Chief due to her compromised physical condition. She is utterly devastated by this separation and even contemplates taking extreme measures.
+
+> Intelligence after completion:
 > Milly's love for you is both heartfelt and impulsive. You wish so deeply that you both could have met under healthier, more ordinary circumstances. For now, you can only part ways temporarily and patiently await the day you'll meet again, hoping that by then, you will both be fully prepared.
+
+### Interrogation Transcript
 
 After Euphoria was destroyed, many Sinners were escorted back to the Bureau through the passage between FAC and MBCC.
 
@@ -206,9 +212,17 @@ I'm begging fate to give me one chance to see you again. I know you hold me in y
 
 My love, may this letter carry to you a million of my silent kisses.
 
+> Milly's love for you is both heartfelt and impulsive. You wish so deeply that you both could have met under healthier, more ordinary circumstances. For now, you can only part ways temporarily and patiently await the day you'll meet again, hoping that by then, you will both be fully prepared.
+
 ## Milly - Interrogation II
 
+> Intelligence before completion:
+> Milly has finally regained her health and embarks on her journey to MBCC. Eager to see the Chief, she is caught in a rare sandstorm while crossing the WhiteSands. Confronted by this unforeseen peril, what is it that renews her courage once more...?
+
+> Intelligence after completion:
 > Her quest for love simply cannot fail, not when it has only just begun! Driven by her obsession with her beloved, Milly summons every ounce of her courage to aid the crew in battling the sandstorm. They finally secure rescue and arrive safely in DisCity.
+
+### Interrogation Transcript
 
 A few weeks later.
 
@@ -368,9 +382,17 @@ Kawa-kawa: Hope the rest of your trip goes smoothly. And good luck with Chief! I
 
 Milly: Thank you, Kawa-kawa. I know what to do now.
 
+> Her quest for love simply cannot fail, not when it has only just begun! Driven by her obsession with her beloved, Milly summons every ounce of her courage to aid the crew in battling the sandstorm. They finally secure rescue and arrive safely in DisCity.
+
 ## Milly - Interrogation III
 
+> Intelligence before completion:
+> New to Eastside, Milly is curious about everything. Under Zephyr's (forcibly) arranged companionship, she spends her days dining out and exploring, enjoying a simple yet delightful, carefree respite. After a night of revelry, she finally understands why the Chief has arranged this homecoming journey for her...
+
+> Intelligence after completion:
 > Bravely stepping out of the prison that once confined her, the young woman beholds a whole new world unfolding before her eyes. She once again confirms her feelings for the Chief, realizing that in this vibrant world, she may admire many things, but will only ever love one person.
+
+### Interrogation Transcript
 
 As arranged, someone will pick Milly up at the DisCity port.
 
@@ -582,9 +604,17 @@ The sun rises behind her, bathing her hair in a radiant halo of light.
 
 Milly: I'm ready to see Chief now. Please, take me to MBCC.
 
+> Bravely stepping out of the prison that once confined her, the young woman beholds a whole new world unfolding before her eyes. She once again confirms her feelings for the Chief, realizing that in this vibrant world, she may admire many things, but will only ever love one person.
+
 ## Milly - Interrogation IV
 
+> Intelligence before completion:
+> After several long months, you finally return to MBCC and are able to speak with Milly face-to-face. You find her sitting nervously in the interrogation room, anxiously awaiting your arrival. Will this long-awaited meeting proceed smoothly?
+
+> Intelligence after completion:
 > As Milly shares her story, you recall the girl who once prayed for a savior in the slums—who affirmed her feelings through hellish trials and forged them into the strength to survive. Now, you can no longer turn away from her love. So you decide to embark on this journey with her, to see a wider world, to live a brighter life, with the one you love.
+
+### Interrogation Transcript
 
 Several months have passed since Milly was formally admitted to the Bureau, and you've finally made your way back.
 
@@ -793,3 +823,5 @@ Milly: Forget it, I'm not taking you with me! I'm taking someone else! You can j
 You easily catch her flailing hand and, unfazed by her tantrum, hold it gently in yours.
 
 Chief: Alright. When you find an even more special place to take me, we'll go then.
+
+> As Milly shares her story, you recall the girl who once prayed for a savior in the slums—who affirmed her feelings through hellish trials and forged them into the strength to survive. Now, you can no longer turn away from her love. So you decide to embark on this journey with her, to see a wider world, to live a brighter life, with the one you love.
