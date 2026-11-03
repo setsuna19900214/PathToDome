@@ -377,9 +377,9 @@ Your mother is sitting on the couch in the living room, a cup of black tea in ha
 
   Dreya: Everything is gonna be all right, Mother.
 
-  Dreya's Mother: Don't ever think about going to that place. It's too dangerous, fatally dangerous.
+  Mother: Don't ever think about going to that place. It's too dangerous, fatally dangerous.
 
-  Dreya's Mother: Stay in the Research Institute. We don't want anything untoward to happen to you.
+  Mother: Stay in the Research Institute. We don't want anything untoward to happen to you.
 
 **end**
 

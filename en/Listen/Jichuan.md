@@ -101,3 +101,45 @@ Jichuan: I apologize in advance for my rudeness.
 #### Upgrade Skill
 
 Jichuan: I understand the price of this power. The Heaven's way is immutable, and I accept it willingly.
+
+### Outfit 1: When Lotuses Unfurl
+
+#### Attire Obtained
+
+Jichuan: The bone-chilling cold of towering peaks has been my constant companion, so this southern heat is a rather charming novelty. You've roamed far and wide, while I've only my pavilion's shade. Won't you sit, share a cup of cool tea, and let your stories bring the world to me?
+
+#### Level Up
+
+Jichuan: This retreat truly has a nurturing air...
+
+#### Greeting
+
+Jichuan: How perfectly the winding path holds the lotus fragrance drifting through... I wonder, did the same cool breath of wind summon you, leading you ever deeper into this retreat's shade?
+
+#### Pat Head
+
+Jichuan: Oh? Because Cheepy and Chirpy indulge you, you thought to reach for me as well? I am far less easily charmed, I'm afraid. Do consider your next move carefully.
+
+#### Ordinary Contact 1
+
+Jichuan: Red railings mirrored in the pond, green leaves trembling in the breeze... Strange, how they make those escaping the heat look more restless by contrast. The pleasure of leaning on a railing to "borrow the cool"... does it not surpass even the most effective herbal remedy?
+
+#### Ordinary Contact 2
+
+Jichuan: During the Qiqiao Festival, the world prays for dexterous hands. I, on the other hand, would rather pray for indolence, to while away the hours with you among the flowers and the wind, two figures in a painted scene who ask nothing of the road ahead, content only to watch the drifting clouds.
+
+#### Ordinary Contact 3
+
+Jichuan: I had meant to fold this lotus leaf into a cup for summer wine, but with my hands thus occupied by your company, even plain tea tastes sweeter than any vintage.
+
+#### Ordinary Contact 4
+
+Jichuan: Such an intricate web of waterways the south weaves. From these timely lotus blooms, I can trace the careful tending of the canals, and imagine the fertile fields already yielding signs of a rich year ahead. Even the tea and refreshments at hand carry this taste of peaceful prosperity.
+
+#### Idle
+
+Jichuan: The breeze has quieted, and the young lotus unfurls... Moments like these are fleeting treasures. If only my health allowed, I'd steal you away in a boat while you dreamed, just to see the wonder on your face when you awoke upon the lake.
+
+#### Special Attention
+
+Jichuan: A pond of red lotuses at their finest hour, and still you only look at me. If they had hearts, they might close in indignation when night falls, blaming you for playing favorites.

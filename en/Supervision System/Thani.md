@@ -1,5 +1,67 @@
 # Thani Supervision System
 
+### 「Family」
+
+Location: Recreation Area
+
+Urgency: ⚠⚠⚠
+
+Helix still hasn't given up trying to explain the ideology of the Underground to fellow Sinners her age. Strangely enough, though, she does seem to have made a real friend—Thani.
+
+You find this a little surprising. Out of concern, you decide to see how they're getting along for yourself.
+
+- Go check
+
+  When you find them, Helix is sitting across from Thani, speaking with grave seriousness about how this world is steeped in sin, and how only the arrival of the Herald can bring a truly just future.
+
+  But Thani doesn't seem to understand what she means.
+
+  Thani: Helix... have you been feeling down lately?
+
+  Thani: Is it the food? Or is your room uncomfortable?
+
+  Helix: That's not what I meant!
+
+  Helix: Are you even listening? This world's been rotten for ages. The rules, the laws, everything—
+
+  Thani: Then someone's been picking on you?
+
+  Helix: ...No!
+
+
+  - Step in to mediate
+
+    Seeing Helix teetering on the edge of losing control, you decide to step into their conversation.
+
+    Chief: Helix, please calm down.
+
+    Helix: I am calm! I just want my friend to see the truth about this filthy world. Is that so wrong?
+
+    Chief: Thani doesn't understand what you're saying. She just thinks something's bothering you. You shouldn't snap at someone who's worried about you.
+
+    Helix looks away, murmurs a quiet reply, and pushes the dessert in front of her toward Thani.
+
+  - Keep observing
+
+
+  <br>
+
+  Instead of approaching right away, you stay at a distance and keep watching how the two of them interact.
+
+  Helix: You don't get it. Once you see how filthy this world really is, you'll stop falling for all those pretty lies.
+
+  Thani: ...So is it a home you want? Do you want to be my family?
+
+  Helix: What?
+
+  Thani: Life in the refugee camp was rough, but everyone helped each other and figured out how to survive together. We were family.
+
+  Thani: With family, you can be happy anywhere. And if you're not ready for that, we can just start as friends!
+
+  Helix gives a small nod. It seems the two of them have reached some kind of understanding.
+
+  You watch from a distance as they move on to other topics, and decide not to interrupt this strange but seemingly safe exchange for now.
+
 ### 「Sensitive Skin」
 
 Location: Recreation Area

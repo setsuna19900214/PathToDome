@@ -240,11 +240,11 @@ Faced with a culprit who seems to talk around your question, you conclude that t
 
 Murphy: I-I'm sorry! I was actually coming to MBCC to turn myself in... but then the atmosphere back there was just so perfect, and I couldn't help myself... I just really wanted to say those lines!
 
-Murphy: Please, I'm begging you, go easy on me... Don't use those shackles...
+Murphy: I sent you flying, smashed the gate, and I'm the reason we both ended up here... Please, I'm begging you, go easy on me... Don't use those shackles...
 
 She scrambles, yanking a wrinkled piece of paper from her pocket before, with a magician's flair, whipping out a steering wheel warped beyond recognition from behind her back.
 
-Murphy: This is the evidence, and... this is my written confession.
+Murphy: I was actually coming to MBCC to turn myself in... This is the evidence, and... this is my written confession.
 
 As far as you can tell, there's good news and bad news.
 

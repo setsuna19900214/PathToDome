@@ -101,3 +101,37 @@ Clementine: The story begins, a crime unfolds—and you... you just happened to 
 #### Upgrade Skill
 
 Clementine: Look closely. The truth is often hidden between the lines.
+
+### Outfit 1: ###
+
+#### Attire Obtained
+
+Clementine: ###
+
+#### Level Up
+
+Clementine: ###
+
+#### Greeting
+
+Clementine: ###
+
+#### Ordinary Contact 1
+
+Clementine: ###
+
+#### Ordinary Contact 2
+
+Clementine: ###
+
+#### Idle
+
+Clementine: ###
+
+#### Annoyed
+
+Clementine: ###
+
+#### Special Attention
+
+Clementine: ###

@@ -41,3 +41,19 @@ Coquelic: Chief, why the long face with the holidays just around the corner?
 - I've kinda missed you...
 
   Coquelic: Chance encounters are supposed to be fleeting. That's exactly what makes them unforgettable, don't you think?
+
+### Entry 4
+
+[An old, yellowed envelope lies on your desk.]
+
+Coquelic: [Without a seal or signature, the ancient lines of verse written within nonetheless hold your gaze.]
+
+- [Read the first page]
+
+  Coquelic: The funeral procession winds out of Cinderfields, heavy and slow, some wringing their hands, others murmuring in grief.
+What melody drifts over mountains and water? A dirge sung for the lost dead.
+
+- [Read the second page]
+
+  Coquelic: Was it for you, young traveler, you who once pressed close to my heart, as dear as my own soul?
+The harbinger of death stands upon the hills of Cinderfields, letting a long, mournful wail echo across the midnight wilderness.

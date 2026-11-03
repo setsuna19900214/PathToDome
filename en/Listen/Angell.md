@@ -159,3 +159,45 @@ Angell: Would you like to try too? Just make sure to control your strength. Thes
 #### Special Attention
 
 Angell: I rarely expose myself so directly under the spotlight—but with the knowledge that you're in the audience watching me, I can stay composed and complete the performance, because I want to live up to your expectations.
+
+### Outfit 2: Tender Nightfall
+
+#### Attire Obtained
+
+Angell: Didn't expect to run into you here. Maybe I shouldn't have taken that commission today... I would've loved to chat with you more.
+
+#### Level Up
+
+Angell: The night is just right.
+
+#### Greeting
+
+Angell: Relax. You aren't my target, though I'll need you to stay here for a while. Won't keep you long, I just need you to be here until the next piece of music starts...
+
+#### Pat Head
+
+Angell: Masks obstruct vision and hinder movement, so I chose this headpiece instead... I'll never understand why people think dressing like a cat makes you safe, or how they could let their guard down so easily... Is it because it's cute?
+
+#### Ordinary Contact 1
+
+Angell: I did a lot in preparation for this mission, like spending two months learning piano. I can't quite compare to a professional just yet, but it should be good enough for me to fit in.
+
+#### Ordinary Contact 2
+
+Angell: Don't worry about where I've hidden my weapons. Just know they're all where they need to be. I won't allow anything to go wrong and tarnish my reputation.
+
+#### Ordinary Contact 3
+
+Angell: It's somewhat difficult to move around in a formal dress like this. That said, it helps a lot with lowering the enemies' guard, giving me an opportunity to go in for the killing blow.
+
+#### Ordinary Contact 4
+
+Angell: High heels may look delicate and fragile, but if you apply force in the right spot, they can easily pierce through the skull or heart. When you look at it like that, they can also serve as weapons.
+
+#### Idle
+
+Angell: You'll be safe here. Wait for me—I won't take long.
+
+#### Special Attention
+
+Angell: Let's finish the mission first. There'll be more time for admiration later.

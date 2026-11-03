@@ -55,3 +55,17 @@ Hecate: Chief, you're finally back. Everyone has missed you while you were away.
 - It's been a while. How has everyone been doing?
 
   Hecate: We've all been taking good care of ourselves, but... we were all hoping you'd come back soon, Chief. Everyone is waiting for you.
+
+### Entry 5
+
+[Hecate, representing all the Sinners, steps forward to offer her congratulations.]
+
+Hecate: Chief, this is a gift from all of us. Happy fourth anniversary.
+
+- Thank you. Let's all celebrate together.
+
+  Hecate: Being here by your side makes me really happy, Chief... I hope we can celebrate like this every year.
+
+- Thank you... This gift feels pretty heavy.
+
+  Hecate: Hella said you should open it when you're alone. If you think it's dangerous, I'll open it with you.

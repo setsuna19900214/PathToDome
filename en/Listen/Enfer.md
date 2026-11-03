@@ -143,3 +143,39 @@ Enfer: Never pass jade with your hands. I won't remind you again.
 #### Special Attention
 
 Enfer: Have you decided? What kind of ornament do you want me to carve this jade into?
+
+### Outfit 2: Theatrical Dreamscape
+
+#### Attire Obtained
+
+Enfer: ###
+
+#### Level Up
+
+Enfer: ###
+
+#### Greeting
+
+Enfer: ###
+
+#### Ordinary Contact 1
+
+Enfer: ###
+
+#### Ordinary Contact 2
+
+Enfer: ###
+
+#### Idle
+
+Enfer: ###
+
+Enfer: ###
+
+#### Annoyed
+
+Enfer: ###
+
+#### Special Attention
+
+Enfer: ###

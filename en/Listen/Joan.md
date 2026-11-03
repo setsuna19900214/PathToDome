@@ -40,7 +40,7 @@ Joan: Good timing. Let me hear your demo.
 
 #### Conversation 1
 
-Joan: As long as I'm still alive, those records companies can fuck off. No way in hell would I let them steal Anavrin's songs.
+Joan: As long as I'm still alive, those records companies can f**k off. No way in hell would I let them steal Anavrin's songs.
 
 #### Conversation 2
 
@@ -72,7 +72,7 @@ Joan: (Joan tunes her guitar.)
 
 #### Annoyed
 
-Joan: Fuck off!
+Joan: F**k off!
 
 #### Special Attention
 

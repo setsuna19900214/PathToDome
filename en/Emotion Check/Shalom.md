@@ -55,3 +55,17 @@ Shalom: Chief, if you ever grow weary, you're always welcome here.
 - Would I be intruding?
 
   Shalom: Not at all. You're a guest of honor, one I personally invited.
+
+### Entry 5
+
+[As you pass the music room, faltering notes of a piano catch your ear. Pushing the door open, you find Shalom sitting at the piano.]
+
+Shalom: You seem to have taken an interest in music lately, Chief. I've been learning some piano techniques in my free time. Is there anything you'd like to hear?
+
+- What can you play?
+
+  Shalom: Anything with sheet music available, I can perform. No request of yours could ever trouble me, Chief.
+
+- I'd like to hear something you like.
+
+  Shalom: Oh? I wonder... will the melody close to my heart resonate with yours?

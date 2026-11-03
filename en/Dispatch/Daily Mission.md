@@ -1971,6 +1971,60 @@ Assigned Sinner: Evie, Rise
 A workplace support seminar has been reported for suspected psychological manipulation. The Bureau decides to send two experienced corporate employees to infiltrate the venue and gather evidence.
 
 
+## 1077001-Playing by Ear
+
+Duration: 20h
+
+Assigned Sinner: Requiem
+
+The Bureau has intercepted a recording of an unknown piece of music that may contain a coded message used by the Underground. Conventional methods have failed to reconstruct the full score, so Requiem is being dispatched to use her perfect pitch to play it back and compare the results.
+
+
+## 1078001-Land Auction
+
+Duration: 20h
+
+Assigned Sinner: Famorene·Eirene
+
+Suspicious bids have surfaced at a major land auction in Eastside. Several companies are taking turns driving up prices, but the land itself may not be their real target. Dispatch Eirene to analyze the bidding and uncover the manipulator behind it.
+
+
+## 1079001-Underground Remnants
+
+Duration: 6h
+
+Assigned Sinner: Helix
+
+The Public Security Bureau has seized several objects near the Rust believed to have been left by Underground fanatics. Some still carry faint traces of Mania. Dispatch Helix to examine the traces and help determine what happened at the scene.
+
+
+## 1079002-Hospital Visit
+
+Duration: 10h
+
+Assigned Sinner: Helix, Thani
+
+Eastside Hospital's children's ward is holding a visiting event. The Bureau has decided to dispatch two Sinners to visit the young patients and bring them some cheer.
+
+
+## 1080001-###
+
+Duration: 20h
+
+Assigned Sinner: Daffodil
+
+###
+
+
+## 1081001-###
+
+Duration: 20h
+
+Assigned Sinner: Arancia
+
+###
+
+
 ## 1099001-Dream Interpretation
 
 Duration: 6h

@@ -41,3 +41,17 @@ Hamel: Chief, I've choreographed a new dance to celebrate this special day. I'm 
 - Thank you for everything you prepared.
 
   Hamel: Before sunrise, just surrender your body completely to the music.
+
+### Entry 4
+
+[Ever since you heard Hella dragged Hamel into the band, you had been a little worried about her. But watching the rehearsal with your own eyes, you realize Hamel seems to be enjoying it.]
+
+Hamel: Chief, so this is what a band is like? Different sounds weaving together, somehow blooming into something so vibrant and alive.
+
+- That's the essence of an ensemble.
+
+  Hamel: Ensemble... such a gentle word. Like holding each other's hands, stepping into the same dream together.
+
+- Do you like this feeling?
+
+  Hamel: Mm... it is strange to me, but... having others by my side feels really nice.

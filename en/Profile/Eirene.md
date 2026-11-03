@@ -80,3 +80,7 @@ Quite a few Sinners have been employed by enterprises owned or funded by Quinn, 
 **4**
 
 Though the subject has never lost in chess with Chief, she still always enjoys a good game with Chief and will occasionally even give way or offer guidance so long as the endgame is not affected. "Witnessing the growth of your own possession is an interesting thing, too."
+
+**4**
+
+The subject deliberately made contact with Underground-affiliated forces and absorbed the power of Underground Apostles, further intensifying the Mania within her. Following the Chief's re-intervention through the shackles, her abilities broke through their original limits, driven by her own desires, and she evolved into a Scourge Sinner.

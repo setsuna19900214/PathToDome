@@ -1,5 +1,57 @@
 # Phanuel Supervision System
 
+### 「###」
+
+Location: Management Center
+
+Urgency: ⚠⚠⚠
+
+###
+
+###
+
+###
+
+Phanuel: ###
+
+Daffodil: ###
+
+- Observe
+
+  ###
+
+
+  - ###
+
+    Chief: ###
+
+    Phanuel: ###
+
+    Phanuel: ###
+
+    Daffodil: ###
+
+    Phanuel: ###
+
+    Phanuel: ###
+
+  - ###
+
+
+  <br>
+
+  Chief: ###
+
+  ###
+
+  ###
+
+  Phanuel: ###
+
+  Daffodil: ###
+
+  ###
+
 ### 「Formulaic Apology」
 
 Location: Management Center

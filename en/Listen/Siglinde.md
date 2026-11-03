@@ -97,3 +97,37 @@ Siglinde: Though I seldom take the frontlines, a true soldier never hesitates wh
 #### Upgrade Skill
 
 Siglinde: Thank you for your trust. I will ensure the frontline comms remain flawless.
+
+### Outfit 1: Orders at Dusk
+
+#### Attire Obtained
+
+Siglinde: ###
+
+#### Level Up
+
+Siglinde: ###
+
+#### Greeting
+
+Siglinde: ###
+
+#### Ordinary Contact 1
+
+Siglinde: ###
+
+#### Ordinary Contact 2
+
+Siglinde: ###
+
+#### Idle
+
+Siglinde: ###
+
+#### Annoyed
+
+Siglinde: ###
+
+#### Special Attention
+
+Siglinde: ###

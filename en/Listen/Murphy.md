@@ -101,3 +101,37 @@ Murphy: Are-are you sure you wanna pick me? Okay then... here I go? I-I'm really
 #### Upgrade Skill
 
 Murphy: I feel like... I've gotten a little braver!
+
+### Outfit 1: ###
+
+#### Attire Obtained
+
+Murphy: ###
+
+#### Level Up
+
+Murphy: ###
+
+#### Greeting
+
+Murphy: ###
+
+#### Ordinary Contact 1
+
+Murphy: ###
+
+#### Ordinary Contact 2
+
+Murphy: ###
+
+#### Idle
+
+Murphy: ###
+
+#### Annoyed
+
+Murphy: ###
+
+#### Special Attention
+
+Murphy: ###

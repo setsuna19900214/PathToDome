@@ -135,3 +135,37 @@ Ceto: Move your hand any closer and I'll assume you want to test how sharp this 
 #### Special Attention
 
 Ceto: I can see it in your eyes... the same madness as mine. Good, this ghost ship needs someone like you who "fits in" with the crew. Come, we can sail anywhere together, even to hell's harbor.
+
+### Outfit 2: ###
+
+#### Attire Obtained
+
+Ceto: ###
+
+#### Level Up
+
+Ceto: ###
+
+#### Greeting
+
+Ceto: ###
+
+#### Ordinary Contact 1
+
+Ceto: ###
+
+#### Ordinary Contact 2
+
+Ceto: ###
+
+#### Idle
+
+Ceto: ###
+
+#### Annoyed
+
+Ceto: ###
+
+#### Special Attention
+
+Ceto: ###

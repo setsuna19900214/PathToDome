@@ -27,3 +27,18 @@ Milly: Has my hair gotten frizzy lately...? It doesn't seem as shiny as it used 
 - Someone recommended a conditioner to me. It's even honey-scented.
 
   Milly: Oooh! I'll try it tonight!
+
+### Entry 3
+
+[On your desk sits a livehouse flyer, where the lead singer's image is decked out in sparkling doodles Milly drew herself.]
+
+Milly: Darling, did you see that? At the next show, I'll be standing right in the spotlight, singing just for you!
+
+- I'm looking forward to it.
+
+  Milly: Then save every bit of that excitement for the big day!
+I'll give you a night to remember. Every chord, every heartbeat, and the most dazzling version of me!
+
+- Is this a sneak peek just for me?
+
+  Milly: Bingo! So, darling, want an early listen to the main theme? I'll sing it for you right after today's rehearsal!

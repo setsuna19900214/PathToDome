@@ -8,7 +8,7 @@ Gender: Female
 
 Birthplace: Eastside
 
-DOB: Sep. 6
+DOB: September 6
 
 Height: 167cm
 
