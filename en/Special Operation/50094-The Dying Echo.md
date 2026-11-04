@@ -1352,7 +1352,7 @@ The incense folds over you, your senses smearing at the edges, leaving only the 
 
 The ritual was close to its end, but you have given them something better. A new source of amusement, unexpected and therefore exquisite. Voices multiply, twisting into the chant. The golden eye contorts and warps within the rifts, the sigil growing more grotesque with each flicker of the firelight.
 
-Incense-Shrouded Crowd: Kill him! Kill him! Sacrifice the beast!
+<ins>Incense-Shrouded Crowd: Kill him! Kill him! Sacrifice the beast!</ins><br><ins>Incense-Shrouded Crowd: Kill her! Kill her! Sacrifice the beast!</ins>
 
 Incense-Shrouded Crowd: The Great One is about to descend!
 
