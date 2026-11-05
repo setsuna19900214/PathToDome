@@ -10,9 +10,13 @@ OwO: Hoo-hah! Defense in attack, and attack in defense. Attack while defensing, 
 
   OwO: Hehe, that's right! Come and spar with me!
 
+  OwO: ![Emoji 7](_emoji/7.png)
+
 - It's too dangerous. Put it down.
 
   OwO: Hmph, I know you're scared. OwO is the greatest warrior!
+
+  OwO: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ OwO: Woohoo!!!
 
   OwO: Why do you have no reaction at all? It's no fun. I don't want to play with you anymore!
 
+  OwO: ![Emoji 1](_emoji/1.png)
+
 - Ah!!!
 
   OwO: Hahaha! I got you every time, coward!
+
+  OwO: ![Emoji 7](_emoji/7.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ OwO: Little clapper, perfect timing! Time to chase away all the bad luck and tro
 
   OwO: Hehe, you better catch OwO's coolest moves, little clapper
 
+  OwO: ![Emoji 7](_emoji/7.png)
+
 - Do you need any help?
 
   OwO: Nope! Your only job today is to sit back and watch OwO's one-of-a-kind, unbeatable, super spectacular, extra magnificent performance!
+
+  OwO: ![Emoji 4](_emoji/4.png)

@@ -10,9 +10,13 @@ Luvia Ray: Shush. Keep quiet. Ray is sleeping right now...
 
   Luvia Ray: Heehee... I'd say our relationship is alright.
 
+  Luvia Ray: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - That's wonderful. Finally, no one will quarrel with me.
 
   Luvia Ray: Shhh! Don't say that! You don't want her to overhear it!
+
+  Luvia Ray: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Luvia Ray: The characters for my new show... are all supporting roles.
 
   Luvia Ray: Sigh... We'll do our best. Ah... it's another mission.
 
+  Luvia Ray: ![Emoji 4](_emoji/4.png) ![Emoji 1](_emoji/1.png)
+
 - Talented people like you are bound to succeed. Keep up the good work.
 
   Luvia Ray: Yes, we'll do our best! And we will succeed one day!
+
+  Luvia Ray: ![Emoji 4](_emoji/4.png) ![Emoji 6](_emoji/6.png)

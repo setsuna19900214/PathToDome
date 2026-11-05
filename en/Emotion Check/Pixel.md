@@ -10,9 +10,13 @@ Pixel: Pffahahahaha... She loves him, he loves her, she loves her, he loves her�
 
   Pixel: A kindred spirit! I KNEW you had taste! I hereby declare you my long‑lost sibling, separated at birth!
 
+  Pixel: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - This show is an insult to the viewer's intelligence.
 
   Pixel: The actors are fools, and the viewers are lunatics! Hehehe... which means this show and I are soulmates!
+
+  Pixel: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Pixel: Sys... sy... system malfunction... emergency diagnostic...
 
   Pixel: Te... test results abnormal... donate one million DisCoins to Pixel's exclusive account to restore normal function. Contact number: 888888... Oh! And yes, installment plans are available. Hehehe!
 
+  Pixel: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - That was all an act, wasn't it?
 
   Pixel: You know me better than anyone in the whole wide world! Ta‑daa! Fresh glitch‑art graffiti on my face. Hehehe... now who should I mess with next?
+
+  Pixel: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

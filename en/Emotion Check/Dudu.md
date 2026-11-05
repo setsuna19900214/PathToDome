@@ -10,9 +10,13 @@ Dudu: Hey, boss. Are you here for snacks too?
 
   Dudu: Today's pork chops taste pretty good. Let me get you some.
 
+  Dudu: ![Emoji 7](_emoji/7.png)
+
 - No, I'm just passing by.
 
   Dudu: Then you should watch me eat. Maybe you'll get hungry.
+
+  Dudu: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Dudu: Don't miss it! The first 20 students get half off their tuition! Hey, boss
 
   Dudu: We are hoping you could be the first! Come on, I'll give you a discount!
 
+  Dudu: ![Emoji 4](_emoji/4.png)
+
 - I'm kind of busy.
 
   Dudu: That's so heartless! As a qualified boss you should support my career!
+
+  Dudu: ![Emoji 6](_emoji/6.png)

@@ -10,9 +10,13 @@ Lisa: I received a few paintings to enjoy.
 
   Lisa: Yeah. That would be perfect.
 
+  Lisa: ![Emoji 5](_emoji/5.png)
+
 - I think they will all face your criticism one way or another.
 
   Lisa: Of course. Unless they can replicate "Rebecca".
+
+  Lisa: ![Emoji 2](_emoji/2.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Lisa: I drew the line crooked... again.
 
   Lisa: There's no need. I appreciate it, but... I might as well take my time and do it myself.
 
+  Lisa: ![Emoji 2](_emoji/2.png)
+
 - I'll give you a ruler.
 
   Lisa: You...? Sigh... Forget it.
+
+  Lisa: ![Emoji 1](_emoji/1.png) ![Emoji 2](_emoji/2.png) ![Emoji 5](_emoji/5.png)

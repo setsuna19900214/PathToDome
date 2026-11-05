@@ -10,9 +10,13 @@ Poffy: Chief! Chief! Look at the camera!
 
   Poffy: Hehe, our adorably confused Chief is so cute! I'll use this shot for the cover of my MBCC cafeteria review!
 
+  Poffy: ![Emoji 7](_emoji/7.png)
+
 - Cheese?
 
   Poffy: Perfect! I'll use this shot for the cover of my MBCC cafeteria review!
+
+  Poffy: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Poffy: Chief, do you prefer sweet bread or savory bread?
 
   Poffy: Then let's split them in half!
 
+  Poffy: ![Emoji 8](_emoji/8.png)
+
 - Either is fine.
 
   Poffy: Chief is just like me! Then let's... split them in half and share!
+
+  Poffy: ![Emoji 8](_emoji/8.png)

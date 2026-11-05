@@ -10,9 +10,13 @@ Lamia: Chief, you look tired, do you need to relax?
 
   Lamia: Of course not! Why are you so alarmed about my suggestion...
 
+  Lamia: ![Emoji 6](_emoji/6.png)
+
 - Relax how?
 
   Lamia: You can go take a bath. The warm water has a very soothing effect on your fatigue.
+
+  Lamia: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Lamia: What was it like as a student? Why do so many people miss those days?
 
   Lamia: What's it like to be carefree? I never seem to have experienced it.
 
+  Lamia: ![Emoji 2](_emoji/2.png)
+
 - Probably because a lot of people harvest the purest feelings at that time.
 
   Lamia: Pure feelings? ...It's really hard to imagine...
+
+  Lamia: ![Emoji 2](_emoji/2.png)

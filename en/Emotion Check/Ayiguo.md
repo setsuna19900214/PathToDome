@@ -10,9 +10,13 @@ Ayiguo: Little darling, look who's come to pay their respects to Granny!
 
   Ayiguo: Of course. Granny doesn't keep ugly company. Careful now, don't go leaning in unless you're itching to find out what poison tastes like.
 
+  Ayiguo: ![Emoji 8](_emoji/8.png)
+
 - You talk to them like old friends. You must be really close.
 
   Ayiguo: Not that close. Granny just hasn't found a better way to stay young forever.
+
+  Ayiguo: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Ayiguo: Staring, are we? Can't say I blame you. Granny Goldspider's fashion sens
 
   Ayiguo: Oh, such a charmer! Granny likes you. She really does.
 
+  Ayiguo: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Definitely not what everyone else is wearing these days.
 
   Ayiguo: Trends come and go, child. Granny's been perfecting this look for centuries. Let's see their style last that long.
+
+  Ayiguo: ![Emoji 1](_emoji/1.png)

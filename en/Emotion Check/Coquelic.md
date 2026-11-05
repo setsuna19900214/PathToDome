@@ -10,9 +10,13 @@ Coquelic: What kind of flowers do you think would be good to plant here?
 
   Coquelic: Well, just wait and see.
 
+  Coquelic: ![Emoji 8](_emoji/8.png)
+
 - Any kind except poisonous ones! Please!
 
   Coquelic: That's a shame. I was going to plant some oleanders.
+
+  Coquelic: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Coquelic: In your opinion, which brooch looks the best?
 
   Coquelic: It's rare that you share my opinion. This brooch is quite special. Hmm... It'll look good on you.
 
+  Coquelic: ![Emoji 4](_emoji/4.png)
+
 - The silver one? I actually don't usually wear brooches.
 
   Coquelic: I think the blue one is perfect for you. You have to learn to dress up once in a while.
+
+  Coquelic: ![Emoji 8](_emoji/8.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Coquelic: Chief, why the long face with the holidays just around the corner?
 
   Coquelic: Hmph, cheeky little one. When did you learn to talk like that? Quit looking so down. I stashed a little gift in your room. Go find it.
 
+  Coquelic: ![Emoji 4](_emoji/4.png)
+
 - I've kinda missed you...
 
   Coquelic: Chance encounters are supposed to be fleeting. That's exactly what makes them unforgettable, don't you think?
+
+  Coquelic: ![Emoji 4](_emoji/4.png)
 
 ### Entry 4
 
@@ -51,9 +63,13 @@ Coquelic: [Without a seal or signature, the ancient lines of verse written withi
 - [Read the first page]
 
   Coquelic: The funeral procession winds out of Cinderfields, heavy and slow, some wringing their hands, others murmuring in grief.
-What melody drifts over mountains and water? A dirge sung for the lost dead.
+  What melody drifts over mountains and water? A dirge sung for the lost dead.
+
+  Coquelic: ![Emoji 2](_emoji/2.png)
 
 - [Read the second page]
 
   Coquelic: Was it for you, young traveler, you who once pressed close to my heart, as dear as my own soul?
-The harbinger of death stands upon the hills of Cinderfields, letting a long, mournful wail echo across the midnight wilderness.
+  The harbinger of death stands upon the hills of Cinderfields, letting a long, mournful wail echo across the midnight wilderness.
+
+  Coquelic: ![Emoji 2](_emoji/2.png)

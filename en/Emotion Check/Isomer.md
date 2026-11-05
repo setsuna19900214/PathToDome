@@ -10,9 +10,13 @@ Isomer: ...Pepper and anise. Common roasting spices. Optimal ratio: one to two, 
 
   Isomer: Of course not. I'm refining a recipe—seasoning ratios make or break the flavor. Cooking and lab work share one truth: the details decide everything.
 
+  Isomer: ![Emoji 8](_emoji/8.png)
+
 - Need a taste tester?
 
   Isomer: It's not ready yet. But since you're eager... try this sauce. Less sugar, a touch of smoked paprika. Hope it hits the spot.
+
+  Isomer: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Isomer: Hff... these kids' papers. Wrong formatting, citations tossed in like co
 
   Isomer: Hehe, strict one, aren't you? Strict, but right. A little pressure applied well sharpens people.
 
+  Isomer: ![Emoji 7](_emoji/7.png)
+
 - Go easy on them.
 
   Isomer: True. Young scholars are like new sprouts—without sun and rain, they wilt. Now hand me that coffee. Turning this mess into something readable is an all‑nighter.
+
+  Isomer: ![Emoji 6](_emoji/6.png)

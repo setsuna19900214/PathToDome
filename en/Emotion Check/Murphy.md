@@ -10,9 +10,13 @@ Murphy: Um... Chief, I read on the internet that a win around this time will gua
 
   Murphy: Ah, sorry! I just slipped and fell while borrowing your luck... But that would mean I cleared all my bad luck during the process! I'm sure this time it'll be a win!
 
+  Murphy: ![Emoji 7](_emoji/7.png)
+
 - Scratch it for her
 
   Murphy: Whoa! First prize?! Chief, you're super duper lucky! A whole year's worth of good luck is already in the bag! Don't let go of my hand. Let me borrow your luck a little longer, okay?
+
+  Murphy: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Murphy: I gotta head out for work today, but I really can't decide which lucky c
 
   Murphy: Ohhh... I see! With zero lucky charms, all the different kinds of bad luck will cancel each other out, and I'll end up super lucky!
 
+  Murphy: ![Emoji 8](_emoji/8.png)
+
 - Take a few with you.
 
   Murphy: Great idea! Why didn't I think of that before? I'll go back and put on all my charms. I'll stay in full armor and leave no openings for bad luck!
+
+  Murphy: ![Emoji 4](_emoji/4.png)

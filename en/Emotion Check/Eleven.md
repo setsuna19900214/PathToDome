@@ -10,9 +10,13 @@ Eleven: Woken up again by the announcement for outdoor activity time...
 
   Eleven: But my heart is with those who need someone to confide in at night...
 
+  Eleven: ![Emoji 1](_emoji/1.png)
+
 - Try wearing earplugs while you sleep?
 
   Eleven: I heard that the earplugs Miss Faye purchased can "block out all noises," yet the radio is capable of "penetrating anything"... Heh, that sounds like a slogan my program sponsor would come up with.
+
+  Eleven: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Eleven: Which one should I record? The scratching sound of claws on the pavement
 
   Eleven: Don't say that. Besides my little poems, these are the two most popular options for ASMR radio, perfect for sleepless nights... You should give it a try.
 
+  Eleven: ![Emoji 4](_emoji/4.png)
+
 - Both sound pretty hypnotizing, both are good.
 
   Eleven: If you're interested, I can send you a copy of a draft. Try falling asleep while listening to it. It's sure to help you drift off into dreamland.
+
+  Eleven: ![Emoji 7](_emoji/7.png)

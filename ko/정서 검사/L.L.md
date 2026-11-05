@@ -10,9 +10,13 @@ L.L.: 어머, 이것 봐봐, 얼마나 귀여운지! 리오도 '당신' 주변�
 
   L.L.: 그치? 이런 모습의 '당신'이라면 여기서 영원히 나와 함께할 수 있어…
 
+  L.L.: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - 날 '펫'으로 삼고 싶은 거야?
 
   L.L.: 맞아~ 그럼, '주인님'이라고 불러 볼래?
+
+  L.L.: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### 2번째 기록
 
@@ -24,6 +28,10 @@ L.L.: 앗, 실수로 물을 묻혔네. 젖은 옷을 입고 있으면 추울 텐
 
   L.L.: 부끄러워하지 말고~ 설마 포옹하는 게 싫은 건 아니지?
 
+  L.L.: ![Emoji 4](_emoji/4.png) ![Emoji 7](_emoji/7.png)
+
 - 단순한 '실수'로 보이진 않네
 
   L.L.: 맞아. 당신의 시선이 나를 향해 머물고, 나를 계속 바라봐 줬으면 좋겠어.
+
+  L.L.: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

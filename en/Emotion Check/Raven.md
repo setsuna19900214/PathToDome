@@ -10,9 +10,13 @@ Raven: Come read the poem I wrote for you.
 
   Raven: Great. You like it.
 
+  Raven: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - ...Maybe it is me, but I kind of don't get it.
 
   Raven: Bummer. I've been thinking about it for a long time.
+
+  Raven: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Raven: You want me to write a press release? Sure, what do you want?
 
   Raven: No problem! I'm sure you'll like it.
 
+  Raven: ![Emoji 7](_emoji/7.png)
+
 - Just don't write it like a limerick.
 
   Raven: Hey, that's not a limerick. It's called ridicule, okay?
+
+  Raven: ![Emoji 6](_emoji/6.png)

@@ -10,9 +10,13 @@ Lysandra: Chief, why are you giving me this toolkit out of nowhere? Need me to d
 
   Lysandra: A gift? You mean I can just take it without owing you anything?... Okay then, I suppose I should say, thank you?
 
+  Lysandra: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - This toolkit has been sitting unused for a while. I thought you'd make better use of it.
 
   Lysandra: I could definitely use it, but are you sure you don't want something in exchange?
+
+  Lysandra: ![Emoji 5](_emoji/5.png) ![Emoji 5](_emoji/5.png) ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Lysandra: Chief, have you noticed any improvement in the texture of the dishes s
 
   Lysandra: It seems my skills have their uses in the kitchen as well.
 
+  Lysandra: ![Emoji 8](_emoji/8.png)
+
 - Did you cook it yourself?
 
   Lysandra: I didn't actually cook. I just imbued the kitchen knives with master-level cutting attributes.
+
+  Lysandra: ![Emoji 8](_emoji/8.png)

@@ -10,9 +10,13 @@ Yugu: Sticky tofu coffee, cough syrup noodles... Chief, do enlighten me, why do 
 
   Yugu: Indeed you're right. Such vast differences between humans... That's what keeps the fascinating tales eternally unfolding.
 
+  Yugu: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - Interested in trying them?
 
   Yugu: These combinations are quite intriguing indeed, but what holds greater significance is having you try them with me, dear Chief.
+
+  Yugu: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Yugu: What are your thoughts on the ending, Chief?
 
   Yugu: Indeed... The world changes, and hearts reveal their fickleness. Watching someone stray from their true path... such tragedies never fail to pierce the heart.
 
+  Yugu: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - They each found their own path. Even in separation, there is no need for sorrow.
 
   Yugu: You always have such a fascinating perspective on my endings. Would you care to hear another tale next time?
+
+  Yugu: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Yugu: The ink has run dry and the old scroll grown still. This story too... shou
 
   Yugu: Perhaps the one unfolding as we speak. How does that sound?
 
+  Yugu: ![Emoji 4](_emoji/4.png)
+
 - Do you already have a new story in mind?
 
   Yugu: Hehe, a willing ear is all I need now for it to bloom.
+
+  Yugu: ![Emoji 8](_emoji/8.png)

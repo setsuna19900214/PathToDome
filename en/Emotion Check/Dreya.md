@@ -10,9 +10,13 @@ Dreya: I would like... to hear you talk more, Chief.
 
   Dreya: All secrets...
 
+  Dreya: ![Emoji 4](_emoji/4.png)
+
 - Didn't we have a long chat yesterday?
 
   Dreya: This yearning of mine... is never-ending.
+
+  Dreya: ![Emoji 6](_emoji/6.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Dreya: Chief... could you help me put these away?
 
   Dreya: It's my habit... They... will be needed some day...
 
+  Dreya: ![Emoji 6](_emoji/6.png)
+
 - These cans are fine without being kept in the room.
 
   Dreya: This way... I 'll feel satisfied...
+
+  Dreya: ![Emoji 3](_emoji/3.png)

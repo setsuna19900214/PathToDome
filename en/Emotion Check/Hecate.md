@@ -10,9 +10,13 @@ Hecate: Chief, what will you have me do today?
 
   Hecate: Yes. Got it.
 
+  Hecate: ![Emoji 4](_emoji/4.png)
+
 - We don't have any suitable missions for you today just yet.
 
   Hecate: If there are no orders... what purposes are left in my life...?
+
+  Hecate: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Hecate: If I am gone, there will always be another Hecate. When that happens, I 
 
   Hecate: Please... discard all your concerns.
 
+  Hecate: ![Emoji 5](_emoji/5.png)
+
 - You are irreplaceable.
 
   Hecate: ...I hope the same tragedy doesn't happen again this time.
+
+  Hecate: ![Emoji 2](_emoji/2.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Hecate: Chief, the path ahead is blocked. Let me show you another way.
 
   Hecate: Because... because there are surprises Chief can't know about yet.
 
+  Hecate: ![Emoji 3](_emoji/3.png)
+
 - Don't let them do anything dangerous, okay?
 
   Hecate: Yes, we've discussed it. They're all low-risk surprises, Chief, don't worry.
+
+  Hecate: ![Emoji 4](_emoji/4.png)
 
 ### Entry 4
 
@@ -52,9 +64,13 @@ Hecate: Chief, you're finally back. Everyone has missed you while you were away.
 
   Hecate: Welcome home.
 
+  Hecate: ![Emoji 4](_emoji/4.png)
+
 - It's been a while. How has everyone been doing?
 
   Hecate: We've all been taking good care of ourselves, but... we were all hoping you'd come back soon, Chief. Everyone is waiting for you.
+
+  Hecate: ![Emoji 4](_emoji/4.png)
 
 ### Entry 5
 
@@ -66,6 +82,10 @@ Hecate: Chief, this is a gift from all of us. Happy fourth anniversary.
 
   Hecate: Being here by your side makes me really happy, Chief... I hope we can celebrate like this every year.
 
+  Hecate: ![Emoji 5](_emoji/5.png)
+
 - Thank you... This gift feels pretty heavy.
 
   Hecate: Hella said you should open it when you're alone. If you think it's dangerous, I'll open it with you.
+
+  Hecate: ![Emoji 5](_emoji/5.png)

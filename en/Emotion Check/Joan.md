@@ -10,9 +10,13 @@ Joan: Come as you are—
 
   Joan: Chief, your taste is... admirable.
 
+  Joan: ![Emoji 4](_emoji/4.png)
+
 - Keep it down. Some staff can't take it anymore.
 
   Joan: I wouldn't have to practice here if the sports ground wasn't available.
+
+  Joan: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Joan: When will this life come to an end? I want to be performing on a stage som
 
   Joan: Sigh... I guess I'll have to find a way to entertain myself for a while.
 
+  Joan: ![Emoji 5](_emoji/5.png)
+
 - Then I'm counting on you to find me the best spot.
 
   Joan: Ha. Just wait until you see me flourish on the stage.
+
+  Joan: ![Emoji 8](_emoji/8.png)

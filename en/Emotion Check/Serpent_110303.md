@@ -10,9 +10,13 @@ Serpent: Don't you want to taste it... Chief?
 
   Serpent: Come on, Chief... Drink it and you'll feel the purest joy!
 
+  Serpent: ![Emoji 4](_emoji/4.png)
+
 - Too sweet. I refuse.
 
   Serpent: Only the sweetest aroma can bring the ultimate joy... Sigh, it looks like you still have to work on cultivating your taste, Chief.
+
+  Serpent: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Serpent: Oh... Chief, don't you want to get closer to them?
 
   Serpent: Hehe, of course... At least these kids don't bite as hard as I do...
 
+  Serpent: ![Emoji 7](_emoji/7.png)
+
 - There aren't any cobras this time, are there?
 
   Serpent: Be very careful, Chief! My fangs are way sharper than theirs!
+
+  Serpent: ![Emoji 4](_emoji/4.png)

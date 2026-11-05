@@ -10,9 +10,13 @@ Deren: Are you interested in this kind of arthouse film as well?
 
   Deren: Then come over and watch it with me. It's just started.
 
+  Deren: ![Emoji 4](_emoji/4.png)
+
 - Not interested.
 
   Deren: Sigh, forget it. I'll have it all to myself.
+
+  Deren: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Deren: Hold on... I have to note down what you just said.
 
   Deren: Because what you said just now is interesting. It will make a good line for the protagonist in the script I've been writing recently.
 
+  Deren: ![Emoji 8](_emoji/8.png)
+
 - Did I say something wrong?
 
   Deren: No. What you just said inspired me. I must note it down now so I don't forget it later.
+
+  Deren: ![Emoji 7](_emoji/7.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Deren: Big spectacles always go straight to people's heads. Kind of like this pl
 
   Deren: So you're sticking to the shadows, huh? Chief, we really are the same breed. For the stuff that actually matters, only the people on the sidelines ever get a clear look.
 
+  Deren: ![Emoji 8](_emoji/8.png)
+
 - I'm looking forward to it.
 
   Deren: Then don't be in such a hurry to slip away. I have a feeling this finale won't disappoint you, Chief.
+
+  Deren: ![Emoji 4](_emoji/4.png)

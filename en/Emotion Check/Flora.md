@@ -10,9 +10,13 @@ Flora: You remember that you have to do a regular check on the fire-fighting equ
 
   Flora: Well, that's more like it. We must nip it in the bud!
 
+  Flora: ![Emoji 7](_emoji/7.png)
+
 - Right away.
 
   Flora: Tsk. I'd like to see what you're going to do when there is a fire.
+
+  Flora: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Flora: Sigh... What must I do to make the most out of this fire-fighting equipme
 
   Flora: No! We must have a full set of fire-fighting equipment!
 
+  Flora: ![Emoji 3](_emoji/3.png)
+
 - How about practicing with the water hose? The one in the backyard used to water the garden?
 
   Flora: Oh...? That sounds alright!
+
+  Flora: ![Emoji 4](_emoji/4.png)

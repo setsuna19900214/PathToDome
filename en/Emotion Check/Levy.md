@@ -10,9 +10,13 @@ Levy: What do you think? Does it look good?
 
   Levy: That doesn't sound very sincere?
 
+  Levy: ![Emoji 5](_emoji/5.png)
+
 - ...It's alright.
 
   Levy: That's a really rare runway edition. I feel like you should work on your fashion sense.
+
+  Levy: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Levy: Ha, sorry, I won again.
 
   Levy: Not that many, just three. Why don't you play a game with me?
 
+  Levy: ![Emoji 4](_emoji/4.png)
+
 - Don't tell me you're using your contract to play against others.
 
   Levy: Why would I do that? It'll be so boring if I use my ability on these simple games.
+
+  Levy: ![Emoji 8](_emoji/8.png)

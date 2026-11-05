@@ -10,9 +10,13 @@ Mira: It appears to me that you might be lacking some essentials, Chief. For a l
 
   Mira: Hmm... Wise pick. This silk scarf is soft and breathable, allowing you to breathe freely while shielding your nose and mouth from the sand. Plus, the design is lovely. In fact, it's my personal favorite.
 
+  Mira: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Pick up a waterskin
 
   Mira: In Tuco, every guest brings a waterskin brimming with quality liquor. Following a duel victory, they toast with a drink from it. It's akin to a badge of honor for heroes—an ideal item for you, Chief.
+
+  Mira: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Mira: Changing bedsheets, sweeping floors, and organizing rooms... There's alway
 
   Mira: But sheets dried in the sun can bring about a more peaceful sleep for people. Would you care to try them yourself, Chief? They are quite comfortable.
 
+  Mira: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - Do you need any help?
 
   Mira: No worries! I caught some kids squabbling in the corridor earlier and convinced them to help by offering them some delightful WhiteSands drinks. Shh—I actually arranged soft drinks for them. Let's keep that our little secret!
+
+  Mira: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

@@ -10,9 +10,13 @@ Corso: Hey, I've been so bored lately, I was promised more difficult tasks!
 
   Corso: Hahahaha, I was waiting for you to say that!
 
+  Corso: ![Emoji 7](_emoji/7.png)
+
 - Well, the more difficult tasks you solve, the less there is left to do.
 
   Corso: Tsk. Then you come throw a few shots at me!
+
+  Corso: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Corso: The ones bought by the MBCC is not very waterproof... So easy to smudge.
 
   Corso: Ha! I'm going to try it out now!
 
+  Corso: ![Emoji 8](_emoji/8.png)
+
 - How about another one?
 
   Corso: Gee, I've changed a few times and it's all the same! Forget it, I'll adjust it myself!
+
+  Corso: ![Emoji 1](_emoji/1.png)

@@ -10,9 +10,13 @@ Golan: Ah, so-and-so and so-and-so are sworn brothers, and so-and-so and so-and-
 
   Golan: What?! It's fake news? Damn it, I made a donation to that poster. Wait a minute! I remember DeadLover Radio broadcast something in a similar vein. Could these two sources be wrong at the same time?
 
+  Golan: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
+
 - I have no idea what you're talking about.
 
   Golan: Ha! You're hiding something. You did fall for her, didn't you? Come on, spill it out! Were you madly in love with each other? And when you went your separate ways, you swore never to fall in love ever again?
+
+  Golan: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Golan: Damn it, money is short! I can't hire myself out as a henchman. That's no
 
   Golan: Isn't that the nature of information brokering? I provide the information; you pay for it. Whether it's true or false, that's beyond my control. But rest assured, I won't lie to you intentionally, and if it happens unintentionally, well... there's nothing I can do about that.
 
+  Golan: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Are you going to sell well-thought-out reports on current events?
 
   Golan: That sounds like a premium product to me. I don't sell that kind of stuff. N-Not because I can't, but because no information broker in their right mind would take on such a thankless job.
+
+  Golan: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

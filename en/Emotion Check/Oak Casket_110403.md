@@ -10,9 +10,13 @@ Oak Casket: Hmm... Sure enough, cypress wood is more suitable.
 
   Oak Casket: Guess what? It was commissioned by someone for her dead pet parrot.
 
+  Oak Casket: ![Emoji 5](_emoji/5.png)
+
 - Who... is this for?
 
   Oak Casket: A parrot. The pet owned by the detention area staff just passed away yesterday.
+
+  Oak Casket: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Oak Casket: Want to join me for a while? There's plenty of room to spare.
 
   Oak Casket: How about it? Do you feel a different kind of peace?
 
+  Oak Casket: ![Emoji 8](_emoji/8.png)
+
 - No, but thanks.
 
   Oak Casket: Are you uncomfortable because it's too hard? I can get you some soft cushions.
+
+  Oak Casket: ![Emoji 2](_emoji/2.png)

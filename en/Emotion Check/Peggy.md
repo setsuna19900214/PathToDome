@@ -10,9 +10,13 @@ Peggy: Oi, Chief, what brings you here? Would you like to enjoy a performance?
 
   Peggy: Ha! I have a new creation every day. First, let's hear a classic: This is da Syndicate gangsta rapper. Who are you, lookin' dumb as loser?...
 
+  Peggy: ![Emoji 4](_emoji/4.png) ![Emoji 2](_emoji/2.png)
+
 - No. It's that someone complained about your music not being... Rap enough.
 
   Peggy: Get them out of here! They know nothing about rap!
+
+  Peggy: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Peggy: I thought you promised to get me an audio mixer. Where is it?
 
   Peggy: Sigh... This is way too **** frustrating. I've never been treated like that before! Me, the rap superstar!
 
+  Peggy: ![Emoji 5](_emoji/5.png) ![Emoji 5](_emoji/5.png)
+
 - I'll go borrow Joan's audio mixer for you.
 
   Peggy: No! That one is too complicated. I don't know how to use it! Sigh... It seems this recorder is my only option, after all.
+
+  Peggy: ![Emoji 5](_emoji/5.png)

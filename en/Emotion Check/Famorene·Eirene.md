@@ -10,9 +10,13 @@ Famorene·Eirene: The cut and style of these new couture pieces aren't bad. Send
 
   Famorene·Eirene: It's about time she learned to carry herself properly. As her older sister, it falls to me to guide her. Don't you think?
 
+  Famorene·Eirene: ![Emoji 8](_emoji/8.png)
+
 - Could you pick out a few for me too?
 
   Famorene·Eirene: But of course. As my "rival," you should be my equal in all things.
+
+  Famorene·Eirene: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Famorene·Eirene: Mm... the numbers these past few months really are looking bet
 
   Famorene·Eirene: Heh. Phantom Entertainment has already turned out two breakout stars, with revenue to match. Work out a more efficient operating model from that, and greater success is only a matter of time.
 
+  Famorene·Eirene: ![Emoji 8](_emoji/8.png)
+
 - So even you can't say no to a cute little idol.
 
   Famorene·Eirene: Cute or ferocious... as long as it can be tamed and made to serve me, I refuse none of it.
+
+  Famorene·Eirene: ![Emoji 8](_emoji/8.png)

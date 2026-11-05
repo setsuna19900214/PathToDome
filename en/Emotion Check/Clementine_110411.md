@@ -10,9 +10,13 @@ Clementine: Granting fleeting life a form of immortality... now that's a fascina
 
   Clementine: Perhaps. But compared to rotting and fading away, isn't it better to remain frozen at the height of one's brilliance?
 
+  Clementine: ![Emoji 8](_emoji/8.png)
+
 - They're quite exquisite.
 
   Clementine: I knew you'd come to appreciate them too.
+
+  Clementine: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Clementine: Chief, do you know ballroom dance?
 
   Clementine: Perfect, then. Don't worry. Just follow my lead and let the music guide you.
 
+  Clementine: ![Emoji 4](_emoji/4.png)
+
 - Of course.
 
   Clementine: Then, shall we? Come, give me your hand. Watch your step now—wouldn't want you getting dizzy.
+
+  Clementine: ![Emoji 8](_emoji/8.png)

@@ -10,9 +10,13 @@ L.L.：乖——看看，「你」多可愛！小瑤也高興地繞著「你」�
 
   L.L.：是吧是吧！這樣的「你」就可以留在這裡永遠陪著我了……
 
+  L.L.：![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - 你想把我當作「寵物」嗎？
 
   L.L.：嗯！那，你要不要叫我一聲「主人」試試看？
+
+  L.L.：![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### 第2條
 
@@ -24,6 +28,10 @@ L.L.：唉呀，不小心把你弄濕了呢，穿著半濕的衣服很冷吧？�
 
   L.L.：別推辭嘛！難道你不喜歡擁抱的感覺嗎？
 
+  L.L.：![Emoji 4](_emoji/4.png) ![Emoji 7](_emoji/7.png)
+
 - 你看起來可不像純粹的「不小心」。
 
   L.L.：是呀！因為我想你的目光落在我身上，一直看著我，這樣不好嗎？
+
+  L.L.：![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

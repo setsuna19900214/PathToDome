@@ -10,9 +10,13 @@ Wuhuanzi: My fortune is absolutely terrible today. I really shouldn't be around 
 
   Wuhuanzi: Ah...! Please don't come out! I'll just leave it here and go!
 
+  Wuhuanzi: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - Thank you for going through all this trouble to deliver the medicine personally.
 
   Wuhuanzi: I-it's no trouble at all... I'll leave it by the door. Please wait until I'm gone before you take it, my friend.
+
+  Wuhuanzi: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Wuhuanzi: My friend, could you order more yellow talisman paper from Eastia next
 
   Wuhuanzi: The ashes from burned Eastian yellow paper make more potent medicine. Unfortunately, I didn't get much last time, and I've already used up most of it making new talismans.
 
+  Wuhuanzi: ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png)
+
 - Sure.
 
   Wuhuanzi: Oh... Such a quick agreement? My friend, your kindness shall surely bring you great merit!
+
+  Wuhuanzi: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)

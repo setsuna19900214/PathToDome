@@ -10,9 +10,13 @@ Garofano: What color of flowers do you think I should use to decorate the room t
 
   Garofano: Hmm... Looking at it does indeed improve one's mood.
 
+  Garofano: ![Emoji 4](_emoji/4.png)
+
 - I can't decide... Just pick whatever you like.
 
   Garofano: Ah... It's really a tough decision.
+
+  Garofano: ![Emoji 6](_emoji/6.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Garofano: I plan to use it to make a set of pajamas for you. I think it will fit
 
   Garofano: I hope it can give you a better rest.
 
+  Garofano: ![Emoji 7](_emoji/7.png)
+
 - Wouldn't that be too much trouble for you?
 
   Garofano: Why would it be? I even wish... I could do more for you.
+
+  Garofano: ![Emoji 4](_emoji/4.png)

@@ -10,9 +10,13 @@ Langley: Rookie, how is your job going?
 
   Langley: Good. But remember to watch yourself out there, rookie.
 
+  Langley: ![Emoji 5](_emoji/5.png)
+
 - I've carried out the Bureau's plan on schedule today.
 
   Langley: Oh? It's mediocre, but that's not enough.
+
+  Langley: ![Emoji 2](_emoji/2.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Langley: Rookie, go make a cup of coffee for me.
 
   Langley: It's a mediocre proposal, rookie.
 
+  Langley: ![Emoji 5](_emoji/5.png)
+
 - You can try the Bureau's ground coffee.
 
   Langley: Good. The coffee's pleasant smell alone is enough to brighten up my mood.
+
+  Langley: ![Emoji 4](_emoji/4.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Langley: I've reviewed your report. Well done, Chief of Minos. You're now capabl
 
   Langley: See you at the celebration.
 
+  Langley: ![Emoji 8](_emoji/8.png)
+
 - So, do I get to pick my gift?
 
   Langley: Heh, looks like you've gotten bolder too. But that's fine. I like it when you take the lead.
+
+  Langley: ![Emoji 8](_emoji/8.png)

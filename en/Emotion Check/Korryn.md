@@ -10,9 +10,13 @@ Korryn: Morning, Chief! Care to try out these custom heavy weapons from WhiteSan
 
   Korryn: That's what I like about you, Chief! I've been trying to trick—I mean, trying to talk folks into it all day, but no one had the guts to give them a shot. You're the first one!
 
+  Korryn: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - I never said I wanted to try them.
 
   Korryn: Don't be so uptight! It's not like I'm hitting you up for cash... And hey, even if there were some green on the table, I'm the most well-connected dealer in town—you'd be getting the hookup, no doubt.
+
+  Korryn: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Korryn: My, my, they're offering quite a sum for me! Even I want to cash in... T
 
   Korryn: These desert bandits are just so petty! Look, all I did was strip some of their leaders down to their underwear, tie them to a beat-up car, and give them a scenic tour of WhiteSands for a nice suntan. I guess desert bandits just hold their grudges~
 
+  Korryn: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - What do you want?
 
   Korryn: Hehe, I just want to make a little deal with you: do me a solid and cash in by handing me over. You take the glory for wiping out those desert bandits, and I pocket the reward money. Win-win, right? Hey, don't shake your head so fast...
+
+  Korryn: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)

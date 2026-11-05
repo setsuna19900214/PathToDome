@@ -10,9 +10,13 @@ Xiaofeng: Mm... What a great nap! Hey, you wanna—wait, what are you staring at
 
   Xiaofeng: This thing on my foot? Hah! Stepped right on it while I was messing around. Looked pretty mean, so I figured—why not keep it? Hahahaha!!
 
+  Xiaofeng: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - Isn't that a bear trap? Doesn't it hurt?
 
   Xiaofeng: This little thing? Please! Can't even tickle me. You really think that's gonna take me down?
+
+  Xiaofeng: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Xiaofeng: —WHOA-ROAR!!!
 
   Xiaofeng: Ahahaha! No way, that actually scared you? I really need to toughen you up when I get the chance!
 
+  Xiaofeng: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - ...?
 
   Xiaofeng: Oh? You're not backing down? Ha! That's exactly why I took a liking to you, Tiny!
+
+  Xiaofeng: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Xiaofeng: Hey, look who's here! Whoa, you've gotten even skinnier! And here I th
 
   Xiaofeng: Obviously! The really good stuff's being saved for later. But first, food in you, right now!
 
+  Xiaofeng: ![Emoji 7](_emoji/7.png)
+
 - Lead the way!
 
   Xiaofeng: Now that's what I like to hear! We're not stopping till we've eaten 'em out of house and home!
+
+  Xiaofeng: ![Emoji 7](_emoji/7.png)

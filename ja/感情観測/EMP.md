@@ -10,9 +10,13 @@ EMP：ふふ、シンジケートの無冠の王の姿を見ることを許し�
 
   EMP：もちろんゲーム！トランプとか、サイコロとか、麻雀とか、なんでもいいよ！
 
+  EMP：![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - ……今度ふざけたら、錆の川の任務をやらせるぞ。
 
   EMP：わっ！ただの冗談だよ……冗談！
+
+  EMP：![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
 
 ### 第2条
 
@@ -24,6 +28,10 @@ EMP：邪魔しないで！練習中だから！
 
   EMP：嫌だね！こっちの方が格好いい！
 
+  EMP：![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - 弓の死神が矢を射ることができないのは問題じゃないか？
 
   EMP：それを言うなら、うぐいすパンの中に「うぐいす」を詰めないと！
+
+  EMP：![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

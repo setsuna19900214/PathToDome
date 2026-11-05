@@ -10,9 +10,13 @@ Synex: The cafeteria food is way too salty. It's made a patch of my tail go bald
 
   Synex: Haha, be sure you do. Well then, this is all yours now. Enjoy your meal!
 
+  Synex: ![Emoji 7](_emoji/7.png)
+
 - Really? Show me where your tail went bald.
 
   Synex: Hmm? You sure are an oddball, but I like that. Here, take a look. But you'd better not touch it.
+
+  Synex: ![Emoji 5](_emoji/5.png) ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Synex: Hey, wanna join in the fun?
 
   Synex: Oh, don't be so dramatic. I'm simply teaching it a lesson of survival. Real animals are far more cruel than I am.
 
+  Synex: ![Emoji 7](_emoji/7.png)
+
 - What would it take for you to let it go?
 
   Synex: Oh? Playing the hero today? Well then... how about you take its place instead?
+
+  Synex: ![Emoji 8](_emoji/8.png)

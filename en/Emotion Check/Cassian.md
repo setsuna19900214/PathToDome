@@ -10,9 +10,13 @@ Cassian: Miss Faye asked me to pick the best one, so the Supply Office can place
 
   Cassian: It's no trouble. I know my way around drinks.
 
+  Cassian: ![Emoji 5](_emoji/5.png)
+
 - Do you have a favorite flavor?
 
   Cassian: I prefer something crisp and refreshing.
+
+  Cassian: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Cassian: Care to try today's special?
 
   Cassian: It's alright. The offer's always open.
 
+  Cassian: ![Emoji 5](_emoji/5.png)
+
 - Sure. I'd like something not too strong.
 
   Cassian: In that case... a mojito should do nicely.
+
+  Cassian: ![Emoji 7](_emoji/7.png)

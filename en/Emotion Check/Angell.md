@@ -10,9 +10,13 @@ Angell: Frozen pizza with a sushi-filled rim... Doesn't look like a very good st
 
   Angell: Yeah. No matter how hard it is when frozen, three minutes in the microwave soften it right up, and it tastes good.
 
+  Angell: ![Emoji 8](_emoji/8.png)
+
 - You're right. Neither of them looks good. You should've bought frozen burgers instead.
 
   Angell: I've bought some before. The taste was quite decent, but you're expected to prepare lettuce yourself. Not very convenient, if you ask me. Kind of defeats the purpose of buying convenience food.
+
+  Angell: ![Emoji 3](_emoji/3.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Angell: Easy to follow? I don't think so. It's much easier to just buy a new one
 
   Angell: It has four steps only if you count "Find top two corners of the duvet" and "Grab top two corners of the cover" as one step. My method only has three steps: Order a duvet that doesn't need a cover, wait for the delivery, and sign for the delivery.
 
+  Angell: ![Emoji 5](_emoji/5.png)
+
 - Agreed. The best kind of duvet is one that doesn't need a cover.
 
   Angell: You agree with me? That's rare.
+
+  Angell: ![Emoji 2](_emoji/2.png)

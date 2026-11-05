@@ -10,9 +10,13 @@ Cassia: The scent of perfume is becoming more complex, more industrialized, almo
 
   Cassia: How piteous... I hope they're fortunate enough to experience the purest fragrance in the world. Mmm...
 
+  Cassia: ![Emoji 3](_emoji/3.png)
+
 - Your perfumes aren't available anymore. They are probably talking about fakes.
 
   Cassia: Even if they could replicate the scent of my perfume, they'd probably emit a terrible stench themselves.
+
+  Cassia: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Cassia: If I have to pick the best perfume material... ahem, I mean, the best be
 
   Cassia: Then I think you should be the ultimate champion!
 
+  Cassia: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - After your way too close "assessment" on every contestant last time, they still want you back?
 
   Cassia: That's because the organizers know very well that the scores I give are the most convincing...
+
+  Cassia: ![Emoji 7](_emoji/7.png)

@@ -10,9 +10,13 @@ NOX: I... I'd like to go out and see.
 
   NOX: Alright... I'm looking forward... to this journey.
 
+  NOX: ![Emoji 4](_emoji/4.png)
+
 - There's nothing to see in the outside world.
 
   NOX: The way you put it... disappoints me...
+
+  NOX: ![Emoji 2](_emoji/2.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ NOX: I... I'm hearing the voices again.
 
   NOX: No... They are not... monsters!
 
+  NOX: ![Emoji 5](_emoji/5.png)
+
 - Could you tell me what they are telling you?
 
   NOX: They tried to eat me... It's a good thing you came along...
+
+  NOX: ![Emoji 6](_emoji/6.png)

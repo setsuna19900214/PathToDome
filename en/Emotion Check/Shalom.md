@@ -10,9 +10,13 @@ Shalom: Here, gimme a smile...
 
   Shalom: Hehe, your blank expression looks cute.
 
+  Shalom: ![Emoji 4](_emoji/4.png)
+
 - Uh... I'm not very used to being photographed all of a sudden.
 
   Shalom: Is that so? You're so shy, aren't you?
+
+  Shalom: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Shalom: What should I watch today...
 
   Shalom: A horror movie in the form of a pseudo-documentary. It's kinda fun, want to see it together?
 
+  Shalom: ![Emoji 8](_emoji/8.png)
+
 - "Street Food Warriors"? You collect food documentaries?
 
   Shalom: Is it weird? It's nice to kill some time with when you have nothing else to do.
+
+  Shalom: ![Emoji 7](_emoji/7.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Shalom: Chief, to celebrate this special occasion, I've brought you some irises 
 
   Shalom: Mmm... Because this is a reward for behaving.
 
+  Shalom: ![Emoji 4](_emoji/4.png)
+
 - Did you grow these flowers yourself?
 
   Shalom: I visit the greenhouse every day, but I suppose other Sinners help me look after them too. They're all so lovely.
+
+  Shalom: ![Emoji 4](_emoji/4.png)
 
 ### Entry 4
 
@@ -52,9 +64,13 @@ Shalom: Chief, if you ever grow weary, you're always welcome here.
 
   Shalom: The magnolias here never wither, and I'll always be waiting for you.
 
+  Shalom: ![Emoji 4](_emoji/4.png)
+
 - Would I be intruding?
 
   Shalom: Not at all. You're a guest of honor, one I personally invited.
+
+  Shalom: ![Emoji 4](_emoji/4.png)
 
 ### Entry 5
 
@@ -66,6 +82,10 @@ Shalom: You seem to have taken an interest in music lately, Chief. I've been lea
 
   Shalom: Anything with sheet music available, I can perform. No request of yours could ever trouble me, Chief.
 
+  Shalom: ![Emoji 4](_emoji/4.png)
+
 - I'd like to hear something you like.
 
   Shalom: Oh? I wonder... will the melody close to my heart resonate with yours?
+
+  Shalom: ![Emoji 4](_emoji/4.png)

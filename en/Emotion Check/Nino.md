@@ -10,9 +10,13 @@ Nino: Ding dong. You've triggered a random task, which is to help Nino Sama fill
 
   Nino: Hey, that's not true. What they provide me with is not sugar, oil, and salt, but an attitude!
 
+  Nino: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
+
 - I'll grant you as many lollipops as your fans give you during your live today.
 
   Nino: Oh? You think you are gonna win, don't you? I accept your challenge! Get ready because you will lose BIG TIME!
+
+  Nino: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Nino: What's going on? The views have dropped so much recently! It's almost the 
 
   Nino: It's all because you had to put so many restrictions on my livestream subjects, even forcing me to use a virtual background! I don't care. You have to take responsibility and accompany me in my livestreams until my views go back up!
 
+  Nino: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - Do you need me to organize Sinners to watch your live together and give you gifts?
 
   Nino: Oh? Is that even allowed? Wait... no! I see what you did there! You're just trying to get me caught for inflating my views and have my account banned!
+
+  Nino: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

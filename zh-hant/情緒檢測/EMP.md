@@ -10,9 +10,13 @@ EMP：哼哼，今天我允許你直視辛迪加無冕之王的尊容。
 
   EMP：當然是玩遊戲了！撲克，骰子，麻將，都可以！
 
+  EMP：![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - ……再耍寶就把你送到鏽河執行任務。
 
   EMP：噫啊！我開玩笑的……開玩笑的！
+
+  EMP：![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
 
 ### 第2條
 
@@ -24,6 +28,10 @@ EMP：別吵，我在練習弓箭呢！
 
   EMP：我不要！這樣多帥啊！
 
+  EMP：![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - 弓箭死神不會射箭真的沒問題嗎？
 
   EMP：老婆餅裡還沒有老婆呢！
+
+  EMP：![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

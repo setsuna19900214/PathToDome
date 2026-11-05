@@ -10,9 +10,13 @@ Shawn: "That's not true, sweetie. They just have poor tastes, that's why they do
 
   Shawn: The love that travels through the internet and screens is unique. It's purer, less constrained... Would you like to try?
 
+  Shawn: ![Emoji 4](_emoji/4.png)
+
 - You're both in the Bureau. What if she finds out about your "habit" and comes beat you up?
 
   Shawn: This won't happen in a relationship nurtured by sincere love. And if it makes the other person happy... I'm more than willing to offer myself.
+
+  Shawn: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Shawn: Wasn't it supposed to be back by 3 p.m.? There's still no signal. Doesn't
 
   Shawn: You work here, of course I'd pay more attention. Nothing surprising.
 
+  Shawn: ![Emoji 8](_emoji/8.png)
+
 - The maintenance is extended by 2 hours. The notice has been posted in the cafeteria.
 
   Shawn: Offline notice? No one took a photo and uploaded it to the intranet forum? Right, the internet is down... Damn it...
+
+  Shawn: ![Emoji 6](_emoji/6.png)

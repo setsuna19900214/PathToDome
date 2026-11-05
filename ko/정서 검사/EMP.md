@@ -10,9 +10,13 @@ EMP: 흥흥, 오늘은 네게 신디케이트 무관의 왕의 존영을 직시�
 
   EMP: 물론 게임을 하는 거지! 포커 게임, 주사위 게임, 마작까지, 뭐든 오케이야!
 
+  EMP: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - 계속 이렇게 건방지게 굴면 러스트 리버 임무에 보내 버리는 수가 있어!
 
   EMP: 힛! 농담이에요… 농담!
+
+  EMP: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)
 
 ### 2번째 기록
 
@@ -24,6 +28,10 @@ EMP: 조용히 좀 해줘요, 활 연습 중이잖아요!
 
   EMP: 싫어요! 이게 얼마나 멋있는데!
 
+  EMP: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - 사신 궁수가 활을 제대로 못 쏘는데, 정말 괜찮을까?
 
   EMP: 붕어빵에는 붕어가 안 들어 있는데요!
+
+  EMP: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

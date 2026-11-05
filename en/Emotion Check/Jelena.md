@@ -10,9 +10,13 @@ Jelena: Your collection here is quite extensive, Chief. I've finished several vo
 
   Jelena: I'm delighted you're interested, Chief. Just a moment while I retrieve them for you.
 
+  Jelena: ![Emoji 4](_emoji/4.png)
+
 - I'm afraid I don't have the time for reading lately.
 
   Jelena: That's quite alright. I can prepare a reading list for you, and you can explore them at your leisure when time permits.
+
+  Jelena: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Jelena: Still awake at this hour, Chief? Is there something troubling you? I'm h
 
   Jelena: Sometimes a little assistance can help with insomnia. Would you like me to help you?
 
+  Jelena: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - I still have work to do.
 
   Jelena: If you're willing to trust me, I can assist with some of these tasks. That way you can get some much-needed rest.
+
+  Jelena: ![Emoji 6](_emoji/6.png)

@@ -10,9 +10,13 @@ Requiem: All those faint, real little sounds... they put my heart at ease.
 
   Requiem: Petals falling, seeds breaking through the soil... these tiny sounds always make me want to linger here. Chief, would you come closer and listen with me?
 
+  Requiem: ![Emoji 7](_emoji/7.png)
+
 - It's quite humid here. Might not be good for your recovery.
 
   Requiem: It's all right, Chief. It feels warm here...
+
+  Requiem: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Requiem: I'm sorry. It seems I'm still not very good at this... Housework has tu
 
   Requiem: The spare strings and rosin were here? Thank you for finding them. I'd thought they were lost for good...
 
+  Requiem: ![Emoji 3](_emoji/3.png)
+
 - Carry the books for her
 
   Requiem: Thank you. Let's carry them together. You look a little strained yourself, hehe... It seems we're much alike.
+
+  Requiem: ![Emoji 4](_emoji/4.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Requiem: Chief, if there were a piece that hid every word I wished to say within
 
   Requiem: Thank you... If it's you, Chief, then perhaps you'll understand the feelings I could never bring myself to voice.
 
+  Requiem: ![Emoji 4](_emoji/4.png)
+
 - I'll listen with all my heart.
 
   Requiem: Thank you... This recital was arranged especially for you, Chief. Once it begins, you mustn't leave your seat...
+
+  Requiem: ![Emoji 4](_emoji/4.png)

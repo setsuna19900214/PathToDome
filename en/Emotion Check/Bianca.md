@@ -10,9 +10,13 @@ Bianca: Apple latte, apple oolong, apple-flavored mixed nuts, apple-flavored sha
 
   Bianca: Hmm, a boring but safe choice! If this were a variety show... ta-da, I'd give you 2 points! Here's your scorecard, and your apple oolong!
 
+  Bianca: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Apple-flavored fries, face the challenge head-on.
 
   Bianca: Chief, you really get me! Come, to commemorate this moment, you bite that side of the fries and I'll bite this side, now look at the camera—Cheese!
+
+  Bianca: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Bianca: No wonder the apple juice tasted weird yesterday. The canteen stocked up
 
   Bianca: Huh? Really? I don't remember that. Oh, maybe I was drinking from my stash yesterday, so I ended up blacking out...
 
+  Bianca: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - But you still ended up sleeping until the afternoon because of a "hangover"...
 
   Bianca: That has nothing to do with the apple juice. I've been pulling all-nighters for a big scoop these past few days! So it wasn't a "hangover", I was catching up on sleep!
+
+  Bianca: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

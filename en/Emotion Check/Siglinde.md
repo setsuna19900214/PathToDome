@@ -10,9 +10,13 @@ Siglinde: DisCity has quite a few interesting radio channels...
 
   Siglinde: The pop music channels are quite good, and certain private channels are quite intriguing as well.
 
+  Siglinde: ![Emoji 4](_emoji/4.png)
+
 - Oh, so you can listen to the radio with it too.
 
   Siglinde: Of course, it can pick up any signal I want it to.
+
+  Siglinde: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Siglinde: Just some printed battle reports that need to be destroyed. I'm taking
 
   Siglinde: Thank you. You can just take the box on top. That one's light.
 
+  Siglinde: ![Emoji 4](_emoji/4.png)
+
 - Can you really carry all of them?
 
   Siglinde: Oh, this is nothing to me.
+
+  Siglinde: ![Emoji 7](_emoji/7.png)

@@ -10,9 +10,13 @@ Helix: The paint's faded again. This batch won't stick either... I have to redo 
 
   Helix: Hmph. If this wretched shell wore away that easily, I'd thank it.
 
+  Helix: ![Emoji 1](_emoji/1.png)
+
 - You're good at painting.
 
   Helix: Thanks. If I'm going to give everything to that Great Presence... then this is the least I can do.
+
+  Helix: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Helix: Poor, helpless little thing, you can't live without your shell... Why not
 
   Helix: Yeah, their shells break so easily... What a pain. I should stay away from it.
 
+  Helix: ![Emoji 5](_emoji/5.png)
+
 - Snails are resilient creatures.
 
   Helix: Fair. I've heard they don't even feel pain when they crawl over a blade. Heh... doesn't that make them just as pathetic as me?
+
+  Helix: ![Emoji 1](_emoji/1.png)

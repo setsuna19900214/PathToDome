@@ -10,9 +10,13 @@ Etti: Good timing. Which dragon do you think looks like me?
 
   Etti: Its name is Soarblaze and its expertise is in fire magic. It guards the mysterious treasure. Legends about it are told everywhere... Cool!
 
+  Etti: ![Emoji 4](_emoji/4.png)
+
 - The white one?
 
   Etti: The Mystaran Crystalline Dragon's scales are like ice crystals that reflect sunlight into brilliant colors... Hmm, indeed, it looks better.
+
+  Etti: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Etti: The chosen hero, you've passed my trials. Now, you're to set out on your j
 
   Etti: Very well, I'll meet you at the destination of the journey and crown you with glory and treasure.
 
+  Etti: ![Emoji 7](_emoji/7.png)
+
 - Not ready...
 
   Etti: Tsk, can't you just play along with me for once?
+
+  Etti: ![Emoji 6](_emoji/6.png)

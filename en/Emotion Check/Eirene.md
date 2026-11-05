@@ -10,9 +10,13 @@ Eirene: Would you like to play a chess game with me?
 
   Eirene: Hehe... There is no way for you to defeat me no matter what you do.
 
+  Eirene: ![Emoji 4](_emoji/4.png)
+
 - Forget it. I know well that I cannot win this.
 
   Eirene: Don't turn me down so quickly. I'll give you a head start this time.
+
+  Eirene: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Eirene: Are you here to pay me for last time?
 
   Eirene: Your memories aren't very good. Of course, it's about disposing the giant Corruptors.
 
+  Eirene: ![Emoji 8](_emoji/8.png)
+
 - If you put it that way... I'm afraid no one can afford that.
 
   Eirene: In that case, how about you use your own...
+
+  Eirene: ![Emoji 4](_emoji/4.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Eirene: I've got a deal for you that pays well. I need your answer today. So?
 
   Eirene: Good choice. Payment's already in your account.
 
+  Eirene: ![Emoji 8](_emoji/8.png)
+
 - May Quinn continue to prosper...?
 
   Eirene: Fast enough. The reward's yours.
+
+  Eirene: ![Emoji 4](_emoji/4.png)
 
 ### Entry 4
 
@@ -52,6 +64,10 @@ Eirene: Chief, if you were playing as White in this losing position, what would 
 
   Eirene: Before making a move, you should first know where you stand. And whether you are the one moving the pieces, or merely one of them.
 
+  Eirene: ![Emoji 8](_emoji/8.png)
+
 - What have you been up to behind my back?
 
   Eirene: Relax, it's just an invitation. Whether you want to be part of the game has always been entirely up to you.
+
+  Eirene: ![Emoji 8](_emoji/8.png)

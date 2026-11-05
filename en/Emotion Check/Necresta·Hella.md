@@ -10,9 +10,13 @@ Necresta·Hella: Is this how you spell this word...? Whatever, I'll just put it 
 
   Necresta·Hella: Hehehe, I'm gonna write down all my heroic adventures in WhiteSands and show it to everyone in the Bureau!
 
+  Necresta·Hella: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - You spelled this word wrong.
 
   Necresta·Hella: Hmph, help me correct it, then!
+
+  Necresta·Hella: ![Emoji 6](_emoji/6.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Necresta·Hella: Hmm... Whose room should I sleep in?
 
   Necresta·Hella: I... I'm gonna hang out with Ninety-Nine and the others tonight... It's NOT because I had a nightmare and can't fall asleep alone, by the way!
 
+  Necresta·Hella: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - If you're afraid to sleep alone, I can stay with you until you fall asleep.
 
   Necresta·Hella: O-okay, but you're not allowed to leave!
+
+  Necresta·Hella: ![Emoji 4](_emoji/4.png)

@@ -10,9 +10,13 @@ Yingying: Did you enjoy my song, Chief? What would you like to hear next?
 
   Yingying: That's no surprise. Back in my hometown, people would pay a fortune just to hear me sing!
 
+  Yingying: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - Would you mind singing that song again?
 
   Yingying: I knew we shared the same taste, Chief! That one happens to be my favorite song!
+
+  Yingying: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Yingying: Oh, Chief! You're here! Help me pick out a color for the sachet cord!
 
   Yingying: Oh? Are you saying you'll like anything I like?
 
+  Yingying: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - The color of wisteria would be nice.
 
   Yingying: In that case, I'll have to choose carefully! Now, which shade matches wisteria the best?
+
+  Yingying: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Yingying: Other than at the Wisteria Fete, the Wisteria Fairy will grant a wish 
 
   Yingying: Don't go, Chief! Seeing as you're the only person here, this wish is all yours. What would you like?
 
+  Yingying: ![Emoji 3](_emoji/3.png)
+
 - Who could it be?
 
   Yingying: It's you, of course! Tell me, Chief, on the first special day we're spending together, what would you wish for?
+
+  Yingying: ![Emoji 4](_emoji/4.png)
 
 ### Entry 4
 
@@ -52,6 +64,10 @@ Yingying: Chief, when we meet my moms later, they're definitely gonna trap you w
 
   Yingying: That's true. You're always so good to me. There's nothing to worry about.
 
+  Yingying: ![Emoji 4](_emoji/4.png)
+
 - Should I hold your hand?
 
   Yingying: Of course! What if we get separated here and the Wisteria Blossom deity sweeps you away? You may never find your way back, Chief.
+
+  Yingying: ![Emoji 4](_emoji/4.png)

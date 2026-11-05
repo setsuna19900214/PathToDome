@@ -10,9 +10,13 @@ Rise: Sorry, Chief. I lost control of the ball.
 
   Rise: It's all my fault. The spot where you got hit is already swollen. Quick, I'll take you to the medical room!
 
+  Rise: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - What a powerful hit...
 
   Rise: I suddenly thought about what my former boss did to me while playing, and before I knew it...
+
+  Rise: ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Rise: I booked a large private room at the karaoke, wanna join us, Chief?
 
   Rise: It's a package deal I got a long time ago. I was tidying up my room and saw that this is expiring soon. You've worked all day. Why don't we go and have an overnight karaoke session?
 
+  Rise: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Overnight session... I've got a meeting tomorrow. Maybe next time.
 
   Rise: Sure, work comes first. Let's go together if I manage to book a room for the weekend.
+
+  Rise: ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png)

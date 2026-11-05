@@ -10,9 +10,13 @@ Eve: Should the teddy bear wear the silk one... or is the cotton one better?
 
   Eve: Cotton, huh? Does it make a difference? Both feel pretty similar to me... But, if that's what Chief suggests, I'll go with this set.
 
+  Eve: ![Emoji 5](_emoji/5.png)
+
 - The silk brings out a certain grace, matches its personality.
 
   Eve: Chief has this childlike wonder, like they're in a happy fairy tale, always seeing the brighter side of the world... I bet the teddy bear will love the outfit picked out by you.
+
+  Eve: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Eve: I've always known my body can't handle even the smallest hurdle... Please, 
 
   Eve: Why do all this... You must realize, you can't be there forever to remove every hurdle in my path...
 
+  Eve: ![Emoji 1](_emoji/1.png)
+
 - It's my duty to make sure physical barriers don't hold you back. I'll have these tiles fixed and your wheelchair upgraded too.
 
   Eve: But it's not just these physical challenges that bind me; there are many others... I know you're waiting for me to conquer them one by one, but you might have to wait quite a bit longer...
+
+  Eve: ![Emoji 2](_emoji/2.png)

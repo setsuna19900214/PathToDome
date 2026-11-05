@@ -10,9 +10,13 @@ Matilda: Chief, I've put together an initial draft of guidelines for using the B
 
   Matilda: No, we need to keep an eye on a lot of finer points still.
 
+  Matilda: ![Emoji 5](_emoji/5.png)
+
 - I'll give it a thorough read.
 
   Matilda: Eager for your feedback and suggestions.
+
+  Matilda: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Matilda: Chief, what do you think is the best way to spend downtime?
 
   Matilda: Is relaxation also considered valuable?
 
+  Matilda: ![Emoji 2](_emoji/2.png)
+
 - Perhaps you could try developing a variety of interests and hobbies.
 
   Matilda: Alright, I'll include pursuing hobbies in my plan.
+
+  Matilda: ![Emoji 5](_emoji/5.png)

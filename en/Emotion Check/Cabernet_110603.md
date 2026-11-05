@@ -10,9 +10,13 @@ Cabernet: I wonder if I'll ever get the chance to taste Chief... I mean, a dish 
 
   Cabernet: Then I can't wait to feast!
 
+  Cabernet: ![Emoji 4](_emoji/4.png)
+
 - I'm sorry, I'm not very good at cooking.
 
   Cabernet: I see, it's understandable. After all, Chief has a lot to deal with every day.
+
+  Cabernet: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Cabernet: If it were up to you, which dish would you prefer?
 
   Cabernet: Yes, the flavor is clear and not mixed, indeed delicious and tender.
 
+  Cabernet: ![Emoji 8](_emoji/8.png)
+
 - Wine-braised Chicken.
 
   Cabernet: Oh? I happen to know a chef who's very good at this dish. Next time we're out on duty, I can take you to try it.
+
+  Cabernet: ![Emoji 7](_emoji/7.png)

@@ -10,9 +10,13 @@ Demolia: What will we be doing today? Recommend something to me, Chief.
 
   Demolia: Oh! Good idea! Let's play the DisChess!
 
+  Demolia: ![Emoji 7](_emoji/7.png) ![Emoji 8](_emoji/8.png)
+
 - Let's do some studying.
 
   Demolia: Oh, no. Come on. There is no way I'm going to study even if you send me to the Rust for missions!
+
+  Demolia: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Demolia: Would you like to help me expand my collection, Chief?
 
   Demolia: I want the more precious kind! Not this!
 
+  Demolia: ![Emoji 2](_emoji/2.png) ![Emoji 2](_emoji/2.png)
+
 - Hmm... What about the dueler headscarf we found a while back?
 
   Demolia: Wow... Though it seems a bit old, it actually looks pretty awesome on me!
+
+  Demolia: ![Emoji 5](_emoji/5.png) ![Emoji 7](_emoji/7.png)

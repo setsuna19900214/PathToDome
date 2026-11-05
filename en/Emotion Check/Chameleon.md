@@ -10,9 +10,13 @@ Chameleon: Have you been sleeping well lately? Do you need any more of my assist
 
   Chameleon: Hehe. Nice reaction.
 
+  Chameleon: ![Emoji 7](_emoji/7.png)
+
 - No, thank you. I've been sleeping well.
 
   Chameleon: Oh? So that's what it is. This is perfect.
+
+  Chameleon: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Chameleon: I have been seeing more patients lately for no reason. Any idea why?
 
   Chameleon: Heh. Don't be so sure.
 
+  Chameleon: ![Emoji 8](_emoji/8.png)
+
 - Perhaps everyone is satisfied with your psychotherapy.
 
   Chameleon: ...The beasts within our hearts are beginning to awaken.
+
+  Chameleon: ![Emoji 4](_emoji/4.png)

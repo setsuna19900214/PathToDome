@@ -10,9 +10,13 @@ Dove: Oh, if it isn't Chief! You came at the right time. Guess which of these tw
 
   Dove: Oh my, this pink one is sealed with a heart sticker. Could it be a love letter? Now, don't be so quick to deny it... What if... it really is for you?
 
+  Dove: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - The blue envelope
 
   Dove: Out of all these letters, you picked this one... What a meaningful coincidence. Do you really know me so well, or... perhaps it's this message who picked you?
+
+  Dove: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Dove: Oh, someone wrote a letter to the mail carrier? How should I reply... Haha
 
   Dove: The sender is... Chief of the Minos Bureau of Crisis Control... Oh wow, Chief is personally monitoring even a nobody like Dove. You sure are very serious about your job.
 
+  Dove: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)
+
 - Open and have a look.
 
   Dove: "Communicate your true feelings with other." This handwriting... It's you... Is this what you wanted to tell me...?
+
+  Dove: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)

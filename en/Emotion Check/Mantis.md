@@ -10,9 +10,13 @@ Mantis: Here... eat this...
 
   Mantis: Insects... They're highly nutritious... You should eat more...
 
+  Mantis: ![Emoji 4](_emoji/4.png)
+
 - How about you set an example and take the first bite?
 
   Mantis: I specially made this... for you... It's good for health. I... can eat it some other time...
+
+  Mantis: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Mantis: There's a better way... Their way is... dangerous...
 
   Mantis: Can I still go... into the forest?
 
+  Mantis: ![Emoji 4](_emoji/4.png)
+
 - This isn't real wilderness survival. It's scripted.
 
   Mantis: So... they're safe and sound... Good...
+
+  Mantis: ![Emoji 2](_emoji/2.png)

@@ -10,9 +10,13 @@ Labyrinth: Chief spotted. Waiting for process.
 
   Labyrinth: Understood. Labyrinth, ready to run the process.
 
+  Labyrinth: ![Emoji 7](_emoji/7.png)
+
 - Can we directly switch to the adorable plugins?
 
   Labyrinth: System access denied. Hint: you must go through the cycle in order.
+
+  Labyrinth: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Labyrinth: Chief, please don't disrupt my work here.
 
   Labyrinth: Combat Form, activated.
 
+  Labyrinth: ![Emoji 1](_emoji/1.png) ![Emoji 1](_emoji/1.png)
+
 - I'd like to have a cup of tea, please.
 
   Labyrinth: Roger that. Labyrinth's current feeling: joyful.
+
+  Labyrinth: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)

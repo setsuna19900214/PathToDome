@@ -10,9 +10,13 @@ Shin: Chief, surely you want to know what these tentacles are truly capable of?
 
   Shin: What a pity, but someday you will submit to Its power once more.
 
+  Shin: ![Emoji 8](_emoji/8.png)
+
 - That's no excuse for breaking the rules.
 
   Shin: I'm simply satisfying the curiosity of those who seek knowledge.
+
+  Shin: ![Emoji 8](_emoji/8.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Shin: Are you curious, Chief? Would you like to come take a look?
 
   Shin: Drawing everything I observe. I suppose it's an old habit from my days as a biologist that I just can't seem to shake.
 
+  Shin: ![Emoji 7](_emoji/7.png)
+
 - You can draw?
 
   Shin: Yes, it's one of the hobbies I cultivated in the past.
+
+  Shin: ![Emoji 7](_emoji/7.png)

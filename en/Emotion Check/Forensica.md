@@ -10,9 +10,13 @@ Forensica: Don't touch anything on the table. I'm not taking responsibility if y
 
   Forensica: These are my tools for uncovering the truth. Of course I'd keep them in optimal condition.
 
+  Forensica: ![Emoji 5](_emoji/5.png)
+
 - Do you always maintain them yourself?
 
   Forensica: Of course. What, am I supposed to throw them away after one use? I don't have that kind of money.
+
+  Forensica: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Forensica: Oh, it's you. Want some? I just made it.
 
   Forensica: I was talking about my last pack of instant noodles... Whatever.
 
+  Forensica: ![Emoji 5](_emoji/5.png)
+
 - Are you sure those reagents won't spill into the bowl?
 
   Forensica: If that can happen, I'd have died a hundred times over by now. But... I guess you're right. I'll just eat it myself.
+
+  Forensica: ![Emoji 5](_emoji/5.png)

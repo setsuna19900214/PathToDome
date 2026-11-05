@@ -10,9 +10,13 @@ Jichuan: Yes, that's it. A little more now.
 
   Jichuan: Are you saying they're too plump, young hero? I find their roundness rather charming.
 
+  Jichuan: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - You've done really well with them!
 
   Jichuan: They do all the work. I only offer a bit of grain.
+
+  Jichuan: ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Jichuan: To be made to drink such bitter, turbid brew day after day... It does w
 
   Jichuan: How thoughtful of you, young hero. Mm... soft, sweet, with a clean finish. It tempers the bitterness well enough. With these, the medicine becomes far more bearable.
 
+  Jichuan: ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png) ![Emoji 6](_emoji/6.png)
+
 - Still not used to it, after all this time?
 
   Jichuan: If the bitterness were constant, perhaps I might grow accustomed. But instead, each cup finds its own way to be unpleasant, some sour, some astringent, each a fresh trial...
+
+  Jichuan: ![Emoji 3](_emoji/3.png)
 
 ### Entry 3
 
@@ -38,6 +46,10 @@ Jichuan: Young hero, if you have no pressing matters, why not join me? Scenes su
 
   Jichuan: Walking beside you, even the wind and snow feel somehow gentler.
 
+  Jichuan: ![Emoji 4](_emoji/4.png)
+
 - How are you feeling?
 
   Jichuan: The blossoms return each year unchanged, yet we who behold them are never quite the same... But pray, do not concern yourself, young hero. A minor ailment is no reason to let such a moment pass us by.
+
+  Jichuan: ![Emoji 4](_emoji/4.png)

@@ -10,9 +10,13 @@ Lichen: If I burn this body to ashes, could I welcome a new beginning...? I wish
 
   Lichen: Wise words, young friend... The greatest virtue of heaven and earth is the gift of life...
 
+  Lichen: ![Emoji 5](_emoji/5.png)
+
 - Wait, you're actually trying it?! Y-You're on fire!
 
   Lichen: Ah... Nothing happened... The water remains above fire, and this matter remains incomplete...
+
+  Lichen: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Lichen: It appears I have nothing arranged for today... Perhaps I shall give a f
 
   Lichen: Hmm... Young friend, you are no ordinary soul. I am not to disclose heaven's secrets... but if you simply do more good deeds...
 
+  Lichen: ![Emoji 2](_emoji/2.png)
+
 - I decide my own fate, not the heavens.
 
   Lichen: One who stands beyond the hexagrams... So be it... I shall offer you my blessings, young friend...
+
+  Lichen: ![Emoji 5](_emoji/5.png)

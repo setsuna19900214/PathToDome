@@ -10,9 +10,13 @@ Augustus: Care to go for a ride with me?
 
   Augustus: Come on, let's go have some fun.
 
+  Augustus: ![Emoji 4](_emoji/4.png)
+
 - Are you trying to make me play hooky?
 
   Augustus: That's right. Should I kidnap you and make you my subordinate instead?
+
+  Augustus: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,9 +28,13 @@ Augustus: Is that all? Your training facilities could use some improvements.
 
   Augustus: You're far too lenient with your subordinates.
 
+  Augustus: ![Emoji 5](_emoji/5.png)
+
 - Then are you offering to fund said improvements?
 
   Augustus: No problem, I've got plenty of weapons to spare.
+
+  Augustus: ![Emoji 7](_emoji/7.png)
 
 ### Entry 3
 
@@ -38,9 +46,13 @@ Augustus: For a rookie, Chief, your performance has been quite impressive. So, w
 
   Augustus: I was hoping you'd ask. Give me your hand.
 
+  Augustus: ![Emoji 4](_emoji/4.png)
+
 - Thank you for the recognition, but let's enjoy the celebration first before you get other ideas.
 
   Augustus: What a shame, but what I want will ultimately be mine. For now, accept this honor I've prepared especially for you.
+
+  Augustus: ![Emoji 8](_emoji/8.png)
 
 ### Entry 4
 
@@ -53,6 +65,10 @@ Chief, don’t go soft at a moment like this. A celebration after triumph is wha
 
   Augustus: Then we'll lead the opening dance at the celebration together.
 
+  Augustus: ![Emoji 7](_emoji/7.png)
+
 - I'm actually a bit tired.
 
   Augustus: I respect your honesty. Then your place is at my side during the celebration.
+
+  Augustus: ![Emoji 8](_emoji/8.png)

@@ -10,9 +10,13 @@ Donald: Hey, Chief, the sun's pretty great today, isn't it? Fancy coming out for
 
   Donald: Hey, you know, sometimes it's okay to put work on the back burner for a bit...
 
+  Donald: ![Emoji 8](_emoji/8.png)
+
 - ...Okay.
 
   Donald: Come here, stand this way. Pretty nice, right?
+
+  Donald: ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Donald: Not much to do lately, so I'm taking care of my old companion.
 
   Donald: Huh? You wanna watch me train? If you want, I'm ready to give you a show!
 
+  Donald: ![Emoji 7](_emoji/7.png)
+
 - I'll leave you to it, take it easy...
 
   Donald: Hey, you're just going to walk away like that? How about a little chat, Chief...
+
+  Donald: ![Emoji 3](_emoji/3.png)

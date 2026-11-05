@@ -10,9 +10,13 @@ Pylgia: The water... keeps flowing... The ocean... will draw closer too...
 
   Pylgia: As long as more water flows in than drains away... An ocean... will eventually form...
 
+  Pylgia: ![Emoji 5](_emoji/5.png)
+
 - But this is fresh water. Would it really turn into an ocean?
 
   Pylgia: Now that you mention it... the smell... is indeed different from that beneath the seabed...
+
+  Pylgia: ![Emoji 2](_emoji/2.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Pylgia: No... the real ocean... isn't like that... people can never truly learn 
 
   Pylgia: That's... for the best... otherwise... I can't guarantee... I can get them safely back to the shore...
 
+  Pylgia: ![Emoji 5](_emoji/5.png)
+
 - Indeed. Perhaps you could help design a more authentic training environment.
 
   Pylgia: Even with humans' ingenuity... you can't truly replicate the ocean's chaotic, dangerous, and generous nature... Approaching the sea without understanding it... will only end in disaster...
+
+  Pylgia: ![Emoji 2](_emoji/2.png)

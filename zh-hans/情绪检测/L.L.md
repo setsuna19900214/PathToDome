@@ -10,9 +10,13 @@ L.L.：乖——瞧瞧，“你”多可爱！小瑶也高兴地绕着“你”�
 
   L.L.：是吧是吧！这样的“你”就可以留在这里永远陪着我了……
 
+  L.L.：![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - 你想把我当作“宠物”吗？
 
   L.L.：嗯~那，你要不要喊我一句“主人”试试看？
+
+  L.L.：![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### 第2条
 
@@ -24,6 +28,10 @@ L.L.：哎呀，不小心把你弄湿了呢，穿着半湿的衣服很冷吧？�
 
   L.L.：别推辞嘛~难道你不喜欢拥抱的感觉吗？
 
+  L.L.：![Emoji 4](_emoji/4.png) ![Emoji 7](_emoji/7.png)
+
 - 你看起来可不像纯粹的“不小心”。
 
   L.L.：是呀，因为我想你的目光落在我身上，一直看着我，这样不好吗？
+
+  L.L.：![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

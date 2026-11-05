@@ -10,9 +10,13 @@ L.L.: Look at "you"—so cute! Even Manty can't stop swimming happily around "yo
 
   L.L.: Right?! This way, "you" can stay here with me forever...
 
+  L.L.: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - Do you want to treat me as a "pet"?
 
   L.L.: Yeah. Well, how about trying to call me Master?
+
+  L.L.: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ L.L.: Oops, my bad for accidentally getting you wet. Half-drenched clothes must 
 
   L.L.: Hey, don't push me away. Don't you enjoy the snug feeling of a hug?
 
+  L.L.: ![Emoji 4](_emoji/4.png) ![Emoji 7](_emoji/7.png)
+
 - It didn't seem to be purely "accidental."
 
   L.L.: You're not wrong. I did it to catch your eye, so that we can be closer. Isn't that nice?
+
+  L.L.: ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png) ![Emoji 3](_emoji/3.png)

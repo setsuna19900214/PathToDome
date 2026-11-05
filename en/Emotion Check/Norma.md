@@ -10,9 +10,13 @@ Norma: Good morning, Chief. You're quite punctual today. Based on my preliminary
 
   Norma: Indeed. This marks the 23rd time this month we've encountered each other in the same elevator. The data indicates a significant overlap in our commute times and routes. However, I don't intend to alter this phenomenon. In colloquial terms, I believe we're... "destined" to run into each other?
 
+  Norma: ![Emoji 8](_emoji/8.png)
+
 - Today's an exception.
 
   Norma: Then I hope this exception can gradually become the standard. If needed, I can provide a sleep schedule correction system. It has a 99.5% success rate in eliminating oversleeping...
+
+  Norma: ![Emoji 5](_emoji/5.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Norma: Chief, now that the library's automated management system has been implem
 
   Norma: The previous categorization errors have been corrected. At the very least, every book is now exactly where it should be.
 
+  Norma: ![Emoji 5](_emoji/5.png)
+
 - Not really.
 
   Norma: It appears an even stricter categorization system is required. One moment. I'll draft a new proposal immediately.
+
+  Norma: ![Emoji 5](_emoji/5.png)

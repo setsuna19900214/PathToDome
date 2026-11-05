@@ -10,9 +10,13 @@ Thistle: How long have you been standing there? Why are you looking at me like t
 
   Thistle: Impossible. You must be seeing things!
 
+  Thistle: ![Emoji 6](_emoji/6.png)
+
 - I'm just a bit curious about what you're writing.
 
   Thistle: Hmph, I only write about the things I treasure the most. I won't show it to just anyone.
+
+  Thistle: ![Emoji 3](_emoji/3.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Thistle: Look at all this blood. Chief, can we help it?
 
   Thistle: You can find no one better for this job. Taking care of stray cats and dogs is my specialty... Ahem, I just wanted to give that a try.
 
+  Thistle: ![Emoji 7](_emoji/7.png)
+
 - Leave it to the medical staff.
 
   Thistle: I'll apply to visit it every day... It's not what you think. I, I just wanted to make sure it's not dead...
+
+  Thistle: ![Emoji 6](_emoji/6.png)

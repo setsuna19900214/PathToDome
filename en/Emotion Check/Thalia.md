@@ -10,9 +10,13 @@ Thalia: Tonight's stream is crucial, and I need everything to be perfect. Come o
 
   Thalia: I just secured an amazing deal with an instant noodle brand, buy one, get ten free! Oh, and does anyone at the Bureau want to stock up on instant noodles? Make sure to bring them to my stream!
 
+  Thalia: ![Emoji 4](_emoji/4.png) ![Emoji 4](_emoji/4.png)
+
 - Sure. Besides setting up the equipment, is there anything else I can help you with?
 
   Thalia: Just shout "Smells amazing!" and "So good!" whenever I ask my viewers if something smells good or tastes delicious. Here, take these throat lozenges.
+
+  Thalia: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Thalia: Today I'm filming Thalia's daily life vlog at the Bureau. Chief, look at
 
   Thalia: Oh! So it's exclusive content! I'll save it then, and when I'm allowed to release it someday, I'll be the first to broadcast it and rake in massive views!
 
+  Thalia: ![Emoji 7](_emoji/7.png) ![Emoji 7](_emoji/7.png)
+
 - If you want to film vlogs, it'd probably be better to go outside.
 
   Thalia: That's perfect! While we're at it, you can come with me to a few events. After a day like that, I'll definitely have tons of content material!
+
+  Thalia: ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png) ![Emoji 8](_emoji/8.png)

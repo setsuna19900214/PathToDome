@@ -10,9 +10,13 @@ Crache: I don't have a mission today... right?
 
   Crache: ...No. Such precious time should be used for sleeping.
 
+  Crache: ![Emoji 5](_emoji/5.png)
+
 - If you want more, there is plenty for you.
 
   Crache: You're a mature adult. What help can a kid give you?
+
+  Crache: ![Emoji 1](_emoji/1.png)
 
 ### Entry 2
 
@@ -24,6 +28,10 @@ Crache: ...Must you pick me for this one?
 
   Crache: You go on, then. I'm tired and I need some rest.
 
+  Crache: ![Emoji 2](_emoji/2.png)
+
 - There is an emergency situation about the children in Syndicate.
 
   Crache: ...Tell me the location. Now.
+
+  Crache: ![Emoji 3](_emoji/3.png)
