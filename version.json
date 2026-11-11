@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "resources": {
     "cn": {
-      "resourceVersion": "2.4.101",
+      "resourceVersion": "2.5.10",
       "languages": [
         "zh-hans"
       ],
-      "majorVersion": "2.4",
-      "startupResourceVersion": "2.4.101",
-      "cdnLatestResourceVersion": "2.4.101",
-      "apkVersion": "2.4.2",
+      "majorVersion": "2.5",
+      "startupResourceVersion": "2.5.10",
+      "cdnLatestResourceVersion": "2.5.10",
+      "apkVersion": "2.5.2",
       "sceneVersion": "1.0.0",
-      "buildRevision": "1113501",
-      "buildRevisionResourceVersion": "2.4.101",
+      "buildRevision": "1120443",
+      "buildRevisionResourceVersion": "2.5.10",
       "apkBaseline": {
-        "resourceVersion": "2.4.2",
-        "buildRevision": "1052471"
+        "resourceVersion": "2.5.2",
+        "buildRevision": "1117031"
       }
     },
     "global": {
