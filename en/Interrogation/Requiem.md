@@ -1099,7 +1099,7 @@ Chief: ...There's really no other way?
 
 Schorl-II: Under the current circumstances, you may continue your meetings with S-125 and extend her a reasonable degree of humane care. Just keep doing what you've been doing.
 
-Schorl-II: Maintain the current frequency, keep the virtuoso's emotions stable. Analysis confirms this is likewise the optimal course of action.
+Schorl-II: Maintain the current frequency, keep the virtuoso's emotions stable. Analysis also confirms this is the optimal course of action.
 
 Chief: Optimal course of action...
 
@@ -1115,7 +1115,7 @@ Chief: Besides your fellow virtuosos, there must have been people you really car
 
 *And then she was pulled into the current, made the virtuoso of the Cursed Melody, and turned into a vital piece wedged between two warring sides.*
 
-Schorl-II: ...Just keep doing what you've been doing. Analysis confirms this is likewise the optimal course of action.
+Schorl-II: ...Just keep doing what you've been doing. Analysis also confirms this is the optimal course of action.
 
 *...And you were no different. Pitying her as you saw fit, using her, "saving" her.*
 

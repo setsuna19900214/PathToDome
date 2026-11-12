@@ -54,7 +54,7 @@ Eirene: Trying to mask that with sweetness added from the outside... not the wis
 
 Grace's face pales, then flushes red. Her jaw is clenched tight, and she says nothing.
 
-White: I haven't the faintest idea what you mean. And may I remind you, you arrived late. That is inexcusably rude, and pretending you're close to Lady Celitanewon't smooth that over.
+White: I haven't the faintest idea what you mean. And may I remind you, you arrived late. That is inexcusably rude, and pretending you're close to Lady Celitane won't smooth that over.
 
 Eirene: I wasn't trying to smooth anything over, Uncle.
 

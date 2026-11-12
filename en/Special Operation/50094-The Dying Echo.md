@@ -1438,7 +1438,7 @@ ${PlayerName}: !!
 
 *What was that?*
 
-*You mind playing tricks on you? A hallucination? You can't go to her before you find out the truth. You have to—*
+*Your mind playing tricks on you? A hallucination? You can't go to her before you find out the truth. You have to—*
 
 A body pitches toward you without warning. You move on reflex this time, stepping aside, and a face you recognize swings past before the body hits the ground hard.
 

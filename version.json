@@ -19,7 +19,7 @@
       }
     },
     "global": {
-      "resourceVersion": "1.9.63",
+      "resourceVersion": "1.9.64",
       "languages": [
         "zh-hant",
         "en",
@@ -27,12 +27,12 @@
         "ko"
       ],
       "majorVersion": "1.9",
-      "startupResourceVersion": "1.9.63",
-      "cdnLatestResourceVersion": "1.9.63",
+      "startupResourceVersion": "1.9.64",
+      "cdnLatestResourceVersion": "1.9.64",
       "apkVersion": null,
       "sceneVersion": "1.0.0",
-      "buildRevision": "1118104",
-      "buildRevisionResourceVersion": "1.9.63",
+      "buildRevision": "1120959",
+      "buildRevisionResourceVersion": "1.9.64",
       "apkBaseline": {
         "resourceVersion": "1.9.2",
         "buildRevision": "1087790"

@@ -12,7 +12,7 @@ Endgame of the Long Night
 > Description after completion:
 > Fight through the ruins of the old night to forge a path paved with gold and pearls.
 
-May. A baby's cry tears through the stillness, bright and shrill. Eirene pushes the door open and enters, the candle flame setting shadows swaying across her face. Against the headboard Celitan leans, exhausted, wisps of hair matted to her damp forehead, and with a faint, weary motion of her head, she indicates the small inner room.
+May. A baby's cry tears through the stillness, bright and shrill. Eirene pushes the door open and enters, the candle flame setting shadows swaying across her face. Against the headboard Celitane leans, exhausted, wisps of hair matted to her damp forehead, and with a faint, weary motion of her head, she indicates the small inner room.
 
 Eirene: White has been cast out of the Campbell family. And Grace will be married off early. She loses her share of the trust fund either way.
 

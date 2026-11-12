@@ -294,7 +294,7 @@ It looks like the little clapper is forced to play house with the lion dance sta
 ## OwO - Interrogation II
 
 > Intelligence before completion:
-> You return with OwO to the place where the lion head was lost。 After asking around in vain, you meet a homeless boy who comes to you on his own. He claims to have a clue about the lion head.
+> You return with OwO to the place where the lion head was lost. After asking around in vain, you meet a homeless boy who comes to you on his own. He claims to have a clue about the lion head.
 
 > Intelligence after completion:
 > You followed the clue from a homeless man and found the boy who stole the lion head in an alley. He imitated OwO's moves in the movie and danced with the lion head, but failed to gain the power to return home.
