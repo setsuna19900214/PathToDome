@@ -520,23 +520,23 @@ Amid the guiding incense, past memories emerge.
 Smoke rises from the green censer, coiling around the heart.
 Where is the crossing? Look no further than within yourself.
 
-## \#\#\#
+## City That Never Was
 
 The wisdom of sages forms a palace of knowledge, while the many streams of history flow together into an endless river.
 Travelers lost among books and records glimpse a city formed from the overlapping shadows of time.
 Those who ascend through the written word will at last hear civilization echo beneath a vault where thought and time entwine.
 
-## \#\#\#
+## Darktide Lighthouse
 
-\#\#\#
+The lighthouse reveals enemies to the hunter and marks prey for the abyss.
 
-## \#\#\#
+## Flamebound Butterfly
 
 A butterfly's delicate wings must eventually tire.
 But while the embers glow, it will take flight again.
 They say the closer a butterfly comes to the flame that will consume it, the harder its wings beat.
 
-## \#\#\#
+## Chess Player
 
 Victory is a grand tragedy. Still, the defiant piece longs for another game.
 Beyond the reach of even the greatest ambitions lies a deadly game, where every move is a fight for survival. This is what it gains for putting itself on the line.

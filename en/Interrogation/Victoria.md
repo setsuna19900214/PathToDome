@@ -993,7 +993,7 @@ Victoria: I just remember that you were also in my dream, Chief. I had a lot of 
 
 Chief: If you have any questions, you can ask them now.
 
-Victoria: Really? Then... do you dislike Victoria, Chief?
+Victoria: Really? Then... what kind of love do you like, Chief?
 
 Chief: Something that shows your good intentions, but does not hurt or trouble others. And as long as it's a gift from Victoria, I'm more than happy to accept.
 

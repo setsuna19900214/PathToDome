@@ -1503,7 +1503,7 @@ Likely unwilling to remain on this subject, ${PlayerName} brushes it aside with 
 
 Requiem: ...You seem troubled today. Did something happen?
 
-${PlayerName} falters for a beat, then waves a hand and says it is nothing at all. And then he smiles again, this time with more effort, enough that two shallow lines are pressed out at the corners of his eyes.
+<ins>${PlayerName} falters for a beat, then waves a hand and says it is nothing at all. And then he smiles again, this time with more effort, enough that two shallow lines are pressed out at the corners of his eyes.</ins><br><ins>${PlayerName} falters for a beat, then waves a hand and says it is nothing at all. And then she smiles again, this time with more effort, enough that two shallow lines are pressed out at the corners of her eyes.</ins>
 
 <ins>*But those dark circles are bad. His heart is nowhere near as light as his voice pretends to be.*</ins><br><ins>*But those dark circles are bad. Her heart is nowhere near as light as her voice pretends to be.*</ins>
 
