@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "resources": {
     "cn": {
-      "resourceVersion": "2.5.18",
+      "resourceVersion": "2.5.19",
       "languages": [
         "zh-hans"
       ],
       "majorVersion": "2.5",
-      "startupResourceVersion": "2.5.18",
-      "cdnLatestResourceVersion": "2.5.18",
+      "startupResourceVersion": "2.5.19",
+      "cdnLatestResourceVersion": "2.5.19",
       "apkVersion": "2.5.2",
       "sceneVersion": "1.0.0",
-      "buildRevision": "1125273",
-      "buildRevisionResourceVersion": "2.5.18",
+      "buildRevision": "1125362",
+      "buildRevisionResourceVersion": "2.5.19",
       "apkBaseline": {
         "resourceVersion": "2.5.2",
         "buildRevision": "1117031"
